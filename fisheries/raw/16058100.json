@@ -1,0 +1,121 @@
+{
+  "timestamp": 1790286029,
+  "result": {
+    "lakeName": "Clove",
+    "littoralAcres": 0,
+    "shoreLengthMiles": 6.17,
+    "accesses": [
+      {
+        "location": "Accessible via 0.35 mile portage from Pine River or 0.15 mile portage from Granite Lake.",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "areaAcres": 160.18,
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "08/03/1978",
+        "15.5"
+      ]
+    ],
+    "averageWaterClarity": "15.5",
+    "officeCode": "F218",
+    "surveys": [
+      {
+        "surveyDate": "1978-08-01",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>There are fair populations of Walleye, N Pike and Perch, with some large Whitefish and Suckers prsnt The SM Bass population is better than netting ind.</p>",
+        "surveyID": "109782",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_name": "Clove",
+          "id_date": "1978-08-01",
+          "wb_id": "16058100",
+          "survey_id": "109782",
+          "wb_type": "Lake"
+        },
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.08",
+            "CPUE": "3.00",
+            "quartileCount": "N/A",
+            "totalCatch": 12,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "species": "NOP",
+            "totalWeight": 13
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "totalCatch": 3,
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "totalWeight": 5.8,
+            "species": "SMB",
+            "averageWeight": "1.93",
+            "CPUE": "0.75"
+          },
+          {
+            "averageWeight": "1.22",
+            "CPUE": "6.75",
+            "totalCatch": 27,
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "gearCount": 4,
+            "totalWeight": 33.05,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 4,
+            "species": "YEP",
+            "totalWeight": 1.4,
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "totalCatch": 10,
+            "quartileCount": "N/A",
+            "CPUE": "2.50",
+            "averageWeight": "0.14"
+          },
+          {
+            "species": "LKW",
+            "gearCount": 4,
+            "totalWeight": 14,
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "totalCatch": 5,
+            "quartileCount": "N/A",
+            "CPUE": "1.25",
+            "averageWeight": "2.80"
+          },
+          {
+            "averageWeight": "2.75",
+            "CPUE": "3.25",
+            "gear": "Standard gill nets",
+            "totalCatch": 13,
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "species": "WTS",
+            "totalWeight": 35.75,
+            "quartileWeight": "N/A"
+          }
+        ]
+      }
+    ],
+    "maxDepthFeet": 25,
+    "county": "Cook",
+    "DOWNumber": "16058100",
+    "sampledPlants": []
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

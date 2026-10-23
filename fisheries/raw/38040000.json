@@ -1,0 +1,627 @@
+{
+  "result": {
+    "surveys": [
+      {
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1986-09-10",
+        "lengths": {},
+        "narrative": "<p>Cisco are present in above average numbers; northern pike, white sucker, and lake trout are present in average numbers; yellow perch and walleye are present in below average numbers. Bluegill sunfish and rock bass, are also present. Lake trout sizes indicate good natural reproduction. Walleye are large (mean length - 17 growing. Cisco are the length = 9.6</p>",
+        "surveyID": "108320",
+        "headerInfo": {
+          "wb_id": "38040000",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_name": "Ima",
+          "id_date": "1986-09-10",
+          "county": "Lake",
+          "survey_id": "108320"
+        },
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "2.02",
+            "CPUE": "3.50",
+            "quartileWeight": "1.2-3.1",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-4.3",
+            "gearCount": 8,
+            "totalCatch": 28,
+            "totalWeight": 56.7,
+            "species": "LAT"
+          },
+          {
+            "species": "NOP",
+            "totalWeight": 43.3,
+            "totalCatch": 16,
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.0",
+            "quartileWeight": "2.7-5.3",
+            "averageWeight": "2.71",
+            "CPUE": "2.67"
+          },
+          {
+            "totalCatch": 1,
+            "totalWeight": 0.5,
+            "species": "RKB",
+            "quartileCount": "0.4-5.1",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileWeight": "0.2-0.4",
+            "CPUE": "0.17",
+            "averageWeight": "0.50"
+          },
+          {
+            "gearCount": 6,
+            "quartileCount": "0.6-9.7",
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "totalWeight": 36,
+            "totalCatch": 16,
+            "CPUE": "2.67",
+            "averageWeight": "2.25",
+            "quartileWeight": "1.1-3.3"
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.10",
+            "CPUE": "0.17",
+            "totalCatch": 1,
+            "totalWeight": 0.1,
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-2.8",
+            "gearCount": 6
+          },
+          {
+            "CPUE": "2.75",
+            "averageWeight": "1.30",
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.7-5.0",
+            "gear": "Standard gill nets",
+            "gearCount": 8,
+            "totalCatch": 22,
+            "totalWeight": 28.7,
+            "species": "WTS"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "1.4-17.4",
+            "gearCount": 8,
+            "totalWeight": 41.1,
+            "totalCatch": 149,
+            "species": "TLC",
+            "averageWeight": "0.28",
+            "CPUE": "18.62",
+            "quartileWeight": "0.1-0.7"
+          },
+          {
+            "totalWeight": 0.1,
+            "totalCatch": 1,
+            "species": "BLG",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.10",
+            "CPUE": "0.17"
+          }
+        ],
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyDate": "1998-09-08",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "LAT",
+            "totalWeight": 29082,
+            "totalCatch": 33,
+            "gearCount": 8,
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "4.12",
+            "averageWeight": "1.94"
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "gearCount": 6,
+            "totalWeight": 666,
+            "totalCatch": 5,
+            "species": "BLG",
+            "CPUE": "0.83",
+            "averageWeight": "0.29",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "gearCount": 6,
+            "totalCatch": 5,
+            "totalWeight": 298,
+            "species": "RKB",
+            "CPUE": "0.83",
+            "averageWeight": "0.13",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "gearCount": 6,
+            "totalCatch": 12,
+            "totalWeight": 514,
+            "species": "YEP",
+            "CPUE": "2.00",
+            "averageWeight": "0.09",
+            "quartileWeight": "N/A"
+          },
+          {
+            "species": "NOP",
+            "totalCatch": 15,
+            "totalWeight": 18044,
+            "gearCount": 6,
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "averageWeight": "2.65",
+            "CPUE": "2.50"
+          },
+          {
+            "CPUE": "2.33",
+            "averageWeight": "1.69",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "gearCount": 6,
+            "totalCatch": 14,
+            "totalWeight": 10721,
+            "species": "WTS"
+          },
+          {
+            "totalWeight": 28418,
+            "totalCatch": 20,
+            "species": "WAE",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "quartileWeight": "N/A",
+            "averageWeight": "3.13",
+            "CPUE": "3.33"
+          },
+          {
+            "CPUE": "10.88",
+            "averageWeight": "0.26",
+            "quartileWeight": "N/A",
+            "gearCount": 8,
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "species": "TLC",
+            "totalCatch": 87,
+            "totalWeight": 10413
+          },
+          {
+            "gearCount": 8,
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "species": "WTS",
+            "totalCatch": 18,
+            "totalWeight": 10104,
+            "CPUE": "2.25",
+            "averageWeight": "1.24",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "headerInfo": {
+          "county": "Lake",
+          "survey_id": "109295",
+          "id_date": "1998-09-08",
+          "wb_alt_name": "",
+          "wb_name": "Ima",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_id": "38040000"
+        },
+        "surveyID": "109295",
+        "narrative": "<p>Ima Lake is in Ecological Lake Class 1, which consists of 34 lakes that are large, deep, have irregular shorelines, and have soft (unmineralized) and clear water.  Ima Lake is smaller than many of the lakes in this lake class.Ima Lake was thermally stratified on 08/12/98 and retained 5 ppm oxygen to a depth of 103 ft, where the temperature was 41 F.  The bottom depth at the sampling site was 104 ft.  There are inlets from four nearby lakes and the outlet is to Jordan Lake.  There is a nonfunctional logging dam at the outlet; it is not known whether functional barriers to fish movements exist in the inlets or the outlet.  Lake bottom substrates along the shoreline are 40% rubble, 35% ledgerock, 20% gravel, and 5% muck.  Aquatic plants are sparse and grow to a depth of 9 ft; largeleaf pondweed is the most common plant.The total catch of fish (all species combined) in the shallow water gillnets in 1998 of 11 fish/net was lower than normal for this lake class, however the total catch by weight of 21 lb/net was normal for this lake class.  The total catch of fish in 1998 was higher than catches in two previous shallow water gillnettings in this lake dating back to 1972.Walleye numbers in 1998 (3.3/gillnet) were normal for this lake class, and were similar to the 1986 catch, but higher than the 1972 catch.  Walleye sizes in 1998 averaged 19\"; the largest was 25.6\".  Walleye captured in 1998 were from 11 different year classes, indicating good natural reproduction.  The growth of walleye captured in 1998 (18\" at age four) was faster than normal for the area.  Northern pike numbers in 1998 (2.5/gillnet) were higher than normal for this lake class, and were similar to previous nettings.  Pike sizes averaged 22\"; the largest was 26.2\".  All pike captured in 1998 were age four or younger.  The growth of pike captured in 1998 (20\" at age three) was faster than normal for the area.White sucker and yellow perch numbers in 1998 were normal for this lake class.  Low numbers of bluegill sunfish and rock bass were also captured in 1998.None of the northern pike examined in the 1998 assessment had diseases or parasites, however most of the walleye and all of the yellow perch had yellow grubs.  Yellow grubs are common parasites that are native to the area and are found under or in the skin of the fish.  They cannot infect humans, are usually removed by filleting, and are killed by cooking.The total catch of fish (all species combined) in the deep water gillnets in 1998 of 17 fish/net (13 lb/net) was similar to catches in two previous deep water gillnettings dating back to 1980.  Lake trout numbers in 1998 (4.1/gillnet) were similar to the 1986 catch , but higher than the 1980 catch.  The average size of lake trout in 1998 was 17\"; the largest was 26.3\".  Most captured trout were females, and both sexes appeared to mature at about age eight and at about 24\".  The growth of these trout (15\" at age six) was slower than normal for the area.Cisco numbers in 1998 (10.9/gillnet) were lower than in previous nettings.  Cisco sizes in 1998 averaged 9\"; the largest was 12.8\".  Quite a few white sucker were also found in the deep gillnets, mostly in depths of 40-70 ft.  No diseases or parasites were observed in the lake trout captured in 1998.  One of 15 cisco had Trianophorus.  Trianophorus is a white grub that is native to the area and is commonly found in the muscle tissue of ciscos.  It cannot infect humans and is killed by cooking.</p>",
+        "lengths": {
+          "BLG": {
+            "maximum_length": 8,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ]
+            ]
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                10
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 7
+          },
+          "RKB": {
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                2
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 26
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                9
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                3
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                26,
+                1
+              ]
+            ],
+            "minimum_length": 17,
+            "maximum_length": 26
+          },
+          "WAE": {
+            "maximum_length": 25,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "TLC": {
+            "maximum_length": 12,
+            "fishCount": [
+              [
+                10,
+                21
+              ],
+              [
+                11,
+                11
+              ],
+              [
+                12,
+                11
+              ],
+              [
+                6,
+                10
+              ],
+              [
+                7,
+                17
+              ],
+              [
+                8,
+                6
+              ],
+              [
+                9,
+                11
+              ]
+            ],
+            "minimum_length": 6
+          }
+        }
+      },
+      {
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-08-19",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Ima Lake on August 19th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 30.9 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 110.4 feet at the time of sampling. The thickness of this layer of water in the water column was 79.5 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.8 degrees C (42.4 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates suitable oxythermal habitat, with 58.1 feet of suitable oxythermal habitat. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "lengths": {},
+        "surveyID": "-380",
+        "headerInfo": {
+          "county": "Lake",
+          "survey_id": "-380",
+          "id_date": "2025-08-19",
+          "wb_name": "Ima",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_id": "38040000"
+        },
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": []
+      },
+      {
+        "surveyID": "21872427033138050",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_id": "38040000",
+          "survey_id": "21872427033138050",
+          "county": "Lake",
+          "wb_name": "Ima",
+          "wb_alt_name": "",
+          "id_date": "2024-07-29"
+        },
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Ima Lake on July 29, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Cisco also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased to below 8.8 degrees C (47.8 degrees F) at 37.7 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 95.8 feet at the time of sampling. The thickness of this layer of water in the water column was 58.1 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.8 degrees C (44.2 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey on Ima Lake during the late summer period of maximum oxythermal stress. If inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. </p>",
+        "lengths": {},
+        "surveyDate": "2024-07-29",
+        "surveySubType": "Targeted Survey"
+      }
+    ],
+    "sampledPlants": [],
+    "shoreLengthMiles": 14.91,
+    "waterClarity": [
+      [
+        "08/19/2025",
+        "8.2"
+      ],
+      [
+        "07/29/2024",
+        "9.2"
+      ]
+    ],
+    "littoralAcres": 210,
+    "accesses": [
+      {
+        "location": "Five rod portage from Jordan Lake.",
+        "accessTypeId": "CA",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF"
+      },
+      {
+        "location": "Ten rod portage from Alworth Lake.",
+        "accessTypeId": "CA",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF"
+      },
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA",
+        "location": "Fifty rod portage from Hatchet Lake.",
+        "lakeAccessComments": " "
+      }
+    ],
+    "DOWNumber": "38040000",
+    "averageWaterClarity": "8.7",
+    "areaAcres": 741.91,
+    "county": "Lake",
+    "meanDepthFeet": 0,
+    "officeCode": "F214",
+    "maxDepthFeet": 116,
+    "lakeName": "Ima"
+  },
+  "timestamp": 1790285805,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

@@ -1,0 +1,107 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "DOWNumber": "38021400",
+    "averageWaterClarity": "9.5",
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "Access by USFS portage from Ester Lake within the BWCAW non-motor route.",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " "
+      }
+    ],
+    "maxDepthFeet": 105,
+    "areaAcres": 117.02,
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 3.39,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "quartileCount": "0.2-1.0",
+            "CPUE": "1.25",
+            "averageWeight": "0.00",
+            "species": "BUB",
+            "quartileWeight": "0.6-1.5",
+            "totalWeight": 0,
+            "gear": "Standard gill nets",
+            "totalCatch": 5
+          },
+          {
+            "quartileCount": "0.4-3.7",
+            "gearCount": 4,
+            "CPUE": "5.25",
+            "averageWeight": "0.00",
+            "totalCatch": 21,
+            "species": "LAT",
+            "quartileWeight": "1.5-4.0",
+            "totalWeight": 0,
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "WTS",
+            "quartileWeight": "1.1-2.5",
+            "totalWeight": 0,
+            "gear": "Standard gill nets",
+            "totalCatch": 5,
+            "gearCount": 4,
+            "quartileCount": "0.8-5.3",
+            "CPUE": "1.25",
+            "averageWeight": "0.00"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyDate": "1980-07-08",
+        "surveyID": "107968",
+        "headerInfo": {
+          "wb_name": "Rabbit",
+          "wb_alt_name": "",
+          "wb_id": "38021400",
+          "id_date": "1980-07-08",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "survey_id": "107968"
+        },
+        "narrative": "<p>Composed of above average populations of lake trout and burbot.  Suckers are present in below average numbers.  The lake trout are relatively small in size.</p>",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveyDate": "2025-08-01",
+        "surveyID": "22122523855487167",
+        "headerInfo": {
+          "wb_name": "Rabbit",
+          "wb_alt_name": "",
+          "wb_id": "38021400",
+          "id_date": "2025-08-01",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "survey_id": "22122523855487167"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Rabbit Lake on August 1st, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 97.1 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 24.7 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 82.0 feet at the time of sampling. This layer in the water column was 57.3 feet, indicating oxythermal habitat for Lake Trout was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.0 degrees C (39.2 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "lengths": {}
+      }
+    ],
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "county": "Lake",
+    "lakeName": "Rabbit",
+    "littoralAcres": 20,
+    "waterClarity": [
+      [
+        "08/01/2025",
+        "9.5"
+      ]
+    ]
+  },
+  "timestamp": 1790286041,
+  "status": "SUCCESS"
+}

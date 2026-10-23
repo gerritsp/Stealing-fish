@@ -1,0 +1,83 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "littoralAcres": 28.49,
+    "shoreLengthMiles": 1.44,
+    "surveys": [
+      {
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>Jitterbug lake contains about average numbers of northern pike, perch and suckers.</p>",
+        "surveyID": "108015",
+        "surveyDate": "1982-07-16",
+        "headerInfo": {
+          "survey_id": "108015",
+          "wb_name": "Jitterbug",
+          "id_date": "1982-07-16",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "wb_id": "38050900",
+          "survey_type": "Initial Survey"
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "4.0-15.0",
+            "gearCount": 2,
+            "averageWeight": "1.36",
+            "CPUE": "5.50",
+            "quartileWeight": "1.1-2.0",
+            "species": "NOP",
+            "totalCatch": 11,
+            "totalWeight": 15,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 3.5,
+            "totalCatch": 7,
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "3.50",
+            "averageWeight": "0.50",
+            "gearCount": 2,
+            "quartileCount": "2.0-15.0"
+          },
+          {
+            "totalWeight": 41,
+            "gear": "Standard gill nets",
+            "totalCatch": 12,
+            "species": "WTS",
+            "CPUE": "6.00",
+            "quartileWeight": "0.4-1.9",
+            "averageWeight": "3.42",
+            "gearCount": 2,
+            "quartileCount": "3.0-23.0"
+          }
+        ],
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "accesses": [
+      {
+        "location": "Portage from Ahsub L. 1/8 mi. or portage by way of Adventure 1/8 mile.",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O"
+      }
+    ],
+    "lakeName": "Jitterbug",
+    "areaAcres": 28.49,
+    "DOWNumber": "38050900",
+    "county": "Lake",
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "N/A",
+    "officeCode": "F214",
+    "waterClarity": [],
+    "maxDepthFeet": 5,
+    "sampledPlants": []
+  },
+  "timestamp": 1790285823,
+  "message": "Normal execution."
+}

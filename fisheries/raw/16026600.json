@@ -1,0 +1,94 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "surveys": [
+      {
+        "narrative": "<p>WAE CPUE IN THIS ASSESSMENT (12.83 FISH/GILL NET) WAS WELL ABOVE THE REGIONAL MEDIAN FOR LAKES OF THIS CLASS, AND WAE RANGING FROM 9 TO 20 IN WERE COLLECTED.  SEVERAL YEAR CLASS WERE REPRESENTED, WITH THE STRONGEST BEING 1988 AND 1986.  WAE GROWTH WAS ABOUT AVERAGE FOR COOK COUNTY.  IT IS DIFFICULT TO DETERMINE THE SUCCESS OF WAE STOCKING DONE IN 1986 AND 1987.  WAE NATURAL REPRODUCTION IS GOOD IN ECHO LAKE, AS EVIDENCED BY SEVERAL STRONG UNSTOCKED YEAR CLASSES, AND COULD COMPLETELY MASK ANY STOCKING EFFECTS.  WAE STOCKING IS UNNECESSARY IN THIS LAKE, WHETHER OR NOT THERE IS ANY SURVIVAL OF STOCKED FISH.  SMB WERE ABUNDANT, AND FISH UP TO 17 IN WERE COLLECTED; HOWEVER, FEW FISH OVER AGE IV WERE CAPTURED.  SMB GROWTH WAS FAST BY COOK COUNTY STANDARDS, WITH THE MEAN LENGTH AT LAST ANNULUS FOR AGE III FISH AT 9.4 IN, COMPARED TO THE COUNTY AVERAGE AT THAT AGE OF 7.5 IN.  NOP ABUNDANCE WAS LOW COMPARED TO ASSESSMENTS IN THE 1970'S, AND NO LARGE FISH WERE COLLECTED.  NO YEP WERE CAPTURED, ALTHOUGH THEY WERE FOUND IN LOW NUMBERS IN THE 1971 AND 1979 ASSESSMENTS.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.12",
+            "totalCatch": 2,
+            "quartileCount": "2.0-6.3",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.3-2.4",
+            "gearCount": 6,
+            "totalWeight": 2.25,
+            "CPUE": "0.33"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-1.6",
+            "totalWeight": 35.25,
+            "CPUE": "4.33",
+            "gearCount": 6,
+            "averageWeight": "1.36",
+            "totalCatch": 26,
+            "quartileCount": "0.5-5.8",
+            "species": "SMB"
+          },
+          {
+            "quartileWeight": "0.9-1.6",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "CPUE": "12.83",
+            "totalWeight": 106.5,
+            "totalCatch": 77,
+            "averageWeight": "1.38",
+            "species": "WAE",
+            "quartileCount": "3.0-9.8"
+          },
+          {
+            "quartileCount": "3.6-14.1",
+            "species": "WTS",
+            "averageWeight": "3.36",
+            "totalCatch": 7,
+            "totalWeight": 23.5,
+            "CPUE": "1.17",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-2.4"
+          }
+        ],
+        "surveyDate": "1991-09-16",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_id": "110204",
+          "wb_type": "Lake",
+          "id_date": "1991-09-16",
+          "wb_alt_name": "",
+          "wb_id": "16026600",
+          "wb_name": "Echo",
+          "county": "Cook",
+          "survey_type": "Population Assessment"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyID": "110204"
+      }
+    ],
+    "DOWNumber": "16026600",
+    "accesses": [
+      {
+        "accessTypeId": "PO",
+        "lakeAccessComments": " ",
+        "location": "",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT"
+      }
+    ],
+    "shoreLengthMiles": 4.41,
+    "county": "Cook",
+    "littoralAcres": 121.21,
+    "meanDepthFeet": 0,
+    "areaAcres": 121.21,
+    "maxDepthFeet": 12,
+    "averageWaterClarity": "N/A",
+    "sampledPlants": [],
+    "waterClarity": [],
+    "officeCode": "F218",
+    "lakeName": "Echo"
+  },
+  "timestamp": 1790285715
+}

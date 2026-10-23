@@ -1,0 +1,88 @@
+{
+  "result": {
+    "waterClarity": [
+      [
+        "07/01/1975",
+        "7"
+      ]
+    ],
+    "sampledPlants": [],
+    "shoreLengthMiles": 1.23,
+    "meanDepthFeet": 0,
+    "DOWNumber": "16052200",
+    "averageWaterClarity": "7.0",
+    "officeCode": "F218",
+    "maxDepthFeet": 7,
+    "lakeName": "Handle",
+    "areaAcres": 14.39,
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Handle Lake has good population of N Pike and Sucker with a few Perch present.</p>",
+        "surveyDate": "1975-07-01",
+        "headerInfo": {
+          "county": "Cook",
+          "survey_id": "109779",
+          "wb_alt_name": "",
+          "id_date": "1975-07-01",
+          "wb_name": "Handle",
+          "wb_id": "16052200",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake"
+        },
+        "surveyID": "109779",
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "totalWeight": 16.5,
+            "averageWeight": "1.38",
+            "quartileWeight": "1.1-2.0",
+            "gearCount": 1,
+            "totalCatch": 12,
+            "quartileCount": "2.8-8.5",
+            "CPUE": "12.00"
+          },
+          {
+            "quartileCount": "2.0-16.0",
+            "CPUE": "1.00",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "totalWeight": 0.1,
+            "quartileWeight": "0.1-0.3",
+            "gearCount": 1,
+            "averageWeight": "0.10"
+          },
+          {
+            "totalCatch": 12,
+            "quartileCount": "4.0-14.5",
+            "CPUE": "12.00",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalWeight": 30,
+            "averageWeight": "2.50",
+            "quartileWeight": "1.4-2.5",
+            "gearCount": 1
+          }
+        ]
+      }
+    ],
+    "county": "Cook",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "location": "Accessible via Java Creek from Sawbill Lake."
+      }
+    ],
+    "littoralAcres": 14.39
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285655,
+  "message": "Normal execution."
+}

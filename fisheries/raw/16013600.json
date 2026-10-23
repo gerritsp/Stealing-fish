@@ -1,0 +1,92 @@
+{
+  "timestamp": 1790285919,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "waterClarity": [
+      [
+        "08/13/2025",
+        "9.8"
+      ],
+      [
+        "07/01/1992",
+        "8.5"
+      ],
+      [
+        "08/19/2024",
+        "10.6"
+      ]
+    ],
+    "officeCode": "F218",
+    "DOWNumber": "16013600",
+    "lakeName": "Deer",
+    "averageWaterClarity": "9.6",
+    "areaAcres": 76.44,
+    "sampledPlants": [],
+    "accesses": [],
+    "county": "Cook",
+    "littoralAcres": 0,
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 30,
+    "surveys": [
+      {
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "county": "Cook",
+          "survey_id": "20042324348819024",
+          "wb_name": "Deer",
+          "wb_alt_name": "",
+          "wb_id": "16013600",
+          "id_date": "2023-07-31",
+          "wb_type": "Lake"
+        },
+        "surveyID": "20042324348819024",
+        "surveyDate": "2023-07-31",
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Deer Lake on July 31st, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 10 feet. Dissolved oxygen decreased to below 3.0 mg/L at 12.9 feet, which was within the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 17.0\u00b0C (62.6\u00b0F). <br> \n <br> \nTDO3 values cooler than 17.2\u00b0C indicate that oxythermal conditions are favorable for Lake Whitefish. Dissolved oxygen concentrations within the thermocline indicate that suitable oxythermal habitat for Lake Whitefish was available across a limited range of depths at the time of sampling. When adequate oxythermal habitat is available, Lake Whitefish are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey"
+      },
+      {
+        "surveyID": "-368",
+        "surveyDate": "2025-08-13",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Deer",
+          "survey_id": "-368",
+          "county": "Cook",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "id_date": "2025-08-13",
+          "wb_id": "16013600"
+        },
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Deer Lake on August 13th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 19.7 feet), the water temperature decreased below 17.2 degrees C (63.0 degrees F) at 15.1 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 13.0 feet at the time of sampling. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Lake Whitefish. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 20.5 degrees C (68.9 degrees F). TDO3 values warmer than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were unsuitable for Lake Whitefish at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2023 and 2024 indicate marginally suitable oxythermal habitat. When adequate oxythermal habitat is unavailable, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>"
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Deer Lake, on August 19, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 17.2 degrees C (63.0 degrees F) at 14.9 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 15.2 feet at the time of sampling. The thickness of this layer in the water column was 0.3 feet, indicating that oxythermal habitat was present but marginal for Lake Whitefish.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 16.9 degrees C (62.4 degrees F). TDO3 values near 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were marginal for Lake Whitefish, as the layer was confined to less than 3 feet of suitable habitat at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 2023 during the late summer thermal stress period indicated poor oxythermal habitat. Data were also collected outside the thermal maximum period in 1969 and 1992, this data indicated suitable oxythermal habitat during those sampling periods. The least favorable oxythermal habitat conditions were recorded in 2023, during the peak summer stress period, when the suitable habitat layer thickness was 0.2 feet. When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_name": "Deer",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_type": "Targeted Survey",
+          "survey_id": "21872426832005000",
+          "id_date": "2024-08-19",
+          "wb_type": "Lake",
+          "wb_id": "16013600"
+        },
+        "surveyID": "21872426832005000",
+        "surveyDate": "2024-08-19"
+      }
+    ],
+    "shoreLengthMiles": 3.01
+  }
+}

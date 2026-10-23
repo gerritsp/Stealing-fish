@@ -1,0 +1,72 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285611,
+  "status": "SUCCESS",
+  "result": {
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO",
+        "lakeAccessComments": " ",
+        "location": "BWCAW access via canoe routes; no motorized travel allowed.",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "maxDepthFeet": 6,
+    "meanDepthFeet": 0,
+    "waterClarity": [],
+    "littoralAcres": 85.67,
+    "county": "Lake",
+    "sampledPlants": [],
+    "averageWaterClarity": "N/A",
+    "areaAcres": 85.67,
+    "lakeName": "Baskatong",
+    "officeCode": "F215",
+    "shoreLengthMiles": 4.69,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "quartileCount": "2.8-8.5",
+            "totalCatch": 48,
+            "quartileWeight": "1.1-2.0",
+            "species": "NOP",
+            "CPUE": "12.00",
+            "averageWeight": "0.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 0
+          },
+          {
+            "totalWeight": 0,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "CPUE": "0.25",
+            "averageWeight": "0.00",
+            "gearCount": 4,
+            "quartileCount": "4.0-14.5",
+            "totalCatch": 1,
+            "quartileWeight": "1.4-2.5"
+          }
+        ],
+        "headerInfo": {
+          "county": "Lake",
+          "survey_id": "112812",
+          "wb_alt_name": "",
+          "wb_name": "Baskatong",
+          "wb_type": "Lake",
+          "id_date": "1962-07-17",
+          "survey_type": "Initial Survey",
+          "wb_id": "38007300"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1962-07-17",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Baskatong Lake is a 67 acre, very soft-water lake in the road and airspace reservation zone of the Superior National Forest. The lake is accessible by canoe route portage from Square Lake, one of the Kawishiwi River lakes. The maximum depth of Baskatong Lake is six feet, and there are four small inlets and an outlet.     Water levels of Baskatong Lake have dropped several feet in recent years. Deterioration of the beaver dam on the outlet may be responsible for this drop. Partial winterkill conditions appear to have depleted the white sucker population of the lake. Higher water levels would lessen the dangers of winterkill.     Shoal soils of the lake are mostly boulder, ledgerock, and muck. The lake is surrounded by forest land, and no development is present other than the portage trail to Square Lake.     The total catch of test netting was 48 northern pike and 1 white sucker. No other fish were taken, but shiners and daters were observed. Northern pike catches were higher when compared to state-wide and watershed catch medians. Partial winterkill is probably responsible for the low white sucker catch. All northern pike taken ranged between 13 inches and 23 inches in length.     Aquatic plants were moderately abundant in depths to 5 feet, with burreed, yellow waterlily, and bladderwort being predominant.     Spawning conditions were rated \"good\" for northern pike, \"poor\" for trout, walleye, and smallmouth bass, and \"fair\" for largemouth bass and centrarchid panfish.     Baskatong Lake has low fishing pressure. A few waterfowl apparently use the lake, one brood of bluebills was observed during the survey.</p>",
+        "surveyID": "112812"
+      }
+    ],
+    "DOWNumber": "38007300"
+  }
+}

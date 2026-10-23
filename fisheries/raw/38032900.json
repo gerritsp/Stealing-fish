@@ -1,0 +1,72 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "maxDepthFeet": 30,
+    "littoralAcres": 0,
+    "areaAcres": 22.97,
+    "meanDepthFeet": 0,
+    "lakeName": "Cacabic",
+    "averageWaterClarity": "N/A",
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "location": "Lies within BWCA.  Portages from either Thomas or Alice Lakes- Non-motorized Route.",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O"
+      }
+    ],
+    "officeCode": "F214",
+    "county": "Lake",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "surveyDate": "1979-07-20",
+        "narrative": "<p>Composed of low populations of northern pike and sucker.</p>",
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "quartileWeight": "0.8-3.0",
+            "gear": "Standard gill nets",
+            "averageWeight": "3.08",
+            "totalWeight": 9.25,
+            "CPUE": "1.00",
+            "gearCount": 3,
+            "totalCatch": 3,
+            "quartileCount": "1.1-5.8"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.20",
+            "quartileWeight": "0.4-1.7",
+            "species": "WTS",
+            "quartileCount": "1.0-8.9",
+            "totalCatch": 1,
+            "totalWeight": 0.2,
+            "CPUE": "0.33",
+            "gearCount": 3
+          }
+        ],
+        "lengths": {},
+        "headerInfo": {
+          "wb_id": "38032900",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "survey_id": "107979",
+          "wb_name": "Cacabic",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "id_date": "1979-07-20"
+        },
+        "surveyID": "107979",
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "waterClarity": [],
+    "shoreLengthMiles": 1.56,
+    "sampledPlants": [],
+    "DOWNumber": "38032900"
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285763
+}

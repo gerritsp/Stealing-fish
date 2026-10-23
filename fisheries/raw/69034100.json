@@ -1,0 +1,83 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "meanDepthFeet": 9,
+    "waterClarity": [],
+    "officeCode": "F214",
+    "lakeName": "Lamb",
+    "maxDepthFeet": 18,
+    "accesses": [
+      {
+        "location": "USFS portage from Nina Moose Lake  or Ramshead Lake.  Motorized route in BWCA.",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "county": "St. Louis",
+    "littoralAcres": 0,
+    "DOWNumber": "69034100",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "surveyDate": "1976-09-03",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 74,
+            "gearCount": 3,
+            "species": "NOP",
+            "quartileWeight": "1.6-3.3",
+            "quartileCount": "1.2-5.7",
+            "averageWeight": "3.08",
+            "totalCatch": 24,
+            "gear": "Standard gill nets",
+            "CPUE": "8.00"
+          },
+          {
+            "averageWeight": "0.12",
+            "gear": "Standard gill nets",
+            "totalCatch": 13,
+            "CPUE": "4.33",
+            "gearCount": 3,
+            "species": "YEP",
+            "totalWeight": 1.6,
+            "quartileCount": "2.0-16.5",
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "CPUE": "7.67",
+            "gear": "Standard gill nets",
+            "totalCatch": 23,
+            "averageWeight": "0.91",
+            "quartileWeight": "1.2-2.1",
+            "quartileCount": "1.6-7.6",
+            "totalWeight": 21,
+            "species": "WTS",
+            "gearCount": 3
+          }
+        ],
+        "narrative": "<p>Consists of above average populations of Northern Pike and Suckers.  The Northern Pike are about average in size.  Perch are present in below average numbers.</p>",
+        "surveyID": "108156",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "69034100",
+          "county": "St. Louis",
+          "survey_id": "108156",
+          "wb_name": "Lamb",
+          "id_date": "1976-09-03",
+          "survey_type": "Initial Survey"
+        }
+      }
+    ],
+    "areaAcres": 100.06,
+    "shoreLengthMiles": 1.67,
+    "sampledPlants": [],
+    "averageWaterClarity": "N/A"
+  },
+  "timestamp": 1790285956,
+  "status": "SUCCESS"
+}

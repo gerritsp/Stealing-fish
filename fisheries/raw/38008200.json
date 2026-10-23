@@ -1,0 +1,99 @@
+{
+  "result": {
+    "accesses": [
+      {
+        "location": "Portage and paddle up from Watonwan Lake up Unnamed Creek. Carry across floating bog to west shore.",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "Off bog shoreline. Near the outlet of Unnamed (Sundown) Creek on the west shore.",
+        "accessTypeId": "PO"
+      }
+    ],
+    "areaAcres": 19.02,
+    "shoreLengthMiles": 0.72,
+    "county": "Lake",
+    "littoralAcres": 0,
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "5.5",
+    "sampledPlants": [],
+    "maxDepthFeet": 16,
+    "surveys": [
+      {
+        "surveySubType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "IOD",
+            "averageWeight": "0.00",
+            "CPUE": "0.50",
+            "gear": "Minnow traps",
+            "quartileCount": "N/A",
+            "gearCount": 2,
+            "totalCatch": 1,
+            "totalWeight": 0,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "totalCatch": 28,
+            "quartileCount": "N/A",
+            "gearCount": 2,
+            "gear": "Minnow traps",
+            "averageWeight": "0.00",
+            "CPUE": "14.00",
+            "species": "PRD"
+          },
+          {
+            "gear": "Minnow traps",
+            "averageWeight": "0.00",
+            "CPUE": "4.50",
+            "species": "BNM",
+            "totalCatch": 9,
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "gearCount": 2,
+            "quartileCount": "N/A"
+          },
+          {
+            "gear": "Minnow traps",
+            "species": "BST",
+            "averageWeight": "0.00",
+            "CPUE": "0.50",
+            "totalCatch": 1,
+            "totalWeight": 0,
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "quartileCount": "N/A"
+          }
+        ],
+        "narrative": "<p>Sundown Lake is located approximately 20 miles northeast of Isabella and lies completely within the Boundary Waters Canoe Area Wilderness (BWCAW).  Access to the lake starts by portaging the 0.95 mile trail into Watonwan Lake and then paddling to the southeast then south to the inlet (Unnamed \"Sundown\" Creek) on the south shore.  Once at the inlet there is 0.36 miles to portage and paddle along the creek.  There are several beaver dams to portage and ponds to paddle across.  The last 0.15 miles is a carry or drag across the floating bog to the shore of Sundown Lake.     <br> \n <br> \nSundown Lake has an area of 19 acres and a maximum depth of 16 feet.  Water clarity was fair with visibility measuring 5.5 feet in the brown bog-stained water.  The shoreline around the lake is mainly bog with a mixed coniferous and deciduous forest along the south shore.  Aquatic vegetation occurred throughout most of the lake.   <br> \n <br> \nThe 2017 standard survey was the first recorded investigation to document the status of the fish community and aquatic habitat on Sundown Lake.  Although no game fish species were sampled during the survey, Northern Pearl Dace, Bluntnose Minnow, Brook Stickleback, and Iowa Darter were captured in minnow traps.  <br> \n <br> \nSundown Lake is a small, scenic, and very remote lake within the BWCAW.  Access to the lake is difficult, and there are no game fish present to be of value to anglers.  Angling pressure on the lake is presumed to be nonexistent.  All anglers and visitors to Sundown Lake must abide by the BWCAW regulations at all times; the lake is entirely non-motorized.  <br> \n</p>",
+        "surveyDate": "2017-08-21",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyID": "11951724327825000",
+        "headerInfo": {
+          "survey_id": "11951724327825000",
+          "id_date": "2017-08-21",
+          "wb_type": "Lake",
+          "wb_id": "38008200",
+          "county": "Lake",
+          "wb_name": "Sundown",
+          "survey_type": "Standard Survey",
+          "wb_alt_name": ""
+        }
+      }
+    ],
+    "lakeName": "Sundown",
+    "waterClarity": [
+      [
+        "08/21/2017",
+        "5.5"
+      ]
+    ],
+    "DOWNumber": "38008200",
+    "officeCode": "F215"
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285599,
+  "status": "SUCCESS"
+}

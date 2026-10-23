@@ -1,0 +1,83 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "location": "1/6 mile portage from Pickle Lake.",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "lakeName": "Kettle",
+    "county": "Lake",
+    "DOWNumber": "38039200",
+    "areaAcres": 42.82,
+    "officeCode": "F214",
+    "maxDepthFeet": 15,
+    "littoralAcres": 42.82,
+    "surveys": [
+      {
+        "narrative": "<p>Composed of population is very high.</p>",
+        "surveyType": "Standard Survey",
+        "surveyID": "107997",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 7,
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "2.33",
+            "totalWeight": 1.2,
+            "averageWeight": "0.17",
+            "quartileCount": "2.0-23.0"
+          },
+          {
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "species": "GSF",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "CPUE": "0.33",
+            "totalWeight": 0.1,
+            "quartileCount": "0.3-0.5",
+            "averageWeight": "0.10"
+          },
+          {
+            "averageWeight": "0.96",
+            "quartileCount": "2.6-17.5",
+            "totalWeight": 35.7,
+            "CPUE": "12.33",
+            "quartileWeight": "0.8-2.3",
+            "gearCount": 3,
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalCatch": 37
+          }
+        ],
+        "headerInfo": {
+          "county": "Lake",
+          "survey_id": "107997",
+          "wb_alt_name": "",
+          "wb_name": "Kettle",
+          "id_date": "1972-08-11",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_id": "38039200"
+        },
+        "surveyDate": "1972-08-11",
+        "lengths": {},
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "shoreLengthMiles": 1.42,
+    "averageWaterClarity": "N/A",
+    "waterClarity": []
+  },
+  "timestamp": 1790285894,
+  "status": "SUCCESS"
+}

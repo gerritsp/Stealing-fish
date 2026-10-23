@@ -1,0 +1,99 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "littoralAcres": 40,
+    "DOWNumber": "16030400",
+    "shoreLengthMiles": 4.45,
+    "maxDepthFeet": 30,
+    "meanDepthFeet": 0,
+    "county": "Cook",
+    "lakeName": "Skipper",
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_id": "110050",
+          "wb_id": "16030400",
+          "county": "Cook",
+          "id_date": "1982-08-10",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "Skipper",
+          "survey_type": "Initial Survey"
+        },
+        "surveyDate": "1982-08-10",
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>LAKE SEEMS TO HAVE A GOOD SELF-MAINTAINING POPULATION OF WALLEYES. THE WALLEYES IN THIS LAKE APPEAR TO HAVE A GOOD CONDITION FACTOR.</p>",
+        "surveyID": "110050",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.5-2.4",
+            "CPUE": "4.00",
+            "species": "NOP",
+            "totalWeight": 19,
+            "totalCatch": 12,
+            "averageWeight": "1.58",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.2-3.9"
+          },
+          {
+            "gearCount": 3,
+            "averageWeight": "1.97",
+            "totalCatch": 11,
+            "totalWeight": 21.7,
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "CPUE": "3.67",
+            "quartileCount": "3.0-13.2",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 3,
+            "averageWeight": "0.10",
+            "totalCatch": 1,
+            "totalWeight": 0.1,
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "CPUE": "0.33",
+            "quartileCount": "0.5-2.8",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "2.6-11.7",
+            "species": "WTS",
+            "quartileWeight": "1.7-2.4",
+            "CPUE": "3.67",
+            "gearCount": 3,
+            "averageWeight": "2.43",
+            "totalWeight": 26.7,
+            "totalCatch": 11
+          }
+        ]
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/11/1982",
+        "9.5"
+      ]
+    ],
+    "areaAcres": 106.53,
+    "accesses": [
+      {
+        "location": "IN B.W.C.A.. and  ACCESSIBLE BY PORTAGE ONLY  321 RODS FROM POPLAR LAKE AND 25 RODS FROM LITTLE RUSH LAKE",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "averageWaterClarity": "9.5",
+    "officeCode": "F218"
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285888
+}

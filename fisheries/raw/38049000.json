@@ -1,0 +1,83 @@
+{
+  "timestamp": 1790285878,
+  "message": "Normal execution.",
+  "result": {
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "location": "Accessible by canoe and portage only.",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O"
+      }
+    ],
+    "areaAcres": 53.65,
+    "officeCode": "F214",
+    "lakeName": "Trader",
+    "maxDepthFeet": 10,
+    "meanDepthFeet": 0,
+    "DOWNumber": "38049000",
+    "county": "Lake",
+    "surveys": [
+      {
+        "headerInfo": {
+          "id_date": "1972-06-29",
+          "survey_id": "108006",
+          "wb_alt_name": "",
+          "wb_id": "38049000",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_name": "Trader",
+          "survey_type": "Initial Survey"
+        },
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1972-06-29",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "YEP",
+            "CPUE": "64.33",
+            "totalWeight": 32.8,
+            "totalCatch": 193,
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "3.3-18.3",
+            "averageWeight": "0.17",
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "species": "GSF",
+            "totalWeight": 0.1,
+            "CPUE": "0.67",
+            "gearCount": 3,
+            "totalCatch": 2,
+            "averageWeight": "0.05",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.7"
+          },
+          {
+            "quartileWeight": "1.3-2.3",
+            "averageWeight": "1.32",
+            "gear": "Standard gill nets",
+            "quartileCount": "5.3-22.1",
+            "gearCount": 3,
+            "totalCatch": 53,
+            "totalWeight": 70,
+            "CPUE": "17.67",
+            "species": "WTS"
+          }
+        ],
+        "surveyID": "108006",
+        "narrative": "<p>(exhausted.  No beavers will be able to inhabit (the lake for years to come. Yellow perch and white sucker populations are extremely high.</p>"
+      }
+    ],
+    "sampledPlants": [],
+    "shoreLengthMiles": 1.85,
+    "littoralAcres": 53.65,
+    "waterClarity": [],
+    "averageWaterClarity": "N/A"
+  },
+  "status": "SUCCESS"
+}

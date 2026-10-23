@@ -1,0 +1,83 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "county": "Lake",
+    "maxDepthFeet": 25,
+    "lakeName": "Kekekabic Pond 2",
+    "meanDepthFeet": 0,
+    "waterClarity": [],
+    "areaAcres": 24.41,
+    "averageWaterClarity": "N/A",
+    "DOWNumber": "38018802",
+    "littoralAcres": 10,
+    "sampledPlants": [],
+    "shoreLengthMiles": 1.26,
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Few fish present. Only 1 lake trout. Northern pike population is low but suckers are fairly abundant</p>",
+        "surveyID": "108301",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_id": "38018802",
+          "wb_alt_name": "",
+          "survey_id": "108301",
+          "id_date": "1972-08-28",
+          "county": "Lake",
+          "wb_name": "Kekekabic Pond 2"
+        },
+        "lengths": {},
+        "surveyDate": "1972-08-28",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "quartileCount": "0.3-4.0",
+            "totalWeight": 7.9,
+            "quartileWeight": "1.2-3.5",
+            "totalCatch": 1,
+            "averageWeight": "7.90",
+            "species": "LAT"
+          },
+          {
+            "quartileCount": "2.3-5.1",
+            "totalWeight": 17.6,
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "CPUE": "1.50",
+            "averageWeight": "5.87",
+            "species": "NOP",
+            "totalCatch": 3,
+            "quartileWeight": "1.4-2.2"
+          },
+          {
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "totalWeight": 9.1,
+            "quartileCount": "1.7-12.5",
+            "CPUE": "3.50",
+            "species": "WTS",
+            "averageWeight": "1.30",
+            "totalCatch": 7,
+            "quartileWeight": "0.7-2.3"
+          }
+        ],
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "ACCESS BY CANOE AND PORTAGE ~PADDLE ONLY~",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "officeCode": "F214"
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285973
+}

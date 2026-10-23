@@ -1,0 +1,531 @@
+{
+  "timestamp": 1790285751,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "areaAcres": 126.62,
+    "county": "Cook",
+    "littoralAcres": 48.4,
+    "sampledPlants": [],
+    "lakeName": "Little Trout",
+    "DOWNumber": "16017000",
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 3.07,
+    "officeCode": "F218",
+    "averageWaterClarity": "13.4",
+    "maxDepthFeet": 56,
+    "surveys": [
+      {
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_name": "Little Trout",
+          "id_date": "1989-07-31",
+          "wb_type": "Lake",
+          "wb_id": "16017000",
+          "wb_alt_name": "",
+          "survey_id": "110104"
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "averageWeight": "1.80",
+            "quartileWeight": "1.5-4.0",
+            "totalWeight": 50.44,
+            "species": "LAT",
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets",
+            "totalCatch": 28,
+            "CPUE": "9.33"
+          },
+          {
+            "CPUE": "4.00",
+            "totalCatch": 12,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 16.44,
+            "species": "WTS",
+            "quartileWeight": "1.1-2.5",
+            "averageWeight": "1.37",
+            "gearCount": 3
+          }
+        ],
+        "surveyDate": "1989-07-31",
+        "surveyID": "110104",
+        "narrative": "<p>LAKE TROUT WERE ABUNDANT WITH A WIDE RANGE OF AGES PRESENT. THE 1986 YEAR CLASS WAS POORLY REPRESENTED AND MAY BE WEAK. LAKE TROUT GROWTH IS SOMEWHAT ABOVE AVERAGE FOR COOK COUNTY LAKES. WHITE SUCKER WERE PRESENT IN AVERAGE NUMBERS.</p>"
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Little Trout Lake on August 7th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 52.5 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 24.1 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 29.7 feet at the time of sampling. The thickness of this layer of water in the water column was 5.7 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.6 degrees C (43.9 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 4 years, between 1970-2024, indicate suitable oxythermal habitat in most years when surveyed, with the least favorable conditions recorded in 2024 when there was no suitable oxythermal habitat. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyID": "-280",
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-08-07",
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_id": "-280",
+          "county": "Cook",
+          "survey_type": "Targeted Survey",
+          "wb_name": "Little Trout",
+          "wb_type": "Lake",
+          "id_date": "2025-08-07",
+          "wb_id": "16017000"
+        },
+        "lengths": {}
+      },
+      {
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "county": "Cook",
+          "wb_name": "Little Trout",
+          "wb_type": "Lake",
+          "id_date": "2023-08-22",
+          "wb_id": "16017000",
+          "wb_alt_name": "",
+          "survey_id": "20512322952035002"
+        },
+        "lengths": {},
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "surveyDate": "2023-08-22",
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Little Trout Lake on August 22nd, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 16 feet. Dissolved oxygen decreased to below 3.0 mg/L at 27.2 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 7.2\u00b0C (45.0\u00b0F). <br> \n <br> \nTDO3 values cooler than 8.8\u00b0C indicate that oxythermal conditions are favorable for Lake Trout. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for Lake Trout was available across a range of depths at the time of sampling. Data collected in 1970-2002 further indicate suitable oxythermal habitat in most years, with the least favorable conditions recorded in 1999. When adequate oxythermal habitat is available, Lake Trout are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "surveyID": "20512322952035002"
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "lengths": {},
+        "headerInfo": {
+          "wb_name": "Little Trout",
+          "id_date": "2024-08-21",
+          "wb_type": "Lake",
+          "wb_id": "16017000",
+          "survey_type": "Targeted Survey",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "survey_id": "21872426839078183"
+        },
+        "surveyID": "21872426839078183",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Little Trout Lake on August 21, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased to below 8.8 degrees C (47.8 degrees F) at 27.9 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 25.4 feet at the time of sampling. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 10 degrees C (50 degrees F). TDO3 values warmer than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were unsuitable for Lake Trout at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress in 2023, 1989, and 1970 also indicated suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 2023 (when Lake Trout were confined to 4.3 feet of suitable habitat). When inadequate oxythermal habitat is available, such was the case in 2024, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2024-08-21",
+        "fishCatchSummaries": []
+      },
+      {
+        "surveyID": "111363",
+        "narrative": "<p>The catch of lake trout was higher than in the two previous assessments of Little Trout Lake, and was unusually high compared to similar lakes in the area.  Despite the large number of lake trout present, and the apparent lack of large forage species, average size of lake trout collected was close to average for the lake class.  All lake trout were the result of natural reproduction.  Fish four to eleven years of age were included in the catch.  Lake trout growth rates had been about average for the area.White sucker had been collected in past assessments, but were not collected in 2002.  Three minnow species were collected; along with invertebrates, they appeared to have provided the only forage available for lake trout.</p>",
+        "surveyDate": "2002-07-29",
+        "fishCatchSummaries": [
+          {
+            "gear": "Minnow traps",
+            "totalWeight": 0,
+            "species": "PRD",
+            "quartileCount": "N/A",
+            "CPUE": "1.17",
+            "totalCatch": 14,
+            "gearCount": 12,
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A"
+          },
+          {
+            "CPUE": "14.33",
+            "totalCatch": 43,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-3.7",
+            "species": "LAT",
+            "totalWeight": 45361,
+            "quartileWeight": "1.5-4.0",
+            "averageWeight": "2.33",
+            "gearCount": 3
+          },
+          {
+            "totalCatch": 255,
+            "CPUE": "21.25",
+            "quartileCount": "N/A",
+            "totalWeight": 0,
+            "species": "FHM",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00",
+            "gearCount": 12
+          },
+          {
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A",
+            "gearCount": 12,
+            "totalCatch": 22,
+            "CPUE": "1.83",
+            "species": "NRD",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "gear": "Minnow traps"
+          }
+        ],
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "LAT": {
+            "maximum_length": 26,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                14
+              ],
+              [
+                18,
+                8
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                5
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                26,
+                1
+              ]
+            ],
+            "minimum_length": 12
+          }
+        },
+        "headerInfo": {
+          "survey_type": "Re-Survey",
+          "county": "Cook",
+          "wb_id": "16017000",
+          "wb_name": "Little Trout",
+          "wb_type": "Lake",
+          "id_date": "2002-07-29",
+          "wb_alt_name": "",
+          "survey_id": "111363"
+        }
+      },
+      {
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "LAT": {
+            "fishCount": [
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                8
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                13
+              ],
+              [
+                20,
+                8
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 9
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "maximum_length": 7
+          }
+        },
+        "headerInfo": {
+          "survey_id": "12821819340488000",
+          "wb_alt_name": "",
+          "survey_type": "Standard Survey",
+          "county": "Cook",
+          "wb_id": "16017000",
+          "id_date": "2018-07-09",
+          "wb_type": "Lake",
+          "wb_name": "Little Trout"
+        },
+        "narrative": "<p>Compared to other Lake Trout lakes in this area, Little Trout is relatively small, and relatively shallow.  It supports a simple native fish community, with its major species limited to Lake Trout and White Sucker.  Goals for the Lake Trout population in this lake (from the 2017 lake management plan) are to maintain a self-sustained population with a minimum gill net catch (deep and shallow sets combined) of 3.0 fish/set.  This was the first of two surveys scheduled in the 2017 plan to monitor the Lake Trout population, and to determine the age and size at maturity for the species in this lake.  The next is scheduled for 2026. <br> \n <br> \nThe combined Lake Trout catch in deep and shallow gill net sets in this survey (13.00 fish/set) easily met the long range goal for the species in the 2017 plan, and was the second highest ever seen in this lake.  Sizes of Lake Trout taken in 2018 were typical for this lake, where large fish have been very rare.  Twelve year classes, all naturally produced, and including fish as old as 15 years, contributed to the catch.  Year classes produced in 2012 and 2008 appeared to have been relatively strong.  Lake Trout growth had been slow; fish reached a mean length of 14.6 inches at the end of their sixth year, compared to an area mean of 17.5 inches.  With no cold-water forage species available, Lake Trout were largely limited to an invertebrate diet.   <br> \n <br> \nAge and length at maturity for Lake Trout could not be determined because only one immature fish was included in the catch, and no sex was determined for that fish.  Mature males as young as four years (length 15.7 inches) were collected, while the youngest mature females sampled were six years old (length 16.6 inches). <br> \n <br> \nThe White Sucker gill net catch (1.00 fish/set in deep and shallow sets combined) was one of the lowest seen in this lake.  No adult White Sucker were collected.  White Sucker catches as high as 34.00 fish/set had been seen in this lake in the past. <br> \n <br> \n</p>",
+        "surveyID": "12821819340488000",
+        "surveySubType": "Standard Survey",
+        "surveyDate": "2018-07-09",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.14",
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "CPUE": "0.67",
+            "totalCatch": 2,
+            "gear": "Deep gill nets",
+            "totalWeight": 125,
+            "species": "WTS",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "LAT",
+            "totalWeight": 3573,
+            "gear": "Shallow gill nets",
+            "totalCatch": 4,
+            "CPUE": "4.00",
+            "gearCount": 1,
+            "quartileWeight": "N/A",
+            "averageWeight": "1.97"
+          },
+          {
+            "totalCatch": 48,
+            "CPUE": "16.00",
+            "quartileCount": "N/A",
+            "species": "LAT",
+            "totalWeight": 45031,
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "2.07",
+            "gearCount": 3
+          },
+          {
+            "totalCatch": 2,
+            "CPUE": "2.00",
+            "species": "WTS",
+            "totalWeight": 174,
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "averageWeight": "0.19",
+            "quartileWeight": "N/A",
+            "gearCount": 1
+          }
+        ]
+      },
+      {
+        "lengths": {
+          "LAT": {
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                13,
+                2
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                9
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                5
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 8
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 8
+          }
+        },
+        "headerInfo": {
+          "wb_name": "Little Trout",
+          "id_date": "2011-06-27",
+          "wb_type": "Lake",
+          "wb_id": "16017000",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "survey_id": "4311117152441000"
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyDate": "2011-06-27",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "totalWeight": 14123,
+            "species": "LAT",
+            "gear": "Shallow gill nets",
+            "totalCatch": 16,
+            "CPUE": "5.33",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "averageWeight": "1.95"
+          },
+          {
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "species": "LAT",
+            "totalWeight": 17917,
+            "CPUE": "5.33",
+            "totalCatch": 16,
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "averageWeight": "2.47"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "species": "WTS",
+            "totalWeight": 6605,
+            "quartileCount": "N/A",
+            "CPUE": "3.33",
+            "totalCatch": 10,
+            "gearCount": 3,
+            "averageWeight": "1.46",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyID": "4311117152441000",
+        "narrative": "<p>Little Trout Lake has a good population of small-to-medium-size lake trout.  The catch per net in 2011 was relatively high, and easily exceeded the long range goal of the 2009 lake management plan (3.0 fish/net from shallow and deep sets combined).  The gill net catch was above the normal range for a Class 3 lake.  The average weight for lake trout collected in 2011 was 2.2 lb/fish, which was close to average for lakes of this class.   <br> \n <br> \nLake trout in Little Trout Lake are native.  All had been produced naturally, and several year classes were present.  Growth rates had been about average for this lake class in this area.  Five-year-old fish (the 2006 year class) appeared to be relatively abundant, and averaged 17.8 inches long when captured. <br> \n <br> \nWhite sucker are present but not currently abundant.  They were caught only in shallow waters in 2011.  The only other known fish species in Little Trout Lake are several minnow species. <br> \n</p>"
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/01/1989",
+        "12"
+      ],
+      [
+        "08/07/2025",
+        "12.1"
+      ],
+      [
+        "08/22/2023",
+        "11.5"
+      ],
+      [
+        "08/10/1970",
+        "13.5"
+      ],
+      [
+        "08/21/2024",
+        "16.4"
+      ],
+      [
+        "07/09/2018",
+        "18"
+      ],
+      [
+        "06/27/2011",
+        "10"
+      ]
+    ],
+    "accesses": [
+      {
+        "lakeAccessComments": "Lake is entirely inside the BWCAW.  Portage trail from Rum Lake to the SE shore of Little Trout.",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO"
+      },
+      {
+        "publicUseAuthCode": "OPEN",
+        "location": "",
+        "accessTypeId": "PO",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF"
+      }
+    ]
+  }
+}

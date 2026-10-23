@@ -1,0 +1,72 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790286015,
+  "result": {
+    "maxDepthFeet": 73,
+    "county": "Lake",
+    "lakeName": "Holt",
+    "officeCode": "F214",
+    "DOWNumber": "38017800",
+    "areaAcres": 115.3,
+    "littoralAcres": 33,
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 4.51,
+    "waterClarity": [],
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "surveyID": "107953",
+        "narrative": "<p>Composed of an average size population of lake trout and a small population of suckers. Northern pike are also present but none were caught in 8 gillnet sets.</p>",
+        "surveyDate": "1979-07-01",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_id": "38017800",
+          "wb_name": "Holt",
+          "survey_id": "107953",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "id_date": "1979-07-01",
+          "wb_type": "Lake"
+        },
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 10,
+            "gearCount": 8,
+            "totalWeight": 32.5,
+            "averageWeight": "3.25",
+            "quartileWeight": "1.5-4.0",
+            "quartileCount": "0.4-3.7",
+            "species": "LAT",
+            "gear": "Standard gill nets",
+            "CPUE": "1.25"
+          },
+          {
+            "quartileCount": "0.8-5.3",
+            "species": "WTS",
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "gearCount": 8,
+            "totalWeight": 15,
+            "totalCatch": 4,
+            "averageWeight": "3.75"
+          }
+        ]
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "accesses": [
+      {
+        "location": "None designated-lies within the BWCA.  Portage from Ogishkemuncie Lake.",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O"
+      }
+    ]
+  }
+}

@@ -1,0 +1,833 @@
+{
+  "timestamp": 1790285608,
+  "result": {
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_id": "16080800",
+          "county": "Cook",
+          "id_date": "2018-06-18",
+          "wb_name": "Phoebe",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "11961816552482000",
+          "survey_type": "Standard Survey"
+        },
+        "narrative": "<p>Phoebe Lake is located 20 miles north of Schroeder in the BWCAW.  The lake is part of the \"Girl Chain\" and has two accesses, a portage trail from Grace Lake on the NE end of the lake, and a canoe route from Knight Lake on the NW end.  Entry points would be either Sawbill or Kawishiwi Lakes.  Getting to the lake, like many in the BWCAW, is a rather arduous journey due to the amount of lakes and portages involved.  Contact the USFS Tofte district or check the Superior NF website for information and regulations on the BWCAW.  The lake has an area of 610 acres and a maximum depth of 25 feet.  The fish community consists of Walleye, Northern Pike, Smallmouth Bass, White Sucker, and Yellow Perch.   <br> \n <br> \nA standard survey was completed in 2018 to update the status of the fish community, evaluate current management goals, and provide information to direct future management activities.      <br> \n <br> \nThe Walleye gill net catch in twelve sets of 4.3/net was slightly less than average when compared to other similar lakes, but still within the normal range.  Average weight and length was 1.3 pounds and 15.1 inches.  The largest fish sampled was 22.5 inches long.  Walleye recruitment was sporadic with eight year classes sampled and fish as old as 12 years.  The 2014 year class was by far the strongest representing 53% of the catch.  Growth was fast by area standards.   <br> \n  <br> \nThe Northern Pike gill net catch of 1.4/net was slightly lower than average when compared to other similar lakes, but again within the normal range.  Average weight and length was 2.3 pounds and 21.9 inches.  The largest fish sampled was 27 inches long.  Northern Pike recruitment was sporadic with seven year classes sampled and 2013 and 2014 the strongest year classes.  <br> \n <br> \nSmallmouth Bass gill net catch of 0.2/net was slightly low and the average weight was 1.1 pounds. Angling was also used to gain four more samples.  The largest fish sampled was 15.4 inches long.  With so few samples nothing can be said about growth rate or year classes. <br> \n <br> \nWhite Sucker gill net catch of 4.8/net with an average weight of 2.1 pounds were both about average.  The largest fish sampled was 23.7 inches long.  Other species sampled were Blacknose Shiner, Common Shiner, Green Sunfish, Hybrid Sunfish, Northern Pearl Dace, Northern Redbelly Dace, and Yellow Perch in special mini ultra-light trap nets.  <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "HSF": {
+            "maximum_length": 4,
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                27,
+                1
+              ]
+            ],
+            "maximum_length": 27,
+            "minimum_length": 17
+          },
+          "SMB": {
+            "maximum_length": 15,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                6
+              ],
+              [
+                12,
+                8
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                7
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                4
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 23,
+            "minimum_length": 7
+          },
+          "WAE": {
+            "minimum_length": 9,
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                17
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "YEP": {
+            "maximum_length": 3,
+            "minimum_length": 1,
+            "fishCount": [
+              [
+                1,
+                8
+              ],
+              [
+                2,
+                6
+              ],
+              [
+                3,
+                4
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "6.00",
+            "gear": "Special trap nets",
+            "totalCatch": 18,
+            "totalWeight": 45,
+            "quartileWeight": "N/A",
+            "species": "YEP",
+            "gearCount": 3,
+            "averageWeight": "0.01",
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "0.67",
+            "gear": "Special trap nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 2,
+            "totalWeight": 0,
+            "gearCount": 3,
+            "averageWeight": "0.00",
+            "quartileCount": "N/A",
+            "species": "PRD"
+          },
+          {
+            "quartileWeight": "1.5-2.4",
+            "totalWeight": 17688,
+            "totalCatch": 17,
+            "gearCount": 12,
+            "averageWeight": "2.29",
+            "quartileCount": "1.2-3.9",
+            "species": "NOP",
+            "CPUE": "1.42",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "1.7-2.4",
+            "totalWeight": 54231,
+            "totalCatch": 57,
+            "averageWeight": "2.10",
+            "gearCount": 12,
+            "quartileCount": "2.6-11.7",
+            "species": "WTS",
+            "CPUE": "4.75",
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "4.25",
+            "gear": "Standard gill nets",
+            "totalCatch": 51,
+            "totalWeight": 29049,
+            "quartileWeight": "0.7-1.3",
+            "species": "WAE",
+            "gearCount": 12,
+            "quartileCount": "3.0-13.2",
+            "averageWeight": "1.26"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "0.17",
+            "species": "SMB",
+            "gearCount": 12,
+            "quartileCount": "0.2-0.7",
+            "averageWeight": "1.10",
+            "totalWeight": 999,
+            "totalCatch": 2,
+            "quartileWeight": "0.3-2.2"
+          },
+          {
+            "species": "NOP",
+            "gearCount": 3,
+            "averageWeight": "1.89",
+            "quartileCount": "N/A",
+            "totalCatch": 2,
+            "totalWeight": 1712,
+            "quartileWeight": "N/A",
+            "gear": "Open-water angling",
+            "CPUE": "0.67"
+          },
+          {
+            "gearCount": 3,
+            "averageWeight": "0.00",
+            "quartileCount": "N/A",
+            "species": "IOD",
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "totalCatch": 2,
+            "gear": "Special trap nets",
+            "CPUE": "0.67"
+          },
+          {
+            "species": "NRD",
+            "averageWeight": "0.00",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "totalWeight": 0,
+            "totalCatch": 1,
+            "quartileWeight": "N/A",
+            "gear": "Special trap nets",
+            "CPUE": "0.33"
+          },
+          {
+            "gear": "Special trap nets",
+            "CPUE": "7.00",
+            "species": "GSF",
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "totalCatch": 21,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Special trap nets",
+            "CPUE": "0.33",
+            "species": "CSH",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "totalCatch": 1,
+            "quartileWeight": "N/A"
+          },
+          {
+            "CPUE": "12.00",
+            "gear": "Special trap nets",
+            "totalWeight": 0,
+            "totalCatch": 36,
+            "quartileWeight": "N/A",
+            "species": "BNS",
+            "gearCount": 3,
+            "averageWeight": "0.00",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 43,
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "gearCount": 12,
+            "averageWeight": "0.09",
+            "species": "HSF",
+            "CPUE": "0.08",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "SMB",
+            "averageWeight": "0.32",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "totalWeight": 572,
+            "totalCatch": 4,
+            "quartileWeight": "N/A",
+            "gear": "Open-water angling",
+            "CPUE": "1.33"
+          },
+          {
+            "CPUE": "3.33",
+            "gear": "Special trap nets",
+            "totalWeight": 0,
+            "totalCatch": 10,
+            "quartileWeight": "N/A",
+            "species": "HSF",
+            "averageWeight": "0.00",
+            "gearCount": 3,
+            "quartileCount": "N/A"
+          }
+        ],
+        "surveyDate": "2018-06-18",
+        "surveySubType": "Standard Survey",
+        "surveyID": "11961816552482000"
+      },
+      {
+        "surveyID": "112086",
+        "surveySubType": "Re-Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "3.50",
+            "species": "NOP",
+            "gearCount": 12,
+            "averageWeight": "1.74",
+            "quartileCount": "1.2-3.9",
+            "totalWeight": 73.25,
+            "totalCatch": 42,
+            "quartileWeight": "1.5-2.4"
+          },
+          {
+            "quartileCount": "3.0-13.2",
+            "gearCount": 12,
+            "averageWeight": "1.99",
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "totalWeight": 39.75,
+            "totalCatch": 20,
+            "gear": "Standard gill nets",
+            "CPUE": "1.67"
+          },
+          {
+            "quartileCount": "0.5-2.8",
+            "gearCount": 12,
+            "averageWeight": "0.16",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "totalWeight": 4,
+            "totalCatch": 25,
+            "gear": "Standard gill nets",
+            "CPUE": "2.08"
+          },
+          {
+            "CPUE": "13.58",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.7-2.4",
+            "totalCatch": 163,
+            "totalWeight": 207.75,
+            "gearCount": 12,
+            "quartileCount": "2.6-11.7",
+            "averageWeight": "1.27",
+            "species": "WTS"
+          }
+        ],
+        "surveyDate": "1976-07-12",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "narrative": "<p>Walleye have developed a self-sustaining population since the initial introduction in 1966. Due to the remoteness of the lake no management plans are being made at the present time. Periodic test netting will be done to keep abreast of the population trends.</p>",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_name": "Phoebe",
+          "wb_alt_name": "",
+          "id_date": "1976-07-12",
+          "wb_id": "16080800",
+          "county": "Cook",
+          "survey_type": "Re-Survey",
+          "survey_id": "112086"
+        }
+      },
+      {
+        "surveyID": "4251217341330000",
+        "surveyDate": "1998-06-15",
+        "fishCatchSummaries": [
+          {
+            "gear": "Open-water angling",
+            "CPUE": "10.00",
+            "quartileCount": "N/A",
+            "gearCount": 1,
+            "averageWeight": "0.61",
+            "species": "SMB",
+            "quartileWeight": "N/A",
+            "totalWeight": 2765,
+            "totalCatch": 10
+          },
+          {
+            "gearCount": 12,
+            "quartileCount": "1.2-3.9",
+            "averageWeight": "3.14",
+            "species": "NOP",
+            "quartileWeight": "1.5-2.4",
+            "totalWeight": 19970,
+            "totalCatch": 14,
+            "gear": "Standard gill nets",
+            "CPUE": "1.17"
+          },
+          {
+            "quartileWeight": "0.3-2.2",
+            "totalCatch": 5,
+            "totalWeight": 2040,
+            "averageWeight": "0.90",
+            "gearCount": 12,
+            "quartileCount": "0.2-0.7",
+            "species": "SMB",
+            "CPUE": "0.42",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "WAE",
+            "gearCount": 12,
+            "averageWeight": "1.28",
+            "quartileCount": "3.0-13.2",
+            "totalWeight": 7564,
+            "totalCatch": 13,
+            "quartileWeight": "0.7-1.3",
+            "gear": "Standard gill nets",
+            "CPUE": "1.08"
+          },
+          {
+            "CPUE": "0.42",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.3",
+            "totalWeight": 262,
+            "totalCatch": 5,
+            "gearCount": 12,
+            "quartileCount": "0.5-2.8",
+            "averageWeight": "0.12",
+            "species": "YEP"
+          },
+          {
+            "CPUE": "19.50",
+            "gear": "Standard gill nets",
+            "totalWeight": 300965,
+            "totalCatch": 234,
+            "quartileWeight": "1.7-2.4",
+            "species": "WTS",
+            "gearCount": 12,
+            "averageWeight": "2.84",
+            "quartileCount": "2.6-11.7"
+          }
+        ],
+        "surveySubType": "Re-Survey",
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                45
+              ],
+              [
+                18,
+                76
+              ],
+              [
+                19,
+                60
+              ],
+              [
+                20,
+                38
+              ],
+              [
+                21,
+                6
+              ]
+            ],
+            "minimum_length": 14,
+            "maximum_length": 21
+          },
+          "WAE": {
+            "minimum_length": 10,
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                4
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                6,
+                4
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 7,
+            "minimum_length": 6
+          },
+          "NOP": {
+            "minimum_length": 14,
+            "maximum_length": 31,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                28,
+                2
+              ],
+              [
+                29,
+                2
+              ],
+              [
+                31,
+                1
+              ]
+            ]
+          },
+          "SMB": {
+            "minimum_length": 2,
+            "maximum_length": 12,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                7
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Phoebe Lake is in the Boundary Waters Canoe Area Wilderness (BWCAW) approximately 20 miles northwest of Tofte, MN.  The lake is on a heavily traveled canoe route and has nine maintained campsites. <br> \n <br> \nThe fish sampled in DNR nets in 1998 were walleye, northern pike, smallmouth bass, yellow perch and white sucker. <br> \n <br> \nWalleye were sampled in below average numbers compared to other lakes of this type.  The fish ranged from 10.7 inches to 17.9 inches with approximately 50% of the fish being between 16.0 inches and 17.9 inches. <br> \n <br> \nNorthern pike numbers are about average for this type of lake with an average size that is above average.  Northern pike range from 14.3 inches to 31.3 inches (7.5 pounds) and averaged just over 3 pounds each. <br> \n <br> \nThe smallmouth bass catch in the 1998 survey is considered normal both in numbers and size.  The bass that were collected ranged from 7.8 inches to 13.0 inches and averaged 11.7 inches.</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Phoebe",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_id": "16080800",
+          "id_date": "1998-06-15",
+          "survey_type": "Re-Survey",
+          "survey_id": "4251217341330000"
+        }
+      },
+      {
+        "headerInfo": {
+          "survey_id": "112788",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "wb_id": "16080800",
+          "id_date": "1963-08-12",
+          "wb_name": "Phoebe",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>Phoebe Lake is a 625 acre, very soft-water lake in the Kawishiwi River Watershed. The lake lies in the roadless area and airspace reservation zone of the Superior National Forest, and is accessible by navigation of river-routes, with portaging. The maximum depth of Phoebe Lake is 25 feet, and there are five inlets to and one outlet from the lake. The lake is completely surrounded by forest land with some marshes, and three campsites are present. Shoal soils are mostly boulders and rubble, but limited areas of muck, rubble, sand and gravel, and ledgerock are also present.     At the time of the survey, lake levels were about normal and appeared to be fairly stable. Limited amounts of aquatic vegetation were found in a few areas of the lake.     Test netting indicated an abundance of Northern Pike and White Sucker. A few Yellow Perch and Pumpkinseed were also taken. Young-of-the-year Yellow Perch, White Sucker, and Pumpkinseed were taken in shoreline seining, along with darters, shiners, and minnows.     Spawning facilities are rated \"fair to good\" for Northern Pike, \"fair\" for Walleye and Smallmouth Bass, and \"poor\" for Largemouth Bass and centrarchid panfish.     Phoebe Lake gets very little fishing pressure, due partialy to its difficult access.</p>",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1963-08-12",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "5.93",
+            "species": "NOP",
+            "quartileCount": "1.2-3.9",
+            "gearCount": 15,
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "totalCatch": 89,
+            "quartileWeight": "1.5-2.4"
+          },
+          {
+            "gearCount": 15,
+            "quartileCount": "0.5-2.8",
+            "averageWeight": "0.00",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "totalCatch": 20,
+            "totalWeight": 0,
+            "gear": "Standard gill nets",
+            "CPUE": "1.33"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "5.60",
+            "gearCount": 15,
+            "quartileCount": "2.6-11.7",
+            "averageWeight": "0.00",
+            "species": "WTS",
+            "quartileWeight": "1.7-2.4",
+            "totalCatch": 84,
+            "totalWeight": 0
+          },
+          {
+            "CPUE": "0.07",
+            "gear": "Standard gill nets",
+            "totalWeight": 0,
+            "totalCatch": 1,
+            "quartileWeight": "N/A",
+            "species": "PMK",
+            "gearCount": 15,
+            "quartileCount": "N/A",
+            "averageWeight": "0.00"
+          }
+        ],
+        "surveyID": "112788"
+      }
+    ],
+    "officeCode": "F215",
+    "sampledPlants": [],
+    "averageWaterClarity": "11.7",
+    "lakeName": "Phoebe",
+    "maxDepthFeet": 25,
+    "littoralAcres": 388,
+    "shoreLengthMiles": 15.07,
+    "areaAcres": 610.01,
+    "meanDepthFeet": 10,
+    "waterClarity": [
+      [
+        "06/18/2018",
+        "12"
+      ],
+      [
+        "06/15/1998",
+        "11.3"
+      ]
+    ],
+    "DOWNumber": "16080800",
+    "accesses": [
+      {
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN",
+        "location": "120 rod portage from Grace Lake.",
+        "lakeAccessComments": "Combined portages totaling approximately 120 rods from Grace Lake. ",
+        "ownerTypeId": "USF"
+      },
+      {
+        "lakeAccessComments": "Canoeable route from Knight Lake.",
+        "location": "",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO"
+      }
+    ],
+    "county": "Cook"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

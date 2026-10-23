@@ -1,0 +1,116 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 15,
+            "CPUE": "7.50",
+            "averageWeight": "1.50",
+            "totalWeight": 22.5,
+            "quartileCount": "1.2-3.9",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-2.4",
+            "gearCount": 2,
+            "species": "NOP"
+          },
+          {
+            "averageWeight": "0.94",
+            "CPUE": "10.00",
+            "totalCatch": 20,
+            "species": "SMB",
+            "gearCount": 2,
+            "quartileWeight": "0.3-2.2",
+            "gear": "Standard gill nets",
+            "totalWeight": 18.75,
+            "quartileCount": "0.2-0.7"
+          },
+          {
+            "totalWeight": 19.2,
+            "gear": "Standard gill nets",
+            "quartileCount": "3.0-13.2",
+            "quartileWeight": "0.7-1.3",
+            "species": "WAE",
+            "gearCount": 2,
+            "totalCatch": 11,
+            "CPUE": "5.50",
+            "averageWeight": "1.75"
+          },
+          {
+            "totalCatch": 1,
+            "CPUE": "0.50",
+            "averageWeight": "0.10",
+            "totalWeight": 0.1,
+            "quartileCount": "0.5-2.8",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "gearCount": 2
+          },
+          {
+            "totalWeight": 24.45,
+            "gear": "Standard gill nets",
+            "quartileCount": "2.6-11.7",
+            "quartileWeight": "1.7-2.4",
+            "gearCount": 2,
+            "species": "WTS",
+            "totalCatch": 8,
+            "CPUE": "4.00",
+            "averageWeight": "3.06"
+          },
+          {
+            "gearCount": 2,
+            "species": "TLC",
+            "quartileWeight": "0.2-0.8",
+            "quartileCount": "1.0-5.3",
+            "totalWeight": 3.75,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.88",
+            "CPUE": "1.00",
+            "totalCatch": 2
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyID": "109989",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "16045700",
+          "survey_id": "109989",
+          "wb_name": "South Temperance",
+          "survey_type": "Population Assessment",
+          "id_date": "1986-09-04",
+          "county": "Cook"
+        },
+        "surveyDate": "1986-09-04",
+        "lengths": {},
+        "narrative": "<p>ABUNDANCE AND SIZE OF WALLEYES IS GOOD. THERE APPEARS TO BE FAIRLY RELIABLE NATURAL REPRODUCTION GROWTH RATES ARE GOOD. SMALLMOUTH BASS ARE PRESENT IN GOOD NUMBERS. GROWTH IS GOOD, AND THERE ARE SOME LARGE INDIVIDUALS PRESENT. A SMALL NORTHERN CISCO POPULATION IS PRESENT, AND THERE ARE GOOD NUMBERS OF SMALL NORTHERN PIKE.</p>"
+      }
+    ],
+    "shoreLengthMiles": 10.09,
+    "DOWNumber": "16045700",
+    "county": "Cook",
+    "littoralAcres": 151,
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "areaAcres": 214.3,
+    "waterClarity": [],
+    "lakeName": "South Temperance",
+    "averageWaterClarity": "N/A",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "location": "NONE",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "maxDepthFeet": 24
+  },
+  "timestamp": 1790285686,
+  "message": "Normal execution."
+}

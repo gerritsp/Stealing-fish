@@ -1,0 +1,61 @@
+{
+  "result": {
+    "maxDepthFeet": 80,
+    "officeCode": "F214",
+    "littoralAcres": 0,
+    "lakeName": "Dutton",
+    "county": "Lake",
+    "shoreLengthMiles": 1.66,
+    "DOWNumber": "38017100",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "location": "Rough portage from Amoeber Lake.  BWCA Paddle Only"
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "sampledPlants": [],
+    "waterClarity": [],
+    "surveys": [
+      {
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyDate": "1974-07-26",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "id_date": "1974-07-26",
+          "wb_name": "Dutton",
+          "wb_id": "38017100",
+          "wb_alt_name": "",
+          "survey_id": "107949",
+          "county": "Lake"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 4,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "CPUE": "2.00",
+            "totalWeight": 0.35,
+            "averageWeight": "0.09",
+            "species": "YEP",
+            "quartileCount": "1.3-10.3"
+          }
+        ],
+        "narrative": "<p>Composed of small Perch.</p>",
+        "surveyID": "107949"
+      }
+    ],
+    "areaAcres": 29.57,
+    "meanDepthFeet": 0
+  },
+  "timestamp": 1790286022,
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

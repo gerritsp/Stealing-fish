@@ -1,0 +1,72 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285995,
+  "result": {
+    "waterClarity": [],
+    "maxDepthFeet": 38,
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "location": "25 rod trail from Paco Lake to the SW part of the lake.",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "DOWNumber": "38001000",
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "lengths": {},
+        "narrative": "<p>Consists of above average populations of suckers and green sunfish.</p>",
+        "surveyID": "107925",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 5,
+            "CPUE": "1.67",
+            "averageWeight": "0.07",
+            "species": "GSF",
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "totalWeight": 0.35,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 32.25,
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "totalCatch": 47,
+            "species": "WTS",
+            "CPUE": "15.67",
+            "averageWeight": "0.69"
+          }
+        ],
+        "surveyDate": "1978-08-17",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "id_date": "1978-08-17",
+          "wb_id": "38001000",
+          "wb_alt_name": "",
+          "wb_name": "Cook County",
+          "county": "Lake",
+          "survey_id": "107925",
+          "wb_type": "Lake"
+        }
+      }
+    ],
+    "officeCode": "F214",
+    "averageWaterClarity": "N/A",
+    "littoralAcres": 0,
+    "areaAcres": 44.93,
+    "meanDepthFeet": 0,
+    "county": "Lake",
+    "lakeName": "Cook County",
+    "shoreLengthMiles": 1.92
+  },
+  "status": "SUCCESS"
+}

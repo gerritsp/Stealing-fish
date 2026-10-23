@@ -1,0 +1,61 @@
+{
+  "result": {
+    "waterClarity": [],
+    "averageWaterClarity": "N/A",
+    "maxDepthFeet": 10,
+    "county": "St. Louis",
+    "surveys": [
+      {
+        "surveyDate": "1984-08-30",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Dark Lake has an extremely simple species complex above average numbers of small white suckers and unidentified minnow species. </p>",
+        "fishCatchSummaries": [
+          {
+            "species": "WTS",
+            "gearCount": 3,
+            "totalWeight": 13,
+            "averageWeight": "0.57",
+            "CPUE": "7.67",
+            "quartileCount": "5.3-22.1",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.3-2.3",
+            "totalCatch": 23
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Dark",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "id_date": "1984-08-30",
+          "county": "St. Louis",
+          "wb_id": "69020200",
+          "survey_id": "108261"
+        },
+        "surveyID": "108261"
+      }
+    ],
+    "areaAcres": 33.66,
+    "littoralAcres": 33.66,
+    "officeCode": "F214",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "location": "ACCESS GAINED BY USFS PORTAGES- 1/4 MI FROM IRON LAKE OR 1/4 MI FROM RUSH LAKE  OR BY LONG PORTAGES"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "DOWNumber": "69020200",
+    "lakeName": "Dark",
+    "sampledPlants": [],
+    "shoreLengthMiles": 1.02
+  },
+  "timestamp": 1790285966,
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

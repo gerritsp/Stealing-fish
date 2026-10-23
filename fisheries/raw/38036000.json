@@ -1,0 +1,50 @@
+{
+  "timestamp": 1790285872,
+  "message": "Normal execution.",
+  "result": {
+    "areaAcres": 70.57,
+    "officeCode": "F214",
+    "DOWNumber": "38036000",
+    "waterClarity": [
+      [
+        "08/20/2025",
+        "7"
+      ],
+      [
+        "08/02/2025",
+        "8"
+      ]
+    ],
+    "sampledPlants": [],
+    "maxDepthFeet": 0,
+    "surveys": [
+      {
+        "surveyID": "22122522746190093",
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Strup Lake on August 20th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 68.9 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 20.7 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 50.4 feet at the time of sampling. This layer in the water column was 29.8 feet, indicating oxythermal habitat for Lake Trout was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.1 degrees C (39.4 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 and 2025 also indicated suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 2025 when the suitable oxythermal habitat layer was 29.8 feet thick. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "lengths": {},
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-08-02",
+        "headerInfo": {
+          "wb_id": "38036000",
+          "survey_id": "22122522746190093",
+          "id_date": "2025-08-02",
+          "wb_type": "Lake",
+          "wb_name": "Strup",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "county": "Lake"
+        }
+      }
+    ],
+    "accesses": [],
+    "shoreLengthMiles": 3.13,
+    "averageWaterClarity": "7.5",
+    "littoralAcres": 0,
+    "county": "Lake",
+    "lakeName": "Strup",
+    "meanDepthFeet": 0
+  },
+  "status": "SUCCESS"
+}

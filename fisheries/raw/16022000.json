@@ -1,0 +1,145 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "maxDepthFeet": 46,
+    "sampledPlants": [],
+    "areaAcres": 84.13,
+    "accesses": [
+      {
+        "lakeAccessComments": "Lake is entirely inside the BWCAW.  Access by 1-mile trail to NE corner of lake,  beginning at 1913 Lima Grade (USFS 315); approx. UTM.",
+        "publicUseAuthCode": "UNK",
+        "location": "NONE",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "shoreLengthMiles": 3.08,
+    "averageWaterClarity": "11.8",
+    "DOWNumber": "16022000",
+    "county": "Cook",
+    "meanDepthFeet": 0,
+    "lakeName": "Morgan",
+    "waterClarity": [
+      [
+        "08/14/1984",
+        "13"
+      ],
+      [
+        "09/28/1992",
+        "10.5"
+      ]
+    ],
+    "littoralAcres": 40,
+    "officeCode": "F218",
+    "surveys": [
+      {
+        "surveyDate": "1984-08-14",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.4-2.2",
+            "totalCatch": 21,
+            "gearCount": 3,
+            "totalWeight": 37.5,
+            "CPUE": "7.00",
+            "quartileCount": "2.3-5.1",
+            "averageWeight": "1.79",
+            "species": "NOP",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 2.5,
+            "gearCount": 3,
+            "CPUE": "0.33",
+            "totalCatch": 1,
+            "quartileWeight": "0.7-2.3",
+            "species": "WTS",
+            "averageWeight": "2.50",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-12.5"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "id_date": "1984-08-14",
+          "wb_id": "16022000",
+          "county": "Cook",
+          "wb_name": "Morgan",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "survey_id": "109924"
+        },
+        "surveyID": "109924",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "narrative": "<p>NORTHERN PIKE NUMBERS ARE FAIRLY HIGH, AND THERE IS A WIDE REPRESENTATION OF AGE CLASSES. GROWTH RATES ARE SLOW, WHICH IS SURPRISING IN LIGHT OF THE LARGE NUMBERS OF YY PERCH OBSERVED IN THE LAKE THESE PERCH MAY REPRESENT AN UNUSUALLY LARGE YEAR- CLASS, BUT IF THEIR PRESENCE IS CONTINUED THERE MAY BE SOME FUTURE IMPROVEMENT IN N PIKE GROWTH.</p>"
+      },
+      {
+        "narrative": "<p>Survival of brook trout stocked since 1989 has been very poor, almost certainly due to predation by northern pike.  The 1986 reclamation either failed to acheive a compete kill, or the fish barrier constructed below Jake Lake failed to prevent the movement of northern pike (and other species) back into the system.Northern pike were relatively abundant, and had exhibited fast growth by area standards.  Brook trout fingerlings were a seasonal source of high quality forage, but yellow perch were also present and contributed to the forage base when trout were not available.</p>",
+        "lengths": {},
+        "surveySubType": "Population Assessment",
+        "surveyID": "110685",
+        "headerInfo": {
+          "county": "Cook",
+          "id_date": "1992-09-28",
+          "wb_id": "16022000",
+          "wb_type": "Lake",
+          "wb_name": "Morgan",
+          "wb_alt_name": "",
+          "survey_id": "110685",
+          "survey_type": "Population Assessment"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.4-2.2",
+            "totalCatch": 11,
+            "gearCount": 3,
+            "totalWeight": 36.9,
+            "CPUE": "3.67",
+            "quartileCount": "2.3-5.1",
+            "averageWeight": "3.35",
+            "species": "NOP",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 1,
+            "CPUE": "0.33",
+            "totalWeight": 3.3,
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "species": "SPT",
+            "averageWeight": "3.30"
+          },
+          {
+            "totalWeight": 5.1,
+            "gearCount": 3,
+            "CPUE": "0.33",
+            "totalCatch": 1,
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "averageWeight": "5.10",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "species": "PMK",
+            "averageWeight": "0.10",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "totalWeight": 0.1,
+            "gearCount": 3,
+            "CPUE": "0.33",
+            "totalCatch": 1,
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyDate": "1992-09-28"
+      }
+    ]
+  },
+  "timestamp": 1790285793
+}

@@ -1,0 +1,49 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "county": "Lake",
+    "waterClarity": [],
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "narrative": "<p>No fish taken in 2 gillnets.</p>",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_id": "38050600",
+          "wb_name": "Swing",
+          "wb_type": "Lake",
+          "survey_id": "108012",
+          "id_date": "1982-07-16",
+          "wb_alt_name": "",
+          "county": "Lake"
+        },
+        "surveyDate": "1982-07-16",
+        "fishCatchSummaries": [],
+        "surveySubType": "Initial Survey",
+        "surveyID": "108012"
+      }
+    ],
+    "areaAcres": 11.61,
+    "sampledPlants": [],
+    "shoreLengthMiles": 0.61,
+    "officeCode": "F214",
+    "maxDepthFeet": 13,
+    "meanDepthFeet": 0,
+    "lakeName": "Swing",
+    "accesses": [
+      {
+        "location": "Portages -  1/4 miles from Abinodji Lake and 1/8 mile from Gibson Lake.",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " "
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "DOWNumber": "38050600",
+    "littoralAcres": 11.61
+  },
+  "timestamp": 1790285825,
+  "status": "SUCCESS"
+}

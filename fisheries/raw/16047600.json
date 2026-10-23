@@ -1,0 +1,261 @@
+{
+  "timestamp": 1790285638,
+  "status": "SUCCESS",
+  "result": {
+    "areaAcres": 173.34,
+    "DOWNumber": "16047600",
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "species": "SMB",
+            "gearCount": 6,
+            "CPUE": "0.83",
+            "quartileCount": "0.8-2.8",
+            "totalWeight": 4301,
+            "totalCatch": 5,
+            "quartileWeight": "1.0-2.4",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.90"
+          },
+          {
+            "CPUE": "3.00",
+            "species": "WAE",
+            "gearCount": 6,
+            "totalWeight": 17255,
+            "quartileCount": "1.3-5.0",
+            "totalCatch": 18,
+            "quartileWeight": "1.1-2.0",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.11"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.3",
+            "totalCatch": 11,
+            "averageWeight": "0.41",
+            "CPUE": "1.83",
+            "gearCount": 6,
+            "species": "YEP",
+            "totalWeight": 2031,
+            "quartileCount": "2.0-16.0"
+          },
+          {
+            "CPUE": "0.50",
+            "gearCount": 6,
+            "species": "GSF",
+            "totalWeight": 95,
+            "quartileCount": "8.8",
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.07"
+          },
+          {
+            "CPUE": "9.67",
+            "gearCount": 6,
+            "species": "WTS",
+            "totalWeight": 57905,
+            "quartileCount": "4.0-14.5",
+            "gear": "Standard gill nets",
+            "totalCatch": 58,
+            "quartileWeight": "1.4-2.5",
+            "averageWeight": "2.20"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "Cook",
+          "survey_type": "Re-Survey",
+          "wb_id": "16047600",
+          "survey_id": "110845",
+          "wb_name": "Kelly",
+          "wb_alt_name": "",
+          "id_date": "1997-08-25",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>Kelly Lake has good numbers and a stable, reproducing population of walleye with a catch rate of 3.0 fish/gill net during the 1971 survey, the 1979 assessment, and the 1997 survey.  Most year classes were present and walleye up to 29 inches were caught during this survey.  Northern pike were not caught during this survey, yet good numbers were caught in 1971 and 1979.Green sunfish and smallmouth bass were caught during this survey, but were not caught during the 1971 survey or 1979 assessment.  It appears that smallmouth bass have become well established in Kelly Lake.</p>",
+        "surveyDate": "1997-08-25",
+        "surveySubType": "Re-Survey",
+        "surveyID": "110845",
+        "lengths": {
+          "SMB": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 16
+          },
+          "WTS": {
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                18
+              ],
+              [
+                18,
+                16
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                3
+              ]
+            ],
+            "maximum_length": 20
+          },
+          "GSF": {
+            "minimum_length": 3,
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                4,
+                2
+              ]
+            ],
+            "maximum_length": 4
+          },
+          "WAE": {
+            "maximum_length": 29,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                29,
+                1
+              ]
+            ],
+            "minimum_length": 11
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 11
+          }
+        }
+      }
+    ],
+    "sampledPlants": [],
+    "maxDepthFeet": 13,
+    "shoreLengthMiles": 7.33,
+    "meanDepthFeet": 4,
+    "county": "Cook",
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "location": "Entirely in BWCAW. Three-rod portage from N end of Peterson Lake.",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA"
+      }
+    ],
+    "officeCode": "F218",
+    "littoralAcres": 173.34,
+    "lakeName": "Kelly",
+    "waterClarity": [
+      [
+        "09/01/1971",
+        "6.5"
+      ]
+    ],
+    "averageWaterClarity": "6.5"
+  },
+  "message": "Normal execution."
+}

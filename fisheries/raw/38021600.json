@@ -1,0 +1,83 @@
+{
+  "result": {
+    "officeCode": "F214",
+    "averageWaterClarity": "N/A",
+    "shoreLengthMiles": 0.91,
+    "lakeName": "Totem",
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "location": "By portage only-BWCA.",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O"
+      }
+    ],
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.20",
+            "quartileCount": "3.9-9.4",
+            "totalCatch": 9,
+            "quartileWeight": "1.2-2.4",
+            "totalWeight": 10.8,
+            "species": "NOP",
+            "CPUE": "4.50",
+            "gearCount": 2,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "2.0-23.0",
+            "totalCatch": 13,
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.18",
+            "gear": "Standard gill nets",
+            "totalWeight": 2.4,
+            "species": "YEP",
+            "CPUE": "6.50",
+            "gearCount": 2
+          },
+          {
+            "totalCatch": 26,
+            "quartileCount": "2.6-17.5",
+            "quartileWeight": "0.8-2.3",
+            "averageWeight": "1.88",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "totalWeight": 49,
+            "CPUE": "13.00",
+            "gearCount": 2
+          }
+        ],
+        "narrative": "<p>Northern pike are present in above average numbers; however, the northern pike are small.  The yellow perch population is slightly below normal, while the white sucker population is above average both in numbers and size.</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1973-08-09",
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Totem",
+          "id_date": "1973-08-09",
+          "county": "Lake",
+          "survey_id": "107969",
+          "wb_id": "38021600"
+        },
+        "surveyID": "107969",
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "waterClarity": [],
+    "littoralAcres": 15,
+    "county": "Lake",
+    "meanDepthFeet": 0,
+    "DOWNumber": "38021600",
+    "sampledPlants": [],
+    "maxDepthFeet": 19,
+    "areaAcres": 15.69
+  },
+  "timestamp": 1790286040,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

@@ -1,0 +1,790 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "county": "Lake",
+    "DOWNumber": "38015300",
+    "shoreLengthMiles": 17.19,
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_id": "38015300",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Adams",
+          "survey_id": "107937",
+          "id_date": "1964-08-01",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake"
+        },
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.65",
+            "averageWeight": "1.00",
+            "species": "NOP",
+            "quartileCount": "0.6-2.4",
+            "totalWeight": 28,
+            "quartileWeight": "2.1-4.9",
+            "gear": "Standard gill nets",
+            "totalCatch": 28,
+            "gearCount": 17
+          },
+          {
+            "CPUE": "0.18",
+            "averageWeight": "1.00",
+            "species": "RKB",
+            "quartileCount": "0.4-1.2",
+            "totalWeight": 3,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "gearCount": 17
+          },
+          {
+            "totalCatch": 33,
+            "gear": "Standard gill nets",
+            "gearCount": 17,
+            "totalWeight": 33,
+            "species": "WAE",
+            "quartileCount": "1.2-5.2",
+            "averageWeight": "1.00",
+            "CPUE": "1.94",
+            "quartileWeight": "1.0-2.0"
+          },
+          {
+            "quartileWeight": "1.0-2.1",
+            "totalWeight": 78,
+            "species": "LKW",
+            "quartileCount": "1.6-15.5",
+            "CPUE": "4.59",
+            "averageWeight": "1.00",
+            "gearCount": 17,
+            "totalCatch": 78,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "1.1-2.5",
+            "quartileCount": "0.8-5.3",
+            "species": "WTS",
+            "averageWeight": "1.00",
+            "CPUE": "1.53",
+            "totalWeight": 26,
+            "gearCount": 17,
+            "gear": "Standard gill nets",
+            "totalCatch": 26
+          },
+          {
+            "totalWeight": 4,
+            "species": "BLG",
+            "quartileCount": "N/A",
+            "CPUE": "0.24",
+            "averageWeight": "1.00",
+            "quartileWeight": "N/A",
+            "totalCatch": 4,
+            "gear": "Standard gill nets",
+            "gearCount": 17
+          }
+        ],
+        "narrative": "<p>(island where anglers had cleaned their fish.</p>",
+        "surveyDate": "1964-08-01",
+        "surveyID": "107937",
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyDate": "2025-08-04",
+        "surveyID": "22122521954307105",
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "lengths": {},
+        "headerInfo": {
+          "wb_id": "38015300",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "wb_name": "Adams",
+          "survey_id": "22122521954307105",
+          "id_date": "2025-08-04",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake"
+        },
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Adams Lake on August 4th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 78.7 feet), the water temperature decreased to 17.2 degrees C (63.0 degrees F) at 18.1 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 72.2 feet at the time of sampling. This layer in the water column was 54.1 feet, indicating oxythermal habitat for Lake Whitefish was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.2 degrees C (41.4 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey. Though Lake Trout have not been found in Adams Lake, oxythermal habitat appears to be adequate for their survival. Lake Trout fry or finglerings were stocked in 1964 and 1977 and no Lake Trout were observed in four surveys. Lake Whitefish have been the dominant species in the gill net catches by number of fish. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>"
+      },
+      {
+        "surveyID": "107936",
+        "surveyDate": "1982-07-29",
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "2.1-4.9",
+            "totalWeight": 122,
+            "CPUE": "4.67",
+            "averageWeight": "4.36",
+            "quartileCount": "0.6-2.4",
+            "species": "NOP",
+            "gearCount": 6,
+            "totalCatch": 28,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 6,
+            "totalCatch": 7,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 0.5,
+            "averageWeight": "0.07",
+            "CPUE": "1.17",
+            "quartileCount": "0.4-1.2",
+            "species": "RKB"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 12,
+            "gearCount": 6,
+            "quartileCount": "1.2-5.2",
+            "species": "WAE",
+            "CPUE": "2.00",
+            "averageWeight": "4.71",
+            "totalWeight": 56.5,
+            "quartileWeight": "1.0-2.0"
+          },
+          {
+            "totalCatch": 35,
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalWeight": 18,
+            "CPUE": "5.83",
+            "averageWeight": "0.51",
+            "species": "LKW",
+            "quartileCount": "1.6-15.5",
+            "quartileWeight": "1.0-2.1"
+          },
+          {
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "3.00",
+            "averageWeight": "0.90",
+            "quartileCount": "0.8-5.3",
+            "species": "WTS",
+            "totalWeight": 16.2,
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalCatch": 18
+          },
+          {
+            "totalCatch": 5,
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalWeight": 0.5,
+            "CPUE": "0.83",
+            "averageWeight": "0.10",
+            "quartileCount": "N/A",
+            "species": "BLG",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Adams",
+          "survey_id": "107936",
+          "id_date": "1982-07-29",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "wb_id": "38015300",
+          "wb_alt_name": "",
+          "county": "Lake"
+        },
+        "lengths": {},
+        "narrative": "<p>Above average population of Northern pike and whitefish, average population of sucker and rock bass, and below average populations of walleye and bluegill. The walleye in the lake are well above average in size and are quite old.  they appear to be very fast growing.  Fish populations are very similar to the 1964 survey.</p>"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 147,
+            "CPUE": "1.33",
+            "averageWeight": "0.04",
+            "quartileCount": "N/A",
+            "species": "BLG",
+            "quartileWeight": "N/A",
+            "totalCatch": 8,
+            "gear": "Shallow gill nets",
+            "gearCount": 6
+          },
+          {
+            "totalCatch": 28,
+            "gear": "Deep gill nets",
+            "gearCount": 3,
+            "totalWeight": 6898,
+            "CPUE": "9.33",
+            "averageWeight": "0.54",
+            "quartileCount": "N/A",
+            "species": "LKW",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 6,
+            "gear": "Shallow gill nets",
+            "totalCatch": 30,
+            "quartileWeight": "N/A",
+            "averageWeight": "4.41",
+            "CPUE": "5.00",
+            "species": "NOP",
+            "quartileCount": "N/A",
+            "totalWeight": 59958
+          },
+          {
+            "totalWeight": 308,
+            "quartileCount": "N/A",
+            "species": "RKB",
+            "CPUE": "1.83",
+            "averageWeight": "0.06",
+            "quartileWeight": "N/A",
+            "totalCatch": 11,
+            "gear": "Shallow gill nets",
+            "gearCount": 6
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 4183,
+            "CPUE": "2.33",
+            "averageWeight": "0.66",
+            "quartileCount": "N/A",
+            "species": "LKW",
+            "gearCount": 6,
+            "totalCatch": 14,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 5860,
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "CPUE": "2.83",
+            "averageWeight": "0.76",
+            "gearCount": 6,
+            "totalCatch": 17,
+            "gear": "Shallow gill nets"
+          }
+        ],
+        "headerInfo": {
+          "id_date": "1996-06-24",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_name": "Adams",
+          "survey_id": "109097",
+          "wb_id": "38015300",
+          "wb_alt_name": "",
+          "county": "Lake"
+        },
+        "lengths": {
+          "NOP": {
+            "maximum_length": 34,
+            "minimum_length": 17,
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                3
+              ],
+              [
+                25,
+                3
+              ],
+              [
+                26,
+                6
+              ],
+              [
+                27,
+                3
+              ],
+              [
+                28,
+                2
+              ],
+              [
+                29,
+                5
+              ],
+              [
+                31,
+                2
+              ],
+              [
+                33,
+                1
+              ],
+              [
+                34,
+                1
+              ]
+            ]
+          },
+          "RKB": {
+            "maximum_length": 5,
+            "minimum_length": 3,
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                4,
+                8
+              ],
+              [
+                5,
+                2
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 5,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                5
+              ]
+            ]
+          },
+          "LKW": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                16
+              ],
+              [
+                12,
+                13
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                16,
+                3
+              ]
+            ],
+            "minimum_length": 10,
+            "maximum_length": 16
+          },
+          "BLG": {
+            "fishCount": [
+              [
+                3,
+                5
+              ],
+              [
+                4,
+                3
+              ]
+            ],
+            "maximum_length": 4,
+            "minimum_length": 3
+          }
+        },
+        "narrative": "<p>Adams Lake is in Ecological Lake Class 3, which consists of 72 lakes in northeast Minnesota that are average in size, deep, have very irregular shoreline shapes, and have very clear, soft, and infertile water.  Lake Class 3 is one of the less biologically productive lake classes in the State.  Adams Lake has some habitat for coldwater fish species; the water column stratifies in midsummer and there is less than 5 ppm oxygen below 40 ft, at which depth the water temperature is 45 F.  More than 2 ppm oxygen is present to a depth of 70 ft.  The total catch of fish in 1996 (all species combined) of 13.3 fish/net was normal for this lake class.  The total catch by weight, however, of 25.9 lb/net was above average - due to good numbers of northern pike with an average weight of 4.4 lb.  Fish populations in 1996 were dominated by northern pike, lake whitefish, and white sucker.  Northern pike numbers in 1996 were higher than normal for this lake class.  Similar numbers were caught in a 1982 survey, but lower numbers were caught in a 1964 survey.  Pike sizes averaged 27 in, which is normal for this lake class, but larger than in most lake classes in northeast Minnesota.  The largest pike in 1996 was 34.6 in (8.5 lb).  Lake whitefish numbers in 1996 were average for this lake class, which has more whitefish than most lake classes.  White sucker numbers were average for this lake class.  Rock bass numbers, while not high, were above normal for this lake class and have increased from previous surveys.  Low numbers of small bluegill were present in 1996.  Yellow perch and burbot (eelpout) were not caught in the nets, but were found in the stomachs of northern pike.  Walleye, which had been present in low numbers in previous surveys, were not caught in 1996.     </p>",
+        "surveyID": "109097",
+        "surveyDate": "1996-06-24",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "narrative": "<p>Adams Lake is located approximately 34 miles NE of Ely in the BWCAW. Access to this remote lake requires numerous portages and approximately 2 days of travel. There are 7 designated USFS campsites surrounding the lake for overnight use. <br> \n <br> \nFish populations in 2016 were dominated by lake whitefish. Northern pike, smallmouth bass and one walleye were also sampled. Low numbers of rock bass and white sucker are present. Three gill nets were set in deeper water and sampled additional whitefish and several pike.  <br> \n <br> \nLake whitefish numbers in 2016 were above the historical average for Adams Lake. Most of the whitefish were small with an average length of 13.4 inches. The largeset whitefish sampled was 22.3 inches long. Whitefish ages ranged from age 3 to age 29 and growth appears to be slow. With no perch or cisco present, whitefish are likely an important forage fish in Adams Lake. <br> \n <br> \nNorthern pike numbers in 2016 (2.3/gill net) were below the historical average (3.5/gill net) for Adams Lake. The average pike sampled was 26.8 inches which is larger than the historical average length of 25.3 inches. The largest pike sampled in 2016 was 32.3 inches long. <br> \n <br> \nSmallmouth bass were sampled for the first time in Adams Lake during the 2016 survey. Based on the age data, smallmouth have been present for some time. A total of seven smallmouth were sampled in the gill nets. The largest smallmouth sampled was 18.7 inches. Smallmouth ages were all 10 years or older and growth was slow. Several smaller bass were observed near shore and anecdotal reports are that smallmouth fishing is good on Adams Lake.</p>",
+        "headerInfo": {
+          "wb_id": "38015300",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "id_date": "2016-06-27",
+          "survey_type": "Standard Survey",
+          "wb_name": "Adams",
+          "survey_id": "12631617448777000"
+        },
+        "lengths": {
+          "RKB": {
+            "maximum_length": 4,
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                2
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                3
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                27,
+                3
+              ],
+              [
+                28,
+                2
+              ],
+              [
+                31,
+                4
+              ],
+              [
+                32,
+                1
+              ]
+            ],
+            "minimum_length": 19,
+            "maximum_length": 32
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                4
+              ]
+            ],
+            "minimum_length": 14,
+            "maximum_length": 16
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                18,
+                1
+              ]
+            ],
+            "minimum_length": 18,
+            "maximum_length": 18
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 15
+          },
+          "LKW": {
+            "fishCount": [
+              [
+                10,
+                8
+              ],
+              [
+                11,
+                15
+              ],
+              [
+                12,
+                10
+              ],
+              [
+                13,
+                8
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                15
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                6
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                7
+              ],
+              [
+                8,
+                18
+              ],
+              [
+                9,
+                4
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 22
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "totalCatch": 44,
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 14665,
+            "averageWeight": "0.73",
+            "CPUE": "14.67",
+            "quartileCount": "N/A",
+            "species": "LKW"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 31629,
+            "averageWeight": "4.36",
+            "CPUE": "2.29",
+            "species": "NOP",
+            "quartileCount": "N/A",
+            "gearCount": 7,
+            "totalCatch": 16,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "gearCount": 7,
+            "gear": "Shallow gill nets",
+            "totalCatch": 2,
+            "quartileWeight": "N/A",
+            "CPUE": "0.29",
+            "averageWeight": "0.06",
+            "quartileCount": "N/A",
+            "species": "RKB",
+            "totalWeight": 58
+          },
+          {
+            "gear": "Shallow gill nets",
+            "totalCatch": 7,
+            "gearCount": 7,
+            "CPUE": "1.00",
+            "averageWeight": "1.76",
+            "quartileCount": "N/A",
+            "species": "SMB",
+            "totalWeight": 5594,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 1024,
+            "averageWeight": "2.26",
+            "CPUE": "0.14",
+            "quartileCount": "N/A",
+            "species": "WAE",
+            "gearCount": 7,
+            "totalCatch": 1,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "gearCount": 7,
+            "totalCatch": 68,
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 29406,
+            "CPUE": "9.71",
+            "averageWeight": "0.95",
+            "quartileCount": "N/A",
+            "species": "LKW"
+          },
+          {
+            "totalWeight": 9310,
+            "averageWeight": "3.42",
+            "CPUE": "0.86",
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "quartileWeight": "N/A",
+            "totalCatch": 6,
+            "gear": "Shallow gill nets",
+            "gearCount": 7
+          },
+          {
+            "totalWeight": 7100,
+            "CPUE": "1.33",
+            "averageWeight": "3.91",
+            "quartileCount": "N/A",
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "totalCatch": 4,
+            "gear": "Deep gill nets",
+            "gearCount": 3
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyID": "12631617448777000",
+        "surveyDate": "2016-06-27",
+        "surveySubType": "Standard Survey"
+      }
+    ],
+    "officeCode": "F214",
+    "maxDepthFeet": 84,
+    "averageWaterClarity": "13.5",
+    "lakeName": "Adams",
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "08/04/2025",
+        "14"
+      ],
+      [
+        "06/27/2016",
+        "13"
+      ]
+    ],
+    "accesses": [
+      {
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "150 rod portage from Smite Lake",
+        "ownerTypeId": "USF",
+        "location": " "
+      },
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "10 rod portage en route to Boulder Lake",
+        "location": " ",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN"
+      },
+      {
+        "location": " ",
+        "lakeAccessComments": "90 rod portage to Beaver Lake",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO"
+      }
+    ],
+    "areaAcres": 474.95,
+    "sampledPlants": [],
+    "littoralAcres": 118
+  },
+  "timestamp": 1790285780,
+  "status": "SUCCESS"
+}

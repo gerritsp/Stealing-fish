@@ -1,0 +1,105 @@
+{
+  "result": {
+    "littoralAcres": 193.77,
+    "surveys": [
+      {
+        "surveyID": "108069",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyDate": "1981-08-13",
+        "narrative": "<p>Contains above average populations of northern pike and perch.  Suckers are present in about average numbers.</p>",
+        "headerInfo": {
+          "id_date": "1981-08-13",
+          "survey_id": "108069",
+          "wb_id": "38078800",
+          "wb_type": "Lake",
+          "wb_name": "Muskeg",
+          "survey_type": "Initial Survey",
+          "county": "Lake",
+          "wb_alt_name": ""
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "quartileCount": "0.5-3.8",
+            "quartileWeight": "0.1-0.3",
+            "totalCatch": 33,
+            "totalWeight": 7.75,
+            "averageWeight": "0.23",
+            "CPUE": "5.50",
+            "gear": "Standard trap nets",
+            "species": "YEP"
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "3.0-9.0",
+            "quartileWeight": "1.2-2.5",
+            "totalCatch": 66,
+            "totalWeight": 190,
+            "averageWeight": "2.88",
+            "CPUE": "16.50",
+            "gear": "Standard gill nets",
+            "species": "NOP"
+          },
+          {
+            "species": "YEP",
+            "averageWeight": "0.23",
+            "CPUE": "20.75",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.3",
+            "totalWeight": 19.5,
+            "totalCatch": 83,
+            "gearCount": 4,
+            "quartileCount": "3.3-18.3"
+          },
+          {
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.42",
+            "CPUE": "3.00",
+            "totalCatch": 12,
+            "totalWeight": 29,
+            "quartileWeight": "1.3-2.3",
+            "quartileCount": "5.3-22.1",
+            "gearCount": 4
+          },
+          {
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "totalWeight": 43,
+            "totalCatch": 23,
+            "quartileWeight": "N/A",
+            "gear": "Standard trap nets",
+            "CPUE": "3.83",
+            "averageWeight": "1.87",
+            "species": "NOP"
+          }
+        ]
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "sampledPlants": [],
+    "DOWNumber": "38078800",
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "location": "1 rod portage off of the Four-Mile portage  1.5miles from Fall Lake.",
+        "lakeAccessComments": " "
+      }
+    ],
+    "officeCode": "F214",
+    "county": "Lake",
+    "areaAcres": 193.77,
+    "lakeName": "Muskeg",
+    "shoreLengthMiles": 2.95,
+    "maxDepthFeet": 7,
+    "waterClarity": []
+  },
+  "timestamp": 1790285577,
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

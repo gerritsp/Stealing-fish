@@ -1,0 +1,373 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "littoralAcres": 70,
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveyDate": "1980-08-11",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "id_date": "1980-08-11",
+          "wb_alt_name": "",
+          "wb_name": "Peter",
+          "survey_id": "109818",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "wb_id": "16075700"
+        },
+        "narrative": "<p>The Lk Trout pop. apparently is stable.  Lk Trt are slow-grwng and mature at a rel. sml sz (12-13 in.).  Because of the remoteness of the lake, few anglers fish the lake in the winter.  At prsnt summer angling pressur is not great.  There is a large population of primarily small size Suckers, with Perch and Burbot present.</p>",
+        "lengths": {},
+        "surveyID": "109818",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 1,
+            "CPUE": "0.29",
+            "gearCount": 7,
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.3",
+            "quartileWeight": "0.7-1.9",
+            "species": "BUB",
+            "averageWeight": "0.50"
+          },
+          {
+            "quartileCount": "0.8-4.3",
+            "quartileWeight": "1.2-3.1",
+            "species": "LAT",
+            "averageWeight": "0.67",
+            "totalWeight": 45,
+            "CPUE": "9.57",
+            "gearCount": 7,
+            "totalCatch": 67,
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "YEP",
+            "averageWeight": "0.13",
+            "quartileCount": "0.3-2.8",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 13,
+            "gear": "Standard gill nets",
+            "totalWeight": 1.7,
+            "CPUE": "1.86",
+            "gearCount": 7
+          },
+          {
+            "CPUE": "16.43",
+            "totalWeight": 108.6,
+            "gearCount": 7,
+            "totalCatch": 115,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-5.0",
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "averageWeight": "0.94"
+          }
+        ],
+        "surveySubType": "Initial Survey"
+      },
+      {
+        "surveyDate": "2024-08-06",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Peter Lake on August 6, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 39.0 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 105.5 feet at the time of sampling.  The thickness of this layer in the water column was 66.4 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.2 degrees C (43.2 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nThis is the first survey completed on Peter Lake during the late summer thermal stress period, however, data collected outside the thermal maximum period in 1992 and 2018 indicated suitable oxythermal habitat during those sampling periods. The least favorable conditions were recorded in 1992, when the suitable habitat layer thickness was 65.3 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n <br> \n</p>",
+        "headerInfo": {
+          "survey_id": "21872425437009000",
+          "wb_name": "Peter",
+          "id_date": "2024-08-06",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "wb_id": "16075700",
+          "county": "Cook"
+        },
+        "lengths": {},
+        "surveyID": "21872425437009000",
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 36,
+            "gearCount": 6,
+            "totalWeight": 60.06,
+            "CPUE": "6.00",
+            "averageWeight": "1.67",
+            "species": "LAT",
+            "quartileWeight": "1.2-3.1",
+            "quartileCount": "0.8-4.3"
+          },
+          {
+            "averageWeight": "2.30",
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.7-5.0",
+            "gear": "Standard gill nets",
+            "totalCatch": 29,
+            "gearCount": 6,
+            "totalWeight": 66.75,
+            "CPUE": "4.83"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyID": "110686",
+        "narrative": "<p>The lake trout catch in this assessment was above the normal range for lakes of this ecological class, and the number and size of fish caught was similar to the catch in the 1980 survey.  Several year classes were represented in the catch, but growth was slow by area standards.  Slow lake trout growth was probably the result of the lack of any prey fish species.  Even the white sucker in the lake were, for the most part, too large to provide forage.</p>",
+        "headerInfo": {
+          "survey_id": "110686",
+          "wb_name": "Peter",
+          "id_date": "1992-08-24",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "16075700",
+          "survey_type": "Population Assessment",
+          "county": "Cook"
+        },
+        "surveyDate": "1992-08-24"
+      },
+      {
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.3-1.3",
+            "quartileWeight": "0.7-1.9",
+            "species": "BUB",
+            "averageWeight": "0.67",
+            "totalWeight": 1837,
+            "CPUE": "1.20",
+            "gearCount": 5,
+            "totalCatch": 6,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "0.8-4.3",
+            "quartileWeight": "1.2-3.1",
+            "species": "LAT",
+            "averageWeight": "0.89",
+            "CPUE": "17.00",
+            "totalWeight": 34449,
+            "gearCount": 5,
+            "totalCatch": 85,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "gearCount": 5,
+            "totalWeight": 55,
+            "CPUE": "0.20",
+            "averageWeight": "0.12",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "0.3-2.8"
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.7-5.0",
+            "averageWeight": "1.92",
+            "species": "WTS",
+            "gearCount": 5,
+            "totalWeight": 55622,
+            "CPUE": "12.80",
+            "gear": "Standard gill nets",
+            "totalCatch": 64
+          }
+        ],
+        "surveyDate": "2018-09-19",
+        "narrative": "<p>Peter is a native Lake Trout lake that has not been known to support any gamefish species other than Lake Trout.  The long-range goal for Lake Trout in this lake, from the current (2016) management plan, is to maintain a minimum gill net catch of 5.0 fish/set.  That goal was based on relatively high Lake Trout catches seen in Peter Lake in 1980 and 1992 (the only surveys done prior to 2018).  This was the first of two surveys scheduled in the 2016 plan to determine whether the long range goal was still realistic, and to determine whether the Lake Trout population showed any signs of over-harvest. <br> \n <br> \nLake Trout appeared to have been abundant in Peter Lake in 2018, but, as in past surveys, most of the fish collected were small (12-16 inches in length).  The Lake Trout catch in this survey was the highest seen to date in Peter Lake, and was well above the normal range for a lake of this type.  There were no signs that harvest had been excessive.  The population was entirely self-sustained, with 17 year classes (including fish as old as 20 years) contributing to the catch.  Growth of Lake Trout collected in 2018 had been very slow; fish reached a mean length of just 13.0 inches at the end of their sixth year, compared to an area average of 16.2 inches.  Lake Trout in this lake subsist almost entirely on invertebrate forage, which generally does not support fast growth or large fish, but growth rates seen in Peter Lake were among the lowest seen in this area, even compared to similar lakes lacking forage fish. <br> \n <br> \nNo species new to this lake were collected in 2018; Lake Trout remained the only gamefish present.  The White Sucker gill net catch in 2018 was high for a lake of this type, but perhaps not greatly different from catches seen in 1980 and 1992, considering the change in survey timing in 2018.  We had intended to do more shoreline seining as part of this survey, to better describe the nearshore fish community.  Unfortunately, bad weather (high winds) and a lack of seinable sites due to steep drop-offs and a large amount of woody debris along shore greatly limited that effort.  No fish were taken in the single short seine haul done during this survey. <br> \n <br> \n <br> \n</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "id_date": "2018-09-19",
+          "wb_name": "Peter",
+          "survey_id": "17311827047428351",
+          "county": "Cook",
+          "wb_id": "16075700",
+          "survey_type": "Standard Survey"
+        },
+        "surveyID": "17311827047428351",
+        "lengths": {
+          "LAT": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                9
+              ],
+              [
+                13,
+                21
+              ],
+              [
+                14,
+                14
+              ],
+              [
+                15,
+                15
+              ],
+              [
+                16,
+                7
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                4
+              ]
+            ],
+            "maximum_length": 18,
+            "minimum_length": 6
+          },
+          "BUB": {
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                1
+              ]
+            ],
+            "minimum_length": 11
+          },
+          "WTS": {
+            "minimum_length": 10,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                9
+              ],
+              [
+                14,
+                9
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                11
+              ],
+              [
+                19,
+                11
+              ]
+            ]
+          },
+          "YEP": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 6
+          }
+        }
+      }
+    ],
+    "maxDepthFeet": 120,
+    "waterClarity": [
+      [
+        "08/12/1980",
+        "20.5"
+      ],
+      [
+        "08/06/2024",
+        "16.4"
+      ],
+      [
+        "08/25/1992",
+        "14.5"
+      ],
+      [
+        "09/19/2018",
+        "27"
+      ]
+    ],
+    "county": "Cook",
+    "shoreLengthMiles": 6.68,
+    "DOWNumber": "16075700",
+    "averageWaterClarity": "19.6",
+    "accesses": [
+      {
+        "location": "",
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " "
+      }
+    ],
+    "areaAcres": 281.98,
+    "officeCode": "F218",
+    "sampledPlants": [],
+    "lakeName": "Peter"
+  },
+  "timestamp": 1790285897
+}

@@ -1,0 +1,99 @@
+{
+  "result": {
+    "officeCode": "F218",
+    "waterClarity": [
+      [
+        "08/13/1973",
+        "6"
+      ]
+    ],
+    "DOWNumber": "16017800",
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveyDate": "1973-08-13",
+        "lengths": {},
+        "narrative": "<p>Although Skidway Lake is part of the S Brule Rvr, only a fair population of small N Pike is present along with a few Suckers, Perch and an occasional Walleye.</p>",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.8-8.5",
+            "gearCount": 2,
+            "totalCatch": 10,
+            "totalWeight": 10.8,
+            "quartileWeight": "1.1-2.0",
+            "averageWeight": "1.08",
+            "gear": "Standard gill nets",
+            "CPUE": "5.00",
+            "species": "NOP"
+          },
+          {
+            "species": "WAE",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.0",
+            "averageWeight": "5.80",
+            "totalWeight": 5.8,
+            "quartileCount": "1.3-5.0",
+            "gearCount": 2,
+            "totalCatch": 1
+          },
+          {
+            "CPUE": "2.00",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "averageWeight": "0.23",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.9,
+            "totalCatch": 4,
+            "gearCount": 2,
+            "quartileCount": "2.0-16.0"
+          },
+          {
+            "species": "WTS",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.4-2.5",
+            "averageWeight": "0.80",
+            "totalWeight": 0.8,
+            "totalCatch": 1,
+            "gearCount": 2,
+            "quartileCount": "4.0-14.5"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_name": "Skidway",
+          "wb_alt_name": "",
+          "wb_id": "16017800",
+          "survey_id": "109658",
+          "id_date": "1973-08-13",
+          "survey_type": "Initial Survey"
+        },
+        "surveyID": "109658"
+      }
+    ],
+    "areaAcres": 17.85,
+    "maxDepthFeet": 8,
+    "lakeName": "Skidway",
+    "sampledPlants": [],
+    "littoralAcres": 17.85,
+    "averageWaterClarity": "6.0",
+    "accesses": [
+      {
+        "location": "Accessible via 0.1 mile river channel from Dugout Lake.",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "shoreLengthMiles": 1.39,
+    "county": "Cook"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285707
+}

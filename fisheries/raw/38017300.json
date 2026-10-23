@@ -1,0 +1,72 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "waterClarity": [],
+    "officeCode": "F214",
+    "sampledPlants": [],
+    "shoreLengthMiles": 1.14,
+    "county": "Lake",
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "N/A",
+    "areaAcres": 18.65,
+    "DOWNumber": "38017300",
+    "littoralAcres": 13,
+    "accesses": [
+      {
+        "location": "Access by portage only in BWCA.",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "maxDepthFeet": 30,
+    "lakeName": "Canoe",
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.6-9.0",
+            "CPUE": "3.00",
+            "quartileWeight": "N/A",
+            "species": "GSF",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.05",
+            "totalWeight": 0.3,
+            "gearCount": 2,
+            "totalCatch": 6
+          },
+          {
+            "totalCatch": 104,
+            "totalWeight": 12.6,
+            "gearCount": 2,
+            "averageWeight": "0.12",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "1.1-12.4",
+            "CPUE": "52.00"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyID": "107951",
+        "surveyDate": "1973-07-15",
+        "narrative": "<p>Consists of green sunfish and perch.  Both species are small in size.</p>",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_id": "107951",
+          "wb_type": "Lake",
+          "wb_name": "Canoe",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38017300",
+          "id_date": "1973-07-15",
+          "survey_type": "Initial Survey"
+        }
+      }
+    ]
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790286017
+}

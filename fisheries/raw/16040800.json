@@ -1,0 +1,88 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285657,
+  "message": "Normal execution.",
+  "result": {
+    "officeCode": "F218",
+    "averageWaterClarity": "4.5",
+    "littoralAcres": 85.06,
+    "areaAcres": 85.06,
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 50,
+            "CPUE": "5.33",
+            "gearCount": 3,
+            "species": "NOP",
+            "quartileCount": "2.8-8.5",
+            "quartileWeight": "1.1-2.0",
+            "totalCatch": 16,
+            "averageWeight": "3.12"
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "averageWeight": "0.20",
+            "totalCatch": 4,
+            "quartileCount": "2.0-16.0",
+            "CPUE": "1.33",
+            "gearCount": 3,
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.8
+          },
+          {
+            "totalWeight": 71,
+            "gear": "Standard gill nets",
+            "CPUE": "11.67",
+            "gearCount": 3,
+            "species": "WTS",
+            "averageWeight": "2.03",
+            "totalCatch": 35,
+            "quartileWeight": "1.4-2.5",
+            "quartileCount": "4.0-14.5"
+          }
+        ],
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_id": "109747",
+          "wb_name": "Squire",
+          "id_date": "1974-09-09",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_id": "16040800",
+          "survey_type": "Initial Survey"
+        },
+        "surveyID": "109747",
+        "lengths": {},
+        "narrative": "<p>Squire Lake has a good population of N Pike with some large fish.  The Sucker population is good and Perch are few, evidently cropped down by the Northerns.</p>",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1974-09-09"
+      }
+    ],
+    "lakeName": "Squire",
+    "waterClarity": [
+      [
+        "09/09/1974",
+        "4.5"
+      ]
+    ],
+    "maxDepthFeet": 7,
+    "DOWNumber": "16040800",
+    "shoreLengthMiles": 3.67,
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "location": "Accessible via 0.4 mile unmarked trail from Homer Lake.",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " "
+      }
+    ],
+    "county": "Cook",
+    "sampledPlants": []
+  }
+}

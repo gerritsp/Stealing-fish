@@ -1,0 +1,77 @@
+{
+  "timestamp": 1790285643,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "areaAcres": 93.08,
+    "DOWNumber": "16025900",
+    "officeCode": "F218",
+    "sampledPlants": [],
+    "lakeName": "Zoo",
+    "averageWaterClarity": "6.0",
+    "littoralAcres": 80,
+    "maxDepthFeet": 26,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "CPUE": "13.00",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "totalCatch": 26,
+            "averageWeight": "1.85",
+            "quartileWeight": "1.4-2.7",
+            "quartileCount": "2.0-8.5",
+            "totalWeight": 48
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "totalCatch": 1,
+            "averageWeight": "6.00",
+            "gearCount": 2,
+            "CPUE": "0.50",
+            "quartileCount": "1.6-8.4",
+            "totalWeight": 6,
+            "quartileWeight": "0.9-2.3"
+          }
+        ],
+        "lengths": {},
+        "surveyDate": "1976-07-01",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "id_date": "1976-07-01",
+          "county": "Cook",
+          "survey_id": "109693",
+          "wb_alt_name": "",
+          "wb_id": "16025900",
+          "wb_name": "Zoo",
+          "wb_type": "Lake"
+        },
+        "surveyID": "109693",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>Zoo Lake has a good population of small N Pike and a few Suckers.</p>"
+      }
+    ],
+    "county": "Cook",
+    "shoreLengthMiles": 2.59,
+    "waterClarity": [
+      [
+        "06/30/1976",
+        "6"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "location": "",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "PRMIT"
+      }
+    ]
+  }
+}

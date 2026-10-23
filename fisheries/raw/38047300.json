@@ -1,0 +1,204 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "surveys": [
+      {
+        "surveyID": "109298",
+        "surveyDate": "1998-08-19",
+        "headerInfo": {
+          "wb_id": "38047300",
+          "wb_name": "Benezie",
+          "survey_type": "Initial Survey",
+          "id_date": "1998-08-19",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "survey_id": "109298",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "quartileWeight": "1.4-2.2",
+            "averageWeight": "2.09",
+            "CPUE": "2.67",
+            "species": "NOP",
+            "totalCatch": 8,
+            "totalWeight": 7580,
+            "quartileCount": "2.3-5.1"
+          },
+          {
+            "averageWeight": "0.58",
+            "CPUE": "3.00",
+            "species": "RKB",
+            "totalCatch": 9,
+            "totalWeight": 2354,
+            "quartileCount": "0.2-0.8",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2",
+            "gearCount": 3
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "CPUE": "1.00",
+            "averageWeight": "0.10",
+            "totalCatch": 3,
+            "totalWeight": 139,
+            "quartileCount": "1.3-10.3"
+          },
+          {
+            "quartileWeight": "0.2-1.3",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "species": "LMB",
+            "averageWeight": "0.08",
+            "CPUE": "0.67",
+            "totalCatch": 2,
+            "totalWeight": 72,
+            "quartileCount": "0.3-2.2"
+          },
+          {
+            "totalWeight": 283,
+            "quartileCount": "N/A",
+            "species": "BLG",
+            "averageWeight": "0.09",
+            "CPUE": "2.33",
+            "totalCatch": 7,
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>Benezie Lake is in Ecological Lake Class 8, which consists of 61 lakes in northeast Minnesota that are small and have very clear and soft (unmineralized) water.  Benezie Lake was thermally stratified on 08/19/98 and oxygen levels declined abruptly from good (7.8 ppm) at 13 ft to poor (0.7 ppm) at 14 ft.  The bottom temperature was 42 F.Benezie Lake has two small inlets that drain local wetlands.  The outlet to Drumstick Creek eventually flows to Fire Lake.  Beaver dams, low flows, and steep gradients limit fish movement in the inlets and the outlet.  Lake bottom substrates along the shoreline are mostly boulder, ledgerock, and muck.  Aquatic plants are generally sparse, with the largest concentration in the small outlet bay; the most common aquatic plants are northern watermilfoil and largeleaf pondweed.Fish sampling during this initial Fisheries lake survey consisted of three standard shallow gillnet sets.  Trapnets and shoreline seines were not used due to the difficult portage access to this lake.The total catch of fish (all species combined) in the gillnets of 9 fish/net (6 lb/net) was lower than normal for this lake class.  Fish populations consisted of five species: bluegill sunfish, largemouth bass, northern pike, rock bass, and yellow perch.Bluegill sizes were small; the largest was 5.5\".  Bluegill growth (4\" at age three) was normal for this lake class.Largemouth bass numbers (0.7/gillnet) were normal for this lake class.  All largemouth (two captured in the gillnets and one observed swimming) were small, about 6\".  Largemouth growth (3\" at age one) was slower than normal for the area.Rock bass numbers (3.0/gillnet) were higher than normal for this lake class.  Rock bass sizes averaged 7\"; the largest was 8\".Northern pike numbers (2.7/gillnet) were normal for this lake class.  Pike sizes averaged 20\"; the largest was 28\".  Pike growth (21\" at age four) was normal for the area.Perch numbers (1.0/gillnet) were lower than normal for this lake class.  Perch sizes averaged 6\"; the largest was 7\".  Perch growth (5\" at age four) was slower than normal for the area.Notable by their absence in this lake are white sucker, which are found in 74 percent of the lakes in this lake class.No diseases or parasites were observed in fish examined during this survey. </p>",
+        "surveySubType": "Initial Survey",
+        "lengths": {
+          "RKB": {
+            "maximum_length": 8,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "BLG": {
+            "maximum_length": 5,
+            "minimum_length": 3,
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                4,
+                2
+              ],
+              [
+                5,
+                4
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 14,
+            "maximum_length": 28,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                28,
+                1
+              ]
+            ]
+          },
+          "LMB": {
+            "minimum_length": 5,
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "minimum_length": 6,
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                6,
+                3
+              ]
+            ]
+          }
+        }
+      }
+    ],
+    "waterClarity": [],
+    "officeCode": "F214",
+    "DOWNumber": "38047300",
+    "averageWaterClarity": "N/A",
+    "shoreLengthMiles": 2.55,
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 27,
+    "sampledPlants": [],
+    "county": "Lake",
+    "lakeName": "Benezie",
+    "areaAcres": 60.27,
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK",
+        "location": "Becoosin/Benezie Loop; S. of Kekekabic Trail.",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " "
+      }
+    ],
+    "littoralAcres": 38
+  },
+  "timestamp": 1790285737
+}

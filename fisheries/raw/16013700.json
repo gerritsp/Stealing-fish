@@ -1,0 +1,156 @@
+{
+  "timestamp": 1790286004,
+  "result": {
+    "averageWaterClarity": "14.0",
+    "lakeName": "Rove",
+    "shoreLengthMiles": 5.2,
+    "littoralAcres": 52.3,
+    "county": "Cook",
+    "areaAcres": 74.24,
+    "surveys": [
+      {
+        "narrative": "<p>There is an extremely large population of Perch with some SM Bass and Suckers present.</p>",
+        "surveyDate": "1979-07-31",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_id": "109632",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_name": "Rove",
+          "survey_type": "Initial Survey",
+          "wb_id": "16013700",
+          "id_date": "1979-07-31"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.80",
+            "CPUE": "0.67",
+            "totalWeight": 1.6,
+            "quartileCount": "1.0-4.1",
+            "species": "SMB",
+            "gearCount": 3,
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.5-1.5"
+          },
+          {
+            "CPUE": "145.67",
+            "averageWeight": "0.09",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "gearCount": 3,
+            "totalCatch": 437,
+            "quartileCount": "1.3-10.3",
+            "totalWeight": 40
+          },
+          {
+            "totalWeight": 22.5,
+            "quartileCount": "1.7-12.5",
+            "species": "WTS",
+            "gearCount": 3,
+            "totalCatch": 26,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-2.3",
+            "averageWeight": "0.87",
+            "CPUE": "8.67"
+          }
+        ],
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "surveyID": "109632"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "totalCatch": 14,
+            "species": "SMB",
+            "quartileWeight": "0.5-1.5",
+            "gear": "Standard gill nets",
+            "totalWeight": 10.75,
+            "quartileCount": "1.0-4.1",
+            "CPUE": "4.67",
+            "averageWeight": "0.77"
+          },
+          {
+            "quartileCount": "0.4-7.0",
+            "totalWeight": 0.69,
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "species": "GSF",
+            "totalCatch": 9,
+            "averageWeight": "0.08",
+            "CPUE": "3.00"
+          },
+          {
+            "quartileCount": "1.3-10.3",
+            "totalWeight": 0.81,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 4,
+            "gearCount": 3,
+            "species": "YEP",
+            "averageWeight": "0.20",
+            "CPUE": "1.33"
+          },
+          {
+            "totalCatch": 11,
+            "gearCount": 3,
+            "species": "WTS",
+            "quartileWeight": "0.7-2.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 20.25,
+            "quartileCount": "1.7-12.5",
+            "CPUE": "3.67",
+            "averageWeight": "1.84"
+          }
+        ],
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "id_date": "1991-07-23",
+          "wb_id": "16013700",
+          "survey_type": "Population Assessment",
+          "wb_name": "Rove",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "survey_id": "110212",
+          "wb_alt_name": ""
+        },
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1991-07-23",
+        "narrative": "<p>SMB WERE ABUNDANT, AND SOME FISH OVER 15 IN WERE COLLECTED.  NO AGING WAS DONE, BUT IT APPEARED FROM THE LENGTH FREQUENCY DISTRIBUTION THAT AT LEAST THREE YEAR CLASSES WERE REPRESENTED.  NO WAE FROM THE INTRODUCTORY STOCKINGS IN 1986-1988 WERE COLLECTED; HOWEVER, THERE WAS SOME SURVIVAL OF A SIMILAR INTRODUCTION IN WATAP LAKE, WHICH IS CONNECTED TO ROVE.  IT IS LIKELY THAT SOME WAE WERE PRESENT IN ROVE LAKE.  THERE WAS A DRAMATIC CHANGE IN THE YEP CPUE FROM 1978 TO 1991.  THIS IS PROBABLY A RESULT OF THE WAE INTRODUCTION, SINCE A SIMILAR DROP IN ABUNDANCE WAS OBSERVED IN WATAP LAKE.  YEP ABUNDANCE IS STILL ABOUT AVERAGE FOR LAKES OF THIS ECOLOGICAL CLASS.</p>",
+        "surveyID": "110212"
+      }
+    ],
+    "DOWNumber": "16013700",
+    "maxDepthFeet": 30,
+    "waterClarity": [
+      [
+        "07/05/1978",
+        "12"
+      ],
+      [
+        "07/23/1991",
+        "16"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "location": "ONTARIO-MINNESOTA BORDER WATER  WITH MN PORTION ENTIRELY WITHIN THE BWCAW.",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "sampledPlants": [],
+    "officeCode": "F218"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

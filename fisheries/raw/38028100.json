@@ -1,0 +1,83 @@
+{
+  "timestamp": 1790285530,
+  "message": "Normal execution.",
+  "result": {
+    "DOWNumber": "38028100",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "location": "FROM USFS RD. #356  N. FOR 2 MI. ON USFS RD. #913TO COMFORT L.; NE ACROSS COMFORT L. and ISLAND R.",
+        "accessTypeId": "O"
+      }
+    ],
+    "areaAcres": 21.72,
+    "county": "Lake",
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Lake",
+          "wb_id": "38028100",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "wb_name": "Small",
+          "id_date": "1991-08-19",
+          "survey_id": "112466"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1991-08-19",
+        "narrative": "<p>Northern Pike are present in high numbers, however; their size is less than desireable to anglers. Northern Pike densities in the small, shallow lake are likely keeping Yellow Perch numbers at low levels. </p>",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.91",
+            "totalCatch": 16,
+            "gearCount": 2,
+            "totalWeight": 14.5,
+            "quartileWeight": "1.1-2.0",
+            "quartileCount": "4.0-15.0",
+            "species": "NOP",
+            "CPUE": "8.00"
+          },
+          {
+            "quartileCount": "2.0-15.0",
+            "species": "YEP",
+            "totalWeight": 1.4,
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 2,
+            "CPUE": "3.50",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.20",
+            "totalCatch": 7
+          },
+          {
+            "totalCatch": 16,
+            "averageWeight": "0.64",
+            "gear": "Standard gill nets",
+            "CPUE": "8.00",
+            "gearCount": 2,
+            "quartileCount": "3.0-23.0",
+            "species": "WTS",
+            "totalWeight": 10.2,
+            "quartileWeight": "0.4-1.9"
+          }
+        ],
+        "surveyID": "112466",
+        "lengths": {}
+      }
+    ],
+    "shoreLengthMiles": 0.95,
+    "maxDepthFeet": 5,
+    "averageWaterClarity": "N/A",
+    "waterClarity": [],
+    "meanDepthFeet": 0,
+    "lakeName": "Small",
+    "littoralAcres": 21.72,
+    "sampledPlants": [],
+    "officeCode": "F215"
+  },
+  "status": "SUCCESS"
+}

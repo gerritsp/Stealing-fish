@@ -1,0 +1,72 @@
+{
+  "result": {
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Sumpet",
+          "survey_id": "112452",
+          "survey_type": "Initial Survey",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_id": "38028300",
+          "id_date": "1991-08-26"
+        },
+        "narrative": "<p>No game fish are known to be in this lake. The only fish sampled were White Sucker, Common Shiner and other minnows. </p>",
+        "surveyType": "Standard Survey",
+        "surveyID": "112452",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyDate": "1991-08-26",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "2.50",
+            "species": "WTS",
+            "averageWeight": "1.24",
+            "quartileWeight": "0.4-1.9",
+            "totalCatch": 5,
+            "gear": "Standard gill nets",
+            "totalWeight": 6.2,
+            "quartileCount": "3.0-23.0",
+            "gearCount": 2
+          },
+          {
+            "totalWeight": 0.1,
+            "quartileCount": "N/A",
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 1,
+            "CPUE": "0.50",
+            "species": "CSH",
+            "averageWeight": "0.10"
+          }
+        ]
+      }
+    ],
+    "county": "Lake",
+    "officeCode": "F215",
+    "waterClarity": [],
+    "shoreLengthMiles": 1.37,
+    "sampledPlants": [],
+    "littoralAcres": 33.76,
+    "areaAcres": 33.76,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "location": "N.W. FROM USFS RD. #356 IN SEC. 14 FOR 1.8 MILES ON UNMARKED OVERGROWN LOGGING RD  THEN 0.25 ML E.",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "DOWNumber": "38028300",
+    "maxDepthFeet": 6,
+    "lakeName": "Sumpet"
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285530
+}

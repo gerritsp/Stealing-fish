@@ -1,0 +1,479 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790286019,
+  "message": "Normal execution.",
+  "result": {
+    "areaAcres": 908.63,
+    "shoreLengthMiles": 23.89,
+    "waterClarity": [
+      [
+        "08/09/1972",
+        "12.5"
+      ],
+      [
+        "08/06/2024",
+        "13.1"
+      ]
+    ],
+    "surveys": [
+      {
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_id": "16075900",
+          "wb_name": "Alpine",
+          "survey_id": "109923",
+          "id_date": "1984-09-04",
+          "county": "Cook",
+          "wb_alt_name": ""
+        },
+        "surveyDate": "1984-09-04",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets",
+            "totalWeight": 6.5,
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "6.50",
+            "CPUE": "0.11",
+            "totalCatch": 1,
+            "species": "NOP",
+            "gearCount": 9
+          },
+          {
+            "CPUE": "3.33",
+            "totalCatch": 30,
+            "species": "WAE",
+            "gearCount": 9,
+            "quartileCount": "1.2-5.2",
+            "gear": "Standard gill nets",
+            "totalWeight": 47.5,
+            "quartileWeight": "1.0-2.0",
+            "averageWeight": "1.58"
+          },
+          {
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.3,
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.30",
+            "CPUE": "0.11",
+            "totalCatch": 1,
+            "species": "YEP",
+            "gearCount": 9
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "1.6-15.5",
+            "averageWeight": "1.63",
+            "quartileWeight": "1.0-2.1",
+            "totalWeight": 172.5,
+            "totalCatch": 106,
+            "CPUE": "11.78",
+            "gearCount": 9,
+            "species": "LKW"
+          },
+          {
+            "CPUE": "0.11",
+            "totalCatch": 1,
+            "species": "WTS",
+            "gearCount": 9,
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.25",
+            "totalWeight": 0.25,
+            "quartileWeight": "1.1-2.5"
+          },
+          {
+            "species": "TLC",
+            "gearCount": 9,
+            "CPUE": "26.33",
+            "totalCatch": 237,
+            "totalWeight": 31.7,
+            "quartileWeight": "0.2-1.0",
+            "averageWeight": "0.13",
+            "quartileCount": "3.2-20.2",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyID": "109923",
+        "narrative": "<p>THE LAKE TROUT POPULATION APPEARS TO HAVE VIRTUALY DISAPPEARED SINCE 1972. WALLEYE NUMBERS ARE ABOUT AVG FOR THE REGION, BUT THERE APPEARS TO BE ONLY A LIMITED NUMBER OF AGE CLASSES PRESENT. GROWTH RATES ARE GOOD, PROBABLY DUE TO THE HIGH QUALITY DWARF CISCO FORAGE BASE. AGING INDICATES MOST CISCO ARE IN TEH I AND II YEAR CLASS, AND ARE SHOWING GOOD GROWTH, HOWEVER, IT APPEARS THERE IS NO GROWTH AFTER AGE III. THERE ARE LARGE NUMBERS OF WHITEFISH PRESENT, PROBABLY ENOUGH TO SUPPORT SOME COMMERCIAL OR SPORT NETTING. SMALLMOUTH BASS ARE PRESENT BUT WERE NOT TAKEN IN THIS ASSESSMENT.</p>"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets",
+            "averageWeight": "5.90",
+            "totalWeight": 11.8,
+            "quartileWeight": "1.5-4.0",
+            "CPUE": "0.17",
+            "totalCatch": 2,
+            "species": "LAT",
+            "gearCount": 12
+          },
+          {
+            "averageWeight": "1.70",
+            "quartileWeight": "2.1-4.9",
+            "totalWeight": 5.1,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.6-2.4",
+            "gearCount": 12,
+            "species": "NOP",
+            "totalCatch": 3,
+            "CPUE": "0.25"
+          },
+          {
+            "totalWeight": 3,
+            "quartileWeight": "0.6-1.5",
+            "averageWeight": "3.00",
+            "quartileCount": "0.3-1.4",
+            "gear": "Standard gill nets",
+            "species": "SMB",
+            "gearCount": 12,
+            "CPUE": "0.08",
+            "totalCatch": 1
+          },
+          {
+            "quartileCount": "1.2-5.2",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.73",
+            "totalWeight": 107.3,
+            "quartileWeight": "1.0-2.0",
+            "CPUE": "5.17",
+            "totalCatch": 62,
+            "species": "WAE",
+            "gearCount": 12
+          },
+          {
+            "totalWeight": 236.3,
+            "quartileWeight": "1.0-2.1",
+            "averageWeight": "1.39",
+            "quartileCount": "1.6-15.5",
+            "gear": "Standard gill nets",
+            "species": "LKW",
+            "gearCount": 12,
+            "CPUE": "14.17",
+            "totalCatch": 170
+          },
+          {
+            "species": "WTS",
+            "gearCount": 12,
+            "CPUE": "0.67",
+            "totalCatch": 8,
+            "averageWeight": "3.34",
+            "totalWeight": 26.7,
+            "quartileWeight": "1.1-2.5",
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1972-08-08",
+        "narrative": "<p>There is a good population of both Whitefish and Walleye as indicated by size ranges from small to large individuals of good numbers.  Other species are in low numbers with no small fish taken by nets.</p>",
+        "surveyID": "109819",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Cook",
+          "id_date": "1972-08-08",
+          "survey_id": "109819",
+          "wb_name": "Alpine",
+          "wb_id": "16075900",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey"
+        }
+      },
+      {
+        "headerInfo": {
+          "survey_id": "21872426147485213",
+          "wb_name": "Alpine",
+          "id_date": "2024-08-06",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "wb_id": "16075900"
+        },
+        "surveyType": "Targeted Survey",
+        "lengths": {},
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Alpine Lake, on August 6, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Lake Whitefish and Cisco, also known as Tullibee, are also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 38.0 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 42.9 feet at the time of sampling. The thickness of this layer in the water column was 4.9 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 8.2 degrees C (46.8 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable, but marginal, for Lake Trout at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 1972 during the late summer thermal stress period indicated suitable oxythermal habitat. Data were also collected outside the thermal maximum period in 1984 and 1990, this data indicated variable oxythermal habitat during those sampling periods. The least favorable oxythermal habitat conditions were recorded in 1990, outside the peak summer stress period, when the suitable habitat layer was not present. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "surveyID": "21872426147485213",
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2024-08-06",
+        "fishCatchSummaries": []
+      },
+      {
+        "surveyDate": "2002-09-03",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets",
+            "totalWeight": 6498,
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "2.87",
+            "CPUE": "0.62",
+            "totalCatch": 5,
+            "species": "NOP",
+            "gearCount": 8
+          },
+          {
+            "CPUE": "0.12",
+            "totalCatch": 1,
+            "species": "SMB",
+            "gearCount": 8,
+            "quartileCount": "0.3-1.4",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.55",
+            "totalWeight": 702,
+            "quartileWeight": "0.6-1.5"
+          },
+          {
+            "totalCatch": 1,
+            "CPUE": "1.00",
+            "gearCount": 1,
+            "species": "NOP",
+            "gear": "Misc. fish",
+            "quartileCount": "N/A",
+            "averageWeight": "2.98",
+            "quartileWeight": "N/A",
+            "totalWeight": 1350
+          },
+          {
+            "CPUE": "4.25",
+            "totalCatch": 34,
+            "species": "WAE",
+            "gearCount": 8,
+            "quartileCount": "1.2-5.2",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.55",
+            "totalWeight": 39352,
+            "quartileWeight": "1.0-2.0"
+          },
+          {
+            "averageWeight": "1.39",
+            "totalWeight": 36014,
+            "quartileWeight": "1.0-2.1",
+            "quartileCount": "1.6-15.5",
+            "gear": "Standard gill nets",
+            "species": "LKW",
+            "gearCount": 8,
+            "CPUE": "7.12",
+            "totalCatch": 57
+          },
+          {
+            "CPUE": "0.50",
+            "totalCatch": 4,
+            "species": "WTS",
+            "gearCount": 8,
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 5113,
+            "quartileWeight": "1.1-2.5",
+            "averageWeight": "2.82"
+          }
+        ],
+        "narrative": "<p>Walleye abundance in Alpine Lake in 2002 was about average for a lake of this type, and for this lake historically.  Average size of walleye present was excellent, with most of the catch in the 16 to 22-inch length range.  All walleye taken in 2002 had been produced naturally.  Walleye growth had been fast, despite the apparent lack of forage species.  They may have been feeding on 'dwarf' cisco, too small to have been taken in the gill nets used in this assessment.Northern pike and smallmouth bass catches were low compared to similar lakes, but were similar to catches seen in the past in Alpine Lake.  It is likely that spawning success or recruitment are poor for both species.  Northern pike growth rates appeared to have been fast; they too may have had access to a cisco (or small lake whitefish) forage base.The 2002 catch of lake whitefish was the lowest to date in this lake, and northern cisco (tullibee), which were abundant in 1990 and 1984, were not taken at all.  The northern cisco in this lake have been described as a 'dwarf' variety, which can sometimes be too small to be taken in standard gill nets.</p>",
+        "surveyID": "111350",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "SMB": {
+            "minimum_length": 14,
+            "fishCount": [
+              [
+                14,
+                1
+              ]
+            ],
+            "maximum_length": 14
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                5
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                22,
+                4
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 27
+          },
+          "LKW": {
+            "maximum_length": 19,
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                23
+              ],
+              [
+                16,
+                20
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 15,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "maximum_length": 22
+          },
+          "NOP": {
+            "minimum_length": 20,
+            "fishCount": [
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                1
+              ]
+            ],
+            "maximum_length": 27
+          }
+        },
+        "headerInfo": {
+          "county": "Cook",
+          "wb_alt_name": "",
+          "id_date": "2002-09-03",
+          "wb_name": "Alpine",
+          "survey_id": "111350",
+          "wb_id": "16075900",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment"
+        }
+      }
+    ],
+    "county": "Cook",
+    "averageWaterClarity": "12.8",
+    "littoralAcres": 403,
+    "lakeName": "Alpine",
+    "DOWNumber": "16075900",
+    "maxDepthFeet": 65,
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "Portage trails from Sea Gull; Red Rock; and Jasper Lakes.  Lake is entirely inside the BWCAW.",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "officeCode": "F218"
+  }
+}

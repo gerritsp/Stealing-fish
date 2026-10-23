@@ -1,0 +1,72 @@
+{
+  "timestamp": 1790285997,
+  "status": "SUCCESS",
+  "result": {
+    "county": "Cook",
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "Inside BWCAW; access by portage from SE shore of Jasper Lake.",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "surveys": [
+      {
+        "surveyID": "111072",
+        "surveyDate": "1999-08-17",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "totalWeight": 1545,
+            "averageWeight": "3.41",
+            "quartileWeight": "N/A",
+            "totalCatch": 1,
+            "CPUE": "0.25",
+            "species": "WTS"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "WTS": {
+            "minimum_length": 19,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                19,
+                1
+              ]
+            ]
+          }
+        },
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>Only a single white sucker was taken in four gill net sets in Ray Lake in 1999.  Smallmouth bass were observed along the shore, and have been taken by anglers in this lake.  Anglers have also reported catching lake trout here.  Temperature-oxygen conditions appeared to have been marginal for lake trout in 1999, although the species has been collected under similar conditions in other lakes in the area.  If present, lake trout are likely very low in number.</p>",
+        "headerInfo": {
+          "survey_id": "111072",
+          "id_date": "1999-08-17",
+          "wb_name": "Ray",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "wb_id": "16076900",
+          "wb_type": "Lake"
+        }
+      }
+    ],
+    "lakeName": "Ray",
+    "DOWNumber": "16076900",
+    "averageWaterClarity": "N/A",
+    "maxDepthFeet": 84,
+    "waterClarity": [],
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "littoralAcres": 0,
+    "areaAcres": 59.65,
+    "shoreLengthMiles": 2.02
+  },
+  "message": "Normal execution."
+}

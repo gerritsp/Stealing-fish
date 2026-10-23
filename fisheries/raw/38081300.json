@@ -1,0 +1,235 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285931,
+  "result": {
+    "areaAcres": 1162.04,
+    "sampledPlants": [],
+    "DOWNumber": "38081300",
+    "lakeName": "Fourtown",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "location": "USFS PORTAGES FROM HORSE LAKE  BOOT LAKE  AND FOURTOWN CREEK."
+      }
+    ],
+    "littoralAcres": 1084,
+    "waterClarity": [],
+    "shoreLengthMiles": 24.23,
+    "county": "Lake",
+    "maxDepthFeet": 25,
+    "officeCode": "F214",
+    "averageWaterClarity": "N/A",
+    "surveys": [
+      {
+        "lengths": {},
+        "headerInfo": {
+          "wb_id": "38081300",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "id_date": "1980-08-25",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_name": "Fourtown",
+          "survey_id": "108073"
+        },
+        "narrative": "<p>Composed of above average population of Walleye, Tullibee, and Rock Bass and average population of Sucker, N Perch, and Smallmouth Bass.  The Walleye population is composed mostly of age IV and Walleyes which are very slow growing.</p>",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "1.2-3.6",
+            "gearCount": 7,
+            "totalWeight": 82.3,
+            "totalCatch": 27,
+            "CPUE": "3.86",
+            "gear": "Standard gill nets",
+            "averageWeight": "3.05",
+            "species": "NOP",
+            "quartileWeight": "1.9-3.6"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.37",
+            "species": "RKB",
+            "quartileWeight": "0.2-0.4",
+            "quartileCount": "0.5-2.2",
+            "gearCount": 7,
+            "CPUE": "4.43",
+            "totalWeight": 11.6,
+            "totalCatch": 31
+          },
+          {
+            "gearCount": 7,
+            "quartileCount": "0.3-0.7",
+            "totalCatch": 4,
+            "totalWeight": 13.5,
+            "CPUE": "0.57",
+            "species": "SMB",
+            "gear": "Standard gill nets",
+            "averageWeight": "3.38",
+            "quartileWeight": "0.5-1.3"
+          },
+          {
+            "totalWeight": 64.2,
+            "totalCatch": 73,
+            "CPUE": "10.43",
+            "gearCount": 7,
+            "quartileCount": "3.1-9.8",
+            "quartileWeight": "0.7-1.3",
+            "averageWeight": "0.88",
+            "gear": "Standard gill nets",
+            "species": "WAE"
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.17",
+            "CPUE": "6.71",
+            "totalCatch": 47,
+            "totalWeight": 7.8,
+            "gearCount": 7,
+            "quartileCount": "1.9-7.1"
+          },
+          {
+            "CPUE": "4.86",
+            "totalCatch": 34,
+            "totalWeight": 58.2,
+            "gearCount": 7,
+            "quartileCount": "2.8-6.7",
+            "quartileWeight": "1.3-2.0",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.71"
+          },
+          {
+            "quartileWeight": "0.2-0.5",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.45",
+            "species": "TLC",
+            "CPUE": "22.29",
+            "totalWeight": 69.5,
+            "totalCatch": 156,
+            "quartileCount": "1.8-12.4",
+            "gearCount": 7
+          }
+        ],
+        "surveyDate": "1980-08-25",
+        "surveyID": "108073",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "1991-06-11",
+          "wb_id": "38081300",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_name": "Fourtown",
+          "survey_id": "108475",
+          "survey_type": "Population Assessment"
+        },
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.9-3.6",
+            "gear": "Standard gill nets",
+            "averageWeight": "4.07",
+            "species": "NOP",
+            "totalWeight": 187.2,
+            "totalCatch": 46,
+            "CPUE": "5.75",
+            "quartileCount": "1.2-3.6",
+            "gearCount": 8
+          },
+          {
+            "totalWeight": 0.5,
+            "totalCatch": 2,
+            "CPUE": "0.25",
+            "gearCount": 8,
+            "quartileCount": "0.5-2.2",
+            "quartileWeight": "0.2-0.4",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.25",
+            "species": "RKB"
+          },
+          {
+            "totalCatch": 1,
+            "totalWeight": 0.8,
+            "CPUE": "0.12",
+            "quartileCount": "0.3-0.7",
+            "gearCount": 8,
+            "quartileWeight": "0.5-1.3",
+            "species": "SMB",
+            "averageWeight": "0.80",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "0.7-1.3",
+            "species": "WAE",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.43",
+            "totalCatch": 32,
+            "totalWeight": 13.7,
+            "CPUE": "4.00",
+            "quartileCount": "3.1-9.8",
+            "gearCount": 8
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.16",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "quartileCount": "1.9-7.1",
+            "gearCount": 8,
+            "totalWeight": 9.1,
+            "totalCatch": 57,
+            "CPUE": "7.12"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "2.01",
+            "species": "WTS",
+            "quartileWeight": "1.3-2.0",
+            "gearCount": 8,
+            "quartileCount": "2.8-6.7",
+            "totalWeight": 72.2,
+            "totalCatch": 36,
+            "CPUE": "4.50"
+          },
+          {
+            "gearCount": 8,
+            "quartileCount": "1.8-12.4",
+            "CPUE": "22.12",
+            "totalCatch": 177,
+            "totalWeight": 54.9,
+            "species": "TLC",
+            "averageWeight": "0.31",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-0.5"
+          },
+          {
+            "species": "BLG",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.20",
+            "quartileWeight": "N/A",
+            "gearCount": 8,
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "totalWeight": 0.2,
+            "CPUE": "0.12"
+          }
+        ],
+        "surveyDate": "1991-06-11",
+        "narrative": "<p>Fish populations are dominated by northern pike and cisco, followed by white sucker, walleye and yellow perch. Low numbers of rock bass, bluegill, and smallmouth bass were also captured, although numbers of these species may be under represented in a gill net assessment. Cisco sizes ranged from 6\" to 12\". All cisco under 9.5\" were immature. Although the average size of northern pike is not exceptional, recruitment seems to be very good and many northern pike over 30\" were caught. Appears to be erratic, with a strong 1988 year class dominating the population. Walleye growth is very slow. </p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyID": "108475"
+      }
+    ],
+    "meanDepthFeet": 0
+  }
+}

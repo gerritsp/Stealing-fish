@@ -1,0 +1,1184 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285849,
+  "status": "SUCCESS",
+  "result": {
+    "lakeName": "Little Saganaga",
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "",
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO"
+      }
+    ],
+    "littoralAcres": 428,
+    "averageWaterClarity": "10.1",
+    "county": "Cook",
+    "maxDepthFeet": 150,
+    "waterClarity": [
+      [
+        "09/10/2024",
+        "9"
+      ],
+      [
+        "08/06/2024",
+        "11.5"
+      ],
+      [
+        "09/21/1987",
+        "7.5"
+      ],
+      [
+        "09/13/2011",
+        "12"
+      ],
+      [
+        "09/15/2011",
+        "10.5"
+      ]
+    ],
+    "officeCode": "F218",
+    "DOWNumber": "16080900",
+    "sampledPlants": [],
+    "shoreLengthMiles": 43.84,
+    "surveys": [
+      {
+        "surveyDate": "1993-09-20",
+        "surveyID": "110215",
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Lake trout abundance appeared to be low, and no fish over 22 inches were collected.  Growth was about average for the area, but lake trout recruitment appeared to be limited.  Most of the fish collected were ages 7 and 8.  Northern pike were abundant, and fish up to 31 inches were collected.  Growth appeared to be fast, despite a limited yellow perch forage base.  No other gamefish were collected, or known to be present.</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.3-1.3",
+            "CPUE": "0.67",
+            "species": "BUB",
+            "averageWeight": "0.85",
+            "totalCatch": 8,
+            "quartileWeight": "0.7-1.9",
+            "gear": "Standard gill nets",
+            "gearCount": 12,
+            "totalWeight": 3084
+          },
+          {
+            "quartileCount": "0.8-4.3",
+            "CPUE": "0.42",
+            "species": "LAT",
+            "quartileWeight": "1.2-3.1",
+            "gear": "Standard gill nets",
+            "gearCount": 12,
+            "totalWeight": 5075,
+            "averageWeight": "2.24",
+            "totalCatch": 5
+          },
+          {
+            "quartileCount": "0.3-1.0",
+            "CPUE": "1.17",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "quartileWeight": "2.7-5.3",
+            "gearCount": 12,
+            "totalWeight": 16186,
+            "averageWeight": "2.55",
+            "totalCatch": 14
+          },
+          {
+            "quartileCount": "0.3-2.8",
+            "species": "YEP",
+            "CPUE": "0.33",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 136,
+            "gearCount": 12,
+            "averageWeight": "0.07",
+            "totalCatch": 4
+          },
+          {
+            "totalCatch": 34,
+            "averageWeight": "1.45",
+            "totalWeight": 22354,
+            "gearCount": 12,
+            "quartileWeight": "1.6-2.4",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "CPUE": "2.83",
+            "quartileCount": "1.7-5.0"
+          }
+        ],
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "maximum_length": 24,
+            "minimum_length": 5
+          },
+          "LAT": {
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "minimum_length": 12
+          },
+          "BUB": {
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                2
+              ]
+            ],
+            "minimum_length": 10
+          },
+          "NOP": {
+            "maximum_length": 31,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                31,
+                2
+              ]
+            ],
+            "minimum_length": 15
+          },
+          "YEP": {
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                6,
+                3
+              ]
+            ],
+            "maximum_length": 6
+          }
+        },
+        "headerInfo": {
+          "wb_name": "Little Saganaga",
+          "wb_type": "Lake",
+          "survey_id": "110215",
+          "id_date": "1993-09-20",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_id": "16080900",
+          "wb_alt_name": ""
+        },
+        "surveyType": "Standard Survey"
+      },
+      {
+        "lengths": {
+          "LAT": {
+            "minimum_length": 16,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                3
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                7
+              ],
+              [
+                17,
+                12
+              ],
+              [
+                18,
+                15
+              ],
+              [
+                19,
+                14
+              ],
+              [
+                20,
+                11
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                5
+              ],
+              [
+                9,
+                6
+              ]
+            ],
+            "maximum_length": 21
+          },
+          "BUB": {
+            "minimum_length": 9,
+            "maximum_length": 25,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                14
+              ],
+              [
+                21,
+                13
+              ],
+              [
+                22,
+                7
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "maximum_length": 26
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                3,
+                3
+              ],
+              [
+                5,
+                1
+              ]
+            ],
+            "maximum_length": 5,
+            "minimum_length": 3
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.3-1.3",
+            "CPUE": "0.53",
+            "species": "BUB",
+            "quartileWeight": "0.7-1.9",
+            "gear": "Standard gill nets",
+            "gearCount": 15,
+            "totalWeight": 4167,
+            "averageWeight": "1.15",
+            "totalCatch": 8
+          },
+          {
+            "averageWeight": "2.75",
+            "totalCatch": 8,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.2-3.1",
+            "gearCount": 15,
+            "totalWeight": 9983,
+            "quartileCount": "0.8-4.3",
+            "CPUE": "0.53",
+            "species": "LAT"
+          },
+          {
+            "averageWeight": "1.92",
+            "totalCatch": 57,
+            "quartileWeight": "2.7-5.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 49526,
+            "gearCount": 15,
+            "quartileCount": "0.3-1.0",
+            "species": "NOP",
+            "CPUE": "3.80"
+          },
+          {
+            "quartileCount": "0.3-2.8",
+            "species": "YEP",
+            "CPUE": "0.27",
+            "averageWeight": "0.04",
+            "totalCatch": 4,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "totalWeight": 67,
+            "gearCount": 15
+          },
+          {
+            "averageWeight": "2.06",
+            "totalCatch": 92,
+            "quartileWeight": "1.6-2.4",
+            "gear": "Standard gill nets",
+            "gearCount": 15,
+            "totalWeight": 85842,
+            "quartileCount": "1.7-5.0",
+            "CPUE": "6.13",
+            "species": "WTS"
+          }
+        ],
+        "narrative": "<p>Little Saganaga Lake is a large, 1,627-acre lake with a maximum depth of 150 ft and is primarily managed for lake trout. Little Saganaga Lake lies entirely within the Boundary Waters Canoe Area Wilderness (BWACW) and is a part of the Rainy River Headwaters watershed. Access is difficult due to multiple portages from BWCAW entry point #52 (Round Lake) that require 1.7 miles of portaging, 7.0 miles of paddling, and totaling 8.9 miles of travel. In 2024, a standard survey was conducted using gillnets to assess the current fish community and update information on management species.  <br> \n <br> \nLake trout are the primary management species within Little Saganaga Lake and results from the 2024 survey met management goals. Lake trout catch rates were 0.5 fish/net and near the long-term average for the lake. Lake trout lengths ranged from 16.6 to 21.8 inches, with an average size of 20.2 inches. Quality sized lake trout (i.e. lake trout > 20.0 inches) are typically found in Little Saganaga Lake with fewer small fish present, and the 2024 survey mimicked these trends. Lake trout growth was slow, taking fish seven years to reach 16.0 inches on average. The oldest fish in the survey was aged at 19 years and was measured at 21.8 inches. Anglers looking to target lake trout within the BWCAW should not expect to catch large, trophy sized fish in Little Saganaga, but rather average numbers of medium sized fish. <br> \n <br> \nNorthern pike are the secondary management species within Little Saganaga Lake, and the abundance was above management goals. The northern pike catch rate was 3.8 fish/net and have been slowly increasing over time. Northern pike lengths ranged from 9.1 to 26.3 inches and averaged 20.4 inches. Quality sized northern pike were present in Little Saganaga Lake, indicated by 46% of the fish exceeding 21.0 inches during the survey. However, no big northern pike were caught over 30.0 inches and did not meet the management goal with regards to size.  <br> \nYellow perch abundance had decreased from the previous survey and was the lowest on record for the lake. The Yellow perch sampled were small and averaged only 4.2 inches. White sucker abundance was above average for the lake, but within the expected values for similar lakes. Burbot catches were low but comparable to previous surveys. <br> \n <br> \nMinnesota Lakes within Cook County continue to be susceptible to aquatic invasive species introductions. Invasive species have the potential to significantly alter fish communities and overall lake health. Anglers should clean watercraft and fishing gear, drain all water, and dispose of unused bait in the trash to prevent accidental introductions to these pristine waters within this part of the state.  <br> \n</p>",
+        "headerInfo": {
+          "wb_name": "Little Saganaga",
+          "wb_type": "Lake",
+          "wb_id": "16080900",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "id_date": "2024-09-09",
+          "survey_id": "20842431042147000",
+          "county": "Cook"
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "20842431042147000",
+        "surveyDate": "2024-09-09",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "headerInfo": {
+          "wb_name": "Little Saganaga",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "16080900",
+          "survey_type": "Targeted Survey",
+          "county": "Cook",
+          "id_date": "2024-08-06",
+          "survey_id": "21872425447916150"
+        },
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Little Saganaga on August 6, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 39.4 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 103.9 feet at the time of sampling.  The thickness of this layer in the water column was 64.5 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.4 degrees C (41.7 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nThis is the first survey completed on Little Saganaga Lake during the late summer thermal stress period, however, data collected outside the thermal maximum period from 1987-2014 indicated suitable oxythermal habitat during those sampling periods. The least favorable conditions were recorded in 2011 when the suitable oxythermal habitat layer thickness was 21.4 feet.  When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2024-08-06",
+        "surveyID": "21872425447916150"
+      },
+      {
+        "headerInfo": {
+          "wb_id": "16080900",
+          "wb_alt_name": "",
+          "survey_id": "110966",
+          "id_date": "1998-09-14",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_name": "Little Saganaga"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "CPUE": "0.08",
+            "quartileCount": "0.3-1.3",
+            "totalWeight": 294,
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-1.9",
+            "totalCatch": 1,
+            "averageWeight": "0.65"
+          },
+          {
+            "totalWeight": 5717,
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.2-3.1",
+            "totalCatch": 5,
+            "averageWeight": "2.52",
+            "species": "LAT",
+            "CPUE": "0.42",
+            "quartileCount": "0.8-4.3"
+          },
+          {
+            "quartileCount": "0.3-1.0",
+            "CPUE": "1.75",
+            "species": "NOP",
+            "quartileWeight": "2.7-5.3",
+            "gear": "Standard gill nets",
+            "gearCount": 12,
+            "totalWeight": 25493,
+            "averageWeight": "2.68",
+            "totalCatch": 21
+          },
+          {
+            "species": "YEP",
+            "CPUE": "0.42",
+            "quartileCount": "0.3-2.8",
+            "totalWeight": 460,
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 5,
+            "averageWeight": "0.20"
+          },
+          {
+            "CPUE": "2.75",
+            "species": "WTS",
+            "quartileCount": "1.7-5.0",
+            "totalCatch": 33,
+            "averageWeight": "1.47",
+            "gearCount": 12,
+            "totalWeight": 22068,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-2.4"
+          }
+        ],
+        "narrative": "<p>The lake trout catch in 1998 was within the normal range for lakes of this class, and it was similar to past catches in this lake.  No lake trout younger than five years were collected; however, that is not unusual in natural lake trout lakes.  Lake trout growth had been about average for the area, with a forage base that seemed to consist mostly of invertebrates, with some access to burbot and yellow perch.The northern pike catch was also within the normal range, and similar to past catches.  Several northern pike over 25 inches were collected, with relatively fast growth accounting for the presence of good numbers of large fish.  No northern pike older than five years were collected, but five-year-old (almost six year old) fish averaged 28.6 inches in length when captured in September.No walleye or smallmouth bass were collected, and none have ever been reported from this lake.  They are not native to this area.</p>",
+        "lengths": {
+          "BUB": {
+            "minimum_length": 10,
+            "maximum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "minimum_length": 16,
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                23,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                6
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 6
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                6,
+                2
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 9,
+            "minimum_length": 6
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                2
+              ],
+              [
+                29,
+                1
+              ]
+            ],
+            "maximum_length": 29,
+            "minimum_length": 10
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1998-09-14",
+        "surveyID": "110966"
+      },
+      {
+        "surveySubType": "Initial Survey",
+        "surveyID": "110066",
+        "surveyDate": "1987-09-21",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "id_date": "1987-09-21",
+          "survey_id": "110066",
+          "county": "Cook",
+          "wb_id": "16080900",
+          "wb_alt_name": "",
+          "wb_name": "Little Saganaga",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "narrative": "<p>LAKE TROUT WERE SAMPLED IN RELATIVELY LOW NUMBERS, WITH SEVERAL YEAR CLASSES REPRESENTED AND SIZES RANGING FROM 12 TO 20 INCEHS. GROWTH IS SLOW. NORTHERN PIKE ARE PRESENT IN LOW NUMBERS, BUT WITH EXCELLENT AVERAGE SIZE. NORTHERN PIKE GROWTH IS ALSO SLOW. BURBOT ARE PRESENT AS A THIRD MAJOR PREDATOR. THE FORAGE BASE FOR GAME FISH CONSISTS OF A FEW YELLOW PERCH, SMALL WHITE SUCKER AND MINNOWS.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 2,
+            "gearCount": 18,
+            "quartileWeight": "0.7-1.9",
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "averageWeight": "0.67",
+            "species": "BUB",
+            "CPUE": "0.17",
+            "quartileCount": "0.3-1.3"
+          },
+          {
+            "quartileCount": "0.8-4.3",
+            "species": "LAT",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.2-3.1",
+            "totalWeight": 14.75,
+            "gearCount": 18,
+            "averageWeight": "1.64",
+            "totalCatch": 9
+          },
+          {
+            "totalCatch": 21,
+            "averageWeight": "3.09",
+            "totalWeight": 64.8,
+            "gearCount": 18,
+            "gear": "Standard gill nets",
+            "quartileWeight": "2.7-5.3",
+            "species": "NOP",
+            "CPUE": "1.17",
+            "quartileCount": "0.3-1.0"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 2.27,
+            "gearCount": 18,
+            "averageWeight": "0.13",
+            "totalCatch": 18,
+            "quartileCount": "0.3-2.8",
+            "species": "YEP",
+            "CPUE": "1.00"
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "gear": "Standard gill nets",
+            "totalWeight": 104.85,
+            "gearCount": 18,
+            "averageWeight": "1.40",
+            "totalCatch": 75,
+            "quartileCount": "1.7-5.0",
+            "species": "WTS",
+            "CPUE": "4.17"
+          }
+        ]
+      },
+      {
+        "narrative": "<p>Based on catches in population assessments, Little Saganaga Lake has a low- to medium-density population of lake trout.  The 2011 catch was slightly higher than catches in 1987, 1993, and 1998 (0.42-0.50 fish/net), but remained near the low end of the usual range for this class of lake.  The size of lake trout taken in assessments has been small to medium (none have been over 24 inches), but anglers have taken larger fish.  Mean weight from the 2011 assessment was within the range of mean weights from previous assessments (1.64-2.52 lb/fish), and in the mid range for this class of lake.  Lake trout have not been stocked since 1950, so natural reproduction was responsible for the entire 2011 catch.  Several year classes were present.  Growth rates appeared to have been about average or slightly slower compared to other lakes in this class.  The lake has no high-quality forage fish species that would promote growth to large sizes.  Several yellow perch and sculpin were found in lake trout stomachs.  <br> \n <br> \nNorthern pike catches in Little Saganaga Lake have generally been relatively high for this class of lake.  The 2011 catch was slightly higher than previous catches (1.17-1.75 fish/net).  Mean weight of northern pike also slightly exceeded values from previous assessments (2.55-3.09 lb/fish).  Fish over 30 inches long were sampled in 2011, 1993, and 1987.  Natural reproduction appears to have been consistently successfull in the lake, and several year classes contributed to the 2011 catch.  Growth rates of northern pike had been close to average for the lake class. <br> \n <br> \nThe white sucker catch exceeded previous catches in the lake (2.75-4.17 fish/net) and was somewhat high for the lake class.  Sampled white sucker have consistently been small.   <br> \n <br> \nThe burbot catch was within the range of previous catches (0.08-0.67 fish/net) and within the usual range for the lake class.  Mean weight slightly exceeded the previous range (0.65-0.85 lb/fish). <br> \n <br> \nResults of yellow perch sampling in 2011 were consistent with previous results.  Population density appears to have been low to medium for this class of lake.  A few perch over eight inches long have been taken, but average size has been small.  Four yellow perch were identified in the stomachs of three lake trout. <br> \n <br> \nSeven minnow traps were set in deep water to sample sculpin, and collected 13 slimy sculpin.  The species is present in many lakes of this class.  Three sculpin were also found in the stomach of one lake trout. <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 8,
+            "averageWeight": "0.90",
+            "totalWeight": 3271,
+            "gearCount": 15,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-1.9",
+            "species": "BUB",
+            "CPUE": "0.53",
+            "quartileCount": "0.3-1.3"
+          },
+          {
+            "totalCatch": 15,
+            "averageWeight": "2.18",
+            "totalWeight": 14848,
+            "gearCount": 15,
+            "quartileWeight": "1.2-3.1",
+            "gear": "Standard gill nets",
+            "species": "LAT",
+            "CPUE": "1.00",
+            "quartileCount": "0.8-4.3"
+          },
+          {
+            "averageWeight": "3.95",
+            "totalCatch": 32,
+            "gear": "Standard gill nets",
+            "quartileWeight": "2.7-5.3",
+            "totalWeight": 57355,
+            "gearCount": 15,
+            "quartileCount": "0.3-1.0",
+            "species": "NOP",
+            "CPUE": "2.13"
+          },
+          {
+            "totalCatch": 17,
+            "averageWeight": "0.11",
+            "gearCount": 15,
+            "totalWeight": 876,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "CPUE": "1.13",
+            "species": "YEP",
+            "quartileCount": "0.3-2.8"
+          },
+          {
+            "totalWeight": 62104,
+            "gearCount": 15,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-2.4",
+            "totalCatch": 95,
+            "averageWeight": "1.44",
+            "species": "WTS",
+            "CPUE": "6.33",
+            "quartileCount": "1.7-5.0"
+          },
+          {
+            "species": "SMS",
+            "CPUE": "1.86",
+            "quartileCount": "N/A",
+            "totalWeight": 0,
+            "gearCount": 7,
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "totalCatch": 13,
+            "averageWeight": "0.00"
+          }
+        ],
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                3
+              ],
+              [
+                25,
+                5
+              ],
+              [
+                26,
+                3
+              ],
+              [
+                27,
+                5
+              ],
+              [
+                29,
+                2
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                34,
+                1
+              ],
+              [
+                36,
+                1
+              ]
+            ],
+            "maximum_length": 36,
+            "minimum_length": 17
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                12
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8
+          },
+          "LAT": {
+            "minimum_length": 12,
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                2
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                9
+              ],
+              [
+                11,
+                6
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                9
+              ],
+              [
+                17,
+                20
+              ],
+              [
+                18,
+                13
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                15
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                4
+              ]
+            ],
+            "maximum_length": 20
+          },
+          "BUB": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "minimum_length": 11
+          }
+        },
+        "headerInfo": {
+          "wb_id": "16080900",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "id_date": "2011-09-12",
+          "survey_id": "4311107460705003",
+          "county": "Cook",
+          "wb_name": "Little Saganaga",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "2011-09-12",
+        "surveyID": "4311107460705003",
+        "surveySubType": "Population Assessment"
+      }
+    ],
+    "areaAcres": 1627.27,
+    "meanDepthFeet": 0
+  }
+}

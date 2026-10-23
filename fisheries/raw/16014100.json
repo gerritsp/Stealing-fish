@@ -1,0 +1,346 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "county": "Cook",
+    "waterClarity": [
+      [
+        "08/19/2024",
+        "14.8"
+      ],
+      [
+        "08/08/1973",
+        "12"
+      ],
+      [
+        "08/13/2025",
+        "15.4"
+      ],
+      [
+        "07/07/1969",
+        "13"
+      ]
+    ],
+    "sampledPlants": [],
+    "shoreLengthMiles": 8.1,
+    "DOWNumber": "16014100",
+    "officeCode": "F218",
+    "averageWaterClarity": "13.8",
+    "lakeName": "Caribou",
+    "maxDepthFeet": 65,
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "CA",
+        "location": "Lake is entirely inside the BWCAW.  Access by portage trails from Clearwater; Pine; and Moon Lakes.",
+        "lakeAccessComments": " "
+      }
+    ],
+    "littoralAcres": 0,
+    "surveys": [
+      {
+        "surveyID": "111249",
+        "headerInfo": {
+          "wb_name": "Caribou",
+          "wb_type": "Lake",
+          "id_date": "2000-07-17",
+          "survey_type": "Population Assessment",
+          "survey_id": "111249",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_id": "16014100"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>The catch of walleye in gill nets during this assessment was within the normal range for lakes of this class, but fairly high for this lake historically.  Growth of walleye was about normal for lakes in the Grand Marais area.  Natural reproduction had been occurring, but stocking done in the early 1990's may also have contributed to the 2000 catch.  The catch of northern pike was at the low end of the normal range in lakes of this class and mean weight was above the normal range for lakes of this class.  Growth was faster than normal for lakes in the Grand Marais area, probably due to the presence of lake whitefish population as a forage base.  The catch of smallmouth bass was well below the normal range for lakes of this class, but growth appeared to have been faster than normal for lakes in the Grand Marais area.The catch of whitefish was within the normal range for lakes of this class, but the mean weight was well above the normal range for lakes of this class.  White sucker and burbot also occur in this lake.</p>",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "CPUE": "0.33",
+            "averageWeight": "1.53",
+            "gearCount": 6,
+            "quartileWeight": "0.6-1.5",
+            "gear": "Standard gill nets",
+            "totalWeight": 1389,
+            "quartileCount": "0.2-1.0",
+            "totalCatch": 2
+          },
+          {
+            "gear": "Minnow traps",
+            "quartileCount": "N/A",
+            "totalCatch": 2,
+            "totalWeight": 0,
+            "quartileWeight": "N/A",
+            "gearCount": 12,
+            "averageWeight": "0.00",
+            "species": "SMB",
+            "CPUE": "0.17"
+          },
+          {
+            "totalCatch": 4,
+            "quartileCount": "0.6-2.4",
+            "totalWeight": 9955,
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "CPUE": "0.67",
+            "averageWeight": "5.49",
+            "gearCount": 6,
+            "quartileWeight": "2.1-4.9"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "quartileCount": "0.3-1.4",
+            "totalWeight": 652,
+            "species": "SMB",
+            "CPUE": "0.17",
+            "quartileWeight": "0.6-1.5",
+            "averageWeight": "1.44",
+            "gearCount": 6
+          },
+          {
+            "totalCatch": 16,
+            "quartileCount": "1.2-5.2",
+            "totalWeight": 17153,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.36",
+            "gearCount": 6,
+            "quartileWeight": "1.0-2.0",
+            "species": "WAE",
+            "CPUE": "2.67"
+          },
+          {
+            "CPUE": "10.67",
+            "species": "LKW",
+            "averageWeight": "3.59",
+            "gearCount": 6,
+            "quartileWeight": "1.0-2.1",
+            "gear": "Standard gill nets",
+            "totalCatch": 64,
+            "quartileCount": "1.6-15.5",
+            "totalWeight": 104187
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 5,
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 3052,
+            "CPUE": "0.83",
+            "species": "WTS",
+            "gearCount": 6,
+            "averageWeight": "1.35",
+            "quartileWeight": "1.1-2.5"
+          }
+        ],
+        "surveyDate": "2000-07-17",
+        "lengths": {
+          "WAE": {
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                5
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "LKW": {
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                11
+              ],
+              [
+                20,
+                20
+              ],
+              [
+                21,
+                17
+              ],
+              [
+                22,
+                11
+              ],
+              [
+                23,
+                1
+              ]
+            ],
+            "minimum_length": 16,
+            "maximum_length": 23
+          },
+          "BUB": {
+            "minimum_length": 18,
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "maximum_length": 19
+          },
+          "NOP": {
+            "minimum_length": 17,
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                41,
+                1
+              ]
+            ],
+            "maximum_length": 41
+          },
+          "SMB": {
+            "minimum_length": 1,
+            "fishCount": [
+              [
+                1,
+                2
+              ],
+              [
+                13,
+                1
+              ]
+            ],
+            "maximum_length": 13
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 20
+          }
+        }
+      },
+      {
+        "surveyID": "21872426832490010",
+        "headerInfo": {
+          "id_date": "2024-08-19",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "survey_id": "21872426832490010",
+          "wb_name": "Caribou",
+          "wb_id": "16014100",
+          "county": "Cook",
+          "wb_alt_name": ""
+        },
+        "fishCatchSummaries": [],
+        "surveyDate": "2024-08-19",
+        "lengths": {},
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Caribou Lake, on August 19, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 17.2 degrees C (63.0 degrees F) at 23.5 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 25.0 feet at the time of sampling. The thickness of this layer in the water column was 1.5 feet, indicating that oxythermal habitat was present but marginal for Lake Whitefish.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 15.7 degrees C (60.1 degrees F). TDO3 values near 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were marginal for Lake Whitefish as the layer was confined to less than 3 feet of suitable habitat at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 1973 and 2023 during the late summer thermal stress period indicated suitable oxythermal habitat in years surveyed. Data were also collected outside the thermal maximum period in 1969, this data indicated suitable conditions during that sampling period. The least favorable oxythermal habitat conditions prior to 2024 were recorded in 2023 during the peak summer stress period, when the suitable habitat layer thickness was 23.3 feet. When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "lengths": {},
+        "surveyDate": "2023-08-01",
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Caribou Lake on August 1st, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 13 feet. Dissolved oxygen decreased to below 3.0 mg/L at 39.9 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 7.7\u00b0C (45.9\u00b0F). <br> \n <br> \nTDO3 values cooler than 17.2\u00b0C indicate that oxythermal conditions are favorable for Lake Whitefish. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for Lake Whitefish was available across a range of depths at the time of sampling during the summer of 2023. Data collected in 1977 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is available, Lake Whitefish are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "headerInfo": {
+          "wb_id": "16014100",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "id_date": "2023-08-01",
+          "survey_type": "Targeted Survey",
+          "survey_id": "20042324351371037",
+          "wb_name": "Caribou"
+        },
+        "surveyID": "20042324351371037"
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Caribou Lake on August 13th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the only coldwater species present in this lake. During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 49.2 feet), the water temperature decreased below 17.2 degrees C (63.0 degrees F) at 20.7 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 31.5 feet at the time of sampling. The thickness of this layer of water in the water column was 10.7 feet, indicating that oxythermal habitat was present for Lake Whitefish. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 9.8 degrees C (49.6 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2023 and 2024 also indicate suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 2024 when the suitable oxythermal habitat layer was 1.5 feet thick. When adequate oxythermal habitat is unavailable, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyDate": "2025-08-13",
+        "surveyID": "-348",
+        "headerInfo": {
+          "wb_id": "16014100",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "id_date": "2025-08-13",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "survey_id": "-348",
+          "wb_name": "Caribou"
+        }
+      }
+    ],
+    "areaAcres": 461.73
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285926
+}

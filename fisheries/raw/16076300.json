@@ -1,0 +1,61 @@
+{
+  "result": {
+    "lakeName": "Jimmy",
+    "shoreLengthMiles": 1.36,
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "location": "Entirely inside the BWCAW.  Barely accessible by bushwacking from Jap Lake.",
+        "lakeAccessComments": " "
+      }
+    ],
+    "maxDepthFeet": 5,
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "littoralAcres": 30.42,
+    "waterClarity": [],
+    "surveys": [
+      {
+        "lengths": {},
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_id": "110811",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "id_date": "1997-06-19",
+          "survey_type": "Initial Survey",
+          "wb_name": "Jimmy",
+          "wb_id": "16076300"
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "53.25",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gear": "Misc. fish",
+            "species": "NRD",
+            "totalCatch": 213,
+            "gearCount": 4,
+            "averageWeight": "0.00",
+            "totalWeight": 0
+          }
+        ],
+        "surveyID": "110811",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>The only fish species found in Jimmy Lake in 1997 was northern redbelly dace.  No fish were collected in two standard gill net sets.  The trail into this lake is long and difficult.  Rumors of lake trout being taken in this lake in the past were almost certainly false, and may have been based on parties finding Jap Lake instead of Jimmy.</p>",
+        "surveyDate": "1997-06-19",
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "DOWNumber": "16076300",
+    "areaAcres": 30.42,
+    "averageWaterClarity": "N/A",
+    "county": "Cook",
+    "meanDepthFeet": 0
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790286006
+}

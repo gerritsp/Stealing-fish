@@ -1,0 +1,127 @@
+{
+  "result": {
+    "meanDepthFeet": 0,
+    "areaAcres": 62.31,
+    "sampledPlants": [],
+    "maxDepthFeet": 60,
+    "officeCode": "F214",
+    "shoreLengthMiles": 2.22,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "By portage only through BWCA."
+      }
+    ],
+    "DOWNumber": "38016800",
+    "surveys": [
+      {
+        "surveyID": "107947",
+        "surveyDate": "1973-07-10",
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>Gamefish population consists of lake trout. The population is made up of mostly larger fish (greater than 18 are not as common as they probably should be.</p>",
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "id_date": "1973-07-10",
+          "wb_alt_name": "Moon",
+          "wb_id": "38016800",
+          "survey_id": "107947",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_name": "Lunar"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 55.1,
+            "quartileWeight": "1.5-4.0",
+            "species": "LAT",
+            "CPUE": "2.80",
+            "averageWeight": "3.94",
+            "totalCatch": 14,
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-3.7"
+          },
+          {
+            "totalWeight": 1.8,
+            "quartileWeight": "N/A",
+            "CPUE": "2.40",
+            "averageWeight": "0.15",
+            "species": "GSF",
+            "totalCatch": 12,
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.2-0.9"
+          },
+          {
+            "totalWeight": 32.8,
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "7.20",
+            "averageWeight": "0.91",
+            "species": "WTS",
+            "totalCatch": 36,
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-5.3"
+          }
+        ],
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyDate": "2024-08-13",
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Lunar Lake on August 13th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 75.4 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 20.3 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 32.0 feet at the time of sampling. The thickness of this layer of water in the water column was 11.7 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.0 degrees C (42.8 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Lunar Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyID": "21872427047058191",
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_name": "Lunar",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "Moon",
+          "id_date": "2024-08-13",
+          "wb_id": "38016800",
+          "county": "Lake",
+          "survey_id": "21872427047058191",
+          "wb_type": "Lake"
+        }
+      },
+      {
+        "headerInfo": {
+          "id_date": "2025-07-31",
+          "wb_alt_name": "Moon",
+          "survey_type": "Targeted Survey",
+          "wb_id": "38016800",
+          "survey_id": "22122522747749149",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_name": "Lunar"
+        },
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "surveyID": "22122522747749149",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Lunar Lake on July 31st, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 68.9 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 19.1 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 29.7 feet at the time of sampling. This layer in the water column was 10.6 feet, indicating oxythermal habitat for Lake Trout was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.7 degrees C (40.5 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-07-31"
+      }
+    ],
+    "county": "Lake",
+    "averageWaterClarity": "10.0",
+    "waterClarity": [
+      [
+        "07/31/2025",
+        "10"
+      ]
+    ],
+    "lakeAltName": "Moon",
+    "lakeName": "Lunar",
+    "littoralAcres": 25
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790286023
+}

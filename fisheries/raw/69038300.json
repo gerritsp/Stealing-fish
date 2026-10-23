@@ -1,0 +1,434 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790286050,
+  "result": {
+    "DOWNumber": "69038300",
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "location": "LOCATED IN BWCA",
+        "ownerTypeId": "USF",
+        "accessTypeId": "O",
+        "lakeAccessComments": " "
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/05/2024",
+        "10"
+      ],
+      [
+        "07/29/2025",
+        "9.8"
+      ]
+    ],
+    "littoralAcres": 15,
+    "lakeName": "Lynx",
+    "surveys": [
+      {
+        "narrative": "<p>Lynx Lake is a 295 acre, class 3 lake, located about 4 miles from the border between Minnesota and the Province of Ontario.  The lake is within the Boundary Waters Canoe Area and the 1854 ceded territory.  Motor restrictions are in effect for Loon Lake and there is no road access to the lake. Fish abundance in gill nets were mostly below the median values and generally decreased from the last investigation in 1974.  However, northern pike abundance increased dramatically from the last investigation and were much higher than the median for this lake class.  The 1997 year-class represented 43% of the northern pike that were aged and seven year-classes were present.  Few year-classes were present for other species.  Mean weights for smallmouth bass, walleyes, and white suckers were near their respective medians for class 3 lakes.  Northern pike were much heavier than the median value for similar lakes.  Growth rates for northern pike, smallmouth bass, and walleyes were greater than the area and statewide averages.    </p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 11,
+            "species": "TLC",
+            "quartileCount": "3.2-20.2",
+            "CPUE": "1.22",
+            "gearCount": 9,
+            "quartileWeight": "0.2-1.0",
+            "averageWeight": "0.10",
+            "gear": "Standard gill nets",
+            "totalWeight": 518
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 15,
+            "averageWeight": "0.03",
+            "gear": "Open-water angling",
+            "species": "GSF",
+            "totalCatch": 1,
+            "CPUE": "1.00",
+            "gearCount": 1,
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileWeight": "2.1-4.9",
+            "totalWeight": 55450,
+            "gear": "Standard gill nets",
+            "averageWeight": "5.56",
+            "species": "NOP",
+            "totalCatch": 22,
+            "CPUE": "2.44",
+            "gearCount": 9,
+            "quartileCount": "0.6-2.4"
+          },
+          {
+            "quartileWeight": "1.1-2.5",
+            "averageWeight": "2.19",
+            "gear": "Standard gill nets",
+            "totalWeight": 7965,
+            "totalCatch": 8,
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "CPUE": "0.89",
+            "gearCount": 9
+          },
+          {
+            "CPUE": "1.44",
+            "gearCount": 9,
+            "quartileCount": "1.2-5.2",
+            "species": "WAE",
+            "totalCatch": 13,
+            "totalWeight": 8040,
+            "averageWeight": "1.36",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.0-2.0"
+          },
+          {
+            "quartileWeight": "0.6-1.5",
+            "totalWeight": 1800,
+            "averageWeight": "0.99",
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "species": "SMB",
+            "CPUE": "0.44",
+            "gearCount": 9,
+            "quartileCount": "0.3-1.4"
+          },
+          {
+            "quartileCount": "0.4",
+            "CPUE": "0.22",
+            "gearCount": 9,
+            "species": "SHR",
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "averageWeight": "3.31",
+            "totalWeight": 3000,
+            "quartileWeight": "3.6"
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "21.00",
+            "gearCount": 1,
+            "species": "SMB",
+            "totalCatch": 21,
+            "gear": "Open-water angling",
+            "averageWeight": "0.32",
+            "totalWeight": 3045,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.12",
+            "totalWeight": 55,
+            "totalCatch": 1,
+            "species": "BLG",
+            "quartileCount": "N/A",
+            "CPUE": "0.11",
+            "gearCount": 9
+          },
+          {
+            "CPUE": "1.67",
+            "gearCount": 9,
+            "quartileCount": "0.4-1.2",
+            "totalCatch": 15,
+            "species": "RKB",
+            "totalWeight": 862,
+            "averageWeight": "0.13",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "WAE": {
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                5
+              ]
+            ],
+            "maximum_length": 23,
+            "minimum_length": 7
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                28,
+                2
+              ],
+              [
+                29,
+                4
+              ],
+              [
+                30,
+                5
+              ],
+              [
+                31,
+                2
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                34,
+                1
+              ],
+              [
+                36,
+                1
+              ],
+              [
+                38,
+                1
+              ]
+            ],
+            "maximum_length": 38,
+            "minimum_length": 20
+          },
+          "TLC": {
+            "minimum_length": 6,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                10
+              ]
+            ]
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                7,
+                10
+              ],
+              [
+                8,
+                7
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "maximum_length": 15,
+            "minimum_length": 5
+          },
+          "WTS": {
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "maximum_length": 19
+          },
+          "SHR": {
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "minimum_length": 17
+          },
+          "GSF": {
+            "fishCount": [
+              [
+                3,
+                1
+              ]
+            ],
+            "maximum_length": 3,
+            "minimum_length": 3
+          },
+          "BLG": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ]
+            ],
+            "maximum_length": 5
+          },
+          "RKB": {
+            "minimum_length": 4,
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                4,
+                2
+              ],
+              [
+                5,
+                11
+              ],
+              [
+                6,
+                2
+              ]
+            ]
+          }
+        },
+        "surveyID": "112000",
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "wb_name": "Lynx",
+          "county": "St. Louis",
+          "wb_type": "Lake",
+          "wb_id": "69038300",
+          "survey_id": "112000",
+          "survey_type": "Re-Survey",
+          "id_date": "2002-07-09",
+          "wb_alt_name": ""
+        },
+        "surveyDate": "2002-07-09"
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Lynx Lake on August 5th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 79.0 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 12.3 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L at 79.0 feet at the time of sampling. The thickness of this layer of water in the water column was 66.7 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 5.6 degrees C (42.1 degrees F), was substituted as TDO3. TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Lynx Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th).  When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "lengths": {},
+        "surveyDate": "2024-08-05",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "2024-08-05",
+          "survey_type": "Targeted Survey",
+          "survey_id": "19222423338680215",
+          "wb_id": "69038300",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "wb_name": "Lynx"
+        },
+        "surveyID": "19222423338680215",
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Lynx Lake on July 29th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 80.4 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 13.3 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 76.4 feet at the time of sampling. The thickness of this layer of water in the water column was 63.1 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.4 degrees C (39.9 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates suitable oxythermal habitat. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n <br> \n</p>",
+        "lengths": {},
+        "surveyDate": "2025-07-29",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "69038300",
+          "wb_name": "Lynx",
+          "county": "St. Louis",
+          "wb_alt_name": "",
+          "survey_id": "-362",
+          "survey_type": "Targeted Survey",
+          "id_date": "2025-07-29"
+        },
+        "surveySubType": "Targeted Survey",
+        "surveyID": "-362"
+      }
+    ],
+    "officeCode": "F217",
+    "shoreLengthMiles": 4.77,
+    "averageWaterClarity": "9.9",
+    "areaAcres": 290.86,
+    "maxDepthFeet": 85,
+    "county": "St. Louis"
+  }
+}

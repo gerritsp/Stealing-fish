@@ -1,0 +1,408 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790286008,
+  "result": {
+    "maxDepthFeet": 90,
+    "waterClarity": [
+      [
+        "09/22/1988",
+        "18.2"
+      ],
+      [
+        "08/07/2024",
+        "11.5"
+      ],
+      [
+        "07/13/1978",
+        "16.6"
+      ],
+      [
+        "08/11/2025",
+        "13.9"
+      ]
+    ],
+    "shoreLengthMiles": 25.01,
+    "areaAcres": 1410.19,
+    "officeCode": "F218",
+    "county": "Cook",
+    "DOWNumber": "16023000",
+    "accesses": [
+      {
+        "location": "NONE",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "littoralAcres": 408,
+    "averageWaterClarity": "15.1",
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "narrative": "<p>LAKE TROUT ABUNDANCE IS PRESENTLY LOW, AND THERE HAS PROBABLY BEEN A SIGNIFICANT DECLINE SINCE 1978. SOME TROPHY-SIZE FISH ARE PRESENT. THE SAMPLE SIZE IS TOO SMALL TO SAY MUCH ABOUT YEAR-CLASS STRENGTH, BUT IT DOES APPEAR THAT THE 1984 STOCKING OF LAKE TROUT MAY HAVE BEEN UNSUCCESSFUL. SMALLMOUTH BASS ARE ABUNDANT, AND GOOD NUMBERS OF LARGER FISH ARE PRESENT. GROWTH IS SLOW BY STATE STANDARDS. NO OTHER GAMEFISH ARE PRESENT IN SIGNIFICANT NUMBERS. BLUEGILL HAVE APPEARED IN FAIR NUMBERS, BUT GROWTH IS SLOW AND SIZE IS SMALL. SINCE 1978, RAINBOW SMELT HAVE APPEARED AND BECOME ABUNDANT. NORTHERN CISCO ARE ALSO AVAILABLE AS FORAGE FOR LAKE TROUT. A HEALTHY YELLOW PERCH POPULATION IS PRESENT, PRO- VIDING A FEW FISH OF A SIZE ACCEPTABLE TO ANGLERS AND FORAGE FOR SMALLMOUTH BASS AND REMNANT WALLEYE.</p>",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyID": "110040",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "id_date": "1987-07-13",
+          "wb_name": "Rose",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "110040",
+          "county": "Cook",
+          "wb_id": "16023000"
+        },
+        "surveyDate": "1987-07-13",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.91",
+            "totalWeight": 12.75,
+            "gearCount": 12,
+            "quartileCount": "1.4-17.4",
+            "quartileWeight": "0.1-0.7",
+            "species": "TLC",
+            "CPUE": "1.17",
+            "gear": "Standard gill nets",
+            "totalCatch": 14
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "totalCatch": 38,
+            "CPUE": "3.17",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.52",
+            "totalWeight": 95.8,
+            "gearCount": 12,
+            "quartileCount": "1.7-5.0"
+          },
+          {
+            "species": "BLG",
+            "quartileWeight": "0.1-0.4",
+            "totalCatch": 30,
+            "CPUE": "2.14",
+            "gear": "Standard trap nets",
+            "averageWeight": "0.09",
+            "totalWeight": 2.8,
+            "quartileCount": "0.4-2.7",
+            "gearCount": 14
+          },
+          {
+            "totalWeight": 1.33,
+            "quartileCount": "N/A",
+            "gearCount": 12,
+            "averageWeight": "0.05",
+            "totalCatch": 26,
+            "gear": "Standard gill nets",
+            "CPUE": "2.17",
+            "species": "RBS",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "0.8-4.3",
+            "gearCount": 12,
+            "totalWeight": 29.4,
+            "averageWeight": "4.90",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "totalCatch": 6,
+            "species": "LAT",
+            "quartileWeight": "1.2-3.1"
+          },
+          {
+            "totalWeight": 27.45,
+            "gearCount": 14,
+            "quartileCount": "0.3-2.3",
+            "averageWeight": "0.21",
+            "totalCatch": 133,
+            "gear": "Standard trap nets",
+            "CPUE": "9.50",
+            "quartileWeight": "0.1-0.4",
+            "species": "YEP"
+          },
+          {
+            "gearCount": 12,
+            "quartileCount": "0.3-2.2",
+            "totalWeight": 13,
+            "averageWeight": "1.00",
+            "gear": "Standard gill nets",
+            "CPUE": "1.08",
+            "totalCatch": 13,
+            "quartileWeight": "0.7-1.4",
+            "species": "SMB"
+          },
+          {
+            "quartileWeight": "1.1-2.0",
+            "species": "WTS",
+            "CPUE": "2.14",
+            "gear": "Standard trap nets",
+            "totalCatch": 30,
+            "averageWeight": "1.84",
+            "totalWeight": 55.25,
+            "gearCount": 14,
+            "quartileCount": "0.5-3.4"
+          },
+          {
+            "species": "LKW",
+            "quartileWeight": "1.3-2.3",
+            "gear": "Standard gill nets",
+            "CPUE": "2.33",
+            "totalCatch": 28,
+            "averageWeight": "1.61",
+            "totalWeight": 45.1,
+            "quartileCount": "1.1-9.3",
+            "gearCount": 12
+          },
+          {
+            "averageWeight": "0.86",
+            "gearCount": 14,
+            "quartileCount": "0.6-3.5",
+            "totalWeight": 6.05,
+            "quartileWeight": "0.2-0.6",
+            "species": "SMB",
+            "CPUE": "0.50",
+            "gear": "Standard trap nets",
+            "totalCatch": 7
+          },
+          {
+            "averageWeight": "0.19",
+            "totalWeight": 6.5,
+            "gearCount": 12,
+            "quartileCount": "0.3-2.8",
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "CPUE": "2.92",
+            "totalCatch": 35
+          }
+        ]
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Rose Lake on August 7, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Lake Whitefish and Cisco also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 47.8 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 89.7 feet at the time of sampling. The thickness of this layer in the water column was 41.9 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.7 degrees C (44.1 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 2023 during the late summer thermal stress period indicated suitable oxythermal habitat during that year. Data were also collected outside the thermal maximum period from 1978-1992, this data indicated suitable conditions during those sampling periods. The least favorable oxythermal habitat conditions were recorded in 1988, outside the peak summer stress period, when the suitable habitat layer thickness was 23.1 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveyID": "21872426150839307",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyDate": "2024-08-07",
+        "headerInfo": {
+          "wb_id": "16023000",
+          "county": "Cook",
+          "survey_id": "21872426150839307",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "wb_name": "Rose",
+          "id_date": "2024-08-07"
+        },
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>There are large populations of Whitefish, Sucker, Perch and SM Bass with Bass having a good size distribution.  The Lake Trout population appears to be predominantly large fish.  The small N Cisco are probably more abundant than this survey indic.</p>",
+        "lengths": {},
+        "surveyID": "109678",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 2.4,
+            "quartileCount": "1.4-17.4",
+            "gearCount": 12,
+            "averageWeight": "0.20",
+            "totalCatch": 12,
+            "gear": "Standard gill nets",
+            "CPUE": "1.00",
+            "species": "TLC",
+            "quartileWeight": "0.1-0.7"
+          },
+          {
+            "totalWeight": 8,
+            "quartileCount": "0.3-1.3",
+            "gearCount": 12,
+            "averageWeight": "2.00",
+            "CPUE": "0.33",
+            "totalCatch": 4,
+            "gear": "Standard gill nets",
+            "species": "BUB",
+            "quartileWeight": "0.7-1.9"
+          },
+          {
+            "totalWeight": 0.2,
+            "quartileCount": "0.1-0.8",
+            "gearCount": 16,
+            "averageWeight": "0.10",
+            "gear": "Standard trap nets",
+            "CPUE": "0.12",
+            "totalCatch": 2,
+            "species": "GSF",
+            "quartileWeight": "0.1-0.1"
+          },
+          {
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "gear": "Standard gill nets",
+            "CPUE": "6.75",
+            "totalCatch": 81,
+            "averageWeight": "1.95",
+            "quartileCount": "1.7-5.0",
+            "gearCount": 12,
+            "totalWeight": 158.1
+          },
+          {
+            "totalCatch": 143,
+            "gear": "Standard trap nets",
+            "CPUE": "8.94",
+            "quartileWeight": "0.1-0.4",
+            "species": "YEP",
+            "totalWeight": 20.2,
+            "gearCount": 16,
+            "quartileCount": "0.3-2.3",
+            "averageWeight": "0.14"
+          },
+          {
+            "averageWeight": "6.81",
+            "gearCount": 12,
+            "quartileCount": "0.8-4.3",
+            "totalWeight": 68.1,
+            "quartileWeight": "1.2-3.1",
+            "species": "LAT",
+            "CPUE": "0.83",
+            "gear": "Standard gill nets",
+            "totalCatch": 10
+          },
+          {
+            "totalWeight": 0.75,
+            "quartileCount": "0.1-0.7",
+            "gearCount": 16,
+            "averageWeight": "0.75",
+            "CPUE": "0.06",
+            "gear": "Standard trap nets",
+            "totalCatch": 1,
+            "species": "BUB",
+            "quartileWeight": "0.6-0.9"
+          },
+          {
+            "species": "WAE",
+            "quartileWeight": "1.1-3.3",
+            "gear": "Standard gill nets",
+            "CPUE": "0.17",
+            "totalCatch": 2,
+            "averageWeight": "5.60",
+            "totalWeight": 11.2,
+            "quartileCount": "0.6-9.7",
+            "gearCount": 12
+          },
+          {
+            "species": "SMB",
+            "quartileWeight": "0.7-1.4",
+            "CPUE": "1.75",
+            "gear": "Standard gill nets",
+            "totalCatch": 21,
+            "averageWeight": "0.69",
+            "totalWeight": 14.4,
+            "quartileCount": "0.3-2.2",
+            "gearCount": 12
+          },
+          {
+            "averageWeight": "1.86",
+            "gearCount": 16,
+            "quartileCount": "0.5-3.4",
+            "totalWeight": 174.5,
+            "quartileWeight": "1.1-2.0",
+            "species": "WTS",
+            "gear": "Standard trap nets",
+            "totalCatch": 94,
+            "CPUE": "5.88"
+          },
+          {
+            "CPUE": "7.33",
+            "gear": "Standard gill nets",
+            "totalCatch": 88,
+            "quartileWeight": "1.3-2.3",
+            "species": "LKW",
+            "gearCount": 12,
+            "quartileCount": "1.1-9.3",
+            "totalWeight": 104.7,
+            "averageWeight": "1.19"
+          },
+          {
+            "totalWeight": 9.25,
+            "gearCount": 16,
+            "quartileCount": "0.6-3.5",
+            "averageWeight": "0.49",
+            "totalCatch": 19,
+            "gear": "Standard trap nets",
+            "CPUE": "1.19",
+            "quartileWeight": "0.2-0.6",
+            "species": "SMB"
+          },
+          {
+            "averageWeight": "0.16",
+            "gearCount": 12,
+            "quartileCount": "0.3-2.8",
+            "totalWeight": 22.8,
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "totalCatch": 147,
+            "CPUE": "12.25",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "headerInfo": {
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_id": "16023000",
+          "survey_id": "109678",
+          "id_date": "1978-07-10",
+          "wb_name": "Rose",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1978-07-10"
+      },
+      {
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_id": "20042323348340191",
+          "county": "Cook",
+          "wb_id": "16023000",
+          "id_date": "2023-08-10",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "wb_name": "Rose"
+        },
+        "surveyDate": "2023-08-10",
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Rose Lake on August 10th, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, Lake Whitefish, and Cisco, also known as Tullibee. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 17 feet. Dissolved oxygen decreased to below 3.0 mg/L at 90.4 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.8\u00b0C (40.6\u00b0F). <br> \n <br> \nTDO3 values cooler than 8.8\u00b0C for Lake Trout, 17.2\u00b0C for Lake Whitefish, or 21.5\u00b0C for Cisco indicate that oxythermal conditions are favorable for these species. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for these species was available across a range of depths at the time of sampling. When adequate oxythermal habitat is available, Lake Trout, Lake Whitefish, or Cisco are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "surveyID": "20042323348340191",
+        "lengths": {}
+      },
+      {
+        "lengths": {},
+        "surveyID": "-312",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Rose Lake on August 11th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Lake Whitefish and Cisco, also known as 'Tullibee', are also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 36.9 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 88.8 feet at the time of sampling. The thickness of this layer of water in the water column was 51.9 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.7 degrees C (42.3 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2023 and 2024 also indicate suitable oxythermal habitat in all years surveyed. When adequate oxythermal habitat is unavailable, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "id_date": "2025-08-11",
+          "wb_name": "Rose",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "-312",
+          "county": "Cook",
+          "wb_id": "16023000"
+        },
+        "surveyDate": "2025-08-11",
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": []
+      }
+    ],
+    "lakeName": "Rose",
+    "sampledPlants": []
+  },
+  "message": "Normal execution."
+}

@@ -1,0 +1,1355 @@
+{
+  "result": {
+    "officeCode": "F218",
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "09/05/2006",
+        "15"
+      ],
+      [
+        "09/04/2018",
+        "20"
+      ],
+      [
+        "08/07/2024",
+        "10.2"
+      ],
+      [
+        "09/06/1984",
+        "25"
+      ],
+      [
+        "07/01/1969",
+        "14"
+      ],
+      [
+        "08/15/2025",
+        "13"
+      ]
+    ],
+    "DOWNumber": "16015000",
+    "areaAcres": 508.62,
+    "shoreLengthMiles": 7.71,
+    "accesses": [
+      {
+        "location": " ",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA",
+        "lakeAccessComments": "Carry-in down old road from Clearwater Lake to the middle of the south shore of Daniels Lake.  Lake is entirely inside the BWCAW."
+      },
+      {
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "accessTypeId": "CA",
+        "lakeAccessComments": "Portage trail from West Bearskin Lake to west end of Daniels Lake."
+      }
+    ],
+    "maxDepthFeet": 90,
+    "littoralAcres": 86,
+    "county": "Cook",
+    "sampledPlants": [],
+    "averageWaterClarity": "16.2",
+    "surveys": [
+      {
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyID": "20042324359207093",
+        "surveyDate": "2023-08-03",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "2023-08-03",
+          "wb_name": "Daniels",
+          "wb_id": "16015000",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "survey_id": "20042324359207093"
+        },
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Daniels Lake on August 3rd, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 13 feet. The dissolved oxygen did not reach 3.0 mg/L or less throughout the profile, and therefore there was sufficient oxygen from the surface to the bottom of the lake at the time of sampling. Since no TDO3 value can be calculated, the lowest dissolved oxygen level recorded was 3.3 ppm at 5.5\u00b0C (41.9\u00b0F) which was found at the deepest depth of the profile (91.9 feet). <br> \n <br> \nTDO3 values cooler than 8.8\u00b0C indicate that oxythermal conditions are favorable for Lake Trout. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for Lake Trout was available across a range of depths at the time of sampling. When adequate oxythermal habitat is available, Lake Trout are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>"
+      },
+      {
+        "lengths": {
+          "WTS": {
+            "maximum_length": 21,
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                9
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "maximum_length": 18,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                12,
+                6
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                7
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "YEP": {
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 8
+          },
+          "SMB": {
+            "maximum_length": 13,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ]
+            ],
+            "minimum_length": 11
+          }
+        },
+        "surveyID": "220626356648302",
+        "surveyDate": "2006-09-05",
+        "headerInfo": {
+          "survey_id": "220626356648302",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_id": "16015000",
+          "wb_name": "Daniels",
+          "id_date": "2006-09-05",
+          "county": "Cook",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Lake trout were abundant, but most were small (under 20 inches in length).  The lake trout population was entirely self-sustained; no stocking had been done since 1996, and none of the fish collected were old enough to have been stocked.  Lake trout were probably subsisting mostly on invertebrate forage, and growth rates were slow.   <br> \n <br> \nSmallmouth bass were present in average numbers.  No other gamefish species were found in 2006, as has usually been the case in this lake.  A few yellow perch and average numbers of white sucker were present.     <br> \n <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "3.17",
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "totalCatch": 11,
+            "gearCount": 5,
+            "CPUE": "2.20",
+            "gear": "Deep gill nets",
+            "totalWeight": 15795,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 1964,
+            "gear": "Shallow gill nets",
+            "CPUE": "1.25",
+            "gearCount": 4,
+            "species": "SMB",
+            "totalCatch": 5,
+            "quartileCount": "N/A",
+            "averageWeight": "0.87"
+          },
+          {
+            "gearCount": 4,
+            "averageWeight": "0.44",
+            "quartileCount": "N/A",
+            "totalCatch": 3,
+            "species": "YEP",
+            "quartileWeight": "N/A",
+            "CPUE": "0.75",
+            "totalWeight": 596,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "quartileWeight": "N/A",
+            "CPUE": "7.40",
+            "totalWeight": 22005,
+            "gear": "Deep gill nets",
+            "gearCount": 5,
+            "averageWeight": "1.31",
+            "totalCatch": 37,
+            "species": "LAT",
+            "quartileCount": "N/A"
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 17,
+            "species": "WTS",
+            "averageWeight": "1.70",
+            "quartileWeight": "N/A",
+            "totalWeight": 13081,
+            "gear": "Shallow gill nets",
+            "CPUE": "4.25"
+          }
+        ]
+      },
+      {
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.00",
+            "gear": "Deep gill nets",
+            "totalWeight": 9870,
+            "quartileWeight": "N/A",
+            "averageWeight": "3.63",
+            "quartileCount": "N/A",
+            "totalCatch": 6,
+            "species": "WTS",
+            "gearCount": 6
+          },
+          {
+            "averageWeight": "0.84",
+            "quartileCount": "N/A",
+            "totalCatch": 2,
+            "species": "SMB",
+            "gearCount": 3,
+            "CPUE": "0.67",
+            "gear": "Shallow gill nets",
+            "totalWeight": 759,
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalWeight": 242,
+            "gear": "Deep gill nets",
+            "CPUE": "0.17",
+            "quartileWeight": "N/A",
+            "totalCatch": 1,
+            "species": "BUB",
+            "quartileCount": "N/A",
+            "averageWeight": "0.53",
+            "gearCount": 6
+          },
+          {
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "totalWeight": 553,
+            "CPUE": "1.00",
+            "gearCount": 3,
+            "totalCatch": 3,
+            "species": "YEP",
+            "quartileCount": "N/A",
+            "averageWeight": "0.41"
+          },
+          {
+            "averageWeight": "1.32",
+            "totalCatch": 69,
+            "species": "LAT",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "CPUE": "11.50",
+            "gear": "Deep gill nets",
+            "totalWeight": 41412,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "CPUE": "1.00",
+            "totalWeight": 2810,
+            "gear": "Shallow gill nets",
+            "gearCount": 3,
+            "averageWeight": "2.06",
+            "totalCatch": 3,
+            "species": "WTS",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 2,
+            "species": "SMB",
+            "quartileCount": "N/A",
+            "averageWeight": "0.50",
+            "gearCount": 6,
+            "gear": "Deep gill nets",
+            "totalWeight": 450,
+            "CPUE": "0.33",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyDate": "2018-09-04",
+        "surveyID": "17311827136256026",
+        "narrative": "<p>Daniels Lake is a native Lake Trout lake where Walleye and Northern Pike have rarely or never been taken in surveys, or by anglers.  Smallmouth Bass were first found in this lake in 1979, and have since provided some good summer fishing, producing fair numbers of larger fish.  From 1941 through 1996 Lake Trout were frequently and sometimes regularly stocked, but stocking was discontinued after 1996 because it appeared that natural reproduction alone could sustain the Lake Trout population and fishery.  Daniels Lake is one of the Grand Marais area's most heavily fished Boundary Waters Canoe Area Wilderness Lake Trout lakes, and anglers have typically enjoyed good success.  <br> \n <br> \nThe current (2015) lake management plan for Daniels Lake set long-range goals for Lake Trout of maintaining a naturally produced population with a minimum gill net catch of 3.0 fish/set (in deep and shallow sets combined), with some fish over 25 inches present.  The plan's long range goals for Smallmouth Bass were maintaining a minimum gill net catch of 0.7 fish/set (deep and shallow sets combined), with some fish over 16 inches present.  This was the first of two surveys scheduled in the 2015 plan to determine whether the Lake Trout population could meet the long range goal with no stocking. <br> \n <br> \nLake Trout numbers appeared to have been relatively high in 2018, with many natural year classes contributing to the catch.  Results of this survey indicated the Lake Trout population in this lake could sustain itself with no need for stocking.  The combined catch in deep and shallow gill net sets (7.67 fish/set) was the second-highest ever seen in Daniels Lake, and was well above average for a lake of this type.  With just one exception, all of the Lake Trout taken in this survey had been produced naturally since 1996, when the lake was last stocked.   Fifteen year classes contributed to the catch, including one fish that was determined, fairly confidently,  to have been 52 years old (34.3 inches in length).  Two recent year classes (2015 and 2016) appeared to have been relatively strong, and no year classes from 2003 through 2016 were missing from the catch.  Lake Trout growth appeared to have been relatively slow.  Fish reached a mean length at the end of their sixth year of 14.5 inches, compared to an area average of 16.2 inches.  Slow growth was likely due to the lack of any cold-water forage species (reliance on an invertebrate diet), coupled with high competition between Lake Trout in this relatively dense population.  Smallmouth Bass likely competed for near-shore forage fish that might otherwise have been seasonally available to Lake Trout. <br> \n <br> \nAs has been the case in recent surveys, the 2018 Smallmouth Bass catch (0.44 fish/set; deep and shallow combined) fell short of the goal from the 2015 plan, and no bass over 16 inches in length were taken.  Management of a non-native species like Smallmouth Bass in a wilderness lake like Daniels has generally been given a low priority, particularly when a high-value native species like Lake Trout is also present.  Smallmouth Bass will likely remain present in Daniels Lake, and will continue to provide good summer fishing opportunities, but it is unlikely we will take any steps to improve their numbers or size. <br> \n <br> \nCatches of Burbot, White Sucker, and Yellow Perch in 2018 were similar to past catches in this lake, which have typically been low.  Although some larger Yellow Perch were present, their numbers were likely too low to offer much fishing opportunity. <br> \n  <br> \n</p>",
+        "surveySubType": "Standard Survey",
+        "headerInfo": {
+          "survey_id": "17311827136256026",
+          "wb_alt_name": "",
+          "survey_type": "Standard Survey",
+          "wb_id": "16015000",
+          "id_date": "2018-09-04",
+          "wb_name": "Daniels",
+          "county": "Cook",
+          "wb_type": "Lake"
+        },
+        "lengths": {
+          "BUB": {
+            "maximum_length": 13,
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ]
+            ]
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 12
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                8,
+                2
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 10
+          },
+          "WTS": {
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                23,
+                1
+              ]
+            ],
+            "maximum_length": 23
+          },
+          "LAT": {
+            "maximum_length": 34,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                18
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                34,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                6
+              ]
+            ],
+            "minimum_length": 6
+          }
+        }
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyDate": "2024-08-07",
+        "surveyID": "21872426151970346",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Daniels Lake on August 7, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 34.6 feet, and the dissolved oxygen concentration never dropped below 3.0 mg/L at the time of sampling. The thickness of this layer in the water column was 40.9 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because the dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. The temperature at the bottom of the lake was 5.8 degrees C (42.4 degrees F). Instances in which the dissolved oxygen does not reach below 3.0 mg/L and temperature remains below 8.8 degrees C, indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 2023 during the late summer thermal stress period indicated suitable oxythermal habitat during that year. Data were also collected outside the thermal maximum period from 1969-2018, this data indicated suitable conditions during those sampling periods. The least favorable oxythermal habitat conditions were recorded in 2006, outside the peak summer stress period, when the suitable habitat layer thickness was 17.1 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n <br> \n <br> \n</p>",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "2024-08-07",
+          "wb_name": "Daniels",
+          "wb_id": "16015000",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "survey_id": "21872426151970346"
+        },
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "averageWeight": "1.37",
+            "totalCatch": 1,
+            "species": "LAT",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "0.25",
+            "gear": "Shallow gill nets",
+            "totalWeight": 620
+          },
+          {
+            "gear": "Shallow gill nets",
+            "totalWeight": 5603,
+            "CPUE": "2.75",
+            "quartileWeight": "N/A",
+            "totalCatch": 11,
+            "species": "SMB",
+            "quartileCount": "N/A",
+            "averageWeight": "1.12",
+            "gearCount": 4
+          },
+          {
+            "gearCount": 5,
+            "averageWeight": "0.82",
+            "totalCatch": 1,
+            "species": "BUB",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "0.20",
+            "totalWeight": 374,
+            "gear": "Deep gill nets"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "totalWeight": 649,
+            "CPUE": "1.25",
+            "quartileWeight": "N/A",
+            "species": "YEP",
+            "totalCatch": 5,
+            "quartileCount": "N/A",
+            "averageWeight": "0.29",
+            "gearCount": 4
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 46509,
+            "gear": "Deep gill nets",
+            "CPUE": "9.60",
+            "gearCount": 5,
+            "quartileCount": "N/A",
+            "species": "LAT",
+            "totalCatch": 48,
+            "averageWeight": "2.14"
+          },
+          {
+            "quartileWeight": "N/A",
+            "CPUE": "1.75",
+            "gear": "Shallow gill nets",
+            "totalWeight": 6398,
+            "gearCount": 4,
+            "averageWeight": "2.02",
+            "totalCatch": 7,
+            "species": "WTS",
+            "quartileCount": "N/A"
+          }
+        ],
+        "surveyDate": "1996-09-04",
+        "surveyID": "110742",
+        "narrative": "<p>Lake trout were abundant, and fish as large as 33 inches were present.  Over half the lake trout collected had been naturally produced, based on the number of fin clipped (stocked) fish observed in the catch.  Lake trout growth had been slightly faster than average for the area.  Smallmouth bass were fairly abundant, and most of the fish taken were over 12 inches in length.  No other gamefish species were found.</p>",
+        "headerInfo": {
+          "wb_name": "Daniels",
+          "id_date": "1996-09-04",
+          "wb_id": "16015000",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "survey_id": "110742",
+          "wb_type": "Lake",
+          "county": "Cook"
+        },
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 11
+          },
+          "SMB": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 16
+          },
+          "BUB": {
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                16,
+                1
+              ]
+            ],
+            "minimum_length": 16
+          },
+          "LAT": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                7
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                33,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 33
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9
+          }
+        }
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 8,
+            "averageWeight": "0.33",
+            "species": "BUB",
+            "totalCatch": 3,
+            "quartileCount": "0.3-1.3",
+            "quartileWeight": "0.7-1.9",
+            "CPUE": "0.38",
+            "totalWeight": 1,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "1.2-3.1",
+            "gear": "Standard gill nets",
+            "totalWeight": 32.3,
+            "CPUE": "3.25",
+            "gearCount": 8,
+            "quartileCount": "0.8-4.3",
+            "species": "LAT",
+            "totalCatch": 26,
+            "averageWeight": "1.24"
+          },
+          {
+            "averageWeight": "2.53",
+            "species": "WTS",
+            "totalCatch": 8,
+            "quartileCount": "0.5-3.4",
+            "gearCount": 12,
+            "CPUE": "0.67",
+            "gear": "Standard trap nets",
+            "totalWeight": 20.25,
+            "quartileWeight": "1.1-2.0"
+          },
+          {
+            "quartileWeight": "0.7-1.4",
+            "gear": "Standard gill nets",
+            "totalWeight": 1.7,
+            "CPUE": "0.38",
+            "gearCount": 8,
+            "quartileCount": "0.3-2.2",
+            "species": "SMB",
+            "totalCatch": 3,
+            "averageWeight": "0.57"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 1,
+            "CPUE": "0.62",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "0.3-2.8",
+            "totalCatch": 5,
+            "species": "YEP",
+            "averageWeight": "0.20",
+            "gearCount": 8
+          },
+          {
+            "CPUE": "4.12",
+            "totalWeight": 83.75,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-2.4",
+            "averageWeight": "2.54",
+            "totalCatch": 33,
+            "species": "WTS",
+            "quartileCount": "1.7-5.0",
+            "gearCount": 8
+          },
+          {
+            "quartileWeight": "0.2-0.6",
+            "CPUE": "0.83",
+            "gear": "Standard trap nets",
+            "totalWeight": 3.92,
+            "gearCount": 12,
+            "averageWeight": "0.39",
+            "totalCatch": 10,
+            "species": "SMB",
+            "quartileCount": "0.6-3.5"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_name": "Daniels",
+          "id_date": "1987-09-08",
+          "wb_id": "16015000",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "survey_id": "110034",
+          "wb_type": "Lake",
+          "county": "Cook"
+        },
+        "narrative": "<p>ALL LAKE TROUT BUT FOUR WERE CHECKED FOR CLIPS AND PIGMENT MARKING BY THE ASSESSMENT CREW. LAKE TROUT ABUNDANCE AND AVERAGE SIZE ARE GOOD. THE STRONGEST YEAR-CLASS APPEARS TO BE 1983. OF THE 15 FISH SAMPLED FROM THE 1983 YEAR-CLASS (AGE IV+) FIVE HAD PECTORAL CLIPS. FOUR OF THE FISH WITH PETORAL CLIPS HAD READABLE FLOURESCENT GREEN PIGMENT MARKS. THE PRESENCE OF AGE III, AND V AND UNMARKED AGE IV FISH INDICATED SUBSTANTIAL NATURAL REPRODUCTION. LAKE TROUT GROWTH IS SLOW BY STATE- WIDE STANDARDS. SMALLMOUTH BASS NUMBERS ARE STILL FAIRLY GOOD, ALTHOUGH THERE MAY HAVE BEEN SOME DECLINE SINCE 1984. NO LARGER SMALLMOUTH BASS WERE TAKEN IN THIS ASSESSMENT. GROWTH RATES FOR SMALL- MOUTH BASS ARE SLOW BY STATE STANDARDS. THE FORAGE BASE FOR LAKE TROUT AND SMALLMOUTH BASS APPEARS TO BE COMPOSED MAINLY OF INVERTEBRATES, ALTHOUGH MINNOWS AND SOME YELLOW PERCH ARE PRESENT.</p>",
+        "surveyID": "110034",
+        "surveyDate": "1987-09-08",
+        "lengths": {}
+      },
+      {
+        "surveyID": "110673",
+        "surveyDate": "1992-09-08",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "survey_id": "110673",
+          "wb_name": "Daniels",
+          "id_date": "1992-09-08",
+          "wb_id": "16015000",
+          "county": "Cook",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>The lake trout catch was high, well above the normal range for lakes of this ecological class, and the highest observed in Daniels Lake since 1980.  Several year classes were represented in the catch, with the 1989 and 1987 year classes the strongest.  Stocked lake trout accounted for 50, 70, and 88% of the 1989, 1987, and 1985 year classes, respectively, and accounted for 54% of the total lake trout catch.  Lake trout growth was somewhat below average for this area.The catch of smallmouth bass was the lowest observed in Daniels Lake since 1980, and follows a similarly low catch in the 1987 assessment.  Catches of other fish species in this assessment were within the normal range for this lake, historically.</p>",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 9,
+            "averageWeight": "0.50",
+            "species": "BUB",
+            "totalCatch": 3,
+            "quartileCount": "0.3-1.3",
+            "quartileWeight": "0.7-1.9",
+            "CPUE": "0.33",
+            "totalWeight": 1.5,
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "10.11",
+            "gear": "Standard gill nets",
+            "totalWeight": 114.25,
+            "quartileWeight": "1.2-3.1",
+            "averageWeight": "1.26",
+            "quartileCount": "0.8-4.3",
+            "totalCatch": 91,
+            "species": "LAT",
+            "gearCount": 9
+          },
+          {
+            "averageWeight": "0.75",
+            "totalCatch": 1,
+            "species": "SMB",
+            "quartileCount": "0.3-2.2",
+            "gearCount": 9,
+            "CPUE": "0.11",
+            "totalWeight": 0.75,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-1.4"
+          },
+          {
+            "quartileCount": "0.3-2.8",
+            "totalCatch": 2,
+            "species": "YEP",
+            "averageWeight": "0.50",
+            "gearCount": 9,
+            "totalWeight": 1,
+            "gear": "Standard gill nets",
+            "CPUE": "0.22",
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "CPUE": "2.44",
+            "totalWeight": 57.75,
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "averageWeight": "2.62",
+            "totalCatch": 22,
+            "species": "WTS",
+            "quartileCount": "1.7-5.0"
+          }
+        ]
+      },
+      {
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.62",
+            "gear": "Standard gill nets",
+            "totalWeight": 6.3,
+            "quartileWeight": "0.7-1.9",
+            "averageWeight": "0.48",
+            "quartileCount": "0.3-1.3",
+            "totalCatch": 13,
+            "species": "BUB",
+            "gearCount": 8
+          },
+          {
+            "gearCount": 8,
+            "averageWeight": "1.81",
+            "quartileCount": "1.7-5.0",
+            "totalCatch": 47,
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "CPUE": "5.88",
+            "gear": "Standard gill nets",
+            "totalWeight": 85.25
+          },
+          {
+            "species": "LAT",
+            "totalCatch": 25,
+            "quartileCount": "0.8-4.3",
+            "averageWeight": "1.47",
+            "gearCount": 8,
+            "totalWeight": 36.75,
+            "gear": "Standard gill nets",
+            "CPUE": "3.12",
+            "quartileWeight": "1.2-3.1"
+          },
+          {
+            "quartileCount": "0.3-2.3",
+            "totalCatch": 5,
+            "species": "YEP",
+            "averageWeight": "0.36",
+            "gearCount": 8,
+            "gear": "Standard trap nets",
+            "totalWeight": 1.8,
+            "CPUE": "0.62",
+            "quartileWeight": "0.1-0.4"
+          },
+          {
+            "CPUE": "0.12",
+            "gear": "Standard trap nets",
+            "totalWeight": 0.5,
+            "quartileWeight": "0.6-0.9",
+            "averageWeight": "0.50",
+            "quartileCount": "0.1-0.7",
+            "totalCatch": 1,
+            "species": "BUB",
+            "gearCount": 8
+          },
+          {
+            "quartileWeight": "0.7-1.4",
+            "CPUE": "1.62",
+            "gear": "Standard gill nets",
+            "totalWeight": 10,
+            "gearCount": 8,
+            "averageWeight": "0.77",
+            "totalCatch": 13,
+            "species": "SMB",
+            "quartileCount": "0.3-2.2"
+          },
+          {
+            "gearCount": 8,
+            "averageWeight": "2.00",
+            "quartileCount": "0.5-3.4",
+            "totalCatch": 8,
+            "species": "WTS",
+            "quartileWeight": "1.1-2.0",
+            "CPUE": "1.00",
+            "gear": "Standard trap nets",
+            "totalWeight": 16
+          },
+          {
+            "averageWeight": "0.39",
+            "totalCatch": 15,
+            "species": "SMB",
+            "quartileCount": "0.6-3.5",
+            "gearCount": 8,
+            "CPUE": "1.88",
+            "gear": "Standard trap nets",
+            "totalWeight": 5.85,
+            "quartileWeight": "0.2-0.6"
+          },
+          {
+            "gearCount": 8,
+            "averageWeight": "0.20",
+            "totalCatch": 15,
+            "species": "YEP",
+            "quartileCount": "0.3-2.8",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "1.88",
+            "gear": "Standard gill nets",
+            "totalWeight": 2.95
+          }
+        ],
+        "surveyID": "109937",
+        "surveyDate": "1984-09-05",
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "1984-09-05",
+          "wb_name": "Daniels",
+          "wb_id": "16015000",
+          "wb_alt_name": "",
+          "survey_type": "Re-Survey",
+          "survey_id": "109937"
+        },
+        "narrative": "<p>THE LAKE TROUT POPULATION IS CURRENTLY DOMINATED BY AGE V AND VI FISH. GROWTH RATES ARE GOOD. THE AGE VI, V AND III FISH CAN BE ACCOUNTED FOR BY STOCKINGS, BUT THE OTHER AGE CLASES MAY BE INDI- CATIVE OF SOME NATURAL REPRODUCTION. THE SMALL- MOUTH BASS POPULATION APPEARS TO BE HEALTHY, WITH A GOOD RANGE OF YEAR CLASSES PRESENT, AND GOOD GROWTH RATES.</p>",
+        "lengths": {}
+      },
+      {
+        "lengths": {
+          "SMB": {
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ]
+            ],
+            "maximum_length": 16
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 6
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 15
+          },
+          "LAT": {
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "minimum_length": 13,
+            "maximum_length": 22
+          }
+        },
+        "surveyDate": "2001-09-04",
+        "surveyID": "111288",
+        "narrative": "<p>The lake trout catch in 2001 was above average for lakes of this type in this area, and a wide range of sizes was present.  None of the lake trout collected in 2001 had been stocked.  Stocking of this lake was discontinued after 1996, but the lake trout population appears to be maintaining itself very well.  The smallmouth bass catch in 2001 was similar to past catches in this lake.  The lake supported good numbers of nice-sized bass.  As has usually been the case in this lake, no other game fish, and no panfish, were collected in 2001.</p>",
+        "headerInfo": {
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "survey_id": "111288",
+          "id_date": "2001-09-04",
+          "wb_name": "Daniels",
+          "wb_id": "16015000"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "CPUE": "0.25",
+            "totalWeight": 95,
+            "gear": "Shallow gill nets",
+            "gearCount": 4,
+            "averageWeight": "0.21",
+            "totalCatch": 1,
+            "species": "BUB",
+            "quartileCount": "N/A"
+          },
+          {
+            "averageWeight": "3.31",
+            "quartileCount": "N/A",
+            "totalCatch": 7,
+            "species": "WTS",
+            "gearCount": 5,
+            "CPUE": "1.40",
+            "totalWeight": 10521,
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "CPUE": "1.25",
+            "totalWeight": 3660,
+            "gear": "Shallow gill nets",
+            "gearCount": 4,
+            "averageWeight": "1.61",
+            "totalCatch": 5,
+            "species": "SMB",
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "0.60",
+            "gear": "Deep gill nets",
+            "totalWeight": 690,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.51",
+            "quartileCount": "N/A",
+            "species": "BUB",
+            "totalCatch": 3,
+            "gearCount": 5
+          },
+          {
+            "gearCount": 4,
+            "averageWeight": "0.08",
+            "totalCatch": 1,
+            "species": "YEP",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "0.25",
+            "totalWeight": 35,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "gearCount": 5,
+            "averageWeight": "1.39",
+            "totalCatch": 38,
+            "species": "LAT",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "7.60",
+            "totalWeight": 23978,
+            "gear": "Deep gill nets"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "totalWeight": 12157,
+            "CPUE": "3.75",
+            "quartileWeight": "N/A",
+            "totalCatch": 15,
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "averageWeight": "1.79",
+            "gearCount": 4
+          }
+        ]
+      },
+      {
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "county": "Cook",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "survey_id": "22622522759158029",
+          "wb_name": "Daniels",
+          "id_date": "2025-08-15",
+          "wb_id": "16015000"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Daniels Lake on August 15th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 91.8 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 28.9 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L for the entire sampled depth. This layer in the water column was 63.0 feet, indicating oxythermal habitat for Lake Trout was present. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 5.2 degrees C (41.4 degrees F), was substituted as TDO3. TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2023 and 2024 also indicated suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 2024 when the suitable oxythermal habitat layer was 40.9 feet thick. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyID": "22622522759158029",
+        "surveyDate": "2025-08-15"
+      }
+    ],
+    "lakeName": "Daniels"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285984
+}

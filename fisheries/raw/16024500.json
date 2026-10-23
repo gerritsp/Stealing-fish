@@ -1,0 +1,789 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "sampledPlants": [],
+    "averageWaterClarity": "12.4",
+    "county": "Cook",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "PO",
+        "location": "",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "maxDepthFeet": 60,
+    "lakeName": "Dunn",
+    "littoralAcres": 43.2,
+    "DOWNumber": "16024500",
+    "waterClarity": [
+      [
+        "06/29/2009",
+        "11.5"
+      ],
+      [
+        "06/24/2013",
+        "11"
+      ],
+      [
+        "06/27/1969",
+        "14.6"
+      ]
+    ],
+    "shoreLengthMiles": 2.42,
+    "officeCode": "F218",
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveyID": "4310918745264000",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2009-06-29",
+        "lengths": {
+          "GSF": {
+            "fishCount": [
+              [
+                4,
+                27
+              ],
+              [
+                5,
+                7
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 4,
+            "maximum_length": 6
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 11
+          },
+          "WTS": {
+            "maximum_length": 17,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                17
+              ],
+              [
+                15,
+                17
+              ],
+              [
+                16,
+                11
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                7,
+                10
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_id": "4310918745264000",
+          "survey_type": "Population Assessment",
+          "wb_name": "Dunn",
+          "wb_id": "16024500",
+          "id_date": "2009-06-29",
+          "wb_alt_name": ""
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "10.00",
+            "totalWeight": 18592,
+            "gearCount": 3,
+            "quartileCount": "0.3-4.0",
+            "averageWeight": "1.37",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.2-3.5",
+            "species": "LAT",
+            "totalCatch": 30
+          },
+          {
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "species": "GSF",
+            "totalCatch": 35,
+            "CPUE": "11.67",
+            "totalWeight": 1198,
+            "quartileCount": "0.4-7.0",
+            "gearCount": 3,
+            "averageWeight": "0.08"
+          },
+          {
+            "averageWeight": "1.05",
+            "gearCount": 3,
+            "quartileCount": "1.7-12.5",
+            "CPUE": "25.67",
+            "totalWeight": 36824,
+            "totalCatch": 77,
+            "species": "WTS",
+            "quartileWeight": "0.7-2.3",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>Lake trout were abundant in Dunn Lake in 2009, as has been the case in every year that the lake has been assessed.  Most of the lake trout taken were under 18 inches in length, as has usually been the case in this lake.  The lake trout population was entirely self-sustained; there are no records of any stocking.  Most of the lake trout taken were four to six-year-old fish.  Growth had been about average for the area, with six-year-old fish reaching an average length of 16.5 inches at the end of their sixth year.  Forage for lake trout was provided mainly by a variety of invertebrates; as a result, fish tended to have flesh with more orange color than is usually seen in lake trout.  <br> \n <br> \nWhite sucker and green sunfish gill net catches were high for a lake of this class, and for this lake historically.    Both may have supplemented invertebrates in the lake trout diet, although both species would also compete with lake trout for invertebrate forage, to the extent that their habitats overlap. <br> \n <br> \nThis assessment was done in part to confirm reports from anglers that brook trout, and perhaps smallmouth bass, were present in Dunn Lake.  One angler had reported many smallmouth bass present in the stomachs of lake trout he caught around the year 2000.  No smallmouth bass were taken in this assessment, and its possible the fish the angler saw were small green sunfish (not unusual in lake trout lakes in this area).  Since 2001 several anglers have reported catching brook trout in Dunn Lake, and in March 2007 one photo of two fish from Dunn Lake that were clearly brook trout was sent to Grand Marais Fisheries.  It seems very unlikely that brook trout could reach Dunn Lake from the nearest stocked lake (Sock Lake), but it is possible that one or more loads of brook trout destined for aerial stocking in Sock Lake could have been put in Dunn Lake by mistake.  Access to Dunn Lake is too difficult to make local rumors of illegal stocking credible.  No brook trout were taken in this assessment.  Although some brook trout seem to have been present in Dunn Lake in 2007, they had either disappeared, or their numbers were very low by 2009. <br> \n <br> \n</p>"
+      },
+      {
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "survey_id": "109842",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "1985-10-21",
+          "wb_alt_name": "",
+          "wb_id": "16024500",
+          "wb_name": "Dunn"
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.3-4.0",
+            "gearCount": 2,
+            "totalWeight": 40.4,
+            "CPUE": "13.00",
+            "averageWeight": "1.55",
+            "species": "LAT",
+            "quartileWeight": "1.2-3.5",
+            "gear": "Standard gill nets",
+            "totalCatch": 26
+          },
+          {
+            "gearCount": 2,
+            "quartileCount": "1.7-12.5",
+            "totalWeight": 66.1,
+            "CPUE": "43.50",
+            "averageWeight": "0.76",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-2.3",
+            "totalCatch": 87
+          }
+        ],
+        "narrative": "<p>THE LAKE TROUT POPULATION CONSISTS MAINLY OF AGE 3 TO AGE 6 FISH, WITH SOME OLDER INDIVIDUALS PRE- SENT. GROWTH IS GOOD. THE POPULATION IS SELF-SUS- TAINING AND WILD. NUMBERS OF TROUT ARE GOOD- WELL ABOVE STATE AND LOCAL MEDIANS. THERE IS A LARGE SUCKER POPULATION, BUT LITTLE ELSE FOR FORAGE.</p>",
+        "surveyType": "Standard Survey",
+        "surveyID": "109842",
+        "surveyDate": "1985-10-21",
+        "surveySubType": "Population Assessment",
+        "lengths": {}
+      },
+      {
+        "surveyDate": "2013-06-24",
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "LAT": {
+            "fishCount": [
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                9
+              ],
+              [
+                18,
+                11
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 20
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                8
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 13
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "4311318653542010",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.2-3.5",
+            "gear": "Standard gill nets",
+            "species": "LAT",
+            "totalCatch": 35,
+            "CPUE": "11.67",
+            "totalWeight": 34802,
+            "quartileCount": "0.3-4.0",
+            "gearCount": 3,
+            "averageWeight": "2.19"
+          },
+          {
+            "CPUE": "1.75",
+            "totalWeight": 0,
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A",
+            "gear": "Minnow traps",
+            "species": "GSF",
+            "totalCatch": 7
+          },
+          {
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "species": "GOS",
+            "totalCatch": 6,
+            "CPUE": "1.50",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "averageWeight": "0.00"
+          },
+          {
+            "averageWeight": "1.74",
+            "totalWeight": 20511,
+            "CPUE": "8.67",
+            "quartileCount": "1.7-12.5",
+            "gearCount": 3,
+            "totalCatch": 26,
+            "quartileWeight": "0.7-2.3",
+            "gear": "Standard gill nets",
+            "species": "WTS"
+          }
+        ],
+        "narrative": "<p>Lake Trout were abundant in Dunn Lake in 2013, as has been the case in all prior assessments.  The Lake Trout population in Dunn Lake was entirely self-sustained; there are no records of any stocking.  Lake Trout sampled in 2013 averaged about 17 inches in length, and most were between 6 and 7 years old.  Lake Trout growth rates had been about average for the Grand Marais area.  Forage for Lake Trout was provided mainly by a variety of invertebrates, although small White Sucker, Green Sunfish, and various minnow species may also provide additional forage items. <br> \n <br> \nThe 2013 White Sucker gill net catch was within the normal range for this lake class, but was substantially lower than in the 2006 assessment.  All White Sucker sampled in 2013 appeared to have been too large to serve as forage for Lake Trout, and likely competed with Lake Trout for invertebrate forage.   <br> \n <br> \nPast reports from anglers indicated that Brook Trout, and possibly Smallmouth Bass, may have been present in Dunn Lake.  To date, neither species have been captured in gill netting or minnow trapping activities.  It is possible that Green Sunfish, which have been established in Dunn Lake since at least 1994, were misidentified as Smallmouth Bass.  Photo evidence sent to the Grand Marais fisheries office in 2007 indicated that Brook Trout were caught in Dunn Lake.  However, it is possible that Brook Trout intended for nearby Sock Lake were erroneously stocked into Dunn Lake for one or more years.  The continued absence of Brook Trout from population assessments likely indicates that, if established, their abundance remains low. <br> \n <br> \n</p>",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "survey_id": "4311318653542010",
+          "wb_id": "16024500",
+          "wb_name": "Dunn",
+          "wb_alt_name": "",
+          "id_date": "2013-06-24"
+        }
+      },
+      {
+        "surveyDate": "1998-06-29",
+        "surveySubType": "Re-Survey",
+        "lengths": {
+          "WTS": {
+            "maximum_length": 18,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                24
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "GSF": {
+            "minimum_length": 4,
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                4,
+                9
+              ],
+              [
+                5,
+                2
+              ]
+            ]
+          },
+          "LAT": {
+            "minimum_length": 8,
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "110993",
+        "narrative": "<p>lake trout catch in Dunn Lake in 1998 was higher than normal for lakes of this class, but it was fairly low compared to past assessments in this lake.  Although several year classes (all naturally produced) were included in the catch, none had been particularly strong.  Lake trout growth rates had been about average for the area, despite the lack of a deep-water forage species.As in past assessments, the only other fish species collected were white sucker and green sunfish.  Walleye and smallmouth bass are not native to this area, and have never been found in this lake.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 15,
+            "species": "LAT",
+            "quartileWeight": "1.2-3.5",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.96",
+            "quartileCount": "0.3-4.0",
+            "gearCount": 3,
+            "CPUE": "5.00",
+            "totalWeight": 13330
+          },
+          {
+            "CPUE": "1.75",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "species": "FHM",
+            "totalCatch": 7
+          },
+          {
+            "averageWeight": "0.00",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "CPUE": "12.00",
+            "totalWeight": 0,
+            "totalCatch": 48,
+            "species": "GSF",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A"
+          },
+          {
+            "averageWeight": "0.06",
+            "gearCount": 3,
+            "quartileCount": "0.4-7.0",
+            "CPUE": "3.67",
+            "totalWeight": 310,
+            "totalCatch": 11,
+            "species": "GSF",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-2.3",
+            "species": "WTS",
+            "totalCatch": 51,
+            "totalWeight": 33669,
+            "CPUE": "17.00",
+            "quartileCount": "1.7-12.5",
+            "gearCount": 3,
+            "averageWeight": "1.46"
+          },
+          {
+            "averageWeight": "0.00",
+            "CPUE": "3.25",
+            "totalWeight": 0,
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 13,
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "species": "NRD"
+          }
+        ],
+        "headerInfo": {
+          "wb_id": "16024500",
+          "wb_name": "Dunn",
+          "wb_alt_name": "",
+          "id_date": "1998-06-29",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_id": "110993",
+          "survey_type": "Re-Survey"
+        }
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 18.1,
+            "CPUE": "8.33",
+            "quartileCount": "0.3-4.0",
+            "gearCount": 3,
+            "averageWeight": "0.72",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.2-3.5",
+            "species": "LAT",
+            "totalCatch": 25
+          },
+          {
+            "totalCatch": 47,
+            "quartileWeight": "0.7-2.3",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "averageWeight": "0.98",
+            "CPUE": "15.67",
+            "totalWeight": 46,
+            "quartileCount": "1.7-12.5",
+            "gearCount": 3
+          }
+        ],
+        "narrative": "<p>Area residents report good luck for small lake trout, especially in the winter.  Lake trout were abundant, but small, in 1969.</p>",
+        "headerInfo": {
+          "wb_name": "Dunn",
+          "wb_id": "16024500",
+          "wb_alt_name": "",
+          "id_date": "1969-06-25",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_id": "109687",
+          "survey_type": "Initial Survey"
+        },
+        "surveyDate": "1969-06-25",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyID": "109687"
+      },
+      {
+        "surveyID": "110365",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1994-10-10",
+        "lengths": {
+          "LAT": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                7
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                16,
+                9
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                29,
+                1
+              ]
+            ],
+            "minimum_length": 13,
+            "maximum_length": 29
+          },
+          "GSF": {
+            "fishCount": [
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 4,
+            "maximum_length": 7
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                8
+              ],
+              [
+                15,
+                12
+              ],
+              [
+                16,
+                20
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 17,
+            "minimum_length": 8
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "1994-10-10",
+          "wb_id": "16024500",
+          "wb_name": "Dunn",
+          "survey_type": "Population Assessment",
+          "survey_id": "110365",
+          "county": "Cook",
+          "wb_type": "Lake"
+        },
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.81",
+            "totalWeight": 39300,
+            "CPUE": "24.00",
+            "gearCount": 2,
+            "quartileCount": "0.3-4.0",
+            "totalCatch": 48,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.2-3.5",
+            "species": "LAT"
+          },
+          {
+            "CPUE": "5.50",
+            "totalWeight": 681,
+            "gearCount": 2,
+            "quartileCount": "0.4-7.0",
+            "averageWeight": "0.14",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "species": "GSF",
+            "totalCatch": 11
+          },
+          {
+            "averageWeight": "1.61",
+            "totalWeight": 40992,
+            "CPUE": "28.00",
+            "gearCount": 2,
+            "quartileCount": "1.7-12.5",
+            "totalCatch": 56,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-2.3",
+            "species": "WTS"
+          }
+        ],
+        "narrative": "<p>Lake trout were abundant, and were present in a good range of sizes.  The Dunn Lake lake trout population is native and self-sustaining.  Lake trout growth was relatively slow, probably due to a limited forage base consisting mostly of invertebrates.  Five-year-old lake trout averaged 15.6 inches in length when collected in late fall.  White sucker were abundant but were generally too large to serve as forage for most of the lake trout collected.</p>"
+      }
+    ],
+    "areaAcres": 101.11
+  },
+  "timestamp": 1790285982
+}

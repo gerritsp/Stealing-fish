@@ -1,0 +1,552 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285592,
+  "message": "Normal execution.",
+  "result": {
+    "DOWNumber": "69007502",
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN",
+        "location": " ",
+        "lakeAccessComments": "80 rod portage from Echo Trail"
+      },
+      {
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "lakeAccessComments": "5 rod portage from North Hegman",
+        "location": " ",
+        "publicUseAuthCode": "OPEN"
+      }
+    ],
+    "maxDepthFeet": 55,
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "surveyID": "109179",
+        "surveyDate": "1985-09-16",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "CPUE": "0.17",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-3.1",
+            "averageWeight": "13.50",
+            "quartileCount": "1.3-5.3",
+            "gearCount": 6,
+            "totalWeight": 13.5
+          },
+          {
+            "CPUE": "0.67",
+            "species": "SMB",
+            "totalCatch": 4,
+            "quartileWeight": "0.4-1.5",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.80",
+            "quartileCount": "0.3-1.0",
+            "gearCount": 6,
+            "totalWeight": 3.2
+          },
+          {
+            "totalWeight": 24.2,
+            "quartileCount": "0.8-3.8",
+            "gearCount": 6,
+            "averageWeight": "4.84",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.3",
+            "totalCatch": 5,
+            "species": "WAE",
+            "CPUE": "0.83"
+          },
+          {
+            "totalWeight": 1.1,
+            "quartileCount": "0.5-7.0",
+            "gearCount": 6,
+            "averageWeight": "0.12",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 9,
+            "CPUE": "1.50",
+            "species": "YEP"
+          },
+          {
+            "totalCatch": 23,
+            "species": "WTS",
+            "CPUE": "3.83",
+            "gearCount": 6,
+            "quartileCount": "1.2-4.9",
+            "totalWeight": 55.7,
+            "quartileWeight": "1.6-2.4",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.42"
+          },
+          {
+            "averageWeight": "0.83",
+            "quartileWeight": "0.3-0.8",
+            "gear": "Standard gill nets",
+            "totalWeight": 23.2,
+            "quartileCount": "1.3-7.6",
+            "gearCount": 6,
+            "CPUE": "4.67",
+            "species": "TLC",
+            "totalCatch": 28
+          }
+        ],
+        "narrative": "<p>Northern cisco, white sucker, and smallmouth bass are present in average numbers; northern pike, yellow perch, and walleye are present in below average numbers. Walleye and northern pike are larger than average. Walleye growth, based on a very limited sample, appears to be fairly fast.</p>",
+        "headerInfo": {
+          "id_date": "1985-09-16",
+          "wb_id": "69007502",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "wb_name": "South Hegman",
+          "survey_id": "109179"
+        }
+      },
+      {
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 1,
+            "species": "NOP",
+            "CPUE": "0.17",
+            "totalWeight": 22,
+            "gearCount": 6,
+            "quartileCount": "1.3-5.3",
+            "averageWeight": "22.00",
+            "quartileWeight": "1.6-3.1",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 6,
+            "quartileCount": "0.3-1.0",
+            "totalWeight": 9.3,
+            "quartileWeight": "0.4-1.5",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.33",
+            "totalCatch": 7,
+            "species": "SMB",
+            "CPUE": "1.17"
+          },
+          {
+            "totalWeight": 1.2,
+            "gearCount": 6,
+            "quartileCount": "0.5-7.0",
+            "averageWeight": "0.40",
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "CPUE": "0.50",
+            "species": "YEP"
+          },
+          {
+            "averageWeight": "1.82",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-2.4",
+            "totalWeight": 61.9,
+            "gearCount": 6,
+            "quartileCount": "1.2-4.9",
+            "species": "WTS",
+            "CPUE": "5.67",
+            "totalCatch": 34
+          },
+          {
+            "averageWeight": "0.85",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.3-0.8",
+            "totalWeight": 6.8,
+            "quartileCount": "1.3-7.6",
+            "gearCount": 6,
+            "CPUE": "1.33",
+            "species": "TLC",
+            "totalCatch": 8
+          }
+        ],
+        "narrative": "<p>In the gillnet catch, white sucker were most abundant, followed by cisco, smallmouth bass, yellow perch, and northern pike.  Sucker and northern pike dominated the catch by weight. The single northern pike captured was very large - 22 pounds.  Smallmouth bass up to 16 observed.</p>",
+        "headerInfo": {
+          "id_date": "1990-09-07",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "county": "St. Louis",
+          "wb_name": "South Hegman",
+          "wb_type": "Lake",
+          "wb_id": "69007502",
+          "survey_id": "109180"
+        },
+        "surveyID": "109180",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1990-09-07",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "id_date": "2025-08-06",
+          "wb_name": "South Hegman",
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "wb_id": "69007502",
+          "survey_id": "20162522731868122"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in South Hegman Lake on August 6th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 46.9 feet), the water temperature decreased to 21.2 degrees C (70.2 degrees F) at 10.5 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 23.9 feet at the time of sampling. This layer in the water column was 13.4 feet, indicating oxythermal habitat for Cisco was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.1 degrees C (43.0 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "lengths": {},
+        "surveyDate": "2025-08-06",
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "surveyID": "20162522731868122"
+      },
+      {
+        "surveyID": "109178",
+        "surveyDate": "1980-08-11",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "quartileCount": "0.3-1.0",
+            "totalWeight": 1.5,
+            "quartileWeight": "0.4-1.5",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.50",
+            "totalCatch": 1,
+            "CPUE": "0.17",
+            "species": "SMB"
+          },
+          {
+            "averageWeight": "1.40",
+            "quartileWeight": "1.1-2.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 18.25,
+            "gearCount": 6,
+            "quartileCount": "0.8-3.8",
+            "CPUE": "2.17",
+            "species": "WAE",
+            "totalCatch": 13
+          },
+          {
+            "CPUE": "1.33",
+            "species": "YEP",
+            "totalCatch": 8,
+            "averageWeight": "0.19",
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "totalWeight": 1.5,
+            "gearCount": 6,
+            "quartileCount": "0.5-7.0"
+          },
+          {
+            "averageWeight": "2.17",
+            "quartileWeight": "1.6-2.4",
+            "gear": "Standard gill nets",
+            "totalWeight": 89,
+            "quartileCount": "1.2-4.9",
+            "gearCount": 6,
+            "species": "WTS",
+            "CPUE": "6.83",
+            "totalCatch": 41
+          },
+          {
+            "totalCatch": 40,
+            "species": "TLC",
+            "CPUE": "6.67",
+            "totalWeight": 25,
+            "quartileCount": "1.3-7.6",
+            "gearCount": 6,
+            "averageWeight": "0.62",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.3-0.8"
+          }
+        ],
+        "headerInfo": {
+          "id_date": "1980-08-11",
+          "survey_id": "109178",
+          "wb_type": "Lake",
+          "wb_id": "69007502",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "county": "St. Louis",
+          "wb_name": "South Hegman"
+        },
+        "narrative": "<p>Composed of a high population of suckers, average populations of walleye and tullibee and below average populations of perch and smallmouth bass. The majority of the walleyes taken were from the 1976 (age IV) year class. Growth on the younger walleyes appears to be good, but seems to have slowed down as age III fish.</p>"
+      },
+      {
+        "headerInfo": {
+          "id_date": "2014-09-10",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "county": "St. Louis",
+          "wb_name": "South Hegman",
+          "wb_id": "69007502",
+          "wb_type": "Lake",
+          "survey_id": "6851423951013018"
+        },
+        "narrative": "<p>South Hegman Lake is located approximately 10 miles N of Ely and is entirely within the BWCAW. There are several small islands and the shoreline is primarily rocky with a thick coniferous forest present.  <br> \n <br> \nAccess is by a 80 rod portage from the Echo Trail (CR116). There are 3 designated USFS campsites  located on the lake. South Hegman is a popular lake for visitors seeking a wilderness type experience without too much effort. It receives alot of use from visitors travelling through to view the pictographs on North Hegman. <br> \n <br> \nThe 2014 population assessment included catches of northern pike and smallmouth bass. One large (25.6 inch) walleye was sampled. Yellow perch, cisco and white sucker were also sampled in relatively low abundance. <br> \n <br> \nNorthern pike numbers in 2014 (1.5/gill net) were higher than the long term average (0.5/gill net) for all assessments on this lake. Pike sizes averaged a respectable 29.4 inches and the largest pike sampled was 37.4 inches long. <br> \n <br> \nSmallmouth bass numbers in 2014 (0.7/gill net) were similar to the long term average (0.6/gill net) for all assessments on this lake. The average smallmouth sampled  was 10.9 inches long and about 4 to 5 years old. The largest smallmouth sampled was 15.3 inches long and 9 years old. <br> \n <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "CPUE": "1.50",
+            "totalCatch": 9,
+            "quartileWeight": "1.6-3.1",
+            "gear": "Standard gill nets",
+            "averageWeight": "6.16",
+            "quartileCount": "1.3-5.3",
+            "gearCount": 6,
+            "totalWeight": 25127
+          },
+          {
+            "quartileCount": "0.3-1.0",
+            "gearCount": 6,
+            "totalWeight": 1165,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.4-1.5",
+            "averageWeight": "0.64",
+            "totalCatch": 4,
+            "species": "SMB",
+            "CPUE": "0.67"
+          },
+          {
+            "quartileWeight": "1.1-2.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "6.61",
+            "quartileCount": "0.8-3.8",
+            "gearCount": 6,
+            "totalWeight": 3000,
+            "species": "WAE",
+            "CPUE": "0.17",
+            "totalCatch": 1
+          },
+          {
+            "quartileCount": "0.5-7.0",
+            "gearCount": 6,
+            "totalWeight": 2420,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.23",
+            "totalCatch": 23,
+            "CPUE": "3.83",
+            "species": "YEP"
+          },
+          {
+            "CPUE": "1.00",
+            "species": "WTS",
+            "totalCatch": 6,
+            "averageWeight": "1.63",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-2.4",
+            "totalWeight": 4445,
+            "gearCount": 6,
+            "quartileCount": "1.2-4.9"
+          },
+          {
+            "quartileCount": "1.3-7.6",
+            "gearCount": 6,
+            "totalWeight": 840,
+            "quartileWeight": "0.3-0.8",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.14",
+            "totalCatch": 13,
+            "species": "TLC",
+            "CPUE": "2.17"
+          }
+        ],
+        "lengths": {
+          "WAE": {
+            "fishCount": [
+              [
+                25,
+                1
+              ]
+            ],
+            "minimum_length": 25,
+            "maximum_length": 25
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                7,
+                6
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "maximum_length": 11,
+            "minimum_length": 5
+          },
+          "WTS": {
+            "maximum_length": 21,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                20,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                35,
+                1
+              ],
+              [
+                37,
+                1
+              ]
+            ],
+            "maximum_length": 37,
+            "minimum_length": 20
+          },
+          "TLC": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                8
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 11
+          },
+          "SMB": {
+            "minimum_length": 7,
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyDate": "2014-09-10",
+        "surveyType": "Standard Survey",
+        "surveyID": "6851423951013018"
+      }
+    ],
+    "averageWaterClarity": "8.3",
+    "shoreLengthMiles": 4.04,
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "areaAcres": 117.61,
+    "littoralAcres": 55,
+    "county": "St. Louis",
+    "waterClarity": [
+      [
+        "08/06/2025",
+        "8"
+      ],
+      [
+        "09/08/2014",
+        "8.5"
+      ]
+    ],
+    "lakeName": "South Hegman"
+  }
+}

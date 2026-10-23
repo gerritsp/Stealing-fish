@@ -1,0 +1,54 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "lakeName": "Snipe",
+    "DOWNumber": "16052700",
+    "areaAcres": 114.5,
+    "surveys": [
+      {
+        "headerInfo": {
+          "survey_id": "110063",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "wb_name": "Snipe",
+          "wb_alt_name": "",
+          "wb_id": "16052700",
+          "id_date": "1987-08-31",
+          "wb_type": "Lake"
+        },
+        "lengths": {},
+        "surveyDate": "1987-08-31",
+        "surveyID": "110063",
+        "narrative": "<p>A FEW NORTHERN PIKE MAY BE PRESENT, BUT NONE WERE TAKEN IN THIS SURVEY. WALLEYE, WHICH ARE PRESENT DOWNSTREAM IN THIS WATERSHED, HAVE APPARENTLY BEEN UNABLE TO REACH SNIPE LAKE. TEMPERATURE AND OXYGEN CONDITIONS APPEAR MARGINALLY SUITABLE FOR LAKE TROUT IN NORTHWEST BASIN, BUT NONE WERE TAKEN. MINNOWS APPEAR TO BE THE ONLY FORAGE SPECIES AVAILABLE.</p>",
+        "fishCatchSummaries": [],
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "littoralAcres": 88,
+    "waterClarity": [
+      [
+        "09/01/1987",
+        "4"
+      ]
+    ],
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "NONE",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O"
+      }
+    ],
+    "sampledPlants": [],
+    "shoreLengthMiles": 7.03,
+    "county": "Cook",
+    "maxDepthFeet": 90,
+    "averageWaterClarity": "4.0",
+    "officeCode": "F218",
+    "meanDepthFeet": 0
+  },
+  "timestamp": 1790285891,
+  "message": "Normal execution."
+}

@@ -1,0 +1,144 @@
+{
+  "result": {
+    "maxDepthFeet": 42,
+    "lakeName": "Kingfisher",
+    "shoreLengthMiles": 1.58,
+    "averageWaterClarity": "13.1",
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "08/06/2024",
+        "11.8"
+      ],
+      [
+        "08/14/1978",
+        "14.33"
+      ]
+    ],
+    "county": "Cook",
+    "surveys": [
+      {
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Kingfisher Lake, on August 8, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 17.2 degrees C (63.0 degrees F) at 20.1 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 26.1 feet at the time of sampling. The thickness of this layer of water in the water column was 6.0 feet, indicating that oxythermal habitat was present for Lake Whitefish.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 11.2 degrees C (52.2 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 1978 during the late summer thermal stress period indicated suitable oxythermal habitat during that sampling period, where the layer thickness was 20.1 feet. When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "fishCatchSummaries": [],
+        "surveyID": "21872426149003263",
+        "surveyDate": "2024-08-08",
+        "headerInfo": {
+          "county": "Cook",
+          "survey_type": "Targeted Survey",
+          "wb_id": "16081200",
+          "id_date": "2024-08-08",
+          "survey_id": "21872426149003263",
+          "wb_type": "Lake",
+          "wb_name": "Kingfisher",
+          "wb_alt_name": ""
+        },
+        "lengths": {},
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "surveyID": "109826",
+        "lengths": {},
+        "headerInfo": {
+          "wb_name": "Kingfisher",
+          "wb_alt_name": "",
+          "id_date": "1978-08-14",
+          "wb_type": "Lake",
+          "survey_id": "109826",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "wb_id": "16081200"
+        },
+        "surveyDate": "1978-08-14",
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Consists of an above average population of Whtfish and below average populations of Lake Trout, Cmn Sucker, Longnose Sucker, Yel Perch and Walleye.</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "species": "LAT",
+            "averageWeight": "1.25",
+            "totalWeight": 1.25,
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.33"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 4.5,
+            "averageWeight": "2.25",
+            "species": "WAE",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "totalCatch": 2,
+            "CPUE": "0.67"
+          },
+          {
+            "CPUE": "0.33",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "totalWeight": 0.1,
+            "averageWeight": "0.10",
+            "quartileCount": "N/A",
+            "species": "YEP",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "species": "LNS",
+            "quartileCount": "N/A",
+            "averageWeight": "2.00",
+            "totalWeight": 2,
+            "quartileWeight": "N/A",
+            "CPUE": "0.33",
+            "totalCatch": 1
+          },
+          {
+            "totalCatch": 28,
+            "CPUE": "9.33",
+            "quartileWeight": "N/A",
+            "totalWeight": 81,
+            "averageWeight": "2.89",
+            "quartileCount": "N/A",
+            "species": "LKW",
+            "gearCount": 3,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "N/A",
+            "averageWeight": "2.83",
+            "totalWeight": 8.5,
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "CPUE": "1.00"
+          }
+        ]
+      }
+    ],
+    "sampledPlants": [],
+    "areaAcres": 37.44,
+    "DOWNumber": "16081200",
+    "littoralAcres": 0,
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "location": "USFS portages from Jasper Lake on E end and Ogishkemuncie Lake on W end."
+      }
+    ],
+    "officeCode": "F218"
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790286014,
+  "status": "SUCCESS"
+}

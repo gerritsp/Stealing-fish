@@ -1,0 +1,785 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "ownerTypeId": "USF",
+        "location": "",
+        "lakeAccessComments": "150 yard portage from Newfound Lake on a paddle-only route in BWCAW.",
+        "publicUseAuthCode": "OPEN"
+      }
+    ],
+    "officeCode": "F214",
+    "areaAcres": 28.94,
+    "maxDepthFeet": 38,
+    "lakeName": "Skull",
+    "DOWNumber": "38062400",
+    "averageWaterClarity": "N/A",
+    "littoralAcres": 11,
+    "county": "Lake",
+    "shoreLengthMiles": 0.95,
+    "waterClarity": [],
+    "surveys": [
+      {
+        "surveyDate": "2012-10-01",
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                22,
+                1
+              ]
+            ],
+            "minimum_length": 22,
+            "maximum_length": 22
+          },
+          "LMB": {
+            "minimum_length": 5,
+            "maximum_length": 13,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                14
+              ],
+              [
+                7,
+                16
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                2
+              ]
+            ],
+            "maximum_length": 11,
+            "minimum_length": 10
+          }
+        },
+        "surveyID": "4301229849718000",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.53",
+            "CPUE": "1.00",
+            "quartileWeight": "N/A",
+            "totalCatch": 4,
+            "totalWeight": 957,
+            "gear": "Short-term gill nets",
+            "species": "BKT",
+            "gearCount": 4
+          },
+          {
+            "species": "WTS",
+            "gearCount": 6,
+            "gear": "Standard trap nets",
+            "totalWeight": 2185,
+            "totalCatch": 5,
+            "averageWeight": "0.96",
+            "quartileCount": "0.8-4.6",
+            "CPUE": "0.83",
+            "quartileWeight": "0.7-1.8"
+          },
+          {
+            "quartileWeight": "0.2-0.7",
+            "quartileCount": "0.3-7.8",
+            "CPUE": "5.67",
+            "averageWeight": "0.20",
+            "totalCatch": 34,
+            "totalWeight": 3146,
+            "gear": "Standard trap nets",
+            "gearCount": 6,
+            "species": "LMB"
+          },
+          {
+            "totalCatch": 1,
+            "totalWeight": 190,
+            "CPUE": "0.25",
+            "quartileCount": "N/A",
+            "averageWeight": "0.42",
+            "quartileWeight": "N/A",
+            "species": "LMB",
+            "gearCount": 4,
+            "gear": "Short-term gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "LMB",
+            "gearCount": 1,
+            "averageWeight": "1.05",
+            "quartileCount": "0.3-0.8",
+            "CPUE": "5.00",
+            "quartileWeight": "0.1-1.3",
+            "totalWeight": 2371,
+            "totalCatch": 5
+          }
+        ],
+        "narrative": "<p>Skull Lake is located approximately 21 miles NE of Ely and is entirely within the BWCAW. It has a surface area of 29 acres and a maximum depth of 38 feet. Access is by a 20 rod portage from Newfound Lake. There are no designated campsites on the lake. <br> \n <br> \nEven though Skull Lake is a designated stream trout lake, largemouth bass dominated the catch. Largemouth bass numbers (5.7/trap net) were slightly above average compared to other lakes in this class. The growth rate was faster than average compared to other lakes in the area. The largest largemouth sampled was nearly 13 inches long and four years old. <br> \n <br> \nFour brook trout were sampled in one of the monofilament gill nets. The average length was 10.8 inches. The largest brook trout sampled was 11.4 inches long. <br> \n <br> \nThe only other fish species observed was white sucker. Rusty crayfish were present. <br> \n <br> \n</p>",
+        "headerInfo": {
+          "id_date": "2012-10-01",
+          "wb_alt_name": "",
+          "survey_id": "4301229849718000",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "wb_name": "Skull",
+          "wb_id": "38062400"
+        }
+      },
+      {
+        "lengths": {
+          "WTS": {
+            "maximum_length": 22,
+            "minimum_length": 18,
+            "fishCount": [
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                22,
+                1
+              ]
+            ]
+          },
+          "LMB": {
+            "fishCount": [
+              [
+                13,
+                2
+              ]
+            ],
+            "minimum_length": 13,
+            "maximum_length": 13
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 20
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1997-06-04",
+        "headerInfo": {
+          "survey_id": "109205",
+          "wb_name": "Skull",
+          "wb_id": "38062400",
+          "survey_type": "Population Assessment",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "id_date": "1997-06-04",
+          "wb_alt_name": ""
+        },
+        "narrative": "<p>Skull Lake is in Ecological Lake Class 4, which consists of 47 lakes in northeast Minnesota that are small, deep, and round-shaped, and have soft (unmineralized) and very clear water.  Skull Lake differs from these lakes in that it is smaller and has harder (more alkaline) water.Skull Lake stratifies thermally in midsummer and retains more than 5 ppm oxygen to a depth of about 20 ft, at which depth the water temperature is about 45 F.  Brook trout need cold, well oxygenated water.  There are no inlets; the outlet has a filter barrier to limit fish movement.  There are some large beds of musk grass in the shallows.  Bottom substrates are evenly divided between rock, sand, and muck.  Brook trout, white sucker, and largemouth bass were captured in the 1997 assessment.  Brook trout fingerlings have been stocked annually in this lake since the last \"reclamation\" removed fish populations in 1975.  Sucker reappeared in the 1983 assessment and have been captured in most assessments since then, generally in low numbers.  Sucker sizes have been large, averaging about 20\".  Largemouth bass reappeared in 1990, and bass numbers have been quite high since then.  Although the number of bass caught in the gillnets has been low, high numbers of active spawning nests (20-30) have been observed in the shallows each spring.  Anglers report catching bass with some regularity.Brook trout numbers have varied from 1.5/gillnet to 42/gillnet, depending on the overwinter survival of fingerling trout stocked the previous fall, and on how recently the lake was \"reclaimed\".  The 1997 catch of 2.3/gillnet was lower than in most recent assessments.  The brook trout catch by weight in 1997 of 5.6 lb/gillnet was also lower than in most recent assessments.Brook trout sizes in 1997 (and in other recent assessments in Skull Lake) were large, averaging 15\".  The largest brook trout in 1997 was 20.8\" (5.5 lb).  Insect larvae (chironomids) and some zooplankton were found in trout stomachs.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 10131,
+            "totalCatch": 9,
+            "quartileCount": "N/A",
+            "CPUE": "2.25",
+            "averageWeight": "2.48",
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "gearCount": 4,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 6,
+            "totalWeight": 18718,
+            "quartileCount": "1.5-10.4",
+            "averageWeight": "6.88",
+            "CPUE": "1.50",
+            "quartileWeight": "0.6-2.0",
+            "species": "WTS",
+            "gearCount": 4,
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "LMB",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "totalWeight": 1178,
+            "totalCatch": 2,
+            "averageWeight": "1.30",
+            "quartileCount": "0.3-0.8",
+            "CPUE": "0.50",
+            "quartileWeight": "0.1-1.3"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyID": "109205"
+      },
+      {
+        "headerInfo": {
+          "survey_type": "Standard Survey",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_id": "38062400",
+          "wb_name": "Skull",
+          "survey_id": "12391729132491000",
+          "wb_alt_name": "",
+          "id_date": "2017-05-24"
+        },
+        "narrative": "<p>Skull Lake is located approximately 20 miles NE of Ely in the BWCAW. This designated stream trout lake has a long history of brook trout management. <br> \n <br> \nThere is a 27 rod portage from Newfound Lake for public access. Newfound is part of the Moose Lake Chain where outboard motors are allowed but anglers should be knowledgeable of US Forest Service restrictions as most of this chain is in the BWCAW. Skull Lake itself is paddle-only. Winter anglers will travel approximately 3.7 miles to access the lake by non-motorized means. There are no official campsites located on the lake. <br> \n <br> \nSix brook trout, 22 largemouth bass and 2 white sucker were sampled during the 2017 survey of Skull Lake. The total number of fish sampled was the highest since the late 1970's, influenced by the largemouth catch. Brook trout yearlings are currently stocked annually in the spring. Rusty crayfish are also present in Skull Lake. <br> \n <br> \nBrook trout numbers in 2017 (1.5/gill net) were lower than the historic average (3.0/gill net) for Skull Lake. Brook trout average length was just under 10 inches which is smaller than the historic average length of 13 inches. Brook trout lengths ranged from 7 inches up to 11.5 inches. No brook trout were sampled in the 2003 and 2012 surveys of Skull Lake. <br> \n <br> \nLargemouth bass numbers in 2017 (5.5/gill net) were much higher than the historic average (0.3/gill net) for Skull Lake. Largemouth average length was 15.1 inches which is larger than the historic average length of 13.8 inches. Largemouth lengths ranged from 10 to 18 inches. Largemouth bass were first observed in Skull Lake during the 1988 assessment. Anglers are reminded that they must have a trout stamp to fish this designated stream trout lake even if they are targeting bass. <br> \n <br> \n <br> \n <br> \n <br> \n <br> \n</p>",
+        "surveyID": "12391729132491000",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 6,
+            "totalWeight": 1031,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "averageWeight": "0.38",
+            "CPUE": "1.50",
+            "gearCount": 4,
+            "species": "BKT",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 3500,
+            "totalCatch": 2,
+            "quartileWeight": "0.6-2.0",
+            "averageWeight": "3.86",
+            "quartileCount": "1.5-10.4",
+            "CPUE": "0.50",
+            "gearCount": 4,
+            "species": "WTS",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "LMB",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "totalCatch": 22,
+            "totalWeight": 21461,
+            "CPUE": "5.50",
+            "quartileCount": "0.3-0.8",
+            "averageWeight": "2.15",
+            "quartileWeight": "0.1-1.3"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Standard Survey",
+        "lengths": {
+          "BKT": {
+            "maximum_length": 11,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "LMB": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                15
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ]
+            ],
+            "minimum_length": 10,
+            "maximum_length": 17
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "minimum_length": 20,
+            "fishCount": [
+              [
+                20,
+                2
+              ]
+            ]
+          }
+        },
+        "surveyDate": "2017-05-24"
+      },
+      {
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 19,
+            "minimum_length": 9
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1994-05-26",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "1994-05-26",
+          "wb_id": "38062400",
+          "wb_name": "Skull",
+          "county": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "survey_id": "108663"
+        },
+        "narrative": "<p>Skull Lake has a simple fish community consisting of high numbers of largemouth bass, moderate numbers of brook trout, and low numbers of white sucker.Brook trout fishing has, at times, been very good with nice-sized trout being caught.  Largemouth bass fishing has also been good - few bass are caught in our assessment nets, but visual observations of nesting bass and angler reports indicate a high population of adult bass.</p>",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "species": "BKT",
+            "gear": "Standard gill nets",
+            "totalWeight": 11885,
+            "totalCatch": 15,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "7.50",
+            "averageWeight": "1.75"
+          },
+          {
+            "totalCatch": 1,
+            "totalWeight": 0,
+            "quartileWeight": "0.6-2.0",
+            "quartileCount": "1.5-10.4",
+            "CPUE": "0.50",
+            "averageWeight": "0.00",
+            "gearCount": 2,
+            "species": "WTS",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyID": "108663"
+      },
+      {
+        "narrative": "<p>Stomach contents of all brook trout were examined. Two stomachs were empty. Remainder contained minnows - mostly fatheads with some sticklebacks present. Insect larvae and leeches were also present. Brook trout have been stocked annually since 1976. Brook trout are present in below average numbers and above average size. White sucker are present in average numbers and above average size. Largemouth bass were observed in the lake, and anglers reported catching some during the summer of 1988.</p>",
+        "headerInfo": {
+          "id_date": "1988-05-27",
+          "wb_alt_name": "",
+          "wb_name": "Skull",
+          "wb_id": "38062400",
+          "county": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "survey_id": "108661"
+        },
+        "surveyID": "108661",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 20.6,
+            "totalCatch": 11,
+            "quartileCount": "N/A",
+            "CPUE": "3.67",
+            "averageWeight": "1.87",
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "gearCount": 3,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "species": "WTS",
+            "quartileWeight": "0.6-2.0",
+            "averageWeight": "3.23",
+            "quartileCount": "1.5-10.4",
+            "CPUE": "4.00",
+            "totalCatch": 12,
+            "totalWeight": 38.7
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "surveyDate": "1988-05-27"
+      },
+      {
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                2
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 19
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ],
+            "minimum_length": 14,
+            "maximum_length": 15
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyDate": "2000-05-22",
+        "headerInfo": {
+          "id_date": "2000-05-22",
+          "wb_alt_name": "",
+          "wb_name": "Skull",
+          "wb_id": "38062400",
+          "county": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "survey_id": "109376"
+        },
+        "narrative": "<p>Skull Lake is in Ecological Lake Class 4, which consists of 47 lakes in northeast Minnesota that are small, deep, and round-shaped, and have soft (unmineralized) and very clear water.  Skull Lake is smaller and has harder (more alkaline) water than most lakes in this lake class.Skull Lake was thermally stratified on 05/22/2000 and retained 5 ppm oxygen to a depth of 35 ft, where the temperature was 41 F, and retained 2 ppm oxygen to the bottom, where the temperature was also 41 F.  There are no inlets; the outlet has a filter barrier to limit fish movement.  There are some large beds of chara in shallow areas.  Bottom substrates are evenly divided between rock, sand, and muck.Skull Lake was reclaimed in 1959, which removed the northern pike, yellow perch, white sucker, largemouth bass, and sunfish which were present.  Additional reclamations occurred in 1966 and 1975, after white sucker and yellow perch were reintroduced.  Recently, white sucker reappeared in 1984 and largemouth bass in 1988.  Brook trout have been stocked since 1961.The 2000 fish population assessment consisted of four shallow gillnets set in depths of 6-23 ft.  Eleven previous investigations dating back to 1959 have used 1-4 gillnets. Small mesh trapnets were used in 1959 and 1976.  A difficult portage has limited the use of trapnets in this lake.  Lake class quartiles have not been developed for stream trout lakes, and the following discussion compares Skull Lake to other area stream trout lakes rather than Lake Class 4 lakes.Brook trout and white sucker were captured in the 2000 assessment, and largemouth bass nests were observed.  The low number of suckers captured in 2000 was similar to other recent assessment catches; these suckers were large (18-22\") and no sucker minnows (or other minnows) were observed in the shallows.  The number of largemouth bass nests observed in 2000 (10-15 nests) was lower than the 20-60 reported in other recent assessments.The brook trout catch by weight in 2000 of 0.9 lb/gillnet was lower than median catch of 6.3/lb gillnet in previous assessments on this lake and was lower than the median catch of 5.4 lb of trout (all species) per gillnet in recent assessments on 25 stream trout lakes in the Ely Fisheries Management Area.Brook trout numbers in Skull Lake have varied from 1.5/gillnet to 42.0/gillnet, depending largely on the overwinter survival of stocked fall fingerlings and on how recently a reclamation occurred, with higher numbers present soon after reclamation.  The 2000 brook trout catch of  0.5/gillnet was the lowest on record for Skull Lake.Brook trout sizes in 2000 (as in other recent assessments on Skull Lake) were large: 14.7\" and 15.2\".  One of the trout had insect larvae in its stomach.Rusty crayfish were first observed in Skull Lake in 1997.  They were observed along the shoreline and one was found in the stomach of a largemouth bass.  They are present in adjacent Newfound Lake.  Nine rusty crayfish were caught in four gillnets in Skull Lake in 2000. </p>",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "species": "BKT",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "averageWeight": "1.72",
+            "CPUE": "0.50",
+            "totalCatch": 2,
+            "totalWeight": 1556
+          },
+          {
+            "species": "WTS",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "totalWeight": 7388,
+            "averageWeight": "4.07",
+            "quartileCount": "1.5-10.4",
+            "CPUE": "1.00",
+            "quartileWeight": "0.6-2.0"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyID": "109376"
+      },
+      {
+        "narrative": "<p>Skull Lake is in Ecological Lake Class 4, which consists of 47 lakes in northeast Minnesota that are small, deep, and round., and have clear and soft (unmineralized) water.  Skull Lake is smaller and has harder (more mineralized) water than most of the lakes in this lake class.Skull Lake was thermally stratified on 05/27/2003 and retained good oxygen for trout (more than 5 ppm) to a depth of 18 ft, where the temperature was 43 F.  Skull Lake has no inlets.  The outlet has a filter barrier to limit fish movement.  There are some large beds of Chara in shallow areas.  Bottom substrates along the shoreline are rock, sand, and muck.Skull Lake was poisoned in 1959, which removed the northern pike, yellow perch, white sucker, largemouth bass, and sunfish which were present.  Additional poisonings were done in 1966 and 1975, after white sucker and yellow perch reappeared in the lake.  More recently, white sucker reappeared in 1984 and largemouth bass reappeared in 1988.  Brook trout have been stocked in Skull Lake since 1961.The 2003 fish population assessment consisted of four gillnets set in late May.  Twelve previous assessments dating back to 1959 used 1-4 gillnets; most were done in late May or early June.  Trapnets have not been used on Skull Lake due to the difficult portage access.Two large white sucker were the only fish captured in the 2003 assessment.  Recent assessments on this lake also captured low numbers of large suckers.  Some largemouth bass spawning nests were observed in 2003; the numbers of beds has declined from 20-60 in assessments from 1990 through 1997 and 10-15 beds in 2000.  No minnows were observed along the shoreline in 2003.Brook trout populations in this lake have declined in recent assessments, from 7.5/gillnet (13.1 lb/gillnet) in 1994, to 2.3/gillnet (5.6 lb/gillnet) in 1997, to 0.5/gillnet (0.9 lb/gillnet) in 2000, and no trout were caught in 2003.  Anglers have also reported poor fishing in Skull Lake in recent years.  The reason for the recent decline in the trout population is not known.  Trout appeared to do well from 1988 (when largemouth bass were first reported in this lake) through 1997, and bass spawning beds have declined in recent years.  The strain of brook trout stocked was changed from a variety of strains (mostly ONT, PRO, and OHI) to the St. Croix Falls strain in 1995.  Six rusty crayfish were captured in one of the gillnets in 2003.  Low numbers of rusty crayfish were also captured in this lake in 1997 and 2000.  They have been present in adjacent Newfound Lake for some time.</p>",
+        "headerInfo": {
+          "id_date": "2003-05-27",
+          "wb_alt_name": "",
+          "survey_id": "109493",
+          "wb_name": "Skull",
+          "wb_id": "38062400",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "county": "Lake"
+        },
+        "surveyID": "109493",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 2620,
+            "totalCatch": 2,
+            "quartileCount": "1.5-10.4",
+            "CPUE": "0.50",
+            "averageWeight": "2.89",
+            "quartileWeight": "0.6-2.0",
+            "species": "WTS",
+            "gearCount": 4,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "WTS": {
+            "minimum_length": 18,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyDate": "2003-05-27"
+      },
+      {
+        "surveyID": "108658",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "averageWeight": "0.65",
+            "CPUE": "23.00",
+            "totalCatch": 23,
+            "totalWeight": 15,
+            "gear": "Standard gill nets",
+            "gearCount": 1,
+            "species": "BKT"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "id_date": "1980-06-12",
+          "wb_alt_name": "",
+          "wb_id": "38062400",
+          "wb_name": "Skull",
+          "survey_type": "Population Assessment",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "survey_id": "108658"
+        },
+        "narrative": "<p>Composed of a high number of brook trout. There was evidently quite good survival of last fall's planting which reduces the average size.</p>",
+        "surveyDate": "1980-06-12",
+        "surveySubType": "Population Assessment",
+        "lengths": {}
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "surveyDate": "1990-06-04",
+        "headerInfo": {
+          "id_date": "1990-06-04",
+          "wb_alt_name": "",
+          "survey_id": "108662",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "county": "Lake",
+          "wb_name": "Skull",
+          "wb_id": "38062400"
+        },
+        "narrative": "<p>Brook trout are present - probably from the 1987 and 1988 stockings.  One largemouth bass (age 4) was captured, but many were observed, and anglers have them for several years. There are no lake class 11 medians for srt. There are two other designated stream trout lakes in the Ely area in this lake class.</p>",
+        "surveyID": "108662",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 18.8,
+            "totalCatch": 11,
+            "quartileCount": "N/A",
+            "averageWeight": "1.71",
+            "CPUE": "3.67",
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "gearCount": 3,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 3,
+            "species": "LMB",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "totalWeight": 1.3,
+            "quartileWeight": "0.1-1.3",
+            "quartileCount": "0.3-0.8",
+            "averageWeight": "1.30",
+            "CPUE": "0.33"
+          }
+        ],
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveySubType": "Standard Survey",
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                1
+              ]
+            ],
+            "minimum_length": 15,
+            "maximum_length": 16
+          }
+        },
+        "surveyDate": "2023-05-10",
+        "headerInfo": {
+          "id_date": "2023-05-10",
+          "wb_alt_name": "",
+          "survey_id": "18912327837325014",
+          "wb_id": "38062400",
+          "wb_name": "Skull",
+          "wb_type": "Lake",
+          "survey_type": "Standard Survey",
+          "county": "Lake"
+        },
+        "narrative": "<p>Skull Lake is located 18 miles northeast of Ely in the Boundary Waters Canoe Area Wilderness. The lake can be accessed by a 27-rod portage from Newfound Lake. Summer visitors are reminded to obtain the proper day use permits from the US Forest Service, which are available in advance or at the public access on Moose Lake. No permits are required during the winter, and there are no campsites on Skull Lake. This 59-acre lake is a designated stream trout lake that is stocked with brook trout in odd years. The lake has a maximum depth of 38 feet and clear water.  <br> \n <br> \nBrook trout were sampled at a rate of 1.3 fish/net, which was below average for the lake. However, fish sizes were better than in recent surveys, with an average length of nearly 17 inches and average weights of almost 2 pounds. Brook trout were feeding on a variety of invertebrates including various insects, leeches, snails, and crayfish. <br> \n <br> \nAlthough not sampled in this survey, largemouth bass are present in Skull Lake. In 2017, largemouth bass averaged 15 inches in length with individuals up to 18 inches present. Anglers are reminded that they must have a valid trout stamp to fish this designated stream trout lake even if they are targeting bass. <br> \n</p>",
+        "surveyID": "18912327837325014",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "species": "BKT",
+            "gearCount": 4,
+            "CPUE": "1.25",
+            "quartileCount": "N/A",
+            "averageWeight": "1.83",
+            "quartileWeight": "N/A",
+            "totalWeight": 4160,
+            "totalCatch": 5
+          }
+        ],
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyDate": "1983-06-13",
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "species": "BKT",
+            "gear": "Standard gill nets",
+            "totalCatch": 16,
+            "totalWeight": 11,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.69",
+            "quartileCount": "N/A",
+            "CPUE": "5.33"
+          },
+          {
+            "species": "WTS",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "totalWeight": 38,
+            "totalCatch": 11,
+            "quartileCount": "1.5-10.4",
+            "CPUE": "3.67",
+            "averageWeight": "3.45",
+            "quartileWeight": "0.6-2.0"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyID": "108659",
+        "headerInfo": {
+          "id_date": "1983-06-13",
+          "wb_alt_name": "",
+          "wb_id": "38062400",
+          "wb_name": "Skull",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "survey_id": "108659"
+        },
+        "narrative": "<p>Composed of average populations of brook trout and suckers.</p>"
+      }
+    ],
+    "meanDepthFeet": 0
+  },
+  "timestamp": 1790285831,
+  "status": "SUCCESS"
+}

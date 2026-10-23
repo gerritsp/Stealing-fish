@@ -1,0 +1,500 @@
+{
+  "result": {
+    "areaAcres": 419.79,
+    "maxDepthFeet": 57,
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_name": "Crab",
+          "wb_id": "69022000",
+          "id_date": "2001-07-02",
+          "survey_id": "109432",
+          "county": "St. Louis",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_alt_name": ""
+        },
+        "lengths": {
+          "HSF": {
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ]
+            ],
+            "minimum_length": 5
+          },
+          "SMB": {
+            "maximum_length": 16,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                5,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 16,
+            "fishCount": [
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                5
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                3
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                28,
+                3
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                33,
+                1
+              ]
+            ],
+            "maximum_length": 33
+          },
+          "RKB": {
+            "maximum_length": 8,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                5
+              ],
+              [
+                6,
+                7
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                2
+              ]
+            ]
+          },
+          "TLC": {
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                7,
+                2
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "WTS": {
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                9
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                9
+              ],
+              [
+                18,
+                9
+              ],
+              [
+                19,
+                9
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyID": "109432",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "0.11",
+            "species": "HSF",
+            "gearCount": 9,
+            "totalCatch": 1,
+            "totalWeight": 64,
+            "averageWeight": "0.14",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 30,
+            "gearCount": 9,
+            "species": "NOP",
+            "CPUE": "3.33",
+            "gear": "Standard gill nets",
+            "quartileWeight": "2.1-4.9",
+            "quartileCount": "0.6-2.4",
+            "totalWeight": 36906,
+            "averageWeight": "2.71"
+          },
+          {
+            "species": "RKB",
+            "totalCatch": 17,
+            "gearCount": 9,
+            "gear": "Standard gill nets",
+            "CPUE": "1.89",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "0.4-1.2",
+            "totalWeight": 1810,
+            "averageWeight": "0.23"
+          },
+          {
+            "CPUE": "0.89",
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "totalCatch": 8,
+            "species": "SMB",
+            "averageWeight": "1.29",
+            "totalWeight": 4668,
+            "quartileCount": "0.3-1.4",
+            "quartileWeight": "0.6-1.5"
+          },
+          {
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "totalWeight": 53470,
+            "averageWeight": "2.18",
+            "CPUE": "6.00",
+            "gear": "Standard gill nets",
+            "totalCatch": 54,
+            "gearCount": 9,
+            "species": "WTS"
+          },
+          {
+            "quartileCount": "3.2-20.2",
+            "quartileWeight": "0.2-1.0",
+            "averageWeight": "0.09",
+            "totalWeight": 83,
+            "totalCatch": 2,
+            "gearCount": 9,
+            "species": "TLC",
+            "CPUE": "0.22",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Crab Lake is in Ecological Lake Class 3, which consists of 72 lakes in northeast Minnesota that ate deep, have irregular shoreline shapes, and have clear and soft (unmineralized) water.  Crab Lake is larger than most of the lakes in this lake class.Crab Lake was thermally stratified on 07/02/2001 with a surface temperature of 70 F and a bottom temperature of 43 F, and retained 5 ppm oxygen to a depth of 37 ft where the temperature was 45 F, and 2 ppm oxygen to within 4 ft of the bottom.  The inlet is from Clark Lake.  The outlet to Burntside Lake has rapids which prevent fish movement.  Bottom types in shallow water are 53% boulder, 16% sand, 12% rubble, 10% muck, 5% ledgerock, and 4% gravel.  Aquatic plants are sparse except for concentrations in bays, and grow to a depth of 10 ft.Fish sampling in the 2001 fish population assessment consisted of nine standard gillnets set in depths of 6' to 47'.  Two previous fisheries lake surveys, in 1950 and 1980, used eight and six gillnets, respectively.  Trapnets have not been used on this lake due to the difficult portage access.The total catch of fish (all species combined) in the gillnets in 2001 of 12.4 fish/net (23.1 lb/net) was near the median for this lake class and was higher than the 1950 total catch, but lower than the 1980 total catch.  Lake Class 3 is one of the least productive lake classes in northeast Minnesota, in terms of gillnet catches of fish.  Fish populations in 2001 were dominated by northern pike, white sucker, and smallmouth bass.  Other fish species were present in low numbers.Northern pike numbers in 2001 (3.3/net) were in the fourth quartile for this lake class and were similar to catches in previous investigations on this lake.  Pike sizes in 2001 averaged 23.3\" (2.7 lb), which was in the second quartile for this lake class.  The largest pike in 2001 was 33.6\".  Pike from seven year classes were present in 2001 and pike growth was normal by area standards.White sucker numbers in 2001 (6.0/net) were in the fourth quartile for this lake class and were higher than catches in previous investigations on this lake.  Sucker sizes in 2001 averaged 16.9\" (2.1 lb), which was in the third quartile for this lake class.Smallmouth bass were successfully introduced into this lake in 1951, and have largely displaced largemouth bass which were reportedly abundant at that time.   Crab Lake is known as a good smallmouth bass lake now, and many more smallmouth (some quite large) are caught than largemouth.  Smallmouth numbers are underrepresented by the gillnet catch, however.  Smallmouth numbers in 2001 (0.9/net) were in the third quartile for this lake class, but were lower than the catch of 5.2/gillnet in 1980.  Smallmouth sizes in 2001 averaged 13.3\" (1.3 lb), which was in the third quartile for this lake class; the largest smallmouth in 2001 was 16.7\".  Growth of smallmouth captured in 2001 appeared to be normal by area standards.  Most of the smallmouth were infected with bass tapeworm.  Bass tapeworm is a common parasite that is native to the area and cannot infect humans.</p>",
+        "surveyDate": "2001-07-02"
+      },
+      {
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "surveyID": "-359",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Crab Lake on July 28th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 65.6 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 11.8 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 50.8 feet at the time of sampling. The thickness of this layer of water in the water column was 39.1 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.9 degrees C (42.6 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) also indicated suitable oxythermal habitat in 2024, with a similar layer thickness and warmer TDO3 (36.2 and 7.3 respectively). When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveyDate": "2025-07-28",
+        "headerInfo": {
+          "wb_name": "Crab",
+          "id_date": "2025-07-28",
+          "wb_id": "69022000",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "county": "St. Louis",
+          "survey_id": "-359"
+        },
+        "lengths": {}
+      },
+      {
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "108124",
+          "county": "St. Louis",
+          "wb_name": "Crab",
+          "id_date": "1980-07-30",
+          "wb_id": "69022000"
+        },
+        "surveyDate": "1980-07-30",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Composed of above average population of Bluegills, Smallmouth Bass, Rock Bass, and Suckers.  Northern Pike, Ciscoes, Laregemouth Bass, and Pumpkinseeds are present in about average numbers Perch and Green Sunfish are present in low numbers.</p>",
+        "surveySubType": "Re-Survey",
+        "surveyID": "108124",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.83",
+            "gear": "Standard gill nets",
+            "totalCatch": 11,
+            "gearCount": 6,
+            "species": "TLC",
+            "quartileCount": "3.2-20.2",
+            "quartileWeight": "0.2-1.0",
+            "averageWeight": "0.10",
+            "totalWeight": 1.1
+          },
+          {
+            "CPUE": "2.00",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalCatch": 12,
+            "species": "NOP",
+            "totalWeight": 40.2,
+            "averageWeight": "3.35",
+            "quartileCount": "0.6-2.4",
+            "quartileWeight": "2.1-4.9"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "4.67",
+            "species": "WTS",
+            "totalCatch": 28,
+            "gearCount": 6,
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "averageWeight": "1.88",
+            "totalWeight": 52.6
+          },
+          {
+            "species": "WAE",
+            "gearCount": 6,
+            "totalCatch": 4,
+            "gear": "Standard gill nets",
+            "CPUE": "0.67",
+            "totalWeight": 11.7,
+            "averageWeight": "2.92",
+            "quartileWeight": "1.0-2.0",
+            "quartileCount": "1.2-5.2"
+          },
+          {
+            "species": "PMK",
+            "gearCount": 6,
+            "totalCatch": 14,
+            "gear": "Standard gill nets",
+            "CPUE": "2.33",
+            "averageWeight": "0.14",
+            "totalWeight": 1.9,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalWeight": 41.4,
+            "averageWeight": "1.34",
+            "quartileWeight": "0.6-1.5",
+            "quartileCount": "0.3-1.4",
+            "species": "SMB",
+            "gearCount": 6,
+            "totalCatch": 31,
+            "gear": "Standard gill nets",
+            "CPUE": "5.17"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "0.17",
+            "species": "GSF",
+            "gearCount": 6,
+            "totalCatch": 1,
+            "averageWeight": "0.20",
+            "totalWeight": 0.2,
+            "quartileWeight": "N/A",
+            "quartileCount": "0.2-0.9"
+          },
+          {
+            "totalWeight": 1.5,
+            "averageWeight": "0.06",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gearCount": 6,
+            "totalCatch": 24,
+            "species": "BLG",
+            "CPUE": "4.00",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "0.3-1.4",
+            "quartileCount": "0.3-1.1",
+            "averageWeight": "2.20",
+            "totalWeight": 6.6,
+            "gear": "Standard gill nets",
+            "CPUE": "0.50",
+            "species": "LMB",
+            "totalCatch": 3,
+            "gearCount": 6
+          },
+          {
+            "totalWeight": 0.25,
+            "averageWeight": "0.08",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "0.4-3.7",
+            "gearCount": 6,
+            "totalCatch": 3,
+            "species": "YEP",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 3.7,
+            "averageWeight": "0.14",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "0.4-1.2",
+            "species": "RKB",
+            "gearCount": 6,
+            "totalCatch": 26,
+            "gear": "Standard gill nets",
+            "CPUE": "4.33"
+          }
+        ]
+      },
+      {
+        "surveyDate": "2024-07-30",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Crab Lake on July 31st, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 55.8 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 12.0 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 48.2 feet at the time of sampling. The thickness of this layer of water in the water column was 36.2 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 7.3 degrees C (45.1 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Crab Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.</p>",
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "surveyID": "21872426132726042",
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "headerInfo": {
+          "survey_id": "21872426132726042",
+          "county": "St. Louis",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_name": "Crab",
+          "id_date": "2024-07-30",
+          "wb_id": "69022000"
+        }
+      }
+    ],
+    "littoralAcres": 219,
+    "meanDepthFeet": 0,
+    "lakeName": "Crab",
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA",
+        "location": "Portages from Clark; Saca; and Little Crab Lakes.",
+        "lakeAccessComments": " "
+      },
+      {
+        "accessTypeId": "CA",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "location": "320 rod portage from Burntside Lake (crosses private and USFS land)."
+      }
+    ],
+    "county": "St. Louis",
+    "sampledPlants": [],
+    "DOWNumber": "69022000",
+    "officeCode": "F214",
+    "shoreLengthMiles": 10.52,
+    "averageWaterClarity": "7.4",
+    "waterClarity": [
+      [
+        "07/28/2025",
+        "8"
+      ],
+      [
+        "07/31/2024",
+        "6.89"
+      ]
+    ]
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285564
+}

@@ -1,0 +1,62 @@
+{
+  "result": {
+    "lakeName": "Fan",
+    "meanDepthFeet": 0,
+    "DOWNumber": "16008400",
+    "lakeAltName": "West Lily",
+    "accesses": [
+      {
+        "location": "Accessible via 2 portages -  0.2 mile from Mountain lake and the other is 0.15 mile from Vaseux Lake.",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O"
+      }
+    ],
+    "county": "Cook",
+    "waterClarity": [],
+    "surveys": [
+      {
+        "lengths": {},
+        "surveyID": "109609",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_id": "109609",
+          "id_date": "1978-06-22",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "wb_id": "16008400",
+          "wb_alt_name": "West Lily",
+          "wb_name": "Fan"
+        },
+        "narrative": "<p>Shallow depth prevents fish populations other than Minnows.</p>",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "CRC",
+            "totalCatch": 21,
+            "totalWeight": 2.4,
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "21.00",
+            "averageWeight": "0.11",
+            "gearCount": 1,
+            "quartileCount": "N/A"
+          }
+        ],
+        "surveyDate": "1978-06-22"
+      }
+    ],
+    "officeCode": "F218",
+    "maxDepthFeet": 3,
+    "sampledPlants": [],
+    "areaAcres": 6.1,
+    "littoralAcres": 4.08,
+    "averageWaterClarity": "N/A",
+    "shoreLengthMiles": 1
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790286013,
+  "message": "Normal execution."
+}

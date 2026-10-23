@@ -1,0 +1,104 @@
+{
+  "timestamp": 1790285561,
+  "result": {
+    "accesses": [
+      {
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "24 rod portage from Phantom Lake.",
+        "accessTypeId": "CA",
+        "location": " "
+      },
+      {
+        "accessTypeId": "CA",
+        "location": " ",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "90 rod portage from Meat Lake.",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "maxDepthFeet": 16,
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_name": "Sprite",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "survey_id": "6851332640894122",
+          "county": "St. Louis",
+          "id_date": "2013-06-24",
+          "wb_id": "69030400",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>Sprite Lake is located approximately 12 miles NW of Ely and is entirely within the BWCAW. It has a surface area of 12 acres and a maximum depth of 16 feet. Dissolved oxygen readings were adequate to 7 feet. Sprite Lake has poor water clarity and is very bog stained. Northern pike were the only fish species sampled. Yellow perch remains were identified in some of the pike stomachs. <br> \n <br> \nAccess is by portage from Phantom Lake (24 rods) or Meat Lake (90 rods). There are no designated USFS campsites present on Sprite Lake. <br> \n <br> \nNorthern pike numbers in 2013 (16.0/gill net) were higher than similar lakes in the area. The pike are small and slow growing. The average pike sampled was 19.4 inches long and about 6 years old. The largest pike sampled was only 21.2 inches long.</p>",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "4.0-15.0",
+            "totalWeight": 21758,
+            "species": "NOP",
+            "totalCatch": 32,
+            "quartileWeight": "1.1-2.0",
+            "CPUE": "16.00",
+            "averageWeight": "1.50",
+            "gear": "Standard gill nets",
+            "gearCount": 2
+          }
+        ],
+        "surveyDate": "2013-06-24",
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                9
+              ],
+              [
+                19,
+                8
+              ],
+              [
+                20,
+                11
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 16
+          }
+        },
+        "surveyID": "6851332640894122",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "officeCode": "F214",
+    "sampledPlants": [],
+    "county": "St. Louis",
+    "lakeName": "Sprite",
+    "meanDepthFeet": 4,
+    "waterClarity": [
+      [
+        "06/24/2013",
+        "1.5"
+      ]
+    ],
+    "littoralAcres": 11,
+    "areaAcres": 11.87,
+    "shoreLengthMiles": 0.66,
+    "DOWNumber": "69030400",
+    "averageWaterClarity": "1.5"
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

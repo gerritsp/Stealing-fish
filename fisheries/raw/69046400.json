@@ -1,0 +1,591 @@
+{
+  "result": {
+    "averageWaterClarity": "5.0",
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "averageWeight": "0.83",
+            "totalCatch": 2,
+            "quartileCount": "0.2-1.4",
+            "CPUE": "0.33",
+            "gear": "Standard gill nets",
+            "species": "BUB",
+            "totalWeight": 750,
+            "quartileWeight": "0.3-2.7"
+          },
+          {
+            "gearCount": 6,
+            "averageWeight": "1.12",
+            "quartileCount": "1.3-5.3",
+            "totalCatch": 9,
+            "CPUE": "1.50",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "totalWeight": 4580,
+            "quartileWeight": "1.6-3.1"
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "0.17",
+            "quartileCount": "0.3-2.3",
+            "totalCatch": 1,
+            "averageWeight": "0.46",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-0.4",
+            "totalWeight": 210,
+            "species": "RKB"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.4-1.5",
+            "totalWeight": 3440,
+            "species": "SMB",
+            "gearCount": 6,
+            "CPUE": "0.83",
+            "averageWeight": "1.52",
+            "quartileCount": "0.3-1.0",
+            "totalCatch": 5
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 1460,
+            "species": "WAE",
+            "quartileWeight": "1.1-2.3",
+            "gearCount": 6,
+            "totalCatch": 7,
+            "quartileCount": "0.8-3.8",
+            "averageWeight": "0.46",
+            "CPUE": "1.17"
+          },
+          {
+            "totalWeight": 2080,
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.16",
+            "totalCatch": 28,
+            "quartileCount": "0.5-7.0",
+            "CPUE": "4.67",
+            "gearCount": 6
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "7.67",
+            "quartileCount": "1.2-4.9",
+            "totalCatch": 46,
+            "averageWeight": "2.04",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "totalWeight": 42505
+          }
+        ],
+        "surveyID": "22132518152800003",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_name": "Lower Pauness",
+          "wb_id": "69046400",
+          "wb_alt_name": "",
+          "survey_type": "Standard Survey",
+          "survey_id": "22132518152800003",
+          "id_date": "2025-06-23",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "2025-06-23",
+        "lengths": {
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                5,
+                4
+              ],
+              [
+                6,
+                12
+              ],
+              [
+                7,
+                8
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 10
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 8
+          },
+          "SMB": {
+            "maximum_length": 15,
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "minimum_length": 7,
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 10,
+            "maximum_length": 25,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                25,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 10,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                10
+              ],
+              [
+                17,
+                10
+              ],
+              [
+                18,
+                12
+              ],
+              [
+                19,
+                3
+              ]
+            ]
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ],
+            "minimum_length": 13,
+            "maximum_length": 15
+          }
+        },
+        "surveySubType": "Standard Survey",
+        "narrative": "<p>Lower Pauness Lake is a 156-acre, class-10 lake located in the Boundary Waters Canoe Area Wilderness (BWCAW) in northern St. Louis County located approximately 12 miles east-southeast of Crane Lake, Minnesota. Lower Pauness Lake consists of two basins (north and south) joined by a shallow riverine section. The south basin has a maximum depth of 10 feet while the north basin has a maximum depth of 36 feet. Water clarity is relatively poor due to bog stain. Lower Pauness Lake has soft, relatively unproductive water, which is typical for lakes of this type on the Canadian Shield. Boulders dominate inshore substrates; however, muck and ledge rock outcrops are also common. The surrounding watershed is covered by birch and pine forests, and the terrain varies from gradual to steep.  <br> \n <br> \nLower Pauness Lake is located on the Little Indian Sioux River, a major access route for visitors to the La Croix District of the BWCAW. Commonly, canoeists paddle down the river from the Echo Trail and either portage into Shell Lake east of Lower Pauness or continue down the river to Loon Lake portaging around the Devil's Cascade rapids located just below Lower Pauness Lake. The US Forest Service maintains three campsites on Lower Pauness Lake.  <br> \n <br> \nFishing regulations follow statewide regulations for inland waters. Previous management plans identify several long-range goals, including providing a healthy, self-sustaining native fish community with Walleye as the primary management species and Northern Pike as the secondary management species. The fishery is self-sustaining, requiring no active management beyond periodic surveys. A standard survey using gill nets was conducted in 2025 to assess the fish community and inform anglers.   <br> \n <br> \nWalleye gill net catch rate was 1.2 fish per net, which was below average compared to similar lakes. Total length ranged from 7.7 to 15.0 inches with an average length of 11.1 inches. Average weight was 0.5 pounds, which was below average compared to similar lakes. A total of four year-classes were present, and ages ranged from 2 to 6 years. Recruitment appears to be consistent in Lower Pauness, but year-class production appears to be low. Lakes with similar habitats rarely produce robust Walleye fisheries. Although Walleye are not expected to occur in large numbers and catch rates are likely to be low, angling opportunities do exist.  <br> \n <br> \nNorthern Pike gill net catch rate was 1.5 fish per net, which was below average compared to similar lakes. Total length ranged from 10.6 to 25.8 inches with an average length of 17.3 inches. Average weight was 1.1 pounds, which was below average compared to similar lakes. A total of six year-classes were present, and ages ranged from 1 to 7 years. While present in low numbers, opportunities exist for anglers wishing to target Northern Pike.  <br> \n <br> \nSmallmouth Bass gill net catch rate was 0.8 fish per net, which was above average compared to similar lakes. This was the first survey to sample Smallmouth Bass in Lower Pauness Lake. Total length ranged from 11.8 to 15.8 inches with an average length of 13.5 inches. Average weight was 1.5 pounds, which was above average compared to similar lakes. A total of three year-classes were present, and ages ranged from 4 to 6 years. Gill nets are generally not an effective method of sampling Smallmouth Bass, so it is likely that a more robust population exists than what the gill net catch rates indicate. With a decent size structure, Smallmouth Bass provide a good opportunity for anglers.  <br> \n <br> \nYellow Perch gill net catch rate was 4.7 fish per net, which was above average compared to similar lakes. Total length ranged from 5.6 to 10.0 inches with an average length of 7.2 inches. Average weight was 0.16 pounds, which was above average compared to similar lakes. Yellow Perch in Lower Pauness Lake offer an additional fishing opportunity and more importantly provide great forage for Walleye, Northern Pike, and Smallmouth Bass.  <br> \n <br> \nOther species sampled during this survey included Burbot, Rock Bass, and White Sucker. <br> \n</p>"
+      },
+      {
+        "surveyDate": "2005-06-21",
+        "lengths": {
+          "BUB": {
+            "minimum_length": 9,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 5,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                17,
+                9
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                2
+              ]
+            ]
+          },
+          "NOP": {
+            "maximum_length": 23,
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                5
+              ],
+              [
+                23,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                13,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 17
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                5,
+                5
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 10,
+            "minimum_length": 5
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 10
+          }
+        },
+        "surveySubType": "Re-Survey",
+        "narrative": "<p>Lower Pauness Lake is a 156 acre, class-10 lake, located approximately 12 miles SE of Crane Lake, MN.  The lake is in the Boundary Waters Canoe Area and access is limited to portages from other lakes.  Northern pike gill-net abundance in 2005 was 2.00 fish/lift, which was below the level found in most class-10 lakes.  Number of northern pike per set was similar to what was observed during the previous survey (1983).  Four year-classes were present in 2005 and age ranged from 2-5 years.  Total length ranged from 10.6-23.4 inches and the mean was 18.9.  Growth was slow; total length at age-4 was 19.6 inches, which was well below the area average of 23.7.  The mean weight of northern pike captured was below average for class-10 lakes.    Walleye gill-net abundance was 1.17 fish/lift, which was below most class-10 lakes.  However, abundance in 2005 was higher than observed in 1983 (0.83 fish/lift).  Five year-classes were present in 2005 and age ranged from 2-7 years.  Total length ranged from 6.9-17.5 inches and the mean was 12.9.  Growth for walleye was below average; total length at age-4 was 11.9 inches, compared to an area mean of of 14.4.  The mean weight of walleye captured was below most class-10 lakes.    Yellow perch gill-net abundance was 3.00 fish/lift, which was slightly above most class-10 lakes.  Abundance has decreased since 1983, when 8.83 fish/lift were captured.  Eight year-classes were present in 2005 and age ranged from 2-9 years.  Total length ranged from 5.0-10.8 inches and the mean was 8.1.  Growth was slightly below the area mean.  The mean weight captured was 0.29 pounds, which was well above what is found in most class-10 lakes.     </p>",
+        "surveyID": "112052",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "totalCatch": 3,
+            "quartileCount": "0.2-1.4",
+            "averageWeight": "1.05",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "totalWeight": 1425,
+            "species": "BUB",
+            "quartileWeight": "0.3-2.7"
+          },
+          {
+            "species": "NOP",
+            "totalWeight": 7796,
+            "quartileWeight": "1.6-3.1",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.43",
+            "totalCatch": 12,
+            "quartileCount": "1.3-5.3",
+            "CPUE": "2.00",
+            "gearCount": 6
+          },
+          {
+            "CPUE": "0.50",
+            "averageWeight": "0.48",
+            "totalCatch": 3,
+            "quartileCount": "0.3-2.3",
+            "gearCount": 6,
+            "quartileWeight": "0.2-0.4",
+            "totalWeight": 650,
+            "species": "RKB",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "1.17",
+            "averageWeight": "0.84",
+            "quartileCount": "0.8-3.8",
+            "totalCatch": 7,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.3",
+            "totalWeight": 2655,
+            "species": "WAE"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 2173,
+            "species": "YEP",
+            "gearCount": 6,
+            "CPUE": "3.00",
+            "totalCatch": 18,
+            "quartileCount": "0.5-7.0",
+            "averageWeight": "0.27"
+          },
+          {
+            "quartileCount": "1.2-4.9",
+            "totalCatch": 29,
+            "averageWeight": "2.07",
+            "CPUE": "4.83",
+            "gearCount": 6,
+            "totalWeight": 27271,
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_id": "69046400",
+          "wb_name": "Lower Pauness",
+          "wb_alt_name": "",
+          "survey_type": "Re-Survey",
+          "survey_id": "112052",
+          "wb_type": "Lake",
+          "id_date": "2005-06-21"
+        }
+      }
+    ],
+    "DOWNumber": "69046400",
+    "waterClarity": [
+      [
+        "06/23/2025",
+        "5"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 5.01,
+    "sampledPlants": [],
+    "county": "St. Louis",
+    "officeCode": "F217",
+    "maxDepthFeet": 36,
+    "areaAcres": 171.13,
+    "lakeName": "Lower Pauness",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "PO",
+        "location": "Portage trail (8 rods) from Upper Pauness Lake.",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK"
+      },
+      {
+        "accessTypeId": "PO",
+        "location": "Portage trail (40 rods) from Upper Pauness Lake.",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " "
+      },
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "location": "Portage trail (160 rods) from Little Indian Sioux River.",
+        "accessTypeId": "PO"
+      },
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "location": "Portage trail (216 rods) from Shell Lake.",
+        "accessTypeId": "PO",
+        "lakeAccessComments": " "
+      }
+    ],
+    "littoralAcres": 113
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285959
+}

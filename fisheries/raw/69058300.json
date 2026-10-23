@@ -1,0 +1,83 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285567,
+  "message": "Normal execution.",
+  "result": {
+    "shoreLengthMiles": 3.32,
+    "DOWNumber": "69058300",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "THERE IS A 200 ROD USFS PORTAGE TRAIL FROM TROUT LAKE. THIS LAKE IS WITHIN THE BWCA NON-MOTOR RTE.",
+        "accessTypeId": "O"
+      }
+    ],
+    "lakeName": "Merritt",
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "areaAcres": 198.15,
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 8,
+    "surveys": [
+      {
+        "headerInfo": {
+          "survey_id": "111622",
+          "id_date": "1977-08-21",
+          "county": "St. Louis",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "wb_name": "Merritt",
+          "wb_id": "69058300",
+          "wb_type": "Lake"
+        },
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "quartileWeight": "1.2-2.5",
+            "quartileCount": "3.0-9.0",
+            "gearCount": 3,
+            "totalCatch": 27,
+            "totalWeight": 124.5,
+            "CPUE": "9.00",
+            "averageWeight": "4.61",
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "0.20",
+            "gear": "Standard gill nets",
+            "CPUE": "24.33",
+            "totalWeight": 14.5,
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "gearCount": 3,
+            "quartileCount": "3.3-18.3",
+            "totalCatch": 73
+          },
+          {
+            "totalWeight": 12.25,
+            "totalCatch": 6,
+            "gearCount": 3,
+            "quartileCount": "5.3-22.1",
+            "quartileWeight": "1.3-2.3",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.04",
+            "CPUE": "2.00"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyID": "111622",
+        "narrative": "<p>COMPOSED OF HIGH POPULATIONS OF PERCH & NORTHERNS. SUCKERS ARE PRESTNT IN AVERAGE NUMBERS.</p>",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1977-08-21"
+      }
+    ],
+    "littoralAcres": 198.15,
+    "county": "St. Louis",
+    "waterClarity": [],
+    "averageWaterClarity": "N/A"
+  }
+}

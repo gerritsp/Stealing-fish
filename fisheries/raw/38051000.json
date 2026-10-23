@@ -1,0 +1,105 @@
+{
+  "result": {
+    "lakeName": "Cattyman",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "location": "Portages -  10 yards. from Adventure L.  1/5 mile from Jordan L.  50 yards. from Gibson Lake.",
+        "lakeAccessComments": " "
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "littoralAcres": 16.75,
+    "meanDepthFeet": 0,
+    "waterClarity": [],
+    "maxDepthFeet": 9,
+    "areaAcres": 16.75,
+    "shoreLengthMiles": 0.93,
+    "officeCode": "F214",
+    "DOWNumber": "38051000",
+    "sampledPlants": [],
+    "county": "Lake",
+    "surveys": [
+      {
+        "surveyDate": "1982-07-16",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Cattyman lake contains above average populations of northern pike and perch; average populations of suckers and rock bass; and a below average walleye population.</p>",
+        "surveyID": "108016",
+        "headerInfo": {
+          "wb_id": "38051000",
+          "id_date": "1982-07-16",
+          "wb_alt_name": "",
+          "survey_id": "108016",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "wb_name": "Cattyman",
+          "county": "Lake"
+        },
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "3.9-9.4",
+            "CPUE": "5.00",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.80",
+            "totalCatch": 10,
+            "quartileWeight": "1.2-2.4",
+            "gearCount": 2,
+            "totalWeight": 18
+          },
+          {
+            "CPUE": "2.00",
+            "quartileCount": "1.9-16.0",
+            "species": "RKB",
+            "averageWeight": "0.12",
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 0.5,
+            "gearCount": 2
+          },
+          {
+            "totalCatch": 2,
+            "quartileWeight": "0.8-2.4",
+            "gearCount": 2,
+            "totalWeight": 1.75,
+            "quartileCount": "1.0-7.2",
+            "CPUE": "1.00",
+            "species": "WAE",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.88"
+          },
+          {
+            "totalWeight": 2.5,
+            "gearCount": 2,
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 20,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.12",
+            "species": "YEP",
+            "quartileCount": "2.0-23.0",
+            "CPUE": "10.00"
+          },
+          {
+            "quartileWeight": "0.8-2.3",
+            "totalCatch": 8,
+            "totalWeight": 23.5,
+            "gearCount": 2,
+            "species": "WTS",
+            "CPUE": "4.00",
+            "quartileCount": "2.6-17.5",
+            "averageWeight": "2.94",
+            "gear": "Standard gill nets"
+          }
+        ]
+      }
+    ]
+  },
+  "timestamp": 1790285826,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

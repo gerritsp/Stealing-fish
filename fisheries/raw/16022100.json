@@ -1,0 +1,77 @@
+{
+  "timestamp": 1790285791,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "accesses": [
+      {
+        "location": "NONE",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "surveys": [
+      {
+        "surveyID": "109929",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "1.98",
+            "totalWeight": 63.5,
+            "totalCatch": 32,
+            "species": "NOP",
+            "quartileCount": "2.0-8.5",
+            "gearCount": 2,
+            "CPUE": "16.00",
+            "quartileWeight": "1.4-2.7"
+          },
+          {
+            "species": "YEP",
+            "quartileCount": "2.5-14.3",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "6.50",
+            "gearCount": 2,
+            "totalWeight": 1,
+            "averageWeight": "0.08",
+            "gear": "Standard gill nets",
+            "totalCatch": 13
+          }
+        ],
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "narrative": "<p>NORTHERN PIKE NUMBERS APPEAR TO BE HIGH, BUT ONLY A LIMITED RANGE OF AGE CLASSES (IV,V AND VI) WERE PRESENT. GROWTH RATES ARE GOOD, UNDOUBTEDLY DUE TO A FAIRLY GOOD PERCH POPULATION. LIMITED SPAWNING AREA MAY ACCOUNT FOR THE LACK OF SOME AGE CLASSES.</p>",
+        "surveyDate": "1984-08-20",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Carl",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "survey_id": "109929",
+          "wb_type": "Lake",
+          "wb_id": "16022100",
+          "id_date": "1984-08-20"
+        },
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "shoreLengthMiles": 1.84,
+    "maxDepthFeet": 22,
+    "DOWNumber": "16022100",
+    "sampledPlants": [],
+    "averageWaterClarity": "8.0",
+    "areaAcres": 48.8,
+    "waterClarity": [
+      [
+        "08/20/1984",
+        "8"
+      ]
+    ],
+    "county": "Cook",
+    "lakeName": "Carl",
+    "officeCode": "F218",
+    "meanDepthFeet": 0,
+    "littoralAcres": 43.8
+  }
+}

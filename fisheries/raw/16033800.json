@@ -1,0 +1,66 @@
+{
+  "timestamp": 1790285986,
+  "message": "Normal execution.",
+  "result": {
+    "maxDepthFeet": 5,
+    "areaAcres": 18.44,
+    "waterClarity": [
+      [
+        "06/29/1979",
+        "4"
+      ]
+    ],
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "narrative": "<p>Whisker Lake has a population of small Suckers (probably migrants) and Minnows.</p>",
+        "surveyID": "109710",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "survey_id": "109710",
+          "wb_id": "16033800",
+          "wb_type": "Lake",
+          "wb_name": "Whisker",
+          "id_date": "1979-06-28",
+          "county": "Cook"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "CPUE": "3.50",
+            "species": "WTS",
+            "quartileCount": "3.0-23.0",
+            "totalCatch": 7,
+            "quartileWeight": "0.4-1.9",
+            "averageWeight": "0.44",
+            "totalWeight": 3.1
+          }
+        ],
+        "surveyDate": "1979-06-28"
+      }
+    ],
+    "county": "Cook",
+    "DOWNumber": "16033800",
+    "littoralAcres": 18.44,
+    "officeCode": "F218",
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 1.2,
+    "lakeName": "Whisker",
+    "averageWaterClarity": "4.0",
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "location": "",
+        "lakeAccessComments": " "
+      }
+    ]
+  },
+  "status": "SUCCESS"
+}

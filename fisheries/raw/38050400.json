@@ -1,0 +1,116 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285828,
+  "status": "SUCCESS",
+  "result": {
+    "averageWaterClarity": "N/A",
+    "lakeName": "Grub",
+    "officeCode": "F214",
+    "shoreLengthMiles": 1.72,
+    "accesses": [
+      {
+        "location": "Lies within BWCA in a non-motorized zone.  Only access is 25 rod USFS portage from Snowbank Lake.",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "waterClarity": [],
+    "county": "Lake",
+    "sampledPlants": [],
+    "maxDepthFeet": 31,
+    "DOWNumber": "38050400",
+    "areaAcres": 30.53,
+    "meanDepthFeet": 0,
+    "littoralAcres": 0,
+    "surveys": [
+      {
+        "surveyDate": "1978-06-21",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 5,
+            "species": "GSF",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "averageWeight": "0.10",
+            "CPUE": "1.67",
+            "quartileWeight": "N/A",
+            "gear": "Standard trap nets",
+            "totalWeight": 0.5
+          },
+          {
+            "species": "SMB",
+            "totalCatch": 5,
+            "quartileCount": "N/A",
+            "gearCount": 5,
+            "CPUE": "1.00",
+            "averageWeight": "0.45",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "totalWeight": 2.25
+          },
+          {
+            "gearCount": 5,
+            "quartileCount": "N/A",
+            "totalCatch": 7,
+            "species": "GSF",
+            "totalWeight": 0.6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "1.40",
+            "averageWeight": "0.09"
+          },
+          {
+            "quartileWeight": "N/A",
+            "CPUE": "0.67",
+            "averageWeight": "0.17",
+            "totalWeight": 0.35,
+            "gear": "Standard trap nets",
+            "species": "LMB",
+            "totalCatch": 2,
+            "gearCount": 3,
+            "quartileCount": "N/A"
+          },
+          {
+            "species": "LMB",
+            "totalCatch": 1,
+            "gearCount": 5,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.25",
+            "CPUE": "0.20",
+            "totalWeight": 0.25,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "species": "SMB",
+            "totalCatch": 24,
+            "gear": "Standard trap nets",
+            "totalWeight": 6.75,
+            "averageWeight": "0.28",
+            "CPUE": "8.00",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "survey_id": "108010",
+          "wb_name": "Grub",
+          "wb_id": "38050400",
+          "id_date": "1978-06-21",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>Consists of a very high population of smallmouth bass, and average population of largemouth bass, and a relatively high population of green sunfish.</p>",
+        "surveyID": "108010",
+        "surveyType": "Standard Survey"
+      }
+    ]
+  }
+}

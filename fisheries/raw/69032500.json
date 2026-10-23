@@ -1,0 +1,589 @@
+{
+  "result": {
+    "DOWNumber": "69032500",
+    "waterClarity": [
+      [
+        "07/31/2024",
+        "4.92"
+      ],
+      [
+        "07/28/2025",
+        "6.75"
+      ],
+      [
+        "06/11/2019",
+        "7"
+      ]
+    ],
+    "county": "St. Louis",
+    "lakeName": "Cummings",
+    "littoralAcres": 493,
+    "areaAcres": 1038.35,
+    "sampledPlants": [],
+    "shoreLengthMiles": 19.8,
+    "accesses": [
+      {
+        "accessTypeId": "PO",
+        "location": " ",
+        "lakeAccessComments": "Portage to Buck Lake",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN"
+      },
+      {
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "location": " ",
+        "accessTypeId": "PO",
+        "lakeAccessComments": "Portage to Otter Lake"
+      },
+      {
+        "lakeAccessComments": "Portage to Neewin Lake",
+        "accessTypeId": "PO",
+        "location": " ",
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF"
+      },
+      {
+        "lakeAccessComments": "Portage to Big Moose Lake",
+        "location": " ",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF"
+      },
+      {
+        "location": " ",
+        "accessTypeId": "PO",
+        "lakeAccessComments": "Portage to Korb River",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN"
+      },
+      {
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "Portage to Korb Lake",
+        "location": " ",
+        "accessTypeId": "PO"
+      }
+    ],
+    "surveys": [
+      {
+        "lengths": {},
+        "surveyDate": "2024-07-30",
+        "fishCatchSummaries": [],
+        "surveyID": "21872426133275062",
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Cummings Lake on July 31st, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 45.9 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 14.6 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 22.1 feet at the time of sampling. The thickness of this layer of water in the water column was 7.6 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 16.1 degrees C (61.0 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Cummings Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.</p>",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_type": "Lake",
+          "wb_id": "69032500",
+          "id_date": "2024-07-30",
+          "wb_name": "Cummings",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "survey_id": "21872426133275062"
+        }
+      },
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Consists of above average populations of Suckers, Smallmouth Bass, and Rock Bass.  The Smallmouth Bass are of good size.  Ciscoes, Northern Pike, Yelllow Perch, Green Sunfish, Pumpkinseeds, and Bluegills are also present in below average numbers.</p>",
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_id": "69032500",
+          "wb_type": "Lake",
+          "id_date": "1978-06-26",
+          "wb_alt_name": "",
+          "wb_name": "Cummings",
+          "survey_type": "Re-Survey",
+          "survey_id": "108148"
+        },
+        "surveyID": "108148",
+        "surveySubType": "Re-Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 9,
+            "quartileCount": "1.8-12.4",
+            "totalCatch": 10,
+            "species": "TLC",
+            "totalWeight": 1,
+            "averageWeight": "0.10",
+            "quartileWeight": "0.2-0.5",
+            "CPUE": "1.11",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 52,
+            "averageWeight": "4.00",
+            "CPUE": "1.44",
+            "quartileWeight": "1.9-3.6",
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "quartileCount": "1.2-3.6",
+            "totalCatch": 13,
+            "species": "NOP"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 164.5,
+            "CPUE": "9.89",
+            "averageWeight": "1.85",
+            "quartileWeight": "1.3-2.0",
+            "species": "WTS",
+            "totalCatch": 89,
+            "quartileCount": "2.8-6.7",
+            "gearCount": 9
+          },
+          {
+            "averageWeight": "0.10",
+            "quartileWeight": "N/A",
+            "CPUE": "0.33",
+            "totalWeight": 0.3,
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "gearCount": 9,
+            "species": "PMK",
+            "totalCatch": 3
+          },
+          {
+            "CPUE": "6.89",
+            "averageWeight": "0.71",
+            "quartileWeight": "0.5-1.3",
+            "totalWeight": 44.25,
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "quartileCount": "0.3-0.7",
+            "totalCatch": 62,
+            "species": "SMB"
+          },
+          {
+            "species": "GSF",
+            "totalCatch": 1,
+            "quartileCount": "0.1-1.7",
+            "gearCount": 9,
+            "gear": "Standard gill nets",
+            "CPUE": "0.11",
+            "averageWeight": "0.20",
+            "quartileWeight": "N/A",
+            "totalWeight": 0.2
+          },
+          {
+            "gearCount": 9,
+            "quartileCount": "N/A",
+            "totalCatch": 6,
+            "species": "BLG",
+            "CPUE": "0.67",
+            "averageWeight": "0.14",
+            "quartileWeight": "N/A",
+            "totalWeight": 0.85,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 10.65,
+            "CPUE": "5.67",
+            "averageWeight": "0.21",
+            "quartileWeight": "0.1-0.3",
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "quartileCount": "1.9-7.1",
+            "totalCatch": 51,
+            "species": "YEP"
+          },
+          {
+            "totalCatch": 43,
+            "species": "RKB",
+            "gearCount": 9,
+            "quartileCount": "0.5-2.2",
+            "gear": "Standard gill nets",
+            "CPUE": "4.78",
+            "quartileWeight": "0.2-0.4",
+            "averageWeight": "0.16",
+            "totalWeight": 7
+          }
+        ],
+        "lengths": {},
+        "surveyDate": "1978-06-26"
+      },
+      {
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyDate": "2025-07-28",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Cummings Lake on July 28th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 45.9 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 15.0 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 32.1 feet at the time of sampling. The thickness of this layer of water in the water column was 17.1 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 10.5 degrees C (50.9 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat, although less favorable conditions were recorded in 2024 when the suitable oxythermal habitat layer was 7.6 feet thick. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "id_date": "2025-07-28",
+          "county": "St. Louis",
+          "wb_id": "69032500",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "survey_id": "-276",
+          "wb_alt_name": "",
+          "wb_name": "Cummings"
+        },
+        "surveyID": "-276",
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "surveyDate": "2019-06-11",
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 25
+          },
+          "SMB": {
+            "maximum_length": 15,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                4
+              ]
+            ]
+          },
+          "CIS": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                7,
+                8
+              ],
+              [
+                8,
+                17
+              ],
+              [
+                9,
+                4
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 10
+          },
+          "BLG": {
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                7,
+                5
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "NOP": {
+            "maximum_length": 34,
+            "minimum_length": 28,
+            "fishCount": [
+              [
+                28,
+                2
+              ],
+              [
+                31,
+                2
+              ],
+              [
+                32,
+                2
+              ],
+              [
+                34,
+                2
+              ]
+            ]
+          },
+          "HSF": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                3
+              ]
+            ],
+            "maximum_length": 6
+          },
+          "LMB": {
+            "maximum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ]
+            ],
+            "minimum_length": 10
+          },
+          "RKB": {
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                2
+              ],
+              [
+                5,
+                4
+              ],
+              [
+                6,
+                7
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 9
+          },
+          "YEP": {
+            "maximum_length": 11,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                10
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                7
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 25823,
+            "averageWeight": "7.12",
+            "CPUE": "0.67",
+            "quartileWeight": "1.9-3.6",
+            "gear": "Standard gill nets",
+            "gearCount": 12,
+            "quartileCount": "1.2-3.6",
+            "totalCatch": 8,
+            "species": "NOP"
+          },
+          {
+            "quartileCount": "2.8-6.7",
+            "gearCount": 12,
+            "species": "WTS",
+            "totalCatch": 26,
+            "totalWeight": 17777,
+            "quartileWeight": "1.3-2.0",
+            "CPUE": "2.17",
+            "averageWeight": "1.51",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 13,
+            "species": "SMB",
+            "gearCount": 12,
+            "quartileCount": "0.3-0.7",
+            "gear": "Standard gill nets",
+            "CPUE": "1.08",
+            "averageWeight": "0.76",
+            "quartileWeight": "0.5-1.3",
+            "totalWeight": 4472
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "3.08",
+            "averageWeight": "0.14",
+            "quartileWeight": "N/A",
+            "totalWeight": 2293,
+            "species": "CIS",
+            "totalCatch": 37,
+            "quartileCount": "N/A",
+            "gearCount": 12
+          },
+          {
+            "totalCatch": 3,
+            "species": "HSF",
+            "gearCount": 12,
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "0.25",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.16",
+            "totalWeight": 218
+          },
+          {
+            "totalCatch": 9,
+            "species": "BLG",
+            "gearCount": 12,
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.17",
+            "quartileWeight": "N/A",
+            "CPUE": "0.75",
+            "totalWeight": 687
+          },
+          {
+            "gearCount": 12,
+            "quartileCount": "0.2-0.8",
+            "totalCatch": 1,
+            "species": "LMB",
+            "totalWeight": 284,
+            "quartileWeight": "0.9-1.3",
+            "CPUE": "0.08",
+            "averageWeight": "0.63",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 1756,
+            "averageWeight": "0.17",
+            "CPUE": "1.92",
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "totalCatch": 23,
+            "quartileCount": "1.9-7.1",
+            "gearCount": 12
+          },
+          {
+            "gearCount": 12,
+            "quartileCount": "0.5-2.2",
+            "totalCatch": 22,
+            "species": "RKB",
+            "totalWeight": 2060,
+            "CPUE": "1.83",
+            "averageWeight": "0.21",
+            "quartileWeight": "0.2-0.4",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveySubType": "Standard Survey",
+        "surveyID": "12641917249859089",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Cummings",
+          "survey_id": "12641917249859089",
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "wb_id": "69032500",
+          "county": "St. Louis",
+          "id_date": "2019-06-11"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Cummings Lake is located approximately 12 miles NW of Ely in the BWCAW. This scenic lake is surrounded by a forest that is primarily coniferous with shorelines composed mostly of boulders and ledgerock outcrops. <br> \n <br> \nThe most common access is from Burntside Lake, entering the BWCAW through Crab Lake and continuing to the southeast end of Cummings. There are 13 designated USFS campsite located around the lake for overnight use. Cummings is a popular destination for wilderness enthusiasts and anglers searching for smallmouth bass. <br> \n <br> \nNine species of fish were sampled during the 2019 survey of Cummings Lake. Cisco (26%) was the most common species sampled. Smallmouth bass and northern pike were sampled in relatively low numbers.  Bluegill, hybrid sunfish, largemouth bass, rock bass and yellow perch were also sampled in low relative abundances. <br> \n <br> \nSmallmouth bass numbers in 2019 were identical to the long term average for this lake and above average when compared to other similar lakes in the area. The average smallmouth sampled measured 11.7 inches in length which would make it about 8 years old. The largest smallmouth sampled was 15.5 inches long. Smallmouth abundance is likely higher than the 2019 gill net catch indicated. Smallmouth were actively spawning during the survey period and this combined with their \"net shy\" nature would likely negatively affect the gill net catches. Anglers targeting smallmouth were having good success with fish in the 10 to 15 inch range. <br> \n <br> \nNorthern pike numbers in 2019 of 0.7/gill net were below the long term average and below average (2.1/gill net) compared to other similar lakes in the area. However, average pike size was 31.8 inches long which is larger than the 28.6 inch average of past surveys. The largest pike sampled measured 34.8 inches long.  <br> \n</p>"
+      }
+    ],
+    "maxDepthFeet": 41,
+    "averageWaterClarity": "6.2",
+    "officeCode": "F214",
+    "meanDepthFeet": 0
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285580,
+  "message": "Normal execution."
+}

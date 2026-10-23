@@ -1,0 +1,151 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285693,
+  "result": {
+    "shoreLengthMiles": 3.05,
+    "accesses": [
+      {
+        "location": "None observed",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O"
+      }
+    ],
+    "DOWNumber": "38033600",
+    "county": "Lake",
+    "averageWaterClarity": "5.0",
+    "lakeName": "Amber",
+    "waterClarity": [
+      [
+        "08/04/2025",
+        "5"
+      ]
+    ],
+    "areaAcres": 121.24,
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveyDate": "1982-07-29",
+        "surveySubType": "Re-Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "totalWeight": 54.5,
+            "quartileCount": "1.3-5.3",
+            "averageWeight": "3.89",
+            "totalCatch": 14,
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "CPUE": "3.50",
+            "quartileWeight": "1.6-3.1"
+          },
+          {
+            "CPUE": "0.50",
+            "species": "RKB",
+            "quartileWeight": "0.2-0.4",
+            "quartileCount": "0.3-2.3",
+            "gearCount": 4,
+            "totalWeight": 0.5,
+            "gear": "Standard gill nets",
+            "totalCatch": 2,
+            "averageWeight": "0.25"
+          },
+          {
+            "totalWeight": 21,
+            "gearCount": 4,
+            "quartileCount": "0.8-3.8",
+            "totalCatch": 11,
+            "averageWeight": "1.91",
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "CPUE": "2.75",
+            "quartileWeight": "1.1-2.3"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "averageWeight": "0.12",
+            "quartileCount": "0.5-7.0",
+            "gearCount": 4,
+            "totalWeight": 0.5,
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "1.00",
+            "species": "YEP"
+          },
+          {
+            "CPUE": "3.00",
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.2-4.9",
+            "gearCount": 4,
+            "totalWeight": 14.5,
+            "gear": "Standard gill nets",
+            "totalCatch": 12,
+            "averageWeight": "1.21"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 39,
+            "averageWeight": "0.58",
+            "quartileCount": "1.3-7.6",
+            "totalWeight": 22.5,
+            "gearCount": 4,
+            "quartileWeight": "0.3-0.8",
+            "CPUE": "9.75",
+            "species": "TLC"
+          },
+          {
+            "CPUE": "0.75",
+            "species": "BLG",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "totalWeight": 0.8,
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "averageWeight": "0.27"
+          }
+        ],
+        "narrative": "<p>Composed of an above average population of cisco, average population of sucker, northern pike, and rock bass, and below average population of walleye, perch and bluegill. The walleye population is composed mostly of older and slow growing fish.</p>",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "wb_name": "Amber",
+          "survey_id": "107982",
+          "id_date": "1982-07-29",
+          "wb_alt_name": "",
+          "wb_id": "38033600",
+          "county": "Lake"
+        },
+        "lengths": {},
+        "surveyID": "107982"
+      },
+      {
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-08-04",
+        "lengths": {},
+        "surveyID": "22122521953075064",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Amber Lake on August 4th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 26.2 feet), the water temperature decreased to 21.2 degrees C (70.2 degrees F) at 9.2 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 12.1 feet at the time of sampling. This layer in the water column was 2.8 feet, indicating oxythermal habitat for Cisco was present but marginal. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 18.7 degrees C (65.7 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were marginal for Cisco at the time of the survey as the layer was confined to less than 3 feet of suitable habitat at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. Dead cisco were not observed at the time of either survey in 2024 or 2025; however, the narrow suitable habitat layer for Cisco in 2025 warrants more consistent monitoring. When adequate oxythermal habitat is not available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "38033600",
+          "id_date": "2025-08-04",
+          "county": "Lake",
+          "wb_name": "Amber",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "survey_id": "22122521953075064"
+        },
+        "surveyType": "Targeted Survey"
+      }
+    ],
+    "littoralAcres": 74,
+    "maxDepthFeet": 27,
+    "officeCode": "F214",
+    "sampledPlants": []
+  },
+  "status": "SUCCESS"
+}

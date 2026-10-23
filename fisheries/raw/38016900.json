@@ -1,0 +1,119 @@
+{
+  "timestamp": 1790286023,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "sampledPlants": [],
+    "maxDepthFeet": 110,
+    "county": "Lake",
+    "DOWNumber": "38016900",
+    "littoralAcres": 14,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "Portage from Ely on USFS land through BWCA.",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O"
+      }
+    ],
+    "shoreLengthMiles": 1.47,
+    "lakeName": "Lake of the Clouds",
+    "areaAcres": 28.56,
+    "waterClarity": [
+      [
+        "07/31/2025",
+        "10"
+      ],
+      [
+        "08/13/2024",
+        "8.2"
+      ]
+    ],
+    "officeCode": "F214",
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "9.1",
+    "surveys": [
+      {
+        "narrative": "<p>Consists of White Suckers and Green Sunfish.  Suckers are present in above average numbers and weights. No game fish are present.</p>",
+        "surveyDate": "1973-07-11",
+        "surveyType": "Standard Survey",
+        "surveyID": "107948",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_id": "38016900",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Lake of the Clouds",
+          "county": "Lake",
+          "id_date": "1973-07-11",
+          "survey_type": "Initial Survey",
+          "survey_id": "107948"
+        },
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 6,
+            "gearCount": 3,
+            "averageWeight": "0.10",
+            "CPUE": "2.00",
+            "quartileCount": "0.2-0.9",
+            "totalWeight": 0.6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "species": "GSF"
+          },
+          {
+            "totalCatch": 13,
+            "gearCount": 3,
+            "averageWeight": "0.88",
+            "CPUE": "4.33",
+            "totalWeight": 11.5,
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.5",
+            "species": "WTS"
+          }
+        ]
+      },
+      {
+        "surveyDate": "2025-07-31",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Lake of the Clouds Lake on July 31st, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 105.0 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 17.4 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 39.4 feet at the time of sampling. This layer in the water column was 22.0 feet, indicating oxythermal habitat for Lake Trout was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.3 degrees C (39.7 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "headerInfo": {
+          "wb_id": "38016900",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Lake of the Clouds",
+          "id_date": "2025-07-31",
+          "survey_id": "22122523342485025",
+          "survey_type": "Targeted Survey"
+        },
+        "surveySubType": "Targeted Survey",
+        "surveyID": "22122523342485025",
+        "surveyType": "Targeted Survey"
+      },
+      {
+        "surveyDate": "2024-08-13",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Lake of the Clouds Lake on August 13th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 98.4 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 18.5 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 42.6 feet at the time of sampling. The thickness of this layer of water in the water column was 24.1 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.6 degrees C (40.3 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Lake of the Clouds Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Lake of the Clouds",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_id": "38016900",
+          "survey_id": "21872427046164158",
+          "survey_type": "Targeted Survey",
+          "id_date": "2024-08-13"
+        },
+        "surveyID": "21872427046164158",
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey"
+      }
+    ]
+  }
+}

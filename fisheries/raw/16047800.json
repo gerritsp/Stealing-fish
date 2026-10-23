@@ -1,0 +1,305 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "lakeName": "Peterson",
+    "county": "Cook",
+    "meanDepthFeet": 8.8,
+    "averageWaterClarity": "6.0",
+    "sampledPlants": [],
+    "DOWNumber": "16047800",
+    "shoreLengthMiles": 3.92,
+    "littoralAcres": 94.36,
+    "surveys": [
+      {
+        "narrative": "<p>WAE CPUE ABOUT AVERAGE FOR THIS LAKE.  ALL THE WAE COLLECTED RANGED FROM 10 TO 14 IN.  THREE YEAR CLASS WERE REPRESENTED IN THE SAMPLE, WITH THE STRONGEST BEING 1988.  GROWTH WAS ABOUT AVERAGE FOR COOK COUNTY.  WAE STOCKING IN 1986-1988 PROBABLY CONTRIBUTED LITTLE TO THE PRESENT WAE POPULATION, EVEN THE TWO OF THE THREE YEAR CLASSES WERE YEARS WHEN STOCKING WAS DONE.  WAE CATCH AND SIZE DISTRIBUTION IN THE 1991 ASSESSMENT WERE SIMILAR TO THOSE OBSERVED IN 1971 AND 1979, WHEN NO STOCKING HAD BEEN DONE.  SMB WERE COLLECTED FOR THE FIRST TIME IN THIS ASSESSMENT, BUT HAVE PROBABLY BEEN PRESENT IN SMALL NUMBERS FOR MANY YEARS.  SMB ARE ABUNDANT UPSTREAM OF PETERSON LAKE IN OTHER LAKES OF THE TEMPERANCE RIVER SYSTEM. SOME OF THE YEP COLLECTED WERE LARGE ENOUGH TO BE OF SOME INTEREST TO ANGLERS.  NOP CATCH WAS LOW.</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1991-09-11",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "1991-09-11",
+          "wb_id": "16047800",
+          "survey_id": "110208",
+          "county": "Cook",
+          "wb_name": "Peterson",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake"
+        },
+        "surveyID": "110208",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "species": "NOP",
+            "totalCatch": 1,
+            "totalWeight": 1.5,
+            "averageWeight": "1.50",
+            "CPUE": "0.33",
+            "quartileWeight": "1.3-2.4",
+            "quartileCount": "2.0-6.3",
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "1.33",
+            "quartileWeight": "0.6-1.6",
+            "quartileCount": "0.5-5.8",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "species": "SMB",
+            "totalCatch": 4,
+            "totalWeight": 2.5,
+            "averageWeight": "0.62"
+          },
+          {
+            "gearCount": 3,
+            "species": "WAE",
+            "totalWeight": 6.75,
+            "totalCatch": 9,
+            "averageWeight": "0.75",
+            "CPUE": "3.00",
+            "quartileWeight": "0.9-1.6",
+            "quartileCount": "3.0-9.8",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 3,
+            "species": "YEP",
+            "averageWeight": "0.39",
+            "totalWeight": 2.75,
+            "totalCatch": 7,
+            "CPUE": "2.33",
+            "quartileCount": "2.2-14.6",
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "3.6-14.1",
+            "quartileWeight": "1.5-2.4",
+            "CPUE": "11.67",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "gearCount": 3,
+            "averageWeight": "1.82",
+            "totalCatch": 35,
+            "totalWeight": 63.75
+          }
+        ],
+        "lengths": {},
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "16047800",
+          "id_date": "1997-08-26",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "survey_id": "110844",
+          "county": "Cook",
+          "wb_name": "Peterson"
+        },
+        "surveyID": "110844",
+        "surveyDate": "1997-08-26",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Re-Survey",
+        "lengths": {
+          "WAE": {
+            "minimum_length": 8,
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                7
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                2
+              ]
+            ],
+            "minimum_length": 14,
+            "maximum_length": 20
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 15
+          },
+          "SMB": {
+            "maximum_length": 11,
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "maximum_length": 6,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "RKB": {
+            "maximum_length": 7,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                7,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.3-2.4",
+            "quartileCount": "2.0-6.3",
+            "CPUE": "0.67",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "gearCount": 3,
+            "totalCatch": 2,
+            "totalWeight": 1565,
+            "averageWeight": "1.73"
+          },
+          {
+            "species": "RKB",
+            "gearCount": 3,
+            "totalCatch": 1,
+            "totalWeight": 120,
+            "averageWeight": "0.26",
+            "quartileWeight": "0.2-0.4",
+            "quartileCount": "0.3-2.0",
+            "CPUE": "0.33",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "SMB",
+            "gearCount": 3,
+            "averageWeight": "0.78",
+            "totalCatch": 2,
+            "totalWeight": 712,
+            "quartileCount": "0.5-5.8",
+            "quartileWeight": "0.6-1.6",
+            "CPUE": "0.67",
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "0.79",
+            "totalWeight": 1425,
+            "totalCatch": 4,
+            "species": "WAE",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "3.0-9.8",
+            "quartileWeight": "0.9-1.6",
+            "CPUE": "1.33"
+          },
+          {
+            "species": "YEP",
+            "gearCount": 3,
+            "averageWeight": "0.10",
+            "totalWeight": 140,
+            "totalCatch": 3,
+            "quartileCount": "2.2-14.6",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "1.00",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 3,
+            "species": "WTS",
+            "totalWeight": 27612,
+            "totalCatch": 27,
+            "averageWeight": "2.25",
+            "CPUE": "9.00",
+            "quartileWeight": "1.5-2.4",
+            "quartileCount": "3.6-14.1",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>This fish population assessment of Peterson Lake collected five fish species. Most fish caught were white suckers. Game fish were not abundant or large, but all were naturally produced (not stocked). Walleye had last been stocked as fry 9-11 years earlier. Walleye growth rates were average. Other species collected were yellow perch, smallmouth bass, northern pike, and rock bass. Growth of yellow perch was somewhat slow, but growth of smallmouth bass and northern pike was average or better.</p>"
+      }
+    ],
+    "maxDepthFeet": 15,
+    "waterClarity": [
+      [
+        "08/30/1971",
+        "6"
+      ]
+    ],
+    "officeCode": "F218",
+    "areaAcres": 94.36,
+    "accesses": [
+      {
+        "location": "Short portage trails from Baker and Kelly Lakes.  Peterson Lake lies entirely inside the BWCAW.",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " "
+      }
+    ]
+  },
+  "timestamp": 1790285616,
+  "status": "SUCCESS"
+}

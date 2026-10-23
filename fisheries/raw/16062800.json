@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "littoralAcres": 7,
+    "DOWNumber": "16062800",
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "13.5",
+    "lakeName": "Green",
+    "shoreLengthMiles": 1.47,
+    "sampledPlants": [],
+    "areaAcres": 39.54,
+    "maxDepthFeet": 75,
+    "accesses": [
+      {
+        "location": "Entirely inside the BWCAW.  Access by portage from Bat and Flying Lakes.",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "county": "Cook",
+    "officeCode": "F218",
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1980-07-29",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "narrative": "<p>It seems likely that Suckers and Minnows are the only fish present.</p>",
+        "surveyID": "109804",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.12",
+            "CPUE": "0.67",
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "totalWeight": 0.25,
+            "gear": "Standard gill nets",
+            "species": "CRC",
+            "totalCatch": 2
+          },
+          {
+            "CPUE": "2.67",
+            "averageWeight": "0.63",
+            "totalWeight": 5.06,
+            "quartileCount": "1.5-10.4",
+            "gearCount": 3,
+            "quartileWeight": "0.6-2.0",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalCatch": 8
+          }
+        ],
+        "headerInfo": {
+          "id_date": "1980-07-29",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_name": "Green",
+          "survey_id": "109804",
+          "wb_id": "16062800"
+        }
+      }
+    ],
+    "waterClarity": [
+      [
+        "07/30/1980",
+        "13.5"
+      ]
+    ]
+  },
+  "timestamp": 1790285899
+}

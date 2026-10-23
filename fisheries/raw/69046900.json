@@ -1,0 +1,373 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790286053,
+  "result": {
+    "maxDepthFeet": 43,
+    "officeCode": "F217",
+    "averageWaterClarity": "7.4",
+    "shoreLengthMiles": 5.68,
+    "meanDepthFeet": 0,
+    "DOWNumber": "69046900",
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "USF",
+        "location": "Portage trail (220 rods) from Loon Lake."
+      },
+      {
+        "location": "Portage trail (60 rods) from Shell Lake.",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "lakeAccessComments": " "
+      },
+      {
+        "location": "Portage trail (100 rods) from Lynx Lake.",
+        "ownerTypeId": "USF",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "littoralAcres": 92,
+    "waterClarity": [
+      [
+        "07/29/2025",
+        "7.4"
+      ]
+    ],
+    "sampledPlants": [],
+    "lakeName": "Heritage",
+    "areaAcres": 207.33,
+    "surveys": [
+      {
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-07-29",
+        "lengths": {},
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Heritage Lake on July 29th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 36.1 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 10.8 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 23.8 feet at the time of sampling. The thickness of this layer of water in the water column was 13.0 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 8.8 degrees C (47.8 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates suitable oxythermal habitat. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n <br> \n</p>",
+        "surveyID": "-322",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_id": "69046900",
+          "wb_alt_name": "",
+          "wb_name": "Heritage",
+          "survey_id": "-322",
+          "id_date": "2025-07-29"
+        }
+      },
+      {
+        "surveyDate": "2003-06-24",
+        "surveySubType": "Re-Survey",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "0.17",
+            "species": "SHR",
+            "averageWeight": "2.20",
+            "quartileWeight": "2.1-2.5",
+            "quartileCount": "0.2-0.3",
+            "gearCount": 6,
+            "totalWeight": 1000,
+            "gear": "Standard gill nets",
+            "totalCatch": 1
+          },
+          {
+            "CPUE": "3.67",
+            "species": "NOP",
+            "averageWeight": "4.11",
+            "quartileWeight": "1.6-3.1",
+            "quartileCount": "1.3-5.3",
+            "gearCount": 6,
+            "totalWeight": 40990,
+            "gear": "Standard gill nets",
+            "totalCatch": 22
+          },
+          {
+            "averageWeight": "0.13",
+            "species": "RKB",
+            "CPUE": "0.17",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "totalWeight": 60,
+            "quartileWeight": "0.2-0.4",
+            "quartileCount": "0.3-2.3",
+            "gearCount": 6
+          },
+          {
+            "averageWeight": "0.74",
+            "CPUE": "0.17",
+            "species": "SMB",
+            "totalWeight": 335,
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileWeight": "0.4-1.5",
+            "quartileCount": "0.3-1.0"
+          },
+          {
+            "totalCatch": 5,
+            "gear": "Standard gill nets",
+            "totalWeight": 3060,
+            "gearCount": 6,
+            "quartileWeight": "1.1-2.3",
+            "quartileCount": "0.8-3.8",
+            "averageWeight": "1.35",
+            "species": "WAE",
+            "CPUE": "0.83"
+          },
+          {
+            "averageWeight": "0.09",
+            "CPUE": "0.67",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "totalWeight": 160,
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "0.5-7.0",
+            "gearCount": 6
+          },
+          {
+            "species": "WTS",
+            "CPUE": "3.17",
+            "averageWeight": "1.46",
+            "gearCount": 6,
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.2-4.9",
+            "totalWeight": 12615,
+            "totalCatch": 19,
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "12.00",
+            "species": "TLC",
+            "averageWeight": "0.44",
+            "quartileWeight": "0.3-0.8",
+            "quartileCount": "1.3-7.6",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalCatch": 72,
+            "totalWeight": 14530
+          }
+        ],
+        "surveyID": "112014",
+        "headerInfo": {
+          "wb_name": "Heritage",
+          "id_date": "2003-06-24",
+          "survey_id": "112014",
+          "wb_alt_name": "",
+          "wb_id": "69046900",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "county": "St. Louis"
+        },
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "NOP": {
+            "minimum_length": 17,
+            "fishCount": [
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                35,
+                1
+              ],
+              [
+                37,
+                1
+              ],
+              [
+                38,
+                1
+              ],
+              [
+                39,
+                1
+              ],
+              [
+                40,
+                1
+              ]
+            ],
+            "maximum_length": 40
+          },
+          "RKB": {
+            "maximum_length": 6,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "SHR": {
+            "fishCount": [
+              [
+                18,
+                1
+              ]
+            ],
+            "minimum_length": 18,
+            "maximum_length": 18
+          },
+          "WTS": {
+            "maximum_length": 17,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "TLC": {
+            "maximum_length": 12,
+            "fishCount": [
+              [
+                10,
+                16
+              ],
+              [
+                11,
+                35
+              ],
+              [
+                12,
+                16
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "SMB": {
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ]
+            ],
+            "maximum_length": 10
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 7
+          },
+          "WAE": {
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ],
+            "maximum_length": 18
+          }
+        },
+        "narrative": "<p>Heritage Lake (69-0469) is a small, rocky lake with bog stained water located in the Boundary Waters Canoe Area Wilderness. The lake is only accessible via portage trails from Loon, Shell or Lynx Lakes. The U.S. Forest Service maintains two primitive campsites on the lake. The fish community is relatively simple with only a few species present. Northern pike appear to be the primary predator species present in Heritage Lake. The number of pike caught in nets was typical for lakes like Heritage. The average individual weight of 4.1 pounds, however, was exceptional.  Two size groups of pike were found during this investigation. Most individuals averaged about 20 inches in length, however, 23% of the catch exceeded 35 inches. The largest individual pike captured was 40.7 inches long and weighed over 16 pounds.Walleye and smallmouth bass are also present in Heritage Lake in low numbers.  Lengths of walleye ranged from 12.5 to 18.2 inches and averaged 15.6 inches.  The only smallmouth bass captured was 10.7 inches in length.Other species caught during the 2003 Heritage Lake survey included cisco, white sucker, shorthead redhorse, rock bass, and yellow perch.     </p>"
+      }
+    ],
+    "county": "St. Louis"
+  },
+  "message": "Normal execution."
+}

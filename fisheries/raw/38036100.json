@@ -1,0 +1,50 @@
+{
+  "result": {
+    "waterClarity": [
+      [
+        "08/20/2025",
+        "8"
+      ],
+      [
+        "08/02/2025",
+        "8"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "shoreLengthMiles": 3.75,
+    "averageWaterClarity": "8.0",
+    "littoralAcres": 20,
+    "lakeName": "Wisini",
+    "maxDepthFeet": 137,
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyDate": "2025-08-02",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Wisini Lake on August 20th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 105.0 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 22.6 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 87.8 feet at the time of sampling. This layer in the water column was 65.3 feet, indicating oxythermal habitat for Lake Trout was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.3 degrees C (39.7 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 and 2025 also indicated suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 2024 when the suitable oxythermal habitat layer was 64.3 feet thick. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "surveyID": "22122522053527045",
+        "headerInfo": {
+          "survey_id": "22122522053527045",
+          "wb_type": "Lake",
+          "id_date": "2025-08-02",
+          "wb_id": "38036100",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Wisini",
+          "survey_type": "Targeted Survey"
+        }
+      }
+    ],
+    "county": "Lake",
+    "areaAcres": 104.34,
+    "DOWNumber": "38036100",
+    "accesses": []
+  },
+  "timestamp": 1790285852,
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

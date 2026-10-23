@@ -1,0 +1,116 @@
+{
+  "timestamp": 1790285690,
+  "status": "SUCCESS",
+  "result": {
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "In BWCA ~ Portages from Insula Lake and Alice Lake~ via Hum L.~ Non-motor route.",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "officeCode": "F214",
+    "maxDepthFeet": 16,
+    "DOWNumber": "38034000",
+    "shoreLengthMiles": 3.88,
+    "areaAcres": 104.73,
+    "waterClarity": [],
+    "county": "Lake",
+    "lakeName": "Carol",
+    "surveys": [
+      {
+        "surveyDate": "1979-09-21",
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>Composed of average populations of walleye, sucker, bluegill and rock bass.  Northern pike are present in above average numbers.  Yellow perch are present in below average numbers.</p>",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "CPUE": "4.67",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.29",
+            "totalCatch": 14,
+            "quartileCount": "N/A",
+            "totalWeight": 32,
+            "quartileWeight": "N/A",
+            "species": "NOP"
+          },
+          {
+            "totalWeight": 0.7,
+            "quartileCount": "N/A",
+            "totalCatch": 3,
+            "averageWeight": "0.23",
+            "gear": "Standard gill nets",
+            "CPUE": "1.00",
+            "gearCount": 3,
+            "species": "RKB",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "species": "WAE",
+            "averageWeight": "1.28",
+            "gear": "Standard gill nets",
+            "totalCatch": 34,
+            "CPUE": "11.33",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "totalWeight": 43.5
+          },
+          {
+            "quartileWeight": "N/A",
+            "species": "YEP",
+            "quartileCount": "N/A",
+            "totalWeight": 0.3,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.07",
+            "totalCatch": 4,
+            "CPUE": "1.33",
+            "gearCount": 3
+          },
+          {
+            "quartileCount": "N/A",
+            "totalWeight": 35.25,
+            "averageWeight": "2.20",
+            "gear": "Standard gill nets",
+            "totalCatch": 16,
+            "CPUE": "5.33",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "species": "WTS"
+          },
+          {
+            "gearCount": 3,
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.35",
+            "totalCatch": 3,
+            "quartileCount": "N/A",
+            "totalWeight": 1.05,
+            "quartileWeight": "N/A",
+            "species": "BLG"
+          }
+        ],
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_name": "Carol",
+          "wb_id": "38034000",
+          "wb_alt_name": "",
+          "survey_id": "107983",
+          "id_date": "1979-09-21",
+          "county": "Lake",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "107983"
+      }
+    ],
+    "littoralAcres": 96,
+    "averageWaterClarity": "N/A"
+  },
+  "message": "Normal execution."
+}

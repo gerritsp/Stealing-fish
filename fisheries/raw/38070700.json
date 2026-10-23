@@ -1,0 +1,199 @@
+{
+  "timestamp": 1790285624,
+  "status": "SUCCESS",
+  "result": {
+    "accesses": [
+      {
+        "location": "North end of portage is flooded due to beaver dam. Flooded area was deep enough to paddle through to reach lake during survey.",
+        "lakeAccessComments": "70 rod portage from Kawishiwi River to south end of lake. A beaver dam on outlet has flooded the north end of the portage. You now hit water at about 27 rods and can paddle from there to the lake.",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO"
+      },
+      {
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO",
+        "location": " ",
+        "lakeAccessComments": "70 rod portage from Clear Lake to north end of lake.",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "surveys": [
+      {
+        "surveyID": "12641535248432000",
+        "lengths": {
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                8
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 9
+          },
+          "BLC": {
+            "fishCount": [
+              [
+                13,
+                1
+              ]
+            ],
+            "maximum_length": 13,
+            "minimum_length": 13
+          },
+          "WTS": {
+            "maximum_length": 19,
+            "minimum_length": 15,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 11,
+            "maximum_length": 28,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                28,
+                2
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.42",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.2-2.5",
+            "totalWeight": 7739,
+            "CPUE": "4.00",
+            "gearCount": 3,
+            "quartileCount": "3.0-9.0",
+            "totalCatch": 12
+          },
+          {
+            "totalWeight": 695,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-0.4",
+            "averageWeight": "1.53",
+            "species": "BLC",
+            "totalCatch": 1,
+            "gearCount": 3,
+            "quartileCount": "0.7-5.0",
+            "CPUE": "0.33"
+          },
+          {
+            "CPUE": "6.00",
+            "quartileCount": "3.3-18.3",
+            "gearCount": 3,
+            "totalCatch": 18,
+            "totalWeight": 1092,
+            "species": "YEP",
+            "averageWeight": "0.13",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "totalWeight": 6573,
+            "quartileWeight": "1.3-2.3",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "averageWeight": "2.90",
+            "totalCatch": 5,
+            "gearCount": 3,
+            "quartileCount": "5.3-22.1",
+            "CPUE": "1.67"
+          }
+        ],
+        "headerInfo": {
+          "wb_id": "38070700",
+          "id_date": "2015-07-20",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "12641535248432000",
+          "wb_name": "Eskwagama",
+          "survey_type": "Standard Survey"
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "2015-07-20",
+        "surveySubType": "Standard Survey",
+        "narrative": "<p>Eskwagama Lake is located approximately 6 miles SE of Ely in the BWCAW. This relatively shallow lake is surrounded by a hilly terrain with a mixed forest of aspen, birch and assorted conifers. Water levels were high in 2015 because of a beaver dam at the outlet. <br> \n <br> \nThere are portages from either the South Kawishiwi River (85 rods) or Clear Lake (100 rods) for public access. In 2015, the portage from the river was flooded at approximately the 30 rod mark and the survey crew paddled the remaining distance to access the lake. There is a spacious USFS campsite located on the E side of the lake. <br> \n <br> \nNorthern pike numbers in 2015 (4.0/gill net) were slightly below average compared to other area lakes that are similar. The average pike sampled was 17.2 inches and the largest pike was 28.5 inches long. <br> \n <br> \nYellow perch abundance in 2015 (6.0/gill net) was also slightly below average compared to other similar area lakes. The average perch sampled was 6.5 inches and the largest perch was 9.5 inches long. <br> \n <br> \nFive white sucker and one black crappie were also sampled in 2015. The crappie was 13.9 inches long and estimated to be at least 10 years old. The only other survey of Eskwagama Lake was in 1964 when northern pike and white sucker were sampled. Pike relative abundance was higher then (7.0/gill net), however the size structure was similar to 2015. <br> \n <br> \n</p>"
+      }
+    ],
+    "DOWNumber": "38070700",
+    "littoralAcres": 88.09,
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "averageWaterClarity": "5.0",
+    "county": "Lake",
+    "waterClarity": [
+      [
+        "07/20/2015",
+        "5"
+      ]
+    ],
+    "maxDepthFeet": 12,
+    "meanDepthFeet": 5,
+    "shoreLengthMiles": 3.01,
+    "lakeName": "Eskwagama",
+    "areaAcres": 88.09
+  },
+  "message": "Normal execution."
+}

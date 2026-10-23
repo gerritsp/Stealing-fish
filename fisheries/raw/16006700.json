@@ -1,0 +1,78 @@
+{
+  "timestamp": 1790285903,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "surveyID": "109602",
+        "headerInfo": {
+          "wb_id": "16006700",
+          "wb_name": "Beaver",
+          "survey_id": "109602",
+          "wb_alt_name": "Shelf",
+          "id_date": "1980-08-19",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "county": "Cook"
+        },
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>There is a large population of small to medium Suckers, with some Grn Sunfish and Northern Redbelly Dace present.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 1.2,
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "CPUE": "5.00",
+            "averageWeight": "0.12",
+            "species": "GSF",
+            "gear": "Standard gill nets",
+            "totalCatch": 10,
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 124,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "averageWeight": "0.33",
+            "CPUE": "62.00",
+            "gearCount": 2,
+            "totalWeight": 40.35,
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyDate": "1980-08-19"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "littoralAcres": 0,
+    "lakeAltName": "Shelf",
+    "lakeName": "Beaver",
+    "maxDepthFeet": 22,
+    "sampledPlants": [],
+    "shoreLengthMiles": 2.59,
+    "DOWNumber": "16006700",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "location": "None-In BWCA and has no portage trails to it.",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "averageWaterClarity": "5.0",
+    "waterClarity": [
+      [
+        "08/19/1980",
+        "5"
+      ]
+    ],
+    "areaAcres": 52.42,
+    "county": "Cook",
+    "officeCode": "F218"
+  }
+}

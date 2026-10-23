@@ -1,0 +1,72 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "shoreLengthMiles": 0.56,
+    "areaAcres": 13.54,
+    "county": "St. Louis",
+    "waterClarity": [],
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "surveyID": "108163",
+        "narrative": "<p>(was also observed on lake.  The lack of a (portage into lake indicates very few if (any people use the lake. Composed of a high population of yellow perch and a low population of green sunfish.</p>",
+        "surveyDate": "1981-07-31",
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Profit",
+          "id_date": "1981-07-31",
+          "wb_id": "69036000",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "survey_id": "108163",
+          "survey_type": "Initial Survey"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 1,
+            "quartileCount": "0.3-0.5",
+            "quartileWeight": "N/A",
+            "CPUE": "0.50",
+            "species": "GSF",
+            "averageWeight": "0.10",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "totalWeight": 0.1
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.27",
+            "CPUE": "12.00",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 6.5,
+            "gearCount": 2,
+            "totalCatch": 24,
+            "quartileCount": "2.0-23.0"
+          }
+        ]
+      }
+    ],
+    "DOWNumber": "69036000",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "location": "Portage from Green Lake. ~1/8 mile~.  Portage not developed.",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "maxDepthFeet": 12,
+    "sampledPlants": [],
+    "lakeName": "Profit",
+    "littoralAcres": 13.54,
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "N/A"
+  },
+  "timestamp": 1790286063
+}

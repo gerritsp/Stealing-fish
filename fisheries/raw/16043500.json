@@ -1,0 +1,265 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "littoralAcres": 53,
+    "DOWNumber": "16043500",
+    "surveys": [
+      {
+        "surveyDate": "2023-08-24",
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Davis Lake on August 24th, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 13 feet. Dissolved oxygen decreased to below 3.0 mg/L at 71.1 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.9\u00b0C (10.8\u00b0F). <br> \n <br> \nTDO3 values cooler than 8.8\u00b0C indicate that oxythermal conditions are favorable for Lake Trout. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for these species was available across a range of depths at the time of sampling. Data collected in 1982 further indicates suitable oxythermal habitat across years. When adequate oxythermal habitat is available, Lake Trout are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "surveyID": "20512322952274004",
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_id": "16043500",
+          "county": "Cook",
+          "id_date": "2023-08-24",
+          "wb_alt_name": "",
+          "survey_id": "20512322952274004",
+          "wb_name": "Davis"
+        },
+        "lengths": {}
+      },
+      {
+        "lengths": {
+          "NOP": {
+            "maximum_length": 31,
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                31,
+                1
+              ]
+            ],
+            "minimum_length": 19
+          },
+          "LAT": {
+            "maximum_length": 18,
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 19
+          }
+        },
+        "headerInfo": {
+          "county": "Cook",
+          "wb_id": "16043500",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_name": "Davis",
+          "wb_alt_name": "",
+          "id_date": "1999-07-22",
+          "survey_id": "111033"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyID": "111033",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 1262,
+            "totalCatch": 2,
+            "species": "LAT",
+            "quartileCount": "0.4-3.7",
+            "quartileWeight": "1.5-4.0",
+            "gear": "Standard gill nets",
+            "CPUE": "0.33",
+            "averageWeight": "1.39",
+            "gearCount": 6
+          },
+          {
+            "totalWeight": 14460,
+            "totalCatch": 9,
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.6-2.4",
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "3.54",
+            "CPUE": "1.50",
+            "gearCount": 6
+          },
+          {
+            "averageWeight": "0.00",
+            "CPUE": "1.00",
+            "gearCount": 3,
+            "species": "YEP",
+            "totalWeight": 0,
+            "totalCatch": 3,
+            "gear": "Special seining",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "1.33",
+            "averageWeight": "1.95",
+            "quartileWeight": "1.1-2.5",
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "totalWeight": 7066,
+            "totalCatch": 8
+          },
+          {
+            "gearCount": 3,
+            "CPUE": "0.33",
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "Special seining",
+            "species": "BND",
+            "totalWeight": 0,
+            "totalCatch": 1
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Lake trout were collected for the first time in this lake, although they were not abundant.  At least one of the fish collected had come from recent introductory stockings.  The northern pike catch was within the normal range for a lake of this class, and some larger fish were present.  Forage for gamefish was provided by a few white sucker, and an even smaller number of yellow perch.  Despite the apparent lack of forage, growth rates for northern pike had been good.</p>",
+        "surveyDate": "1999-07-22"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.00",
+            "CPUE": "0.17",
+            "gearCount": 6,
+            "totalWeight": 1,
+            "totalCatch": 1,
+            "species": "BUB",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-1.5",
+            "quartileCount": "0.2-1.0"
+          },
+          {
+            "CPUE": "1.00",
+            "averageWeight": "2.25",
+            "gearCount": 6,
+            "totalWeight": 13.5,
+            "totalCatch": 6,
+            "species": "NOP",
+            "quartileCount": "0.6-2.4",
+            "quartileWeight": "2.1-4.9",
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "1.21",
+            "CPUE": "3.50",
+            "gearCount": 6,
+            "species": "WTS",
+            "totalCatch": 21,
+            "totalWeight": 25.5,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyDate": "1982-08-23",
+        "narrative": "<p>THE SPECIES COMPOSITION OF DAVIS LAKE IS NOT VERY DIVERSE. WHITE SUCKER APPEAR TO BE THE MOST ABUN- DANT SPECIES. THE NORTHERN PIKE POPULATION APPEARS LOW WITH MOSTLY SMALL SIZES PRESENT. YELLOW PERCH (ANGLER CAUGHT) AND BURBOT ARE PRESENT BUT THEIR ABUNDANCE APPEARS QUITE LOW. THE FINGERLING LAKE TROUT STOCKED IN 1977 DID NOT SHOW UP IN THIS SURVEY, IT IS THEREFORE ASSUMED THAT THEIR SURVIV- AL WAS VERY POOR.</p>",
+        "surveyID": "110021",
+        "headerInfo": {
+          "wb_name": "Davis",
+          "wb_alt_name": "",
+          "id_date": "1982-08-23",
+          "survey_id": "110021",
+          "wb_id": "16043500",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "county": "Cook"
+        },
+        "surveySubType": "Initial Survey",
+        "lengths": {}
+      }
+    ],
+    "maxDepthFeet": 64,
+    "areaAcres": 322.84,
+    "averageWaterClarity": "12.8",
+    "waterClarity": [
+      [
+        "08/24/2023",
+        "11.5"
+      ],
+      [
+        "08/23/1982",
+        "14"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "county": "Cook",
+    "lakeName": "Davis",
+    "sampledPlants": [],
+    "shoreLengthMiles": 10.5,
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "location": "Lake is entirely inside the BWCAW.  Access by portage trail from Pup; Kiskadinna; and North Cone Lakes.",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "accessTypeId": "CA"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285775
+}

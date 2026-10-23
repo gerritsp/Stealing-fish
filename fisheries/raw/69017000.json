@@ -1,0 +1,262 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285569,
+  "result": {
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 90,
+            "averageWeight": "0.20",
+            "gearCount": 2,
+            "CPUE": "0.50",
+            "species": "HSF",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "1.4-2.7",
+            "gear": "Standard gill nets",
+            "quartileCount": "2.0-8.5",
+            "species": "NOP",
+            "CPUE": "3.50",
+            "totalCatch": 7,
+            "gearCount": 2,
+            "averageWeight": "2.85",
+            "totalWeight": 9034
+          },
+          {
+            "totalCatch": 2,
+            "species": "RKB",
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.2",
+            "quartileWeight": "0.2-0.3",
+            "totalWeight": 309,
+            "averageWeight": "0.34",
+            "gearCount": 2
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "2.5-14.3",
+            "CPUE": "1.50",
+            "species": "YEP",
+            "totalCatch": 3,
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 2,
+            "averageWeight": "0.13",
+            "totalWeight": 172
+          },
+          {
+            "gearCount": 2,
+            "totalWeight": 8084,
+            "averageWeight": "1.98",
+            "quartileCount": "1.6-8.4",
+            "gear": "Standard gill nets",
+            "CPUE": "4.50",
+            "species": "WTS",
+            "totalCatch": 9,
+            "quartileWeight": "0.9-2.3"
+          },
+          {
+            "quartileWeight": "0.3-1.8",
+            "CPUE": "3.50",
+            "species": "LMB",
+            "totalCatch": 7,
+            "quartileCount": "0.3-2.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.93",
+            "totalWeight": 2943,
+            "gearCount": 2
+          },
+          {
+            "totalWeight": 520,
+            "averageWeight": "0.14",
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "totalCatch": 8,
+            "CPUE": "4.00",
+            "species": "BLG",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyID": "109437",
+        "headerInfo": {
+          "wb_id": "69017000",
+          "wb_name": "Maxine",
+          "wb_alt_name": "",
+          "id_date": "2001-07-02",
+          "county": "St. Louis",
+          "survey_type": "Initial Survey",
+          "survey_id": "109437",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>Maxine Lake is in Ecological Lake Class 13, which consists of 84 lakes in northeast Minnesota that are small, shallow, and have very soft (unmineralized) water.  Maxine Lake is smaller than most of the lakes in this lake class.  Maxine Lake ranks as mesotrophic-to-eutrophic according to Carlson's Trophic State Index using water clarity of 1.8 m, chlorophyll_a of 6 ppb, and total phosphorus of 26 ppb.Maxine Lake was thermally stratified on 07/02/2001 with a surface temperature of 71 F and a bottom temperature of 45 F, and retained 2 ppm oxygen to a depth of 11 ft, where the temperature was 57 F.  The inlet from Ole Lake and the outlet to Little Crab Lake (via Korb Creek) have low flows and barriers to fish movement (bogs and beaver dams).  Lake bottom substrates along the shoreline are mostly boulder and rubble.  Aquatic plants grow to a depth of 8 ft and are scattered along the shoreline, with concentrations at the inlet and outlet and in the eastern bay.  Water shield, sweetgale, water bulrush, and cattail are the most common plants.Maxine Lake is in the Boundary Waters Canoe Area Wilderness on a no-motor route.  There is one USFS campsite on the lake.This was the initial survey of Maxine Lake.  Fish populations in 2001 were sampled with two gillnet sets and two metal minnow traps.  Trapnets were not used due to the difficult portage access.  Shoreline seines were not used due to the lack of suitable seining areas on the lake.The total catch of fish (all species combined) in the gillnets in 2001 of 18.5 fish/net (22.9 lb/net) was near the median for this lake class.  Fish populations consisted mostly of northern pike, white sucker, largemouth bass, and bluegill sunfish.  Other fish species were present in low numbers.Northern pike numbers (3.5/gillnet) were in the second quartile for this lake class.  Pike sizes averaged 23.4\" (2.8 lb), which was in the fourth quartile for this lake class.  The largest pike was 27.4\".  Pike from five year classes were captured.  Pike growth appeared to be slower than normal by area standards.White sucker numbers (4.5/gillnet) were near the median for this lake class.  Sucker sizes averaged 16.5\" (1.9 lb), which was in the third quartile for this lake class.Largemouth bass numbers (3.5/gillnet) were in the fourth quartile for this lake class.  Bass sizes averaged 11.9\" (0.9 lb), which was at the median for this lake class.  The largest bass was 14.6\".  Only two year classes of bass were caught, ages four and six.  Bass growth was normal by area standards.Bluegill numbers (4.0/gillnet) appeared to be high, although quartiles have not been developed for bluegill catches in gillnets for this lake class.  Bluegill sizes averaged 6.0\" (0.1 lb); the largest bluegill was 7.4\". </p>",
+        "lengths": {
+          "YEP": {
+            "maximum_length": 7,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                1
+              ]
+            ]
+          },
+          "BLG": {
+            "maximum_length": 7,
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                4
+              ],
+              [
+                7,
+                1
+              ]
+            ]
+          },
+          "RKB": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                7,
+                2
+              ]
+            ],
+            "maximum_length": 7
+          },
+          "NOP": {
+            "minimum_length": 21,
+            "fishCount": [
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                27,
+                1
+              ]
+            ],
+            "maximum_length": 27
+          },
+          "HSF": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 6
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                2
+              ]
+            ],
+            "minimum_length": 11,
+            "maximum_length": 18
+          },
+          "LMB": {
+            "maximum_length": 14,
+            "fishCount": [
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9
+          }
+        },
+        "surveyDate": "2001-07-02"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "littoralAcres": 0,
+    "maxDepthFeet": 21,
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "Approx. 1 mi. paddle up creek from Little Crab L./Korb R. (A couple beaver dam and log jam carry-overs).",
+        "accessTypeId": "O"
+      }
+    ],
+    "lakeName": "Maxine",
+    "averageWaterClarity": "N/A",
+    "county": "St. Louis",
+    "waterClarity": [],
+    "areaAcres": 38.82,
+    "shoreLengthMiles": 1.82,
+    "DOWNumber": "69017000"
+  }
+}

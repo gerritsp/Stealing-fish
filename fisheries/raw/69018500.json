@@ -1,0 +1,73 @@
+{
+  "result": {
+    "areaAcres": 33.93,
+    "maxDepthFeet": 27,
+    "averageWaterClarity": "N/A",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyDate": "1986-06-05",
+        "narrative": "<p>Lake survey (1986) showed below average numbers of northern pike and white sucker. The northern pike were very thin and had no food in their guts. Growth seems poor and reproduction appears erratic</p>",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "2.10",
+            "gear": "Standard gill nets",
+            "CPUE": "2.50",
+            "quartileCount": "N/A",
+            "totalWeight": 21,
+            "gearCount": 4,
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "totalCatch": 10
+          },
+          {
+            "CPUE": "2.25",
+            "quartileCount": "N/A",
+            "averageWeight": "1.83",
+            "gear": "Standard gill nets",
+            "totalCatch": 9,
+            "totalWeight": 16.5,
+            "gearCount": 4,
+            "species": "WTS",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_id": "69018500",
+          "county": "St. Louis",
+          "wb_alt_name": "Keneu",
+          "id_date": "1986-06-05",
+          "survey_type": "Initial Survey",
+          "survey_id": "108304",
+          "wb_name": "Rice",
+          "wb_type": "Lake"
+        },
+        "surveyID": "108304"
+      }
+    ],
+    "littoralAcres": 0,
+    "waterClarity": [],
+    "lakeName": "Rice",
+    "county": "St. Louis",
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "165 YARD PORTAGE FROM HOOK LAKE. KENEU LAKE IS IN THE BWCAW ON A NON-MOTORIZED ROUTE.",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "lakeAltName": "Keneu",
+    "shoreLengthMiles": 1.76,
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "DOWNumber": "69018500"
+  },
+  "timestamp": 1790285582,
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

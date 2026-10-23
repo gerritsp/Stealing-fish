@@ -1,0 +1,598 @@
+{
+  "result": {
+    "surveys": [
+      {
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "2005-06-20",
+          "wb_name": "Upper Pauness",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "survey_id": "112053",
+          "county": "St. Louis",
+          "wb_id": "69046500"
+        },
+        "surveyDate": "2005-06-20",
+        "surveyID": "112053",
+        "lengths": {
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                7,
+                7
+              ]
+            ],
+            "maximum_length": 17,
+            "minimum_length": 7
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                8
+              ],
+              [
+                17,
+                14
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 18
+          },
+          "NOP": {
+            "maximum_length": 32,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                7
+              ]
+            ],
+            "maximum_length": 11,
+            "minimum_length": 5
+          }
+        },
+        "narrative": "<p>Upper Pauness Lake is a 162 acre, class-17 lake, located approximately 11 miles SE of Crane Lake, MN.  The lake is in the Boundary Waters Canoe Area and access is limited to portages from other lakes.  Northern pike gill-net abundance in 2005 was 4.33 fish/lift, which was below what is found in most class-17 lakes.  Number of northern pike per set was also lower to what was observed during the previous survey (1983).  Six year-classes were present in 2005 and age ranged from 1-11 years.  Total length ranged from 8.6-32.4 inches and the mean was 18.8.  Growth was slow; total length at age-4 was 20.2 inches, which was well below the area average of 23.7.  The mean weight of northern pike captured was similar to what is found in most class-17 lakes.    Walleye gill-net abundance was 2.67 fish/lift, which was well below what is found in most class-17 lakes.  Abundance in 2005 was lower than what was observed in 1983 (3.67 fish/lift).  Five year-classes were present in 2005 and age ranged from 2-8 years.  Total length ranged from 7.1-18.0 inches and the mean was 10.3.  Growth for walleye was below average; total length at age-4 was 11.5 inches, compared to an area mean of of 14.4.  The mean weight of walleye captured was below other class-17 lakes.    Yellow perch gill-net abundance was 2.83 fish/lift, which was well below what is found in most class-17 lakes.  Abundance has decreased considerably since 1983, when 13.33 fish/lift were captured.  Eight year-classes were present in 2005 and age ranged from 3-10 years.  Total length ranged from 5.5-11.3 inches and the mean was 7.9.  Growth was slightly below the area mean.  The mean weight captured was 0.24 pounds, which was similar to what is normally found in most class-17 lakes.     </p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 26,
+            "totalWeight": 20384,
+            "quartileWeight": "1.2-2.5",
+            "averageWeight": "1.73",
+            "quartileCount": "3.0-9.0",
+            "gearCount": 6,
+            "CPUE": "4.33",
+            "gear": "Standard gill nets",
+            "species": "NOP"
+          },
+          {
+            "gearCount": 6,
+            "quartileCount": "2.3-9.6",
+            "averageWeight": "0.44",
+            "CPUE": "2.67",
+            "species": "WAE",
+            "gear": "Standard gill nets",
+            "totalCatch": 16,
+            "totalWeight": 3211,
+            "quartileWeight": "0.7-1.8"
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "totalWeight": 1880,
+            "totalCatch": 17,
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "CPUE": "2.83",
+            "quartileCount": "3.3-18.3",
+            "averageWeight": "0.24",
+            "gearCount": 6
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "CPUE": "5.83",
+            "averageWeight": "1.79",
+            "quartileCount": "5.3-22.1",
+            "gearCount": 6,
+            "quartileWeight": "1.3-2.3",
+            "totalWeight": 28415,
+            "totalCatch": 35
+          }
+        ],
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyDate": "2025-06-23",
+        "surveyID": "22132518152307000",
+        "surveySubType": "Standard Survey",
+        "headerInfo": {
+          "survey_id": "22132518152307000",
+          "county": "St. Louis",
+          "wb_id": "69046500",
+          "wb_alt_name": "",
+          "id_date": "2025-06-23",
+          "survey_type": "Standard Survey",
+          "wb_name": "Upper Pauness",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "YEP": {
+            "minimum_length": 5,
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                1
+              ]
+            ],
+            "minimum_length": 10,
+            "maximum_length": 24
+          },
+          "WTS": {
+            "minimum_length": 7,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                13
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                7,
+                1
+              ]
+            ]
+          },
+          "BUB": {
+            "maximum_length": 11,
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "maximum_length": 20,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                9
+              ],
+              [
+                12,
+                8
+              ],
+              [
+                13,
+                11
+              ],
+              [
+                14,
+                10
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "BLG": {
+            "maximum_length": 9,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                1
+              ]
+            ],
+            "maximum_length": 16,
+            "minimum_length": 13
+          }
+        },
+        "narrative": "<p>Upper Pauness Lake is a 192-acre, class-17 lake located in the Boundary Waters Canoe Area Wilderness (BWCAW) in northern St. Louis County located approximately 11 miles southeast of Crane Lake, Minnesota. Upper Pauness Lake is a relatively long and narrow lake with a maximum fetch of 1.2 miles. The lake has a maximum depth of 11 feet. In spite of its small size, Upper Pauness has five inlets including the Little Indian Sioux River, which begins 21 miles upstream as the outflow of Otter Lake. Upper Pauness has one outlet, flowing into Lower Pauness Lake. Water clarity is relatively poor due to bog stain. Upper Pauness Lake has soft, relatively unproductive water, which is typical for lakes of this type on the Canadian Shield. Boulders dominate inshore substrates; however, muck and sand are also common. The surrounding watershed is covered by birch and pine forests, and the terrain varies from gradual to steep.  <br> \n <br> \nUpper Pauness Lake is located on the Little Indian Sioux River, a major access route for visitors to the La Croix District of the BWCAW. Commonly, canoeists paddle down the river from the Echo Trail and either portage into Shell Lake east of Lower Pauness or continue down the river to Loon Lake portaging around the Devil's Cascade rapids located just below Lower Pauness Lake. The US Forest Service maintains five campsites on Upper Pauness Lake.  <br> \n <br> \nFishing regulations follow statewide regulations for inland waters. Previous management plans identify several long-range goals, including providing a healthy, self-sustaining native fish community with Walleye as the primary management species and Northern Pike as the secondary management species. Management goals include maintaining a Walleye gill net catch above 2.3 fish per net with multiple age-classes present and a Northern Pike gill net catch rate above 3.0 fish per net. The fishery is self-sustaining, requiring no active management beyond periodic surveys. A standard survey using gill nets was conducted in 2025 to assess the fish community and inform anglers.  <br> \n <br> \nWalleye gill net catch rate was 13.75 fish per net, which was above averge compared to similar lakes and was the highest catch rate in Upper Pauness Lake survey history. Total length ranged from 6.9 to 20.0 inches with an average length of 13.6 inches. Average weight was 0.8 pounds, which was below average compared to similar lakes. A total of 11 year-classes were present, and ages ranged from 1 to 13 years. Recruitment has occurred frequently, and it appears that several strong year-classes were produced in 2020 and 2021. Walleye grow slowly in Upper Pauness with an average length at age-4 of 11.9 inches and on average it takes six years to reach 15 inches.  <br> \n <br> \nNorthern Pike gill net catch rate was 4.0 fish per net, which was below average compared to similar lakes. Total length ranged from 10.9 to 24.0 inches with an average length of 17.8 inches. Average weight was 1.1 pounds, which was below average compared to similar lakes. A total of five year-classes were present, and ages ranged from 1 to 5 years. Recruitment appears to be consistent with no year-classes appearing stronger than others. While Northern Pike in Upper Pauness tend to be on the small side, they provide an opportunity to anglers and are typically eager and willing to bite.  <br> \n <br> \nSmallmouth Bass gill net catch rate was 1.5 fish per net, which was above average compared to similar lakes. The 2025 survey was the first time Smallmouth Bass have been sampled in Upper Pauness. Total length ranged from 13.2 to 16.1 inches with an average length of 14.2 inches. Average weight was 1.5 pounds, which was above average compared to similar lakes. A total of four year-classes were present, and ages ranged from 4 to 7 years. Recruitment appears to be consistent with no year-classes appearing to be stronger than others. Gill nets do not effectively sample Smallmouth Bass, so it is likely that there is a more robust population present in Upper Pauness, and it could provide a good opportunity for anglers.  <br> \n <br> \nYellow Perch gill net catch rate was 4.5 fish per net, which was below average compared to similar lakes. Total length ranged from 5.5 to 11.3 inches with an average length of 8.0 inches. The mean weight was 0.22 pounds, which was slightly above average compared to similar lakes. Yellow Perch provide an additional opportunity for anglers and more importantly act as forage for Walleye, Northern Pike, and Smallmouth Bass.   <br> \n <br> \nThe 2025 survey was the first time Bluegill have been sampled in Upper Pauness with a gill net catch rate of 1.0 fish per net. Total length ranged from 8.3 to 9.8 inches with an average length of 9.2 inches and an average weight of 0.7 pounds. Bluegills do not sample well in gill nets so it is unknown what the actual population looks like, but based on the limited catch, quality sized Bluegill exist in Upper Pauness and may provide an opportunity for anglers.  <br> \n <br> \nOther species sampled during this survey included Burbot and White Sucker.   <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 290,
+            "quartileWeight": "1.0",
+            "totalCatch": 2,
+            "CPUE": "0.50",
+            "species": "BUB",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "averageWeight": "0.32",
+            "quartileCount": "0.2"
+          },
+          {
+            "totalWeight": 7910,
+            "quartileWeight": "1.2-2.5",
+            "totalCatch": 16,
+            "CPUE": "4.00",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "averageWeight": "1.09",
+            "quartileCount": "3.0-9.0",
+            "gearCount": 4
+          },
+          {
+            "totalCatch": 6,
+            "quartileWeight": "0.6-1.6",
+            "totalWeight": 4000,
+            "gearCount": 4,
+            "averageWeight": "1.47",
+            "quartileCount": "0.3-1.5",
+            "species": "SMB",
+            "gear": "Standard gill nets",
+            "CPUE": "1.50"
+          },
+          {
+            "CPUE": "13.75",
+            "species": "WAE",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "averageWeight": "0.84",
+            "quartileCount": "2.3-9.6",
+            "totalWeight": 20911,
+            "quartileWeight": "0.7-1.8",
+            "totalCatch": 55
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "totalWeight": 1780,
+            "totalCatch": 18,
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "CPUE": "4.50",
+            "gearCount": 4,
+            "averageWeight": "0.22",
+            "quartileCount": "3.3-18.3"
+          },
+          {
+            "totalWeight": 24370,
+            "quartileWeight": "1.3-2.3",
+            "totalCatch": 32,
+            "CPUE": "8.00",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "averageWeight": "1.68",
+            "quartileCount": "5.3-22.1"
+          },
+          {
+            "totalCatch": 4,
+            "quartileWeight": "N/A",
+            "totalWeight": 1260,
+            "averageWeight": "0.69",
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "species": "BLG",
+            "CPUE": "1.00"
+          }
+        ]
+      }
+    ],
+    "lakeName": "Upper Pauness",
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "location": "From Echo Trail; canoe down Little Indian Sioux River (2 portages).",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "accessTypeId": "PO"
+      },
+      {
+        "accessTypeId": "PO",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "location": "Portage trail from Lower Pauness Lake (8 rods).",
+        "publicUseAuthCode": "UNK"
+      },
+      {
+        "accessTypeId": "PO",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "location": "Portage trail from Lower Pauness Lake (40 rods).",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "4.0",
+    "areaAcres": 191.81,
+    "DOWNumber": "69046500",
+    "sampledPlants": [],
+    "shoreLengthMiles": 3.62,
+    "littoralAcres": 191.81,
+    "waterClarity": [
+      [
+        "06/23/2025",
+        "4"
+      ]
+    ],
+    "county": "St. Louis",
+    "maxDepthFeet": 14.5,
+    "officeCode": "F217"
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285958,
+  "status": "SUCCESS"
+}

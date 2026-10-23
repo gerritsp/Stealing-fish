@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790286034,
+  "result": {
+    "littoralAcres": 0,
+    "surveys": [
+      {
+        "surveyID": "109823",
+        "headerInfo": {
+          "wb_id": "16079700",
+          "wb_name": "Roy",
+          "survey_id": "109823",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "id_date": "1973-08-06"
+        },
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyDate": "1973-08-06",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.3-5.1",
+            "CPUE": "4.33",
+            "gearCount": 3,
+            "quartileWeight": "1.4-2.2",
+            "totalCatch": 13,
+            "totalWeight": 18.8,
+            "averageWeight": "1.45",
+            "gear": "Standard gill nets",
+            "species": "NOP"
+          },
+          {
+            "CPUE": "2.67",
+            "quartileCount": "1.7-12.5",
+            "gearCount": 3,
+            "totalCatch": 8,
+            "quartileWeight": "0.7-2.3",
+            "totalWeight": 8,
+            "species": "WTS",
+            "averageWeight": "1.00",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>Roy Lake has a fair population of small N Pike, White Suckers and Perch.  A few Pumpkinseed Sunfsh are also present.</p>",
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "averageWaterClarity": "9.6",
+    "areaAcres": 58.39,
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "location": "Accessible via 0.15 mile portage trail from Saganaga Lake."
+      }
+    ],
+    "lakeName": "Roy",
+    "waterClarity": [
+      [
+        "08/06/1973",
+        "9.6"
+      ]
+    ],
+    "officeCode": "F218",
+    "maxDepthFeet": 45,
+    "meanDepthFeet": 0,
+    "county": "Cook",
+    "shoreLengthMiles": 2.28,
+    "DOWNumber": "16079700"
+  }
+}

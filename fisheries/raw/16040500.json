@@ -1,0 +1,1287 @@
+{
+  "result": {
+    "lakeName": "Star",
+    "DOWNumber": "16040500",
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "06/18/1990",
+        "4.5"
+      ],
+      [
+        "06/17/2019",
+        "5"
+      ],
+      [
+        "06/16/1970",
+        "4.8"
+      ],
+      [
+        "06/08/2015",
+        "4.5"
+      ],
+      [
+        "06/13/2023",
+        "5"
+      ]
+    ],
+    "county": "Cook",
+    "shoreLengthMiles": 4.62,
+    "surveys": [
+      {
+        "surveySubType": "Population Assessment",
+        "surveyID": "110163",
+        "narrative": "<p>INTRODUCTORY STOCKING IN 1985 THROUGH 1987 SUCCEEDED IN ESTABLISHING FAIR NUMBERS OF WAE. ALTHOUGH SURVIVAL OF THE 1985 STOCKING WAS APPARENTLY LOW, THE 1986 AND 1987 STOCKING SHOWED GOOD SURVIVAL AND GAST GROWTH.  THERE WAS NO EVIDENCE OF ANY NATURAL REPRODUCTION; HOWEVER, WAE WERE PROBABLY JUST REACHING MATURITY.  NOP ABUNDANCE WAS GOOD, BUT NO FISH OVER 22 IN WERE COLLECTED.  SEVERAL YEAR CLASSES WERE REPRESENTED AND GROWTH WAS AVERAGE FOR COOK COUNTY.  FORAGE FOR GAME FISH APPEARED TO BE LIMITED.  ONLY ONE YEP WAS COLLECTED AND THE WHITE SUCKER COLLECTED WERE TOO LARGE TO SERVE AS FORAGE FOR THE SIZE NOP PRESENT.</p>",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.00",
+            "quartileWeight": "1.1-2.0",
+            "averageWeight": "1.20",
+            "totalWeight": 6,
+            "quartileCount": "0.5-1.9",
+            "gearCount": 5,
+            "species": "WAE",
+            "totalCatch": 5,
+            "gear": "Standard trap nets"
+          },
+          {
+            "gear": "Standard trap nets",
+            "totalCatch": 34,
+            "quartileCount": "0.7-3.2",
+            "species": "WTS",
+            "gearCount": 5,
+            "CPUE": "6.80",
+            "quartileWeight": "1.8-2.6",
+            "totalWeight": 79,
+            "averageWeight": "2.32"
+          },
+          {
+            "CPUE": "5.67",
+            "quartileWeight": "1.3-2.4",
+            "averageWeight": "1.16",
+            "totalWeight": 19.75,
+            "quartileCount": "2.0-6.3",
+            "gearCount": 3,
+            "species": "NOP",
+            "totalCatch": 17,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "3.0-9.8",
+            "species": "WAE",
+            "gearCount": 3,
+            "CPUE": "1.67",
+            "quartileWeight": "0.9-1.6",
+            "averageWeight": "0.80",
+            "totalWeight": 4,
+            "gear": "Standard gill nets",
+            "totalCatch": 5
+          },
+          {
+            "CPUE": "0.33",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.20",
+            "totalWeight": 0.2,
+            "quartileCount": "2.2-14.6",
+            "species": "YEP",
+            "gearCount": 3,
+            "totalCatch": 1,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 82,
+            "averageWeight": "2.48",
+            "quartileWeight": "1.5-2.4",
+            "CPUE": "11.00",
+            "gearCount": 3,
+            "species": "WTS",
+            "quartileCount": "3.6-14.1",
+            "totalCatch": 33,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard trap nets",
+            "totalCatch": 12,
+            "quartileCount": "N/A",
+            "species": "NOP",
+            "gearCount": 5,
+            "CPUE": "2.40",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.73",
+            "totalWeight": 8.75
+          }
+        ],
+        "surveyDate": "1990-06-18",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_name": "Star",
+          "id_date": "1990-06-18",
+          "survey_id": "110163",
+          "wb_id": "16040500"
+        },
+        "surveyType": "Standard Survey",
+        "lengths": {}
+      },
+      {
+        "narrative": "<p>Northern pike abundance was very high during this assessment, althoughj no old, large individuals were caught.  Northern pike probably limit abundance of walleye and yellow perch in this shallow lake.  Although walleye fry have been stocked since 1985, walleye and yellow perch abundance has historically been very low.</p>",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "species": "NOP",
+            "quartileCount": "2.0-6.3",
+            "totalWeight": 43337,
+            "averageWeight": "1.19",
+            "quartileWeight": "1.3-2.4",
+            "CPUE": "13.33",
+            "gear": "Standard gill nets",
+            "totalCatch": 80
+          },
+          {
+            "quartileCount": "3.0-9.8",
+            "gearCount": 6,
+            "species": "WAE",
+            "quartileWeight": "0.9-1.6",
+            "CPUE": "1.17",
+            "averageWeight": "2.33",
+            "totalWeight": 7387,
+            "gear": "Standard gill nets",
+            "totalCatch": 7
+          },
+          {
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "totalWeight": 89,
+            "averageWeight": "0.10",
+            "CPUE": "0.33",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 6,
+            "species": "YEP",
+            "quartileCount": "2.2-14.6"
+          },
+          {
+            "averageWeight": "2.47",
+            "totalWeight": 75078,
+            "CPUE": "11.17",
+            "quartileWeight": "1.5-2.4",
+            "species": "WTS",
+            "gearCount": 6,
+            "quartileCount": "3.6-14.1",
+            "totalCatch": 67,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyID": "111537",
+        "headerInfo": {
+          "wb_name": "Star",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_id": "16040500",
+          "survey_id": "111537",
+          "id_date": "2000-06-12"
+        },
+        "surveyDate": "2000-06-12",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "NOP": {
+            "maximum_length": 22,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                8
+              ],
+              [
+                17,
+                12
+              ],
+              [
+                18,
+                31
+              ],
+              [
+                19,
+                16
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 7,
+            "minimum_length": 5
+          },
+          "WTS": {
+            "maximum_length": 22,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                7
+              ],
+              [
+                17,
+                20
+              ],
+              [
+                18,
+                17
+              ],
+              [
+                19,
+                12
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                28,
+                1
+              ]
+            ],
+            "maximum_length": 28,
+            "minimum_length": 10
+          }
+        },
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "YEP": {
+            "minimum_length": 6,
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                6,
+                9
+              ],
+              [
+                7,
+                35
+              ],
+              [
+                8,
+                36
+              ],
+              [
+                9,
+                12
+              ]
+            ]
+          },
+          "PMK": {
+            "fishCount": [
+              [
+                5,
+                1
+              ]
+            ],
+            "maximum_length": 5,
+            "minimum_length": 5
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                13
+              ],
+              [
+                14,
+                13
+              ],
+              [
+                15,
+                9
+              ],
+              [
+                16,
+                8
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                8
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 12
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                22
+              ],
+              [
+                11,
+                7
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                9,
+                4
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 24
+          },
+          "WTS": {
+            "maximum_length": 21,
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                15,
+                10
+              ],
+              [
+                16,
+                24
+              ],
+              [
+                17,
+                18
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                2
+              ]
+            ]
+          }
+        },
+        "surveyID": "17311919046649145",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 71,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.3-2.4",
+            "CPUE": "11.83",
+            "totalWeight": 30550,
+            "averageWeight": "0.95",
+            "quartileCount": "2.0-6.3",
+            "gearCount": 6,
+            "species": "NOP"
+          },
+          {
+            "quartileCount": "3.0-9.8",
+            "gearCount": 6,
+            "species": "WAE",
+            "CPUE": "7.83",
+            "quartileWeight": "0.9-1.6",
+            "averageWeight": "0.82",
+            "totalWeight": 17417,
+            "gear": "Standard gill nets",
+            "totalCatch": 47
+          },
+          {
+            "quartileCount": "2.2-14.6",
+            "species": "YEP",
+            "gearCount": 6,
+            "CPUE": "16.50",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 12037,
+            "averageWeight": "0.27",
+            "gear": "Standard gill nets",
+            "totalCatch": 99
+          },
+          {
+            "totalCatch": 68,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.10",
+            "totalWeight": 64835,
+            "quartileWeight": "1.5-2.4",
+            "CPUE": "11.33",
+            "gearCount": 6,
+            "species": "WTS",
+            "quartileCount": "3.6-14.1"
+          },
+          {
+            "CPUE": "0.17",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.18",
+            "totalWeight": 80,
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "species": "PMK",
+            "totalCatch": 1,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>Star Lake lies in the Lake Superior North watershed, draining to Lake Superior via Homer and Vern Lakes, the Vern River, and the Temperance River.  Walleye were introduced to this lake in 1985 and have since been stocked regularly.  The 2007 lake management plan (LMP) increased the walleye stocking quota from 120,000 to 300,000 fry per stocking, and changed the stocking frequency from stocking every even-numbered year to stocking in two consecutive years of every four, beginning in 2008.  This was the second of two surveys scheduled in the 2007 LMP to determine whether the increase in stocking would result in an increase in walleye abundance in this lake.  The first was completed in 2015.  Based on these surveys, the management plan for this lake will be revised in March 2021.  Comments on the management of this lake are welcome, and will be considered when that revision is done. <br> \n <br> \nWalleye were abundant in Star Lake in 2019, although most were young and therefore small.  The walleye gill net catch in 2019 was, by a wide margin, the highest ever seen in this lake.  The management goal for the lake (a minimum gill net catch of 3.0 fish/set) was met for the first time ever.  The high catch was driven by what was apparently an exceptionally strong 2016 year class, which alone accounted for about 77% of the total catch.  Walleye fry were stocked in 2016, and probably contributed to that year class, perhaps strongly.  However, much smaller natural year classes were also produced in 2015, 2014, and 2011.    Growth of fish from the 2016 year class had been slow; they reached a mean length of 10.3 inches at the end of their third year compared to an area mean of 11.1 inches.  Growth appeared to have been faster for most of the other age classes sampled.  <br> \n <br> \nSurveys in 2015 and 2019 have yielded mixed results when it comes to determining whether the revised stocking regime has resulted in an increase in walleye abundance.  The catch in 2015 was no higher than those seen prior to the change.  The 2019 catch was much higher, but was the result of a single unusually strong year class that may or may not have been produced or heavily supplemented by stocking.  Because of these great differences, additional surveys will likely be required to determine how effective increased stocking has been.  <br> \n <br> \nNorthern pike were also abundant, but small, in 2019.  The 2019 northern pike gill net catch was one of the highest ever seen in this lake, and exceeded the normal range for this type of lake.  However, the mean weight for fish taken in gill nets was about average for this lake historically, and fell below the normal range for similar lakes.  Just four year classes contributed to the catch, with only one fish older than three years taken.  Growth of young northern pike had been a little slower than average.  Fish reached a mean length of 17.1 inches at the end of their third year, compared to aa area mean of 18.2 inches.   <br> \n <br> \nYellow perch were unusually abundant, and unusually large, in Star Lake in 2019.   Perch should have provided an excellent forage base to support the large numbers of walleye and northern pike seen in 2019, as well as supporting a fairly high quality fishery for anglers targeting perch. <br> \n <br> \nThe white sucker gill net catch was also one of the higher catches seen in this lake historically.  Most were too large to have served as forage for any but the largest northern pike seen in 2019. <br> \n <br> \nPumpkinseed sunfish were sampled for the first time in Star Lake in 2019.  Bluegill and smallmouth bass have both been found in Homer Lake, and could make the move into Star Lake at any time. <br> \n <br> \nOne explanation for the changes seen in Star Lake may be a change in water level.  In 2015 the lake's water level was very high, and had been high for many years, due to a beaver dam in the outlet culvert.  The lake was surrounded by a wide fringe of flooded timber.  By 2019 the dam had failed or been removed, and the lake level had dropped substantially.  Fish that had occupied, and benefited from, flooded and probably very productive areas around the lake would have had to move to more open waters, where they became vulnerable to our nets.  Unfortunately, loss of the beaver dam makes it more likely that smallmouth bass will now be able to reach the lake from Homer Lake. <br> \n</p>",
+        "surveyDate": "2019-06-17",
+        "headerInfo": {
+          "wb_id": "16040500",
+          "id_date": "2019-06-17",
+          "survey_id": "17311919046649145",
+          "wb_name": "Star",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "survey_type": "Standard Survey"
+        },
+        "surveySubType": "Standard Survey"
+      },
+      {
+        "surveyID": "111535",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 30,
+            "gearCount": 6,
+            "species": "NOP",
+            "quartileCount": "2.0-6.3",
+            "averageWeight": "1.04",
+            "totalWeight": 14156,
+            "quartileWeight": "1.3-2.4",
+            "CPUE": "5.00"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 2,
+            "species": "WAE",
+            "gearCount": 6,
+            "quartileCount": "3.0-9.8",
+            "averageWeight": "1.25",
+            "totalWeight": 1130,
+            "CPUE": "0.33",
+            "quartileWeight": "0.9-1.6"
+          },
+          {
+            "averageWeight": "0.14",
+            "totalWeight": 321,
+            "CPUE": "0.83",
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "gearCount": 6,
+            "quartileCount": "2.2-14.6",
+            "totalCatch": 5,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "1.5-2.4",
+            "CPUE": "6.00",
+            "averageWeight": "2.77",
+            "totalWeight": 45208,
+            "quartileCount": "3.6-14.1",
+            "gearCount": 6,
+            "species": "WTS",
+            "totalCatch": 36,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>The walleye catch was very low, as it has always been in this lake.  Survival of stocked walleye fry has apparently been very poor.  Growth rates of the two walleye caught appear to have been normal for the area.The northern pike catch was slightly low for this lake, but ranked above the median for the lake class.  Average size was small for the lake, and somewhat small for the lake class, because pike older than age 4 were not caught.  Growth rates had been normal for the area.Yellow perch abundance remained relatively low.  One perch caught was probably large enough to have been of interest to anglers.White sucker abundance at the time of sampling could be considered medium, but average size of suckers was larger than in most similar lakes.</p>",
+        "surveyDate": "2005-06-13",
+        "headerInfo": {
+          "wb_name": "Star",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_type": "Re-Survey",
+          "wb_id": "16040500",
+          "survey_id": "111535",
+          "id_date": "2005-06-13"
+        },
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "WAE": {
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 19
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                9
+              ],
+              [
+                18,
+                11
+              ],
+              [
+                19,
+                8
+              ],
+              [
+                20,
+                4
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 12
+          },
+          "YEP": {
+            "maximum_length": 9,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                4
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                8
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 11,
+            "maximum_length": 20
+          }
+        },
+        "surveySubType": "Re-Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "NOP": {
+            "maximum_length": 27,
+            "minimum_length": 17,
+            "fishCount": [
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                5
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                27,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "minimum_length": 6,
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                10
+              ],
+              [
+                19,
+                9
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 11
+          },
+          "WAE": {
+            "maximum_length": 19,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                7,
+                3
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 25,
+            "gear": "Standard gill nets",
+            "CPUE": "4.17",
+            "quartileWeight": "1.3-2.4",
+            "totalWeight": 24350,
+            "averageWeight": "2.15",
+            "quartileCount": "2.0-6.3",
+            "gearCount": 6,
+            "species": "NOP"
+          },
+          {
+            "totalCatch": 1,
+            "gear": "Minnow traps",
+            "CPUE": "0.08",
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "quartileCount": "N/A",
+            "gearCount": 12,
+            "species": "YEP"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 8,
+            "quartileCount": "3.0-9.8",
+            "species": "WAE",
+            "gearCount": 6,
+            "CPUE": "1.33",
+            "quartileWeight": "0.9-1.6",
+            "totalWeight": 2468,
+            "averageWeight": "0.68"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "quartileCount": "2.2-14.6",
+            "species": "YEP",
+            "gearCount": 6,
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "0.50",
+            "totalWeight": 307,
+            "averageWeight": "0.23"
+          },
+          {
+            "totalWeight": 43300,
+            "averageWeight": "2.65",
+            "CPUE": "6.00",
+            "quartileWeight": "1.5-2.4",
+            "gearCount": 6,
+            "species": "WTS",
+            "quartileCount": "3.6-14.1",
+            "totalCatch": 36,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>This was the first of two surveys scheduled in the 2007 Star Lake management plan to determine whether an increase in walleye stocking that began in 2008 had resulted in an increase in walleye abundance.  The next survey will be done in 2019. <br> \n <br> \nDespite regular stocking, and a doubling of the stocking rate, walleye numbers remained low in 2015, and most of the fish taken were small.  Only four walleye year classes were represented in the 2015 catch, and none appeared to have been strong.  Stocking may have accounted for some or all of the two and three-year-old fish taken in this survey, but the catch also included a few naturally produced fish from unstocked 2007 and 2011 year classes.  Growth of young walleye appeared to have been about average; fish reached a length of 8.6 inches by the end of their second year. <br> \n <br> \nNorthern pike were fairly abundant in 2015, as they usually have been in this lake.  Although no trophy-sized fish were seen, the mean weight for northern pike taken in gill nets was the highest seen to date in this lake.   Northern pike growth had also been about average, with three-year-old fish reaching a mean length of 18.3 inches. <br> \n <br> \nModest numbers of yellow perch and some smaller white sucker were available as forage for walleye and northern pike, but it was likely walleye in this lake had to rely primarily on invertebrate forage.  The yellow perch gill net catch was low, but was similar to past catches in this lake.  The white sucker gill net catch was also similar to past catches in this lake.  Only the smallest white sucker taken would have been available as forage for northern pike of the sizes sampled, and all were too large for most of the walleye in the lake.  A dozen minnow traps set around the shoreline caught only a single small yellow perch, and no minnows. Although minnow traps are usually a poor means of sampling nearshore fishes in this area, the failure to catch any minnows at all suggests their abundance may have been low.  <br> \n <br> \nSmallmouth bass have become established in Homer Lake, just downstream of Star Lake.  It is likely only a matter of time before they reach Star, since there are no permanent barriers to movement of fish between the two lakes.   <br> \n </p>",
+        "surveyID": "12861515539323000",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_name": "Star",
+          "id_date": "2015-06-08",
+          "survey_id": "12861515539323000",
+          "wb_id": "16040500"
+        },
+        "surveyDate": "2015-06-08",
+        "surveySubType": "Standard Survey"
+      },
+      {
+        "lengths": {
+          "WAE": {
+            "minimum_length": 7,
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                8
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "minimum_length": 2,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                20
+              ],
+              [
+                13,
+                30
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                21
+              ],
+              [
+                18,
+                23
+              ],
+              [
+                19,
+                11
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "PMK": {
+            "maximum_length": 4,
+            "minimum_length": 1,
+            "fishCount": [
+              [
+                1,
+                1
+              ],
+              [
+                3,
+                7
+              ],
+              [
+                4,
+                9
+              ]
+            ]
+          },
+          "YEP": {
+            "minimum_length": 1,
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                0,
+                459
+              ],
+              [
+                1,
+                1
+              ],
+              [
+                10,
+                32
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                2,
+                15
+              ],
+              [
+                5,
+                5
+              ],
+              [
+                6,
+                11
+              ],
+              [
+                7,
+                26
+              ],
+              [
+                8,
+                33
+              ],
+              [
+                9,
+                15
+              ]
+            ]
+          },
+          "NOP": {
+            "maximum_length": 15,
+            "minimum_length": 15,
+            "fishCount": [
+              [
+                15,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "2023-06-13",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Standard Survey",
+          "county": "Cook",
+          "wb_name": "Star",
+          "id_date": "2023-06-13",
+          "survey_id": "20302333549675000",
+          "wb_id": "16040500"
+        },
+        "surveyID": "20302333549675000",
+        "fishCatchSummaries": [
+          {
+            "gear": "Trapnet - Mini Fyke",
+            "totalCatch": 473,
+            "species": "YEP",
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "totalWeight": 32,
+            "CPUE": "78.83",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Trapnet - Mini Fyke",
+            "totalCatch": 2,
+            "species": "WAE",
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "averageWeight": "1.47",
+            "totalWeight": 1334,
+            "quartileWeight": "N/A",
+            "CPUE": "0.33"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "quartileCount": "2.0-6.3",
+            "species": "NOP",
+            "gearCount": 6,
+            "CPUE": "0.17",
+            "quartileWeight": "1.3-2.4",
+            "averageWeight": "0.74",
+            "totalWeight": 336
+          },
+          {
+            "totalCatch": 17,
+            "gear": "Trapnet - Mini Fyke",
+            "quartileWeight": "N/A",
+            "CPUE": "2.83",
+            "totalWeight": 417,
+            "averageWeight": "0.05",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "species": "PMK"
+          },
+          {
+            "gear": "Trapnet - Mini Fyke",
+            "totalCatch": 11,
+            "species": "WTS",
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalWeight": 8556,
+            "averageWeight": "1.71",
+            "CPUE": "1.83",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 127,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.33",
+            "totalWeight": 18890,
+            "CPUE": "21.17",
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "gearCount": 6,
+            "quartileCount": "2.2-14.6"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 18,
+            "species": "WAE",
+            "gearCount": 6,
+            "quartileCount": "3.0-9.8",
+            "averageWeight": "0.48",
+            "totalWeight": 3934,
+            "quartileWeight": "0.9-1.6",
+            "CPUE": "3.00"
+          },
+          {
+            "totalCatch": 117,
+            "gear": "Standard gill nets",
+            "totalWeight": 88579,
+            "averageWeight": "1.67",
+            "quartileWeight": "1.5-2.4",
+            "CPUE": "19.50",
+            "gearCount": 6,
+            "species": "WTS",
+            "quartileCount": "3.6-14.1"
+          }
+        ],
+        "narrative": "<p>Star lake is a 107-acre lake located 24 miles north of Lutsen. Public access is through a carry-in access located on the southwestern bay of the lake. Star Lake has been stocked with walleye fry regularly since 1985. <br> \n <br> \nWalleye abundance remains good in Star Lake and met the walleye management goal. Catch rates were down from the last survey in 2019 but still above average for the lake. Walleye were generally small and ranged from 7.8 to 16.5 inches with a mean length of 10.7 inches. Aging results found 3 year classes present (2021, 2020, and 2016) and were largely comprised of fish from years when fry were stocked. A lack of young of year (YOY) walleye in the mini fyke nets indicate poor natural recruitment in 2023. Growth rates were slightly below average. Results from this survey and 2019 data suggest that walleye fry stocking may be accounting for a majority of walleye present in Star Lake. Anglers should be able to find decent numbers of smaller sized walleye. <br> \n <br> \nThe northern pike catch was the lowest recorded for Star Lake and below average for similar area lakes. This is a surprising as northern pike abundance in Star Lake had been above average in all previous years. Continued monitoring is needed to understand if this population is actually this low, or if other factors including harvest contributed to low catch rates.   <br> \n <br> \nYellow perch abundance was the highest ever recorded for Star Lake. This is above the 75% percentile for similar area lakes. Also high catch rates of young of year (YOY) perch were found in mini fyke net sets suggesting natural reproduction is quite strong. Yellow perch ranged from 2.2 to 11.6 inches with a mean length of 8.6 inches. Star Lake currently provides an exceptional opportunity for anglers interested in pursuing yellow perch.  <br> \n <br> \nThe 2023 white sucker catch was the highest recorded in Star Lake and well above average for similar area lakes. Although most of the white suckers in Star Lake were relatively large, the high density of white suckers offer plenty of good forage for northern pike.    <br> \n <br> \nAnother species captured with the 2023 mini fyke net sets was pumpkinseed sunfish. All individuals collected were less than 5 inches, so they currently do not support much of an angling opportunity.  <br> \n <br> \nCook County, Minnesota lakes continue to be susceptible to aquatic invasive species introductions. Invasive species have the potential to significantly alter fish communities and overall lake health. Anglers should clean watercraft and fishing gear, drain all water, and dispose of unused bait in the trash to prevent accidental introductions.  <br> \n</p>",
+        "surveySubType": "Standard Survey"
+      }
+    ],
+    "littoralAcres": 107.11,
+    "areaAcres": 107.11,
+    "maxDepthFeet": 13,
+    "officeCode": "F218",
+    "averageWaterClarity": "4.8",
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "location": "",
+        "lakeAccessComments": " "
+      }
+    ]
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285655,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,78 @@
+{
+  "result": {
+    "county": "Cook",
+    "officeCode": "F218",
+    "averageWaterClarity": "5.0",
+    "lakeAltName": "Totem",
+    "accesses": [
+      {
+        "location": "By canoe- In Boundary Water Canoe Area-from Sea Gull Lake via portage.",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "waterClarity": [
+      [
+        "07/14/1976",
+        "5"
+      ]
+    ],
+    "shoreLengthMiles": 0.52,
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "maxDepthFeet": 4,
+    "littoralAcres": 7,
+    "areaAcres": 7,
+    "DOWNumber": "16080100",
+    "lakeName": "Larry",
+    "surveys": [
+      {
+        "lengths": {},
+        "surveyID": "109825",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "9.50",
+            "species": "NOP",
+            "totalCatch": 19,
+            "quartileCount": "4.0-15.0",
+            "gearCount": 2,
+            "quartileWeight": "1.1-2.0",
+            "averageWeight": "1.16",
+            "totalWeight": 22,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "1.42",
+            "totalWeight": 4.25,
+            "quartileWeight": "0.4-1.9",
+            "quartileCount": "3.0-23.0",
+            "gearCount": 2,
+            "totalCatch": 3,
+            "CPUE": "1.50",
+            "species": "WTS"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_alt_name": "Totem",
+          "county": "Cook",
+          "survey_id": "109825",
+          "wb_type": "Lake",
+          "wb_name": "Larry",
+          "id_date": "1976-07-07",
+          "wb_id": "16080100",
+          "survey_type": "Initial Survey"
+        },
+        "surveyDate": "1976-07-07",
+        "narrative": "<p>This lake has a fair population of N Pike with a few Suckers present.</p>"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790286030
+}

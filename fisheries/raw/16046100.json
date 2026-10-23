@@ -1,0 +1,214 @@
+{
+  "timestamp": 1790285838,
+  "message": "Normal execution.",
+  "result": {
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 5.35,
+    "areaAcres": 121.12,
+    "lakeName": "Karl",
+    "littoralAcres": 70,
+    "surveys": [
+      {
+        "lengths": {
+          "WTS": {
+            "maximum_length": 20,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                29,
+                1
+              ]
+            ],
+            "maximum_length": 29,
+            "minimum_length": 12
+          },
+          "BUB": {
+            "minimum_length": 8,
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyDate": "1996-09-03",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "quartileWeight": "0.3-1.8",
+            "totalWeight": 388,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.21",
+            "totalCatch": 4,
+            "CPUE": "0.67",
+            "species": "BUB",
+            "quartileCount": "0.1-0.5"
+          },
+          {
+            "quartileCount": "1.2-3.9",
+            "species": "NOP",
+            "averageWeight": "1.54",
+            "gear": "Standard gill nets",
+            "totalCatch": 10,
+            "CPUE": "1.67",
+            "gearCount": 6,
+            "quartileWeight": "1.5-2.4",
+            "totalWeight": 6996
+          },
+          {
+            "totalWeight": 25906,
+            "quartileWeight": "1.7-2.4",
+            "gearCount": 6,
+            "CPUE": "4.00",
+            "totalCatch": 24,
+            "averageWeight": "2.38",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "2.6-11.7"
+          }
+        ],
+        "headerInfo": {
+          "id_date": "1996-09-03",
+          "wb_id": "16046100",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "survey_id": "110726",
+          "wb_name": "Karl",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment"
+        },
+        "surveyID": "110726",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>The northern pike catch was within the normal range for lakes of this class; however, the catch was dominated by age-1 fish with an average size of 14.3 inches when collected.  No lake trout were found, but they have been collected in a past survey, and were probably still present in small numbers.</p>"
+      },
+      {
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "wb_name": "Karl",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_id": "16046100",
+          "id_date": "2025-08-05",
+          "survey_id": "-284"
+        },
+        "surveyID": "-284",
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Karl Lake on August 5th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 50.8 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 21.6 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 49.6 feet at the time of sampling. The thickness of this layer of water in the water column was 28.1 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.3 degrees C (41.5 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 1983 and 2024 also indicate suitable oxythermal habitat in all years surveyed. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "lengths": {},
+        "surveyDate": "2025-08-05",
+        "fishCatchSummaries": []
+      }
+    ],
+    "maxDepthFeet": 70,
+    "waterClarity": [
+      [
+        "08/17/1983",
+        "11"
+      ],
+      [
+        "08/05/2025",
+        "8.2"
+      ]
+    ],
+    "county": "Cook",
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK",
+        "location": "Entirely inside the BWCAW.  Accessible by portage trail from Lower George Lake and by navigable channel from Long Island Lake.",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " "
+      }
+    ],
+    "averageWaterClarity": "9.6",
+    "DOWNumber": "16046100"
+  },
+  "status": "SUCCESS"
+}

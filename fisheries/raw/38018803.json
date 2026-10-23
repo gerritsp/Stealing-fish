@@ -1,0 +1,72 @@
+{
+  "timestamp": 1790285976,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "areaAcres": 27.3,
+    "county": "Lake",
+    "waterClarity": [],
+    "averageWaterClarity": "N/A",
+    "lakeName": "Kekekabic Pond 3",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "location": "ACCESSIBLE BY PORTAGE WITH CANOE ~NO MOTORS ALLOWED~.",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "littoralAcres": 25,
+    "meanDepthFeet": 0,
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "lengths": {},
+        "surveyDate": "1972-08-28",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Few present. </p>",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "3.9-9.4",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.1,
+            "species": "NOP",
+            "quartileWeight": "1.2-2.4",
+            "totalCatch": 1,
+            "averageWeight": "0.10",
+            "gearCount": 2
+          },
+          {
+            "quartileCount": "2.6-17.5",
+            "CPUE": "0.50",
+            "totalWeight": 0.2,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileWeight": "0.8-2.3",
+            "totalCatch": 1,
+            "averageWeight": "0.20",
+            "gearCount": 2
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyID": "108302",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38018803",
+          "wb_name": "Kekekabic Pond 3",
+          "id_date": "1972-08-28",
+          "wb_type": "Lake",
+          "survey_id": "108302"
+        }
+      }
+    ],
+    "sampledPlants": [],
+    "shoreLengthMiles": 1.51,
+    "DOWNumber": "38018803",
+    "maxDepthFeet": 17
+  }
+}

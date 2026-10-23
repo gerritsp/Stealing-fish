@@ -1,0 +1,67 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285986,
+  "result": {
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "location": "",
+        "publicUseAuthCode": "OPEN"
+      }
+    ],
+    "shoreLengthMiles": 0.56,
+    "officeCode": "F218",
+    "lakeAltName": "Echo",
+    "sampledPlants": [],
+    "DOWNumber": "16023100",
+    "maxDepthFeet": 18,
+    "waterClarity": [
+      [
+        "07/12/1973",
+        "4"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "lakeName": "Unnamed",
+    "county": "Cook",
+    "averageWaterClarity": "4.0",
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 36,
+            "gearCount": 2,
+            "totalWeight": 14.9,
+            "quartileWeight": "0.8-2.3",
+            "gear": "Standard gill nets",
+            "CPUE": "18.00",
+            "averageWeight": "0.41",
+            "species": "WTS",
+            "quartileCount": "2.6-17.5"
+          }
+        ],
+        "surveyID": "109679",
+        "surveyDate": "1973-07-12",
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "id_date": "1973-07-12",
+          "wb_alt_name": "Echo",
+          "county": "Cook",
+          "wb_name": "Unnamed",
+          "wb_type": "Lake",
+          "survey_id": "109679",
+          "wb_id": "16023100"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>This lake has a high Sucker population.  Poor oxygen conditions appear at the nine foot depth.</p>"
+      }
+    ],
+    "littoralAcres": 0,
+    "areaAcres": 8.33
+  }
+}

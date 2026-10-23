@@ -1,0 +1,77 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285607,
+  "result": {
+    "areaAcres": 21.92,
+    "shoreLengthMiles": 1.04,
+    "officeCode": "F218",
+    "county": "Cook",
+    "littoralAcres": 0,
+    "DOWNumber": "16048400",
+    "averageWaterClarity": "9.0",
+    "waterClarity": [
+      [
+        "06/25/1973",
+        "9"
+      ]
+    ],
+    "surveys": [
+      {
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "totalCatch": 28,
+            "totalWeight": 35.3,
+            "averageWeight": "1.26",
+            "species": "NOP",
+            "CPUE": "9.33",
+            "quartileCount": "2.0-8.5",
+            "quartileWeight": "1.4-2.7"
+          },
+          {
+            "gearCount": 3,
+            "totalWeight": 0.1,
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "CPUE": "0.33",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "2.5-14.3",
+            "averageWeight": "0.10",
+            "species": "YEP"
+          }
+        ],
+        "surveyDate": "1973-06-25",
+        "narrative": "<p>Midget Lake has a good population of small N Pike with a few Perch present.</p>",
+        "surveyID": "109767",
+        "headerInfo": {
+          "survey_id": "109767",
+          "id_date": "1973-06-25",
+          "wb_id": "16048400",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_name": "Midget",
+          "wb_alt_name": "",
+          "county": "Cook"
+        }
+      }
+    ],
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "location": "Accessible via 0.3 mile unmarked portage from logging rd. 1.5 mile N from F.R. 165.",
+        "lakeAccessComments": " "
+      }
+    ],
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 25,
+    "lakeName": "Midget"
+  }
+}

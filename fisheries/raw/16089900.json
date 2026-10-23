@@ -1,0 +1,99 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285926,
+  "status": "SUCCESS",
+  "result": {
+    "maxDepthFeet": 17,
+    "DOWNumber": "16089900",
+    "averageWaterClarity": "4.4",
+    "county": "Cook",
+    "sampledPlants": [],
+    "shoreLengthMiles": 0.43,
+    "littoralAcres": 5,
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "location": "",
+        "ownerTypeId": "DNR",
+        "lakeAccessComments": " ",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "OPEN"
+      }
+    ],
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>THIS LAKE, FOR ITS SMALL SIZE OF 5.6 ACRES, A GOOD POPULATION OF NORTHERN PIKE WITH SOME LARGE FISH. THERE IS ALSO A GOOD POPULATION OF PERCH UP TO TEN INCHES AND SOME OLDER SUCKERS.</p>",
+        "surveySubType": "Initial Survey",
+        "surveyID": "109944",
+        "surveyDate": "1973-07-04",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "species": "YEP",
+            "averageWeight": "0.29",
+            "quartileCount": "0.6-6.3",
+            "gear": "Standard trap nets",
+            "totalCatch": 15,
+            "gearCount": 4,
+            "totalWeight": 4.4,
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "3.75"
+          },
+          {
+            "species": "WTS",
+            "averageWeight": "2.76",
+            "gear": "Standard trap nets",
+            "quartileCount": "0.3-2.2",
+            "totalCatch": 5,
+            "gearCount": 4,
+            "totalWeight": 13.8,
+            "quartileWeight": "1.0-2.6",
+            "CPUE": "1.25"
+          },
+          {
+            "CPUE": "2.00",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 1,
+            "totalWeight": 0.2,
+            "totalCatch": 2,
+            "averageWeight": "0.10",
+            "species": "YEP",
+            "quartileCount": "2.5-14.3",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 10,
+            "quartileCount": "N/A",
+            "gear": "Standard trap nets",
+            "species": "NOP",
+            "averageWeight": "1.92",
+            "quartileWeight": "N/A",
+            "CPUE": "2.50",
+            "gearCount": 4,
+            "totalWeight": 19.2
+          }
+        ],
+        "headerInfo": {
+          "county": "Cook",
+          "wb_name": "Unnamed",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "id_date": "1973-07-04",
+          "wb_alt_name": "",
+          "survey_id": "109944",
+          "wb_id": "16089900"
+        }
+      }
+    ],
+    "lakeName": "Unnamed",
+    "areaAcres": 6.66,
+    "officeCode": "F218",
+    "waterClarity": [
+      [
+        "07/04/1973",
+        "4.4"
+      ]
+    ]
+  }
+}

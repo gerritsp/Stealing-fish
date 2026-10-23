@@ -1,0 +1,106 @@
+{
+  "timestamp": 1790285580,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "DOWNumber": "69018700",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "location": "Within BWCA non-motorized route.  45 rod USFS portage from Silica Creek-Coxey Pond and USFS trail #163 -N end."
+      }
+    ],
+    "maxDepthFeet": 16,
+    "shoreLengthMiles": 1.92,
+    "meanDepthFeet": 0,
+    "littoralAcres": 0,
+    "lakeName": "Silica",
+    "waterClarity": [],
+    "averageWaterClarity": "N/A",
+    "areaAcres": 43.34,
+    "sampledPlants": [],
+    "lakeAltName": "Silaca",
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "surveyID": "108121",
+        "narrative": "<p>Consists of an above average population of suckers, average populations of smallmouth bass and greenn sunfish, and below average populations of northern pike and bluegill.</p>",
+        "lengths": {},
+        "headerInfo": {
+          "wb_id": "69018700",
+          "wb_name": "Silica",
+          "wb_alt_name": "Silaca",
+          "id_date": "1978-07-22",
+          "survey_id": "108121",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "survey_type": "Initial Survey"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1978-07-22",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "3.9-9.4",
+            "CPUE": "1.00",
+            "species": "NOP",
+            "gearCount": 3,
+            "averageWeight": "3.50",
+            "totalCatch": 3,
+            "quartileWeight": "1.2-2.4",
+            "totalWeight": 10.5,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 0.1,
+            "totalCatch": 2,
+            "quartileWeight": "0.4-2.0",
+            "averageWeight": "0.05",
+            "gearCount": 3,
+            "species": "SMB",
+            "CPUE": "0.67",
+            "quartileCount": "0.4-1.7"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 0.1,
+            "totalCatch": 2,
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "averageWeight": "0.05",
+            "species": "GSF",
+            "quartileCount": "0.3-0.5",
+            "CPUE": "0.67"
+          },
+          {
+            "CPUE": "5.33",
+            "quartileCount": "2.6-17.5",
+            "species": "WTS",
+            "totalWeight": 30.75,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.92",
+            "gearCount": 3,
+            "totalCatch": 16,
+            "quartileWeight": "0.8-2.3"
+          },
+          {
+            "totalCatch": 1,
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "averageWeight": "0.10",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.1,
+            "species": "BLG",
+            "quartileCount": "N/A",
+            "CPUE": "0.33"
+          }
+        ],
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "county": "St. Louis"
+  }
+}

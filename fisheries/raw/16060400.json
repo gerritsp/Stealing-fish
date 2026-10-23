@@ -1,0 +1,89 @@
+{
+  "result": {
+    "averageWaterClarity": "8.5",
+    "maxDepthFeet": 44,
+    "waterClarity": [
+      [
+        "08/13/1979",
+        "8.5"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "DOWNumber": "16060400",
+    "accesses": [
+      {
+        "location": "Portage to Brandt Lake on W; Portage to Ron Lake on E.",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "officeCode": "F218",
+    "lakeAltName": "Cap",
+    "county": "Cook",
+    "areaAcres": 10.24,
+    "littoralAcres": 0,
+    "shoreLengthMiles": 0.61,
+    "surveys": [
+      {
+        "surveyDate": "1979-08-13",
+        "headerInfo": {
+          "wb_alt_name": "Cap",
+          "wb_name": "Edith",
+          "survey_id": "109790",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_id": "16060400",
+          "id_date": "1979-08-13",
+          "survey_type": "Initial Survey"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Edith Lake has a good population of N Pike with a fair range of sizes.  There is a small pop. of Perch and mostly large individuals in the Sucker population.  Pumpkinseeds are present.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 32.3,
+            "gearCount": 2,
+            "species": "NOP",
+            "totalCatch": 15,
+            "averageWeight": "2.15",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "7.50"
+          },
+          {
+            "CPUE": "2.00",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "totalCatch": 4,
+            "averageWeight": "0.15",
+            "species": "YEP",
+            "gearCount": 2,
+            "totalWeight": 0.6
+          },
+          {
+            "gearCount": 2,
+            "species": "WTS",
+            "totalWeight": 12.25,
+            "CPUE": "2.50",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "totalCatch": 5,
+            "averageWeight": "2.45"
+          }
+        ],
+        "surveyID": "109790",
+        "lengths": {},
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "lakeName": "Edith",
+    "sampledPlants": []
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285917,
+  "message": "Normal execution."
+}

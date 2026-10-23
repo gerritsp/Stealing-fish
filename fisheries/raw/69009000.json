@@ -1,0 +1,106 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "waterClarity": [],
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "surveyID": "108096",
+        "narrative": "<p>(portage, not rough. The principal fish present are walleye, sucker, yellow perch, and northern pike.  The northern pike and yellow perch population are low in abundance.  The sucker population is about average for the area.  Walleye are abundante, especially over 12 younger age classes seem to be lacking, as are walleye in the 14 classes, but spawing in good years makes up for it.</p>",
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "Thunder",
+          "survey_id": "108096",
+          "wb_id": "69009000",
+          "wb_name": "Sinneeg",
+          "id_date": "1973-08-22",
+          "wb_type": "Lake",
+          "county": "St. Louis"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 7,
+            "CPUE": "1.75",
+            "quartileCount": "1.3-5.3",
+            "totalWeight": 20.7,
+            "quartileWeight": "1.6-3.1",
+            "averageWeight": "2.96",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "gearCount": 4
+          },
+          {
+            "totalCatch": 61,
+            "quartileCount": "0.8-3.8",
+            "CPUE": "15.25",
+            "totalWeight": 87.6,
+            "quartileWeight": "1.1-2.3",
+            "averageWeight": "1.44",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "species": "WAE"
+          },
+          {
+            "averageWeight": "0.10",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "species": "GSF",
+            "totalCatch": 1,
+            "quartileCount": "0.3-1.5",
+            "CPUE": "0.25",
+            "totalWeight": 0.1,
+            "quartileWeight": "N/A"
+          },
+          {
+            "CPUE": "1.25",
+            "quartileCount": "0.5-7.0",
+            "totalCatch": 5,
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 0.3,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.06",
+            "gearCount": 4,
+            "species": "YEP"
+          },
+          {
+            "averageWeight": "1.48",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "species": "WTS",
+            "totalCatch": 32,
+            "CPUE": "8.00",
+            "quartileCount": "1.2-4.9",
+            "quartileWeight": "1.6-2.4",
+            "totalWeight": 47.3
+          }
+        ],
+        "surveyDate": "1973-08-22"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "lakeAltName": "Thunder",
+    "sampledPlants": [],
+    "lakeName": "Sinneeg",
+    "averageWaterClarity": "N/A",
+    "officeCode": "F214",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "location": "By portage only on USFS land through BWCA.",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "county": "St. Louis",
+    "areaAcres": 160.49,
+    "maxDepthFeet": 32,
+    "DOWNumber": "69009000",
+    "littoralAcres": 104,
+    "shoreLengthMiles": 4.43
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285945
+}

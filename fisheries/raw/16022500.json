@@ -1,0 +1,712 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "waterClarity": [
+      [
+        "07/01/2013",
+        "9"
+      ],
+      [
+        "08/21/2024",
+        "5.9"
+      ],
+      [
+        "08/02/1990",
+        "8.5"
+      ],
+      [
+        "08/07/2025",
+        "12.1"
+      ],
+      [
+        "09/08/1978",
+        "10.5"
+      ],
+      [
+        "08/22/2023",
+        "6.6"
+      ]
+    ],
+    "surveys": [
+      {
+        "lengths": {
+          "WTS": {
+            "maximum_length": 18,
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "minimum_length": 25,
+            "maximum_length": 33,
+            "fishCount": [
+              [
+                25,
+                1
+              ],
+              [
+                33,
+                1
+              ]
+            ]
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                1
+              ]
+            ],
+            "minimum_length": 12,
+            "maximum_length": 16
+          }
+        },
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "16022500",
+          "wb_type": "Lake",
+          "survey_id": "4311318653948016",
+          "id_date": "2013-07-01",
+          "wb_name": "Misquah",
+          "county": "Cook",
+          "survey_type": "Population Assessment"
+        },
+        "surveyID": "4311318653948016",
+        "narrative": "<p>This was the first of two assessments included in the 2005 lake management plan to determine whether the lake trout population in this lake could be self-sustained.  The previous assessment (2003) had collected one lake trout, a small, naturally produced fish. <br> \n <br> \nLake trout numbers were apparently low in Misquah Lake in 2013, but those fish that were present were fairly large.  Misquah Lake has never supported high numbers of lake trout, even when the species was stocked.  The 2013 gill net catch fell below the normal range for a lake of this class, but was similar to past catches seen in this lake.  Neither of the two lake trout taken could be accounted for in the stocking record, assuming age determinations were fairly accurate.  The oldest of the two fish was assigned an age of 15, while the youngest any stocked fish in this lake could have been was 24 years old.  The presence of such large lake trout was unusual; most small lakes of this type rarely produce fish larger than 20 inches. <br> \n <br> \nWhite sucker and burbot had been taken in most past assessments of this lake, and both were present in 2013.  Minnow traps set in 2013 added bluntnose minnow and pearl dace to the list of fish species collected in this lake, and minnows appeared to have been fairly abundant.  Fathead minnows had been taken in minnows traps in this lake in 2003, and northern creek chub and northern redbelly dace were reportedly taken in minnow traps in 1978. <br> \n <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyDate": "2013-07-01",
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "quartileWeight": "0.5-1.0",
+            "totalCatch": 3,
+            "totalWeight": 965,
+            "gearCount": 3,
+            "averageWeight": "0.71",
+            "quartileCount": "0.5-1.7",
+            "CPUE": "1.00",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Minnow traps",
+            "quartileCount": "N/A",
+            "CPUE": "0.25",
+            "gearCount": 8,
+            "averageWeight": "0.00",
+            "totalCatch": 2,
+            "totalWeight": 0,
+            "quartileWeight": "N/A",
+            "species": "PRD"
+          },
+          {
+            "quartileWeight": "0.9-4.3",
+            "species": "LAT",
+            "totalCatch": 2,
+            "totalWeight": 8788,
+            "averageWeight": "9.69",
+            "gearCount": 3,
+            "quartileCount": "1.0-4.5",
+            "CPUE": "0.67",
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "0.00",
+            "gearCount": 8,
+            "totalCatch": 148,
+            "totalWeight": 0,
+            "gear": "Minnow traps",
+            "quartileCount": "N/A",
+            "CPUE": "18.50",
+            "species": "FHM",
+            "quartileWeight": "N/A"
+          },
+          {
+            "averageWeight": "0.00",
+            "gearCount": 8,
+            "totalWeight": 0,
+            "totalCatch": 31,
+            "gear": "Minnow traps",
+            "quartileCount": "N/A",
+            "CPUE": "3.88",
+            "quartileWeight": "N/A",
+            "species": "BNM"
+          },
+          {
+            "CPUE": "0.67",
+            "quartileCount": "1.5-10.4",
+            "gear": "Standard gill nets",
+            "totalCatch": 2,
+            "totalWeight": 1623,
+            "gearCount": 3,
+            "averageWeight": "1.79",
+            "quartileWeight": "0.6-2.0",
+            "species": "WTS"
+          }
+        ]
+      },
+      {
+        "headerInfo": {
+          "survey_id": "21872426838378162",
+          "id_date": "2024-08-21",
+          "wb_name": "Misquah",
+          "county": "Cook",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "wb_id": "16022500",
+          "wb_type": "Lake"
+        },
+        "surveyID": "21872426838378162",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Misquah Lake on August 21, 2024 to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased to below 8.8 degrees C (47.8 degrees F) at 17.4 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 54.1 feet at the time of sampling. The thickness of this layer of water in the water column was 36.7 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5 degrees C (41 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress in 2023 and 1990 also indicate suitable oxythermal habitat in both years. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. </p>",
+        "surveyType": "Targeted Survey",
+        "lengths": {},
+        "surveyDate": "2024-08-21",
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": []
+      },
+      {
+        "surveyDate": "1990-08-02",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "averageWeight": "0.73",
+            "totalCatch": 5,
+            "totalWeight": 3.63,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.5-1.7",
+            "CPUE": "1.67",
+            "quartileWeight": "0.5-1.0",
+            "species": "BUB"
+          },
+          {
+            "species": "LAT",
+            "quartileWeight": "0.9-4.3",
+            "CPUE": "0.67",
+            "quartileCount": "1.0-4.5",
+            "gear": "Standard gill nets",
+            "totalCatch": 2,
+            "totalWeight": 8.69,
+            "gearCount": 3,
+            "averageWeight": "4.34"
+          },
+          {
+            "gearCount": 3,
+            "averageWeight": "1.64",
+            "totalCatch": 4,
+            "totalWeight": 6.56,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.5-10.4",
+            "CPUE": "1.33",
+            "species": "WTS",
+            "quartileWeight": "0.6-2.0"
+          }
+        ],
+        "lengths": {},
+        "headerInfo": {
+          "wb_name": "Misquah",
+          "id_date": "1990-08-02",
+          "survey_id": "110154",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_id": "16022500",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveyID": "110154",
+        "narrative": "<p>LAKE TROUT ABUNDANCE WAS LOW, BUT AVERAGE SIZE WAS GOOD.  BOTH LAKE TROUT COLLECTED WERE FROM THE 1982 STOCKING AND HAD EXHIBITED FAST GROWTH BY COOK COUNTY STANDARDS.  THE 1989 STOCKING HAD PROBABLY NOT RECRUITED TO THE SAMPLING GEAR USED IN THE 1990 ASSESSMENT.  THERE WAS NO EVIDENCE OF ANY LAKE TROUT NATURAL REPRODUCTION.</p>",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "lengths": {},
+        "surveyID": "-369",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "16022500",
+          "wb_type": "Lake",
+          "survey_id": "-369",
+          "id_date": "2025-08-07",
+          "wb_name": "Misquah",
+          "county": "Cook",
+          "survey_type": "Targeted Survey"
+        },
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Misquah Lake on August 7th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 17.8 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 59.5 feet at the time of sampling. The thickness of this layer of water in the water column was 41.7 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.9 degrees C (40.8 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024, 2023, and 1990 also indicate suitable oxythermal habitat in all years. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyDate": "2025-08-07",
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": []
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1996-07-18",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "averageWeight": "0.29",
+            "totalCatch": 1,
+            "totalWeight": 131,
+            "gear": "Standard gill nets",
+            "CPUE": "0.33",
+            "quartileCount": "0.5-1.7",
+            "species": "BUB",
+            "quartileWeight": "0.5-1.0"
+          },
+          {
+            "species": "LAT",
+            "quartileWeight": "0.9-4.3",
+            "quartileCount": "1.0-4.5",
+            "CPUE": "2.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 10956,
+            "totalCatch": 6,
+            "averageWeight": "4.03",
+            "gearCount": 3
+          },
+          {
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "CPUE": "1.00",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "totalWeight": 215,
+            "totalCatch": 3,
+            "averageWeight": "0.16",
+            "gearCount": 3
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "3.67",
+            "quartileCount": "1.5-10.4",
+            "averageWeight": "1.66",
+            "gearCount": 3,
+            "totalCatch": 11,
+            "totalWeight": 8285,
+            "quartileWeight": "0.6-2.0",
+            "species": "WTS"
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Misquah",
+          "survey_id": "110702",
+          "id_date": "1996-07-18",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_id": "16022500",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveyID": "110702",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Misquah lake supported a modest population of lake trout over 18 inches in length, with some natural reproduction likely.  Few, if any, of the brook trout stocked in 1993 and earlier had survived to 1996.  Survival of the 1995 stocking may also have been poor.  The presence of large lake trout probably contributed to the poor survival of brook trout stocked in this lake.</p>",
+        "lengths": {
+          "BKT": {
+            "maximum_length": 7,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                2
+              ]
+            ]
+          },
+          "BUB": {
+            "minimum_length": 11,
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 17
+          },
+          "LAT": {
+            "minimum_length": 18,
+            "maximum_length": 27,
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                27,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "narrative": "<p>No game fish species present, only small populat. of Suckers and Burbot.</p>",
+        "headerInfo": {
+          "wb_id": "16022500",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_name": "Misquah",
+          "survey_id": "110775",
+          "id_date": "1978-09-07",
+          "county": "Cook"
+        },
+        "surveyID": "110775",
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "quartileWeight": "0.5-1.0",
+            "totalCatch": 1,
+            "totalWeight": 0.5,
+            "gearCount": 4,
+            "averageWeight": "0.50",
+            "quartileCount": "0.5-1.7",
+            "CPUE": "0.25",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "0.6-2.0",
+            "species": "WTS",
+            "quartileCount": "1.5-10.4",
+            "CPUE": "4.25",
+            "gear": "Standard gill nets",
+            "totalWeight": 15,
+            "totalCatch": 17,
+            "averageWeight": "0.88",
+            "gearCount": 4
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1978-09-07"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "quartileWeight": "0.5-1.0",
+            "CPUE": "1.00",
+            "quartileCount": "0.5-1.7",
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "totalWeight": 732,
+            "gearCount": 3,
+            "averageWeight": "0.54"
+          },
+          {
+            "totalWeight": 2090,
+            "totalCatch": 1,
+            "gearCount": 3,
+            "averageWeight": "4.61",
+            "CPUE": "0.33",
+            "quartileCount": "1.0-4.5",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.9-4.3",
+            "species": "LAT"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "3.33",
+            "quartileCount": "1.5-10.4",
+            "averageWeight": "1.65",
+            "gearCount": 3,
+            "totalCatch": 10,
+            "totalWeight": 7464,
+            "species": "WTS",
+            "quartileWeight": "0.6-2.0"
+          }
+        ],
+        "surveyDate": "1998-07-09",
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "LAT": {
+            "minimum_length": 22,
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                22,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ]
+            ],
+            "maximum_length": 14,
+            "minimum_length": 11
+          }
+        },
+        "narrative": "<p>The 1998 lake trout catch was low, although perhaps not unusually low for this lake.  The single fish collected was eight years of age, and may have been an offspring of lake trout stocked in the 1980's.  Lake trout ages are difficult to determine, and this fish may have been mis-aged.  It could have been nine years of age, possibly from the 1989 stocking.No brook trout were collected, despite regular stocking through 1997.  Brook trout survival may have been low due to predation by lake trout, or they may have been concentrated in shallower waters than those sampled in this assessment.</p>",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_name": "Misquah",
+          "id_date": "1998-07-09",
+          "survey_id": "110906",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_id": "16022500",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveyID": "110906"
+      },
+      {
+        "fishCatchSummaries": [],
+        "surveyDate": "2023-08-22",
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Misquah Lake on August 22nd, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 11 feet. Dissolved oxygen decreased to below 3.0 mg/L at 42.7 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.0\u00b0C (39.2\u00b0F). <br> \n <br> \nTDO3 values cooler than 8.8\u00b0C indicate that oxythermal conditions are favorable for Lake Trout. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for Lake Trout was available across a range of depths at the time of sampling. Data collected in 1990 and 1999 further indicate suitable oxythermal habitat. When adequate oxythermal habitat is available, Lake Trout are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "16022500",
+          "survey_type": "Targeted Survey",
+          "county": "Cook",
+          "id_date": "2023-08-22",
+          "survey_id": "20512322951949001",
+          "wb_name": "Misquah"
+        },
+        "surveyID": "20512322951949001"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyDate": "2003-07-01",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "2.00",
+            "quartileCount": "0.5-1.7",
+            "gear": "Standard gill nets",
+            "totalWeight": 2304,
+            "totalCatch": 6,
+            "gearCount": 3,
+            "averageWeight": "0.85",
+            "species": "BUB",
+            "quartileWeight": "0.5-1.0"
+          },
+          {
+            "gearCount": 3,
+            "averageWeight": "0.21",
+            "totalCatch": 1,
+            "totalWeight": 97,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.0-4.5",
+            "CPUE": "0.33",
+            "species": "LAT",
+            "quartileWeight": "0.9-4.3"
+          },
+          {
+            "totalCatch": 456,
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "gearCount": 8,
+            "quartileCount": "N/A",
+            "CPUE": "57.00",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "species": "FHM"
+          },
+          {
+            "quartileWeight": "0.6-2.0",
+            "species": "WTS",
+            "quartileCount": "1.5-10.4",
+            "CPUE": "4.33",
+            "gear": "Standard gill nets",
+            "totalWeight": 10705,
+            "totalCatch": 13,
+            "averageWeight": "1.82",
+            "gearCount": 3
+          }
+        ],
+        "lengths": {
+          "BUB": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ]
+            ],
+            "maximum_length": 17,
+            "minimum_length": 12
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                2
+              ]
+            ],
+            "minimum_length": 15,
+            "maximum_length": 19
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 8
+          }
+        },
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_name": "Misquah",
+          "survey_id": "111411",
+          "id_date": "2003-07-01",
+          "county": "Cook",
+          "wb_id": "16022500",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveyID": "111411",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>The 2003 lake trout catch was low, although not unusually low for this lake.  The single fish collected was two years of age, and was an offspring of lake trout stocked in the 1980's.  Lake trout have not been stocked since 1989, so this single lake trout has apparently confirmed that reproduction has occurred. </p>"
+      }
+    ],
+    "areaAcres": 51.98,
+    "littoralAcres": 15,
+    "averageWaterClarity": "8.8",
+    "officeCode": "F218",
+    "county": "Cook",
+    "accesses": [
+      {
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "PRMIT",
+        "location": ""
+      }
+    ],
+    "lakeName": "Misquah",
+    "DOWNumber": "16022500",
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 60,
+    "sampledPlants": [],
+    "shoreLengthMiles": 1.32
+  },
+  "timestamp": 1790285774
+}

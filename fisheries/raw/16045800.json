@@ -1,0 +1,77 @@
+{
+  "result": {
+    "areaAcres": 85.92,
+    "littoralAcres": 25,
+    "county": "Cook",
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "DOWNumber": "16045800",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "location": "PORTAGE TRAILS FROM VESPER  CASH AND CHEROKEE LAKES. TOWN LAKE IS ENTIRELY WITHIN THE BWCAW.",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "lakeAccessComments": " "
+      }
+    ],
+    "averageWaterClarity": "11.9",
+    "maxDepthFeet": 72,
+    "shoreLengthMiles": 2.16,
+    "lakeName": "Town",
+    "waterClarity": [
+      [
+        "08/12/2025",
+        "11.8"
+      ],
+      [
+        "07/11/1990",
+        "12"
+      ]
+    ],
+    "surveys": [
+      {
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "surveyType": "Targeted Survey",
+        "surveyID": "-351",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Town Lake on August 12th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 65.6 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 18.0 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 49.6 feet at the time of sampling. The thickness of this layer of water in the water column was 31.5 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.4 degrees C (39.9 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates suitable oxythermal habitat. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "fishCatchSummaries": [],
+        "surveyDate": "2025-08-12",
+        "headerInfo": {
+          "wb_id": "16045800",
+          "id_date": "2025-08-12",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "Town",
+          "survey_type": "Targeted Survey",
+          "survey_id": "-351",
+          "county": "Cook"
+        }
+      },
+      {
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "1990-07-10",
+          "wb_id": "16045800",
+          "county": "Cook",
+          "wb_name": "Town",
+          "survey_id": "110151",
+          "survey_type": "Initial Survey"
+        },
+        "surveyDate": "1990-07-10",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>LAKE TROUT ABUNDANCE APPEARED TO BE LOW, WITH ONLY ONE COLLECTED.  IT APPEARED THAT TOWN LAKE SUPPORTED A SMALL, SENILE LAKE TROUT POPULATION WITH LIMITED RECRUITMENT.  ONE WHITE SUCKER AND ONE BURBOT WERE ALSO COLLECTED.</p>",
+        "surveyID": "110151"
+      }
+    ],
+    "officeCode": "F218"
+  },
+  "timestamp": 1790285753,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

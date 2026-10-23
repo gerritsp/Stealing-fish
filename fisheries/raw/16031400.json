@@ -1,0 +1,243 @@
+{
+  "result": {
+    "surveys": [
+      {
+        "surveyDate": "1998-08-24",
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Henson Lake did not appear to support significant numbers of any gamefish species.  Only one northern pike was taken in gill nets, and one smallmouth bass was seen escaping from a gill net.  Smallmouth bass and walleye have been expanding their ranges up the North Brule River system, but walleye, at least, do not appear to have reached Henson Lake yet.</p>",
+        "surveyID": "110916",
+        "headerInfo": {
+          "wb_name": "Henson",
+          "id_date": "1998-08-24",
+          "wb_id": "16031400",
+          "wb_type": "Lake",
+          "survey_id": "110916",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.22",
+            "totalWeight": 1005,
+            "gearCount": 6,
+            "quartileWeight": "1.5-2.4",
+            "quartileCount": "1.2-3.9",
+            "CPUE": "0.17",
+            "species": "NOP"
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "quartileCount": "0.5-2.8",
+            "CPUE": "2.67",
+            "species": "YEP",
+            "totalCatch": 16,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.12",
+            "totalWeight": 868,
+            "gearCount": 6
+          },
+          {
+            "gearCount": 12,
+            "totalWeight": 189,
+            "averageWeight": "0.01",
+            "gear": "Misc. fish",
+            "totalCatch": 32,
+            "quartileCount": "N/A",
+            "CPUE": "2.67",
+            "species": "GSF",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 6,
+            "totalWeight": 12232,
+            "totalCatch": 34,
+            "averageWeight": "0.79",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "2.6-11.7",
+            "CPUE": "5.67",
+            "quartileWeight": "1.7-2.4"
+          },
+          {
+            "CPUE": "3.08",
+            "quartileCount": "N/A",
+            "species": "YEP",
+            "quartileWeight": "N/A",
+            "gearCount": 12,
+            "totalWeight": 131,
+            "averageWeight": "0.01",
+            "gear": "Misc. fish",
+            "totalCatch": 37
+          },
+          {
+            "totalCatch": 2,
+            "averageWeight": "0.15",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalWeight": 140,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "0.33",
+            "species": "PMK"
+          }
+        ],
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                20,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 20
+          },
+          "WTS": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                8
+              ],
+              [
+                11,
+                10
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 6
+          },
+          "PMK": {
+            "fishCount": [
+              [
+                5,
+                2
+              ]
+            ],
+            "maximum_length": 5,
+            "minimum_length": 5
+          },
+          "YEP": {
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                1,
+                1
+              ],
+              [
+                2,
+                18
+              ],
+              [
+                3,
+                14
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                6,
+                13
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 1
+          },
+          "GSF": {
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                1,
+                7
+              ],
+              [
+                2,
+                24
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 1
+          }
+        }
+      }
+    ],
+    "waterClarity": [],
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "lakeName": "Henson",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "location": "Lake is entirely inside the BWCAW.  Access via portage trails from Gaskin; Pillsbery; East Otto; and Flicker Lakes.",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O"
+      }
+    ],
+    "county": "Cook",
+    "maxDepthFeet": 40,
+    "DOWNumber": "16031400",
+    "shoreLengthMiles": 6.8,
+    "littoralAcres": 91.7,
+    "averageWaterClarity": "N/A",
+    "areaAcres": 111.16,
+    "meanDepthFeet": 0
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285820
+}

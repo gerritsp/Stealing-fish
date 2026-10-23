@@ -1,0 +1,116 @@
+{
+  "timestamp": 1790286075,
+  "message": "Normal execution.",
+  "result": {
+    "areaAcres": 241.43,
+    "littoralAcres": 86,
+    "waterClarity": [],
+    "sampledPlants": [],
+    "lakeName": "Pocket",
+    "maxDepthFeet": 27,
+    "averageWaterClarity": "N/A",
+    "meanDepthFeet": 0,
+    "DOWNumber": "69034500",
+    "county": "St. Louis",
+    "shoreLengthMiles": 4.73,
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_name": "Pocket",
+          "wb_id": "69034500",
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "survey_id": "108158",
+          "id_date": "1980-07-10",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey"
+        },
+        "narrative": "<p>Consists of an above average population of northern pike, average populations of walleye and sucker, and below average populations of perch and rock bass.  Redhorse are also present.</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1980-07-10",
+        "lengths": {},
+        "surveyID": "108158",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.2-0.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "3.00",
+            "quartileWeight": "2.1-2.5",
+            "CPUE": "0.25",
+            "species": "SHR",
+            "totalWeight": 3,
+            "totalCatch": 1,
+            "gearCount": 4
+          },
+          {
+            "quartileWeight": "1.6-3.1",
+            "CPUE": "8.50",
+            "species": "NOP",
+            "totalWeight": 105.5,
+            "totalCatch": 34,
+            "gearCount": 4,
+            "quartileCount": "1.3-5.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "3.10"
+          },
+          {
+            "quartileCount": "0.3-2.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.30",
+            "quartileWeight": "0.2-0.4",
+            "CPUE": "0.25",
+            "species": "RKB",
+            "totalWeight": 0.3,
+            "gearCount": 4,
+            "totalCatch": 1
+          },
+          {
+            "CPUE": "3.75",
+            "quartileWeight": "1.1-2.3",
+            "totalCatch": 15,
+            "gearCount": 4,
+            "totalWeight": 32,
+            "species": "WAE",
+            "averageWeight": "2.13",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-3.8"
+          },
+          {
+            "CPUE": "2.00",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 8,
+            "gearCount": 4,
+            "species": "YEP",
+            "totalWeight": 0.9,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.11",
+            "quartileCount": "0.5-7.0"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "2.63",
+            "quartileCount": "1.2-4.9",
+            "gearCount": 4,
+            "totalCatch": 15,
+            "species": "WTS",
+            "totalWeight": 39.5,
+            "CPUE": "3.75",
+            "quartileWeight": "1.6-2.4"
+          }
+        ],
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "officeCode": "F214",
+    "accesses": [
+      {
+        "location": "None designated-portage from Lac La Croix via Pocket Creek.  In BWCAW on a paddle-only route.",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ]
+  },
+  "status": "SUCCESS"
+}

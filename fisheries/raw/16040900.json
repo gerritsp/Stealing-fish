@@ -1,0 +1,311 @@
+{
+  "timestamp": 1790285653,
+  "result": {
+    "littoralAcres": 92,
+    "waterClarity": [
+      [
+        "06/30/1974",
+        "4"
+      ]
+    ],
+    "officeCode": "F218",
+    "maxDepthFeet": 42,
+    "lakeName": "Vern",
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "DOWNumber": "16040900",
+    "accesses": [
+      {
+        "location": "",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": " ",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF"
+      },
+      {
+        "publicUseAuthCode": "OPEN",
+        "location": "",
+        "lakeAccessComments": " ",
+        "accessTypeId": "C",
+        "ownerTypeId": "DNR"
+      }
+    ],
+    "shoreLengthMiles": 6.26,
+    "areaAcres": 122.81,
+    "averageWaterClarity": "4.0",
+    "county": "Cook",
+    "surveys": [
+      {
+        "surveyDate": "1999-06-23",
+        "lengths": {
+          "WTS": {
+            "minimum_length": 9,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                7
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 14
+          },
+          "SMB": {
+            "minimum_length": 7,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                7,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 13
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "111070",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.5-2.4",
+            "totalCatch": 17,
+            "averageWeight": "1.45",
+            "totalWeight": 11202,
+            "gearCount": 6,
+            "species": "NOP",
+            "quartileCount": "1.2-3.9",
+            "gear": "Standard gill nets",
+            "CPUE": "2.83"
+          },
+          {
+            "CPUE": "0.12",
+            "quartileCount": "N/A",
+            "gear": "Minnow traps",
+            "species": "WAE",
+            "gearCount": 8,
+            "totalWeight": 0,
+            "totalCatch": 1,
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A"
+          },
+          {
+            "averageWeight": "0.17",
+            "totalCatch": 1,
+            "quartileWeight": "0.3-2.2",
+            "totalWeight": 78,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.2-0.7",
+            "gearCount": 6,
+            "species": "SMB",
+            "CPUE": "0.17"
+          },
+          {
+            "totalWeight": 660,
+            "quartileWeight": "0.7-1.3",
+            "averageWeight": "0.49",
+            "totalCatch": 3,
+            "CPUE": "0.50",
+            "gearCount": 6,
+            "species": "WAE",
+            "quartileCount": "3.0-13.2",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "2.6-11.7",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "gearCount": 6,
+            "CPUE": "3.83",
+            "totalCatch": 23,
+            "averageWeight": "3.23",
+            "quartileWeight": "1.7-2.4",
+            "totalWeight": 33650
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Vern",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_id": "16040900",
+          "survey_type": "Re-Survey",
+          "survey_id": "111070",
+          "id_date": "1999-06-23",
+          "wb_alt_name": ""
+        },
+        "narrative": "<p>The fish community in Vern Lake was dominated by northern pike and white sucker, with a few walleye and smallmouth bass present.  The 1999 northern pike catch was within the normal range for lakes of this class, but their average size was small.  This was due to the domination of the catch by two-year-old fish from the 1997 year class.  Northern pike growth rates had been fairly fast, by area standards.  Two-year-old fish averaged 17.3 inches in length when collected in late June 1999.</p>",
+        "surveySubType": "Re-Survey"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "species": "BUB",
+            "quartileCount": "0.1-0.5",
+            "gear": "Standard gill nets",
+            "CPUE": "0.17",
+            "quartileWeight": "0.3-1.8",
+            "totalCatch": 1,
+            "averageWeight": "0.25",
+            "totalWeight": 0.25
+          },
+          {
+            "species": "WAE",
+            "gearCount": 8,
+            "gear": "Standard trap nets",
+            "quartileCount": "0.5-2.7",
+            "CPUE": "0.25",
+            "quartileWeight": "0.8-1.5",
+            "averageWeight": "2.25",
+            "totalCatch": 2,
+            "totalWeight": 4.5
+          },
+          {
+            "totalWeight": 19,
+            "quartileWeight": "1.4-2.8",
+            "totalCatch": 6,
+            "averageWeight": "3.17",
+            "CPUE": "0.75",
+            "gearCount": 8,
+            "species": "WTS",
+            "quartileCount": "0.7-2.3",
+            "gear": "Standard trap nets"
+          },
+          {
+            "quartileCount": "1.2-3.9",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "gearCount": 6,
+            "CPUE": "4.33",
+            "averageWeight": "1.19",
+            "totalCatch": 26,
+            "quartileWeight": "1.5-2.4",
+            "totalWeight": 31
+          },
+          {
+            "gearCount": 6,
+            "species": "WAE",
+            "quartileCount": "3.0-13.2",
+            "gear": "Standard gill nets",
+            "CPUE": "0.83",
+            "quartileWeight": "0.7-1.3",
+            "averageWeight": "1.70",
+            "totalCatch": 5,
+            "totalWeight": 8.5
+          },
+          {
+            "quartileCount": "2.6-11.7",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "gearCount": 6,
+            "CPUE": "2.67",
+            "averageWeight": "2.50",
+            "totalCatch": 16,
+            "quartileWeight": "1.7-2.4",
+            "totalWeight": 40
+          },
+          {
+            "gearCount": 8,
+            "species": "NOP",
+            "quartileCount": "N/A",
+            "gear": "Standard trap nets",
+            "CPUE": "0.25",
+            "quartileWeight": "N/A",
+            "averageWeight": "10.00",
+            "totalCatch": 2,
+            "totalWeight": 20
+          }
+        ],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "1974-07-01",
+          "survey_id": "109748",
+          "survey_type": "Initial Survey",
+          "wb_id": "16040900",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_name": "Vern"
+        },
+        "surveyID": "109748",
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>Vern Lake has a good population of N Pike and a few Walleyes.  Burbot are present and Suckers occur in fair numbers.</p>",
+        "surveyDate": "1974-07-01",
+        "lengths": {},
+        "surveyType": "Standard Survey"
+      }
+    ]
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

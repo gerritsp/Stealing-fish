@@ -1,0 +1,489 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285801,
+  "result": {
+    "county": "Cook",
+    "shoreLengthMiles": 12.92,
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "9.4",
+    "DOWNumber": "16031900",
+    "areaAcres": 371.88,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "averageWeight": "0.88",
+            "totalWeight": 1.75,
+            "quartileCount": "0.2-1.0",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "0.33",
+            "totalCatch": 2
+          },
+          {
+            "totalCatch": 1,
+            "CPUE": "0.17",
+            "quartileWeight": "2.1-4.9",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.6-2.4",
+            "totalWeight": 1.31,
+            "species": "NOP",
+            "averageWeight": "1.31"
+          },
+          {
+            "species": "SMB",
+            "averageWeight": "0.52",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalWeight": 1.03,
+            "quartileCount": "0.3-1.4",
+            "quartileWeight": "0.6-1.5",
+            "totalCatch": 2,
+            "CPUE": "0.33"
+          },
+          {
+            "quartileCount": "1.2-5.2",
+            "totalWeight": 20.25,
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "averageWeight": "2.25",
+            "CPUE": "1.50",
+            "totalCatch": 9,
+            "quartileWeight": "1.0-2.0"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileCount": "1.6-15.5",
+            "totalWeight": 13.06,
+            "species": "LKW",
+            "averageWeight": "2.18",
+            "totalCatch": 6,
+            "CPUE": "1.00",
+            "quartileWeight": "1.0-2.1"
+          },
+          {
+            "species": "WTS",
+            "averageWeight": "2.74",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalWeight": 30.13,
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "totalCatch": 11,
+            "CPUE": "1.83"
+          },
+          {
+            "averageWeight": "0.67",
+            "species": "TLC",
+            "quartileCount": "3.2-20.2",
+            "totalWeight": 18.13,
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-1.0",
+            "CPUE": "4.50",
+            "totalCatch": 27
+          }
+        ],
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_name": "Gaskin",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "wb_id": "16031900",
+          "county": "Cook",
+          "id_date": "1990-08-06",
+          "wb_alt_name": "",
+          "survey_id": "110149"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>WALLEYE ABUNDANCE WAS LOW, BUT A FEW LARGE (22 IN) FISH WERE COLLECTED.  ALTHOUGH THE SAMPLE SIZE WAS SMALL, IT APPEARED THAT THE 1987 YEAR CLASS WAS THE STRONGEST, COMPRISING 50% OF THE WALLEYE COLLECTED.  WALLEYE GROWTH WAS AVERAGE FOR COOK COUNTY.  NORTHERN PIKE AND SMALLMOUTH BASS WERE PRESENT, BUT THEIR ABUNDANCE APPEARED TO BE LOW. NO LAKE TROUT WERE COLLECTED, DESPITE THE LAKE'S APPARENT SUITABILITY.  THE FORAGE BASE WAS COMPOSED OF NORTHERN CISCO; NO YELLOW PERCH WERE COLLECTED.</p>",
+        "surveyID": "110149",
+        "surveyDate": "1990-08-06"
+      },
+      {
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "wb_name": "Gaskin",
+          "survey_id": "21872426837352142",
+          "wb_alt_name": "",
+          "id_date": "2024-08-21",
+          "county": "Cook",
+          "wb_id": "16031900",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Gaskin Lake on August 21, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Lake Whitefish and Cisco also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 36.1 feet, and the dissolved oxygen concentration never decreased to below 3.0 mg/L at the time of sampling. The thickness of this layer of water in the water column was 19.7 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because the dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. The temperature at the bottom of the lake was 7.1 degrees C (44.8 degrees F). Instances in which the dissolved oxygen does not reach below 3.0 mg/L and temperature remains below 8.8 degrees C, indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources from 1990-2023 during the late summer thermal stress period indicated suitable oxythermal habitat in years surveyed, with the least favorable conditions recorded in 2012 when the suitable habitat layer thickness was 6.3 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "surveyDate": "2024-08-21",
+        "surveyID": "21872426837352142"
+      },
+      {
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Gaskin Lake on August 8th, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, Lake Whitefish, and Cisco, also known as Tullibee. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 10 feet. Dissolved oxygen decreased to below 3.0 mg/L at 69.7 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.3\u00b0C (41.5\u00b0F). <br> \n <br> \nTDO3 values cooler than 8.8\u00b0C for Lake Trout, 17.2\u00b0C for Lake Whitefish, or 21.5\u00b0C for Cisco indicate that oxythermal conditions are favorable for these species. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for these species was available across a range of depths at the time of sampling. Data collected in 1990 and 2012 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is available, Lake Trout, Lake Whitefish, or Cisco are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "surveyDate": "2023-08-08",
+        "surveyID": "20042323347688165",
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "headerInfo": {
+          "id_date": "2023-08-08",
+          "wb_alt_name": "",
+          "survey_id": "20042323347688165",
+          "wb_type": "Lake",
+          "wb_id": "16031900",
+          "county": "Cook",
+          "wb_name": "Gaskin",
+          "survey_type": "Targeted Survey"
+        },
+        "fishCatchSummaries": []
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 9,
+            "CPUE": "2.25",
+            "averageWeight": "1.04",
+            "species": "LKW",
+            "gear": "Shallow gill nets",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalWeight": 4265
+          },
+          {
+            "quartileCount": "N/A",
+            "totalWeight": 140,
+            "gearCount": 4,
+            "gear": "Deep gill nets",
+            "averageWeight": "0.31",
+            "species": "SMB",
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "CPUE": "1.50",
+            "totalCatch": 6,
+            "averageWeight": "3.55",
+            "species": "NOP",
+            "quartileCount": "N/A",
+            "totalWeight": 9665,
+            "gearCount": 4,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "quartileCount": "N/A",
+            "totalWeight": 5460,
+            "gear": "Deep gill nets",
+            "gearCount": 4,
+            "species": "LKW",
+            "averageWeight": "0.93",
+            "CPUE": "3.25",
+            "totalCatch": 13,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "gearCount": 4,
+            "totalWeight": 6865,
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "averageWeight": "2.52",
+            "totalCatch": 6,
+            "CPUE": "1.50",
+            "quartileWeight": "N/A"
+          },
+          {
+            "species": "BUB",
+            "averageWeight": "0.93",
+            "quartileCount": "N/A",
+            "totalWeight": 2100,
+            "gearCount": 4,
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "1.25",
+            "totalCatch": 5
+          },
+          {
+            "species": "WAE",
+            "averageWeight": "1.31",
+            "gear": "Shallow gill nets",
+            "gearCount": 4,
+            "totalWeight": 5945,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalCatch": 10,
+            "CPUE": "2.50"
+          },
+          {
+            "gearCount": 4,
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "totalWeight": 930,
+            "averageWeight": "1.03",
+            "species": "NOP",
+            "totalCatch": 2,
+            "CPUE": "0.50",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 3,
+            "CPUE": "0.75",
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalWeight": 1590,
+            "averageWeight": "1.17",
+            "species": "SMB"
+          },
+          {
+            "quartileWeight": "N/A",
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "species": "WTS",
+            "averageWeight": "4.19",
+            "quartileCount": "N/A",
+            "totalWeight": 1900,
+            "gear": "Deep gill nets",
+            "gearCount": 4
+          }
+        ],
+        "lengths": {
+          "SMB": {
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 5
+          },
+          "BUB": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                2
+              ]
+            ],
+            "minimum_length": 11
+          },
+          "LKW": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "maximum_length": 20
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                14,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 7
+          },
+          "NOP": {
+            "minimum_length": 14,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                31,
+                1
+              ]
+            ],
+            "maximum_length": 31
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                17,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 9
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_name": "Gaskin",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_id": "16031900",
+          "wb_alt_name": "",
+          "id_date": "2012-08-06",
+          "survey_id": "4311219334619122"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>This assessment was scheduled in the 2009 lake management plan to better determine whether Gaskin Lake supported a resident lake trout population.  Seven previous attempts to complete this assessment  were all canceled due to a lack of staff, funding, or time.  No lake trout were taken in Gaskin Lake in the only previous survey (1990), but anglers have reported catching the species there. <br> \n <br> \nA temperature-oxygen profile measured on 6 August 2012 found conditions suitable for lake trout (water temperature < 55 F, oxygen > 5 ppm) at depths of 23 to 36 ft.  Although conditions would have deteriorated as the summer progressed, it's likely they would have remained tolerable for lake trout in a narrow range of depths through the end of summer. <br> \n <br> \nThe 2012 assessment of Gaskin Lake used a combination of four deep and four shallow gill net sets.  Deep sets targeted cold-water species (including lake trout), while shallow sets targeted warm- and cool-water species.  In DNR Lakefinder reports, catches in those nets have been combined.   No lake trout were taken in deep or shallow gill net sets in 2012.  The failure to collect lake trout in Gaskin Lake in 2012 does not mean the species was not present.  However, because two assessments have now failed to find lake trout, the odds they are present are reduced.  If they are present, their abundance is probably low. <br> \n <br> \nColdwater species found in Gaskin Lake in the 1990 survey included cisco, lake whitefish, and burbot.  Only lake whitefish and burbot were found in 2012.  The 2012 lake whitefish catch in deep gill net sets (3.25 fish/set) fell within the normal range (1.31-8.54 fish/set) for that gear in this area.  Lake whitefish taken in 2012 were small, with a mean weight of 0.93 lb/fish, which was below the normal range (1.30-2.57 lb/fish) for fish taken in deep gill net sets in this area.  The burbot catch in deep gill net sets (1.25 fish/set) was within the normal range for the gear (0.42-1.50 fish/set), and the mean weight for burbot (0.93 lb/fish) was also within the normal range (0.89-1.52 lb/fish). <br> \n <br> \nFair numbers of walleye were present in Gaskin Lake in 2012.  The walleye catch in shallow gill net sets (2.50 fish/set) was close to the median for the gear (2.33 fish/set), and the mean weight for walleye collected in those nets was within the normal range for the gear (1.13-2.32 lb/fish).  Five year classes, all naturally produced, were represented in the walleye catch.  Walleye growth had been about average, despite the lack of warmwater forage fish. <br> \n <br> \nGaskin Lake was capable of supporting a relatively high-quality northern pike fishery in 2012.  The northern pike catch in shallow gill net sets (1.50 fish/set), and the mean weight for fish taken in those sets (3.55 lb/fish), were within normal ranges (0.50-1.78 fish/set and 2.04-5.02 lb/fish, respectively) for the gear.  Although warmwater forage species were scarce, the presence of coldwater forage (lake whitefish, and probably cisco), coupled with abundant cool-water refuge areas, gave the lake the potential to produce some trophy fish.  Northern pike as old as five years were collected in this assessment, and it appeared from the relatively low numbers of younger fish that recruitment might have been limited. <br> \n <br> \nA few smallmouth bass were collected during this assessment.  The catch in shallow gill net sets (0.75 fish/set) was within the normal range for that gear (0.50-1.50 fish/set), and their mean weight (1.17 lb/fish) also fell within the normal range (0.50-1.39 lb/fish).  <br> \n <br> \n <br> \n</p>",
+        "surveyDate": "2012-08-06",
+        "surveyID": "4311219334619122"
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/06/1990",
+        "10"
+      ],
+      [
+        "08/21/2024",
+        "9.8"
+      ],
+      [
+        "08/06/2012",
+        "8.5"
+      ]
+    ],
+    "officeCode": "F218",
+    "maxDepthFeet": 82,
+    "littoralAcres": 104,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "",
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "lakeName": "Gaskin",
+    "sampledPlants": []
+  },
+  "message": "Normal execution."
+}

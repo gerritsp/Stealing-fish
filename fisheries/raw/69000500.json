@@ -1,0 +1,977 @@
+{
+  "timestamp": 1790285596,
+  "status": "SUCCESS",
+  "result": {
+    "officeCode": "F214",
+    "waterClarity": [
+      [
+        "06/04/2019",
+        "13"
+      ],
+      [
+        "05/24/2006",
+        "12"
+      ],
+      [
+        "06/04/2014",
+        "9"
+      ]
+    ],
+    "maxDepthFeet": 48,
+    "averageWaterClarity": "11.3",
+    "sampledPlants": [],
+    "lakeName": "Alruss",
+    "littoralAcres": 14,
+    "county": "St. Louis",
+    "shoreLengthMiles": 1.19,
+    "surveys": [
+      {
+        "narrative": "<p>Alruss Lake is in Ecological Lake Class 10, which consists of 76 lakes in northeast Minnesota that are small and have very soft (unmineralized) water.  Alruss Lake is typical of lakes in this lake class except that it is smaller (29 acres) than the lake class average of 100 acres.Alruss Lake was thermally stratified in the spring of 1998 and retained very good oxygen (more than 5 ppm) to a depth of 29 ft, where the temperature was 43 F.  Alruss lake has no inlets; the outlet to Sandpit Lake has beaver dams and a waterfall which prevent fish movement.  Lake bottom substrates along the shoreline are boulder, sand, ledgerock, and rubble.  Aquatic plants are sparse and grow to a depth of 6 ft; the most common plants are yellow waterlilies and three way sedge.The initial biological lake survey in 1965 captured no fish, although minnows were observed in the shallows.  Stream trout have been stocked annually since 1966, except for 1968 and 1976.  Alternate year stockings of rainbow trout and brook trout began in 1989 and continued through 1998.  The 1998 assessment caught five brook trout in two gillnets.  All of the brook trout were age two or older.  One of the four brook trout stomachs examined contained minnows, one contained unidentified fish and a crayfish, and two were empty.None of the rainbow trout fingerlings stocked the previous fall were caught, nor were any rainbows from prior stockings.The catch by weight of 5.5 lb of trout per gillnet in 1998 was lower than the average catch of 10.2 lb per gillnet in seven previous trout assessments in Alruss Lake, but was near the median catch of 6.0 lb per gillnet for recent assessments on 24 stream trout lakes in the Ely Fisheries Management Area.</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "2.20",
+            "species": "BKT",
+            "totalCatch": 5,
+            "gear": "Standard gill nets",
+            "totalWeight": 4987,
+            "gearCount": 2,
+            "CPUE": "2.50",
+            "quartileWeight": "N/A"
+          },
+          {
+            "averageWeight": "0.95",
+            "species": "WTS",
+            "quartileCount": "1.2-4.9",
+            "totalWeight": 1286,
+            "gear": "Standard gill nets",
+            "CPUE": "1.50",
+            "gearCount": 2,
+            "quartileWeight": "1.6-2.4",
+            "totalCatch": 3
+          }
+        ],
+        "headerInfo": {
+          "survey_id": "109289",
+          "county": "St. Louis",
+          "wb_id": "69000500",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "id_date": "1998-05-27",
+          "wb_type": "Lake",
+          "wb_name": "Alruss"
+        },
+        "lengths": {
+          "BKT": {
+            "minimum_length": 13,
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 12,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyDate": "1998-05-27",
+        "surveyID": "109289",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "narrative": "<p>Alruss Lake is in Ecological Lake Class 10, which consists of 76 lakes in northeast Minnesota that are small and have clear and soft (unmineralized) water. Alruss Lake is typical of lakes in this lake class except that it is smaller (29 acres) than the lake class average of 100 acres.Alruss Lake was thermally stratified on 06/05/2002 and retained good oxygen for trout (more than 5 ppm) to a depth of 42 ft, where the temperature was 42 F. Previous investigations showed that in midsummer, 5 ppm oxygen was retained to a depth of about 25 ft, where the temperature was about 60 F. Alruss Lake has no inlets; the outlet to Sandpit Lake has beaver dams and a waterfall which prevent fish movement. Shoal substrates are 44% boulder, 26% sand, 19% ledgerock, and 11% rubble. Aquatic plants are sparse and grow to a depth of 6 ft; the most common plants are yellow waterlilies and three way sedge.This special early summer gillnet assessment for stream trout consisted of one gillnet sets. A second gillnet set was not done due to the high catch of trout in the first set. Two lake surveys and seven special stream trout assessments were previously conducted on Alruss Lake, dating back to 1965. Most of these investigations were done in late May or early June and consisted of 1-2 gillnet sets.The initial lake survey in 1965 caught no fish, although minnows were observed near shore. Stream trout have been stocked annually beginning in 1966, except for 1968 and 1976. Only brook trout have been stocked since 1998.The 2002 assessment caught 12 brook trout in one gillnet. Four of these brook trout, averaging 7.0\" had been stocked the previous fall as fingerlings. Seven trout, averaging 13.4\", were age two. One 20\" trout was age three or older. Six of the trout stomachs were empty, while four contained minnows and two contained insect parts.The 2002 trout catch in Alruss Lake of 13.2 lbs/gillnet was higher than the median catch of 9.0 lbs/gillnet for all nine investigations on this lake since trout stocking began, and was higher than the median catch of 5.0 lbs/gillnet in recent investigations on 25 stream trout lakes in the Tower Fisheries Management Area.Also caught in 2002 were six small white sucker. Low numbers of sucker, generally small, have been captured in every investigation since trout stocking began.  Minnows were also observed in shallow waters by the survey crew in 2002.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 12,
+            "CPUE": "12.00",
+            "gearCount": 1,
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "totalWeight": 5976,
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "averageWeight": "1.10"
+          },
+          {
+            "totalCatch": 6,
+            "totalWeight": 785,
+            "gear": "Standard gill nets",
+            "CPUE": "6.00",
+            "gearCount": 1,
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.2-4.9",
+            "averageWeight": "0.29",
+            "species": "WTS"
+          }
+        ],
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 6
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "maximum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyDate": "2002-06-05",
+        "headerInfo": {
+          "id_date": "2002-06-05",
+          "wb_name": "Alruss",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "county": "St. Louis",
+          "wb_id": "69000500",
+          "survey_id": "109456"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyID": "109456"
+      },
+      {
+        "surveyID": "20162413826259000",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Standard Survey",
+        "headerInfo": {
+          "survey_id": "20162413826259000",
+          "wb_id": "69000500",
+          "county": "St. Louis",
+          "survey_type": "Standard Survey",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "Alruss",
+          "id_date": "2024-05-22"
+        },
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                7
+              ],
+              [
+                12,
+                9
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 14
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 14,
+            "minimum_length": 9
+          }
+        },
+        "surveyDate": "2024-05-22",
+        "narrative": "<p>Alruss is a 28-acre designated stream trout lake located nine miles north of Ely in the Boundary Waters Canoe Area Wilderness. The lake has light green water and provides excellent trout habitat. It sits perched on the landscape and is surrounded by a mature forest of pine with a hardwood understory. Fall colors can be exceptional. No U.S. Forest Service campsites are present, but a few spots suitable for lunch exist. Brook trout are currently stocked annually. <br> \n <br> \nAccess to Alruss is by a 90-rod portage east of the pond between Mudro and Fourtown lakes. It is not officially maintained by the U.S. Forest Service and can be rather discrete. Winter anglers should take caution on the pond. Current in this area often leads to unsafe ice conditions, and the steep shoreline can complicate overland bypass. A 100-rod portage formerly existed from Sandpit Lake, but a few mossy sawn logs are all that remained as of 2024. Reclamation to nature is effectively complete. <br> \n <br> \nThe 2024 survey consisted of two gillnet sets. Brook trout abundance (14/net) was the highest on record for Alruss. Lengths ranged from seven to 14.5 inches with an average of 12 inches, which was identical to the lake average. Fish from at least two years of stocking events were present. Trout stomach contents were composed almost entirely of chironomid midges. <br> \n <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 28,
+            "gear": "Standard gill nets",
+            "totalWeight": 8847,
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "CPUE": "14.00",
+            "quartileCount": "N/A",
+            "averageWeight": "0.70",
+            "species": "BKT"
+          },
+          {
+            "totalCatch": 5,
+            "gear": "Standard gill nets",
+            "totalWeight": 1316,
+            "CPUE": "2.50",
+            "gearCount": 2,
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.2-4.9",
+            "averageWeight": "0.58",
+            "species": "WTS"
+          }
+        ]
+      },
+      {
+        "narrative": "<p>Splake are present in above average numbers; brook trout and white sucker are present in below numbers. Numbers of all trout were well above average, survival and growth of splake appears good, while survival and growth of brook trout appears to be poor - no brook trout older than the 1985 stocking were observed.</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.65",
+            "species": "SPT",
+            "totalCatch": 24,
+            "gear": "Standard gill nets",
+            "totalWeight": 15.7,
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "CPUE": "12.00"
+          },
+          {
+            "totalCatch": 5,
+            "totalWeight": 0.5,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "CPUE": "2.50",
+            "quartileCount": "N/A",
+            "averageWeight": "0.10",
+            "species": "BKT"
+          },
+          {
+            "totalWeight": 0.2,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-2.4",
+            "gearCount": 2,
+            "CPUE": "0.50",
+            "totalCatch": 1,
+            "averageWeight": "0.20",
+            "species": "WTS",
+            "quartileCount": "1.2-4.9"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyID": "108335",
+        "surveyDate": "1986-05-22",
+        "lengths": {},
+        "headerInfo": {
+          "survey_id": "108335",
+          "wb_id": "69000500",
+          "county": "St. Louis",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "Alruss",
+          "id_date": "1986-05-22"
+        }
+      },
+      {
+        "narrative": "<p>Splake were found to be utilizing blackchin shiners as forage. Brook trout and splake are present for a combines gill net capture of 5.0, which is average for the area. Moderate numbers of white sucker are also present. </p>",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 20.5,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "CPUE": "3.50",
+            "totalCatch": 7,
+            "averageWeight": "2.93",
+            "species": "SPT",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 3,
+            "CPUE": "1.50",
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "totalWeight": 2.1,
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "averageWeight": "0.70"
+          },
+          {
+            "totalCatch": 6,
+            "totalWeight": 9.7,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-2.4",
+            "gearCount": 2,
+            "CPUE": "3.00",
+            "quartileCount": "1.2-4.9",
+            "averageWeight": "1.62",
+            "species": "WTS"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyID": "108370",
+        "lengths": {},
+        "surveyDate": "1988-06-01",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "id_date": "1988-06-01",
+          "wb_name": "Alruss",
+          "wb_type": "Lake",
+          "survey_id": "108370",
+          "county": "St. Louis",
+          "wb_id": "69000500"
+        }
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyID": "108457",
+        "lengths": {},
+        "surveyDate": "1990-06-11",
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_id": "69000500",
+          "survey_id": "108457",
+          "id_date": "1990-06-11",
+          "wb_name": "Alruss",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment"
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.00",
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "totalWeight": 0.3,
+            "gear": "Standard gill nets",
+            "totalCatch": 2,
+            "species": "RBT",
+            "averageWeight": "0.15",
+            "quartileCount": "N/A"
+          },
+          {
+            "species": "SPT",
+            "averageWeight": "2.07",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "CPUE": "5.50",
+            "totalWeight": 22.8,
+            "gear": "Standard gill nets",
+            "totalCatch": 11
+          },
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.46",
+            "species": "BKT",
+            "totalCatch": 5,
+            "totalWeight": 2.3,
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "CPUE": "2.50",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 5,
+            "gear": "Standard gill nets",
+            "totalWeight": 1.5,
+            "gearCount": 2,
+            "CPUE": "2.50",
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.2-4.9",
+            "averageWeight": "0.30",
+            "species": "WTS"
+          }
+        ],
+        "narrative": "<p>Splake are the most abundant and largest fish present, followed by brook trout, white sucker, and rainbow trout. The two small, 7 trout are from the fall, 1989 stocking. The 13 stocking; the largest splake are probably from the 1984 or1985 stocking. Splake growth appears to be good. There are no stream trout medians for lake class 4. </p>"
+      },
+      {
+        "narrative": "<p>One gillnet captured 20.4 lbs of trout, which included one large splake weighing 6.2 lbs and 16 brook trout averaging 0.9 lbs each.  By comparison 24 Ely area stream trout lakes averaged 11.6 lbs of trout per gillnet in recent assessments.  No rainbow trout were captured during this assessment.Brook trout sizes ranged from 12\" to 15\" and averaged 13.6\".  It is likely they are all from the fall 1992 fingerling stocking.  Trout captured during this assessment were in good condition and had been foraging mostly on invertebrates and some monnows (see Field Notes). Also captured in this assessment were several white suckers.  </p>",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 1,
+            "quartileWeight": "N/A",
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 2800,
+            "totalCatch": 1,
+            "species": "SPT",
+            "averageWeight": "6.17",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalWeight": 6525,
+            "gear": "Standard gill nets",
+            "gearCount": 1,
+            "quartileWeight": "N/A",
+            "CPUE": "16.00",
+            "totalCatch": 16,
+            "averageWeight": "0.90",
+            "species": "BKT",
+            "quartileCount": "N/A"
+          },
+          {
+            "averageWeight": "2.30",
+            "species": "WTS",
+            "quartileCount": "1.2-4.9",
+            "totalWeight": 3134,
+            "gear": "Standard gill nets",
+            "CPUE": "3.00",
+            "gearCount": 1,
+            "quartileWeight": "1.6-2.4",
+            "totalCatch": 3
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyID": "108669",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "69000500",
+          "county": "St. Louis",
+          "survey_id": "108669",
+          "wb_type": "Lake",
+          "wb_name": "Alruss",
+          "id_date": "1994-06-06",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": ""
+        },
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                2
+              ]
+            ],
+            "minimum_length": 11,
+            "maximum_length": 15
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                8,
+                2
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 19
+          },
+          "SPT": {
+            "minimum_length": 26,
+            "maximum_length": 26,
+            "fishCount": [
+              [
+                26,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyDate": "1994-06-06"
+      },
+      {
+        "headerInfo": {
+          "wb_name": "Alruss",
+          "wb_type": "Lake",
+          "id_date": "2019-06-04",
+          "survey_type": "Standard Survey",
+          "wb_alt_name": "",
+          "wb_id": "69000500",
+          "county": "St. Louis",
+          "survey_id": "12641917151928013"
+        },
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 11,
+            "minimum_length": 6
+          },
+          "BKT": {
+            "maximum_length": 17,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                8
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                7,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyDate": "2019-06-04",
+        "surveyID": "12641917151928013",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Standard Survey",
+        "narrative": "<p>Alruss is a 28 acre designated stream trout lake located 9 miles north of Ely in the Boundary Waters Canoe Area Wilderness. The lake is surrounded by a rolling landscape of pines and mixed hardwoods, had light green tinted water with a secchi depth visibility of 13 feet, and has a maximum depth of 48 feet. Access is by a 90 rod portage from the east side of the pond between Mudro and Fourtown Lakes. The portage from Sandpit Lake (100 rods) was in poor condition at the time of the survey. There are no designated USFS campsites present. Brook trout fingerlings are annually stocked by plane.  <br> \n <br> \nBrook trout numbers were 11/net which is lower than in the previous survey, but higher than the long term average of 6/net for the lake. Fish sizes were similar to past surveys. The average brook trout sampled in 2019 was 12.6 inches long and weighed 1 pound, slightly larger than the long term average of 12 inches. The largest two fish were a respectable 17 inches long. Trout from four year classes appeared to be present, with the smallest fish coming from the previous fall's stocking. Total yield was 11 pounds/net, which ranks in the top ten of Tower area stream trout lakes. Stomach contents indicated that trout were feeding upon a variety of aquatic invertebrates. White sucker numbers and size structure remained low and were also similar to previous surveys. <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "species": "BKT",
+            "averageWeight": "0.92",
+            "quartileCount": "N/A",
+            "CPUE": "11.00",
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "totalWeight": 9154,
+            "totalCatch": 22
+          },
+          {
+            "gearCount": 2,
+            "CPUE": "3.00",
+            "quartileWeight": "1.6-2.4",
+            "totalWeight": 870,
+            "gear": "Standard gill nets",
+            "totalCatch": 6,
+            "species": "WTS",
+            "averageWeight": "0.32",
+            "quartileCount": "1.2-4.9"
+          }
+        ]
+      },
+      {
+        "surveyID": "1110633137658000",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "id_date": "2006-05-24",
+          "wb_name": "Alruss",
+          "wb_type": "Lake",
+          "survey_id": "1110633137658000",
+          "county": "St. Louis",
+          "wb_id": "69000500"
+        },
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 13
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 14
+          }
+        },
+        "surveyDate": "2006-05-24",
+        "narrative": "<p>Alruss Lake is in Ecological Lake Class 10, which consists of 76 lakes in northeast Minnesota that are small and have clear and soft (unmineralized) water.  Alruss Lake is smaller than most of the lakes in this lake class. <br> \n <br> \nAlruss Lake was thermally stratified on 05/24/2006 with a surface temperature of 62 F and a bottom temperature of 41 F.  Adequate oxygen for trout (more than 5 ppm) was retained to a depth of 32 feet, where the temperature was 42 F.  Previous investigations showed that in midsummer, 5 ppm oxygen is retained to a depth of about 25 feet, where the temperature was about 60 F.  Alruss Lake has no inlets.  The outlet to Sandpit Lake has beaver dams and a waterfall that prevent fish movement.  Lake bottom substrates along the shoreline are 44% boulder, 26% sand, 19% ledgerock, and 11% rubble.  Aquatic plants are sparse and grow to a depth of 6 feet. The most common plants are yellow waterlilies and three-way sedge.  <br> \n <br> \nThis early summer gillnet assessment for stream trout consisted of two gillnet sets.  Two fisheries lake surveys and eight gillnet assessments were previously conducted on Alruss Lake, dating back to 1965.  Most of these previous investigations were done in late May or early June and consisted of 1-2 gillnet sets. <br> \n <br> \nThe initial fisheries lake survey in 1965 caught no fish, although minnows were observed near the shore.  Rainbow trout, splake, or brook trout have been stocked annually since 1966, except for 1968 and 1976.  Only brook trout have been stocked since 2000. <br> \n <br> \nSeven brook trout (3.5/gillnet) were caught in 2006.  One of these brook trout had been stocked as a fingerling the previous fall and had grown to a length of 6.7 inches when recaptured eight months later.  Six brook trout had been stocked as fingerlings in the fall of 2004 and averaged 13.7 inches (range: 12.6 inches to 14.9 inches) when recaptured 20 months later.  Five of the trout stomachs contained chironomid midge larvae or adults, while one contained a fathead minnow and one was empty. <br> \n <br> \nThe 2006 trout catch of 3.7 lb/gillnet was lower than the median trout catch of 8.5 lb/gillnet in all investigations on this lake, but was similar to the median trout catch of 4.2 lb/gillnet in recent investigations of 25 stream trout lakes in the Tower Fisheries Management Area. <br> \n <br> \nAlruss Lake has had a low population of small white sucker since 1978.  The 2006 sucker catch of 2.0/gillnet with an average length of 10.6 inches was similar to previous sucker catches.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 3326,
+            "gear": "Standard gill nets",
+            "CPUE": "3.50",
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "totalCatch": 7,
+            "averageWeight": "1.05",
+            "species": "BKT",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileCount": "1.2-4.9",
+            "species": "WTS",
+            "averageWeight": "0.57",
+            "totalCatch": 4,
+            "gearCount": 2,
+            "quartileWeight": "1.6-2.4",
+            "CPUE": "2.00",
+            "totalWeight": 1031,
+            "gear": "Standard gill nets"
+          }
+        ]
+      },
+      {
+        "surveyDate": "1980-07-02",
+        "lengths": {},
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_name": "Alruss",
+          "id_date": "1980-07-02",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_id": "69000500",
+          "county": "St. Louis",
+          "survey_id": "108079"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyID": "108079",
+        "narrative": "<p>Alruss Lake contains above average populations of brook trout and white suckers.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 9,
+            "totalWeight": 9,
+            "gear": "Standard gill nets",
+            "CPUE": "9.00",
+            "gearCount": 1,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "averageWeight": "1.00",
+            "species": "BKT"
+          },
+          {
+            "species": "WTS",
+            "averageWeight": "0.69",
+            "quartileCount": "1.2-4.9",
+            "gearCount": 1,
+            "CPUE": "8.00",
+            "quartileWeight": "1.6-2.4",
+            "totalWeight": 5.5,
+            "gear": "Standard gill nets",
+            "totalCatch": 8
+          }
+        ]
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "2.17",
+            "species": "SPT",
+            "totalCatch": 6,
+            "totalWeight": 13,
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "CPUE": "3.00",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "averageWeight": "0.50",
+            "totalCatch": 6,
+            "CPUE": "3.00",
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "totalWeight": 3,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "1.2-4.9",
+            "species": "WTS",
+            "averageWeight": "0.47",
+            "totalCatch": 7,
+            "gearCount": 2,
+            "quartileWeight": "1.6-2.4",
+            "CPUE": "3.50",
+            "totalWeight": 3.3,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>Composed of about average populations of brook trout, splake and white suckers. The splake appear to have done quite well & a good population is present especially considering that there has only been one year of stocking. </p>",
+        "surveyID": "108235",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_name": "Alruss",
+          "id_date": "1983-06-20",
+          "survey_type": "Re-Survey",
+          "wb_alt_name": "",
+          "wb_id": "69000500",
+          "county": "St. Louis",
+          "survey_id": "108235"
+        },
+        "lengths": {},
+        "surveyDate": "1983-06-20"
+      },
+      {
+        "lengths": {
+          "WTS": {
+            "maximum_length": 17,
+            "minimum_length": 17,
+            "fishCount": [
+              [
+                17,
+                1
+              ]
+            ]
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                8
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "minimum_length": 10,
+            "maximum_length": 19
+          }
+        },
+        "surveyDate": "2014-06-04",
+        "headerInfo": {
+          "survey_id": "6851429551307250",
+          "county": "St. Louis",
+          "wb_id": "69000500",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "id_date": "2014-06-04",
+          "wb_name": "Alruss",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "6851429551307250",
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Alruss Lake is located approximately 9 miles N of Ely and is entirely within the BWCAW. This remote 28 acre lake has a long history of stream trout management dating back to 1966. Brook trout fingerlings have been stocked since 2000 and low numbers of white sucker have been sampled. Minnows are commonly observed near shore. <br> \n <br> \nAccess is by a 90 rod, user maintained portage from the east side of the pond between Mudro and Fourtown Lakes. There is another more discrete portage from Sandpit Lake (100 rods) that is poorly maintained. There are no designated USFS campsites present. <br> \n <br> \nBrook trout numbers in 2014 (13.0/gill net) were much higher than the long term average of 3.3/gill net from the previous 10 assessments since brook trout stocking began. The average brook trout sampled was 13.6 inches long which is slightly larger than the average length of 12.0 inches for the previous assessments. The largest brookie sampled in 2014 was a very respectable 19.1 inches long. <br> \n <br> \nThe 2014 brook trout catch of 14.2 lbs/gill net was considerably higher than the long term average of 5.2 lbs/gill net. The previous 10 assessments with brook trout sampled ranged from 0.2 lbs/gill net to 14.4 lbs/gill net. <br> \n <br> \n <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "1.09",
+            "species": "BKT",
+            "totalCatch": 26,
+            "gear": "Standard gill nets",
+            "totalWeight": 12837,
+            "gearCount": 2,
+            "CPUE": "13.00",
+            "quartileWeight": "N/A"
+          },
+          {
+            "species": "WTS",
+            "averageWeight": "2.07",
+            "quartileCount": "1.2-4.9",
+            "quartileWeight": "1.6-2.4",
+            "gearCount": 2,
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "totalWeight": 940,
+            "totalCatch": 1
+          }
+        ]
+      }
+    ],
+    "areaAcres": 28.18,
+    "meanDepthFeet": 0,
+    "DOWNumber": "69000500",
+    "accesses": [
+      {
+        "location": "Not on most maps",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "90 rod portage from pond between Mudro and Fourtown",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO"
+      },
+      {
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "100 rod portage from Sandpit Lake.",
+        "location": "Light use and difficult to find"
+      }
+    ]
+  },
+  "message": "Normal execution."
+}

@@ -1,0 +1,692 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "PO",
+        "location": "",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT"
+      }
+    ],
+    "shoreLengthMiles": 11.25,
+    "areaAcres": 615.87,
+    "county": "Cook",
+    "meanDepthFeet": 16,
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "surveyID": "12821731938847003",
+        "lengths": {
+          "LAT": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                11
+              ],
+              [
+                16,
+                9
+              ],
+              [
+                17,
+                8
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 25
+          },
+          "YEP": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                4
+              ]
+            ],
+            "maximum_length": 7
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                12,
+                8
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                6,
+                9
+              ],
+              [
+                7,
+                28
+              ],
+              [
+                8,
+                5
+              ],
+              [
+                9,
+                9
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 19
+          },
+          "BUB": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 11
+          }
+        },
+        "narrative": "<p>Gillis Lake is a classic deep, clear Canadian Shield lake, located deep inside the Boundary Waters Canoe Area Wilderness. It is considered a Class 1 with Lake Trout listed as the primary management species in the current (2016) lake management plan.  Management goals for Lake Trout in this lake are to maintain a minimum gill net catch of 2.0 fish/set (deep and shallow combined), with at least three year classes of mature fish present.  This was the first of two surveys scheduled in the 2016 plan to monitor fish populations in this important native Lake Trout lake.  The last survey of Gillis Lake was done in 1997. <br> \n <br> \nLake Trout appeared to have been abundant in Gillis Lake in 2017, and, while very few large fish were present, plenty of 15-20 fish were found.  The 2017 Lake Trout gill net catch (6.67 fish/set) easily exceeded the long range goal for the lake, as did the number of mature year classes sampled.  The 2017 catch was the highest seen to date in Gillis Lake, and was above the normal range for Class 1 lakes.  Lake Trout ranged in length from 9.5 to 25.3 inches, with most in the 15 to 20-inch length range.  Sizes seen in 2017 were similar to those seen in this lake in past surveys.  Sixteen year classes, including fish up to 22 years of age, contributed to the catch.  Lake Trout growth had been slow; fish reached a mean length of 14.7 inches at the end of their seventh year, compared to an area average of 18.1 inches in Class 1 lakes.  Slow growth has been common in lakes like Gillis, where cold-water forage fish are lacking and Lake Trout rely heavily on invertebrate forage.   <br> \n <br> \nLake Trout taken in this survey appeared to have been feeding mostly on small aquatic invertebrates, although a few stomachs holding fish or fish remains were observed.  A few Burbot and sculpin were available as cold-water forage, but few Lake Trout seemed to have found them. <br> \n <br> \nWhite Sucker appeared to have been abundant but small in 2017.  The gill net catch was the highest seen to date in this lake, while the mean weight for fish taklen in gill nets was the lowest.  From the length frequency distribution of the catch it seemed that both were due to the presence of a strong recent year class that had produced an unusually large number of fish in the six-to-seven-inch size range.  Smaller White Sucker could provide forage for Lake Trout at certain times of the year, although none were seen in Lake Trout stomachs during this survey. <br> \n  <br> \nThe low Yellow Perch catch seen in 2017 was typical for this lake, and for Class 1 lakes in general.  Northern Pike are also present in Gillis Lake, although none were sampled in 2017 and their numbers are likely very low.  Walleye and Smallmouth Bass are not native to lakes in this area, and to date none have been found in Gillis Lake or any other lakes in its vicinity.    <br> \n <br> \nSix sites were selected and sampled with a 15-foot, eighth-inch-mesh seine to provide some information on the nearshore fish community in this lake.  Sample sites where chosen where conditions would allow the crew to safely walk, and where the seine could be pulled over a relatively snag free bottom.  In those areas, at least, small fish seemed to have been scarce.  In total seining sampled 12 Iowa Darters and seven Bluntnose Minnows.  </p>",
+        "surveyDate": "2017-06-19",
+        "headerInfo": {
+          "survey_id": "12821731938847003",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_name": "Gillis",
+          "id_date": "2017-06-19",
+          "wb_id": "16075300",
+          "survey_type": "Standard Survey"
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "totalCatch": 12,
+            "species": "IOD",
+            "quartileWeight": "N/A",
+            "CPUE": "2.00",
+            "gearCount": 6,
+            "gear": "15-ft beach seine",
+            "totalWeight": 0,
+            "averageWeight": "0.00"
+          },
+          {
+            "quartileWeight": "0.7-1.9",
+            "CPUE": "0.22",
+            "gearCount": 9,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.29",
+            "totalWeight": 264,
+            "quartileCount": "0.3-1.3",
+            "totalCatch": 2,
+            "species": "BUB"
+          },
+          {
+            "CPUE": "6.67",
+            "averageWeight": "1.45",
+            "gearCount": 9,
+            "gear": "Standard gill nets",
+            "totalWeight": 39398,
+            "quartileWeight": "1.2-3.1",
+            "species": "LAT",
+            "totalCatch": 60,
+            "quartileCount": "0.8-4.3"
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "averageWeight": "0.15",
+            "totalWeight": 412,
+            "CPUE": "0.67",
+            "quartileCount": "0.3-2.8",
+            "species": "YEP",
+            "totalCatch": 6
+          },
+          {
+            "totalCatch": 7,
+            "species": "BNM",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "totalWeight": 0,
+            "gear": "15-ft beach seine",
+            "averageWeight": "0.00",
+            "CPUE": "1.17",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "gearCount": 9,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.83",
+            "totalWeight": 35858,
+            "CPUE": "10.56",
+            "quartileCount": "1.7-5.0",
+            "species": "WTS",
+            "totalCatch": 95
+          }
+        ],
+        "surveySubType": "Standard Survey"
+      },
+      {
+        "lengths": {
+          "NOP": {
+            "maximum_length": 38,
+            "fishCount": [
+              [
+                38,
+                1
+              ]
+            ],
+            "minimum_length": 38
+          },
+          "YEP": {
+            "maximum_length": 7,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                18
+              ],
+              [
+                7,
+                2
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                14
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                15
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "maximum_length": 21
+          },
+          "BUB": {
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9
+          },
+          "LAT": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                8
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                7
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 28
+          }
+        },
+        "narrative": "<p>Lake trout were abundant, but most were less than 18 inches in length, as has typically been the case in this lake.  Lake trout growth rates appeared to have been about average for this area.  Several naturally produced year classes were included in the catch, with the strongest produced in 1993.</p>",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_id": "16075300",
+          "id_date": "1997-07-21",
+          "wb_name": "Gillis",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "survey_id": "110800"
+        },
+        "surveyDate": "1997-07-21",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "0.7-1.9",
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "averageWeight": "0.70",
+            "totalWeight": 2230,
+            "CPUE": "0.78",
+            "quartileCount": "0.3-1.3",
+            "species": "BUB",
+            "totalCatch": 7
+          },
+          {
+            "quartileCount": "0.8-4.3",
+            "totalCatch": 55,
+            "species": "LAT",
+            "quartileWeight": "1.2-3.1",
+            "CPUE": "6.11",
+            "gearCount": 9,
+            "averageWeight": "1.23",
+            "totalWeight": 30762,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "2.7-5.3",
+            "totalWeight": 6600,
+            "gearCount": 9,
+            "averageWeight": "14.55",
+            "gear": "Standard gill nets",
+            "CPUE": "0.11",
+            "quartileCount": "0.3-1.0",
+            "totalCatch": 1,
+            "species": "NOP"
+          },
+          {
+            "species": "YEP",
+            "totalCatch": 22,
+            "quartileCount": "0.3-2.8",
+            "CPUE": "2.44",
+            "totalWeight": 1080,
+            "gearCount": 9,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.11",
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "species": "WTS",
+            "totalCatch": 63,
+            "quartileCount": "1.7-5.0",
+            "CPUE": "7.00",
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "totalWeight": 41718,
+            "averageWeight": "1.46",
+            "quartileWeight": "1.6-2.4"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyID": "110800"
+      },
+      {
+        "surveyID": "109815",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "0.7-1.9",
+            "gearCount": 16,
+            "averageWeight": "0.45",
+            "totalWeight": 3.13,
+            "gear": "Standard gill nets",
+            "CPUE": "0.44",
+            "quartileCount": "0.3-1.3",
+            "totalCatch": 7,
+            "species": "BUB"
+          },
+          {
+            "quartileCount": "0.8-4.3",
+            "species": "LAT",
+            "totalCatch": 35,
+            "quartileWeight": "1.2-3.1",
+            "gearCount": 16,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.70",
+            "totalWeight": 59.4,
+            "CPUE": "2.19"
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "1.06",
+            "averageWeight": "0.09",
+            "gearCount": 16,
+            "gear": "Standard gill nets",
+            "totalWeight": 1.6,
+            "quartileCount": "0.3-2.8",
+            "totalCatch": 17,
+            "species": "YEP"
+          },
+          {
+            "CPUE": "8.62",
+            "gear": "Standard gill nets",
+            "gearCount": 16,
+            "averageWeight": "1.19",
+            "totalWeight": 164.9,
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "totalCatch": 138,
+            "quartileCount": "1.7-5.0"
+          }
+        ],
+        "surveyDate": "1980-07-21",
+        "headerInfo": {
+          "survey_id": "109815",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Gillis",
+          "id_date": "1980-07-21",
+          "survey_type": "Initial Survey",
+          "wb_id": "16075300"
+        },
+        "narrative": "<p>The present Lake Trout population is satisfactory. All size classes are present.  Spawning areas for N Pike are very limited.  There is a large pop. of Suckers represented, with Perch and Burbot present.</p>",
+        "lengths": {}
+      },
+      {
+        "surveyID": "110680",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.3-1.3",
+            "species": "BUB",
+            "totalCatch": 2,
+            "quartileWeight": "0.7-1.9",
+            "gearCount": 9,
+            "gear": "Standard gill nets",
+            "totalWeight": 1.94,
+            "averageWeight": "0.97",
+            "CPUE": "0.22"
+          },
+          {
+            "totalCatch": 38,
+            "species": "LAT",
+            "quartileCount": "0.8-4.3",
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "averageWeight": "1.54",
+            "totalWeight": 58.63,
+            "CPUE": "4.22",
+            "quartileWeight": "1.2-3.1"
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "averageWeight": "1.58",
+            "gearCount": 9,
+            "totalWeight": 34.75,
+            "gear": "Standard gill nets",
+            "CPUE": "2.44",
+            "quartileCount": "1.7-5.0",
+            "totalCatch": 22,
+            "species": "WTS"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>The lake trout catch was above the normal range for lakes of this ecological class, and was higher than the catch in the 1980 survey.  Several year classes were represented in the catch, with the strongest being the 1987 and 1986 year classes.  Growth of age-6 lake trout was above average for lakes of this area, but the growth of age-3 fish had been somewhat below average.The white sucker catch was within the normal range for lakes of this class, and two burbot were collected.  Northern pike and yellow perch have been collected in this lake in the past, but none were taken in this assessment.</p>",
+        "lengths": {},
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Gillis",
+          "id_date": "1992-07-21",
+          "wb_id": "16075300",
+          "survey_type": "Population Assessment",
+          "survey_id": "110680",
+          "wb_type": "Lake",
+          "county": "Cook"
+        },
+        "surveyDate": "1992-07-21"
+      },
+      {
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Gillis Lake on August 7, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 34.6 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 97.5 feet at the time of sampling. The thickness of this layer in the water column was 62.8 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.8 degrees C (42.4 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nThis is the first survey completed on Gillis Lake during the late summer thermal stress period, however, data collected outside the thermal maximum period from 1980-2017 indicated suitable oxythermal habitat during those sampling periods. The least favorable conditions were recorded in 1992 when the suitable oxythermal habitat layer thickness was 67.8 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "lengths": {},
+        "headerInfo": {
+          "survey_id": "21872425452573271",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Gillis",
+          "id_date": "2024-08-07",
+          "survey_type": "Targeted Survey",
+          "wb_id": "16075300"
+        },
+        "surveyDate": "2024-08-07",
+        "surveyID": "21872425452573271",
+        "surveyType": "Targeted Survey"
+      }
+    ],
+    "waterClarity": [
+      [
+        "06/19/2017",
+        "17"
+      ],
+      [
+        "07/24/1980",
+        "21"
+      ],
+      [
+        "07/21/1992",
+        "17.5"
+      ],
+      [
+        "08/07/2024",
+        "11.5"
+      ]
+    ],
+    "DOWNumber": "16075300",
+    "littoralAcres": 88,
+    "averageWaterClarity": "16.8",
+    "officeCode": "F218",
+    "lakeName": "Gillis",
+    "maxDepthFeet": 180
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285892
+}

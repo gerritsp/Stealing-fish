@@ -1,0 +1,77 @@
+{
+  "result": {
+    "meanDepthFeet": 0,
+    "littoralAcres": 23.49,
+    "sampledPlants": [],
+    "maxDepthFeet": 13,
+    "waterClarity": [
+      [
+        "07/01/1975",
+        "9"
+      ]
+    ],
+    "lakeName": "Ada",
+    "averageWaterClarity": "9.0",
+    "areaAcres": 23.49,
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "location": "0.2 mile portage from Ada Creek",
+        "lakeAccessComments": " ",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "PRMIT"
+      }
+    ],
+    "surveys": [
+      {
+        "surveyID": "109775",
+        "narrative": "<p>Ada Lake contains some Suckers and N Pike which may receive moderate fishing pressure from passing canoists.</p>",
+        "surveyDate": "1975-07-01",
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "1975-07-01",
+          "wb_type": "Lake",
+          "wb_id": "16051500",
+          "wb_name": "Ada",
+          "county": "Cook",
+          "survey_id": "109775",
+          "survey_type": "Initial Survey"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 11.5,
+            "species": "NOP",
+            "quartileWeight": "1.1-2.0",
+            "totalCatch": 6,
+            "quartileCount": "2.8-8.5",
+            "CPUE": "6.00",
+            "averageWeight": "1.92",
+            "gear": "Standard gill nets",
+            "gearCount": 1
+          },
+          {
+            "gearCount": 1,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.90",
+            "quartileCount": "4.0-14.5",
+            "CPUE": "10.00",
+            "totalCatch": 10,
+            "species": "WTS",
+            "quartileWeight": "1.4-2.5",
+            "totalWeight": 29
+          }
+        ]
+      }
+    ],
+    "county": "Cook",
+    "officeCode": "F218",
+    "DOWNumber": "16051500",
+    "shoreLengthMiles": 1.56
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285685
+}

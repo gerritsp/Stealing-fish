@@ -1,0 +1,459 @@
+{
+  "timestamp": 1790285534,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "waterClarity": [
+      [
+        "08/02/2010",
+        "7.9"
+      ]
+    ],
+    "meanDepthFeet": 12,
+    "surveys": [
+      {
+        "narrative": "<p>Test netting and shoreline seining captured Walleye, Northern Pike, Yellow Perch, White Sucker, Shiners, and Darters. Walleye net catches were high when compared to the statewide and area averages. Northern Pike catch was above the statewide average, but somewhat below the watershed average. Yellow Perch were abundant in the catch. Walleye taken ranged between 8.5-19.0 inches in length with the majority being less than 15 inches. Northern Pike ranged between 8.5-31.0 inches in length. Spawning conditions were rated \"fair to good\" for Northern Pike, \"fair\" for Walleye and centrarchid panfish, and \"fair to poor\" for Smallmouth and Largemouth Bass. The lake is regularly fished, usually by natives of the general area. A long portage (about 2 miles) is required, but good catches of Walleye apparently are taken. </p>",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyDate": "1962-10-02",
+        "headerInfo": {
+          "survey_id": "112143",
+          "county": "Lake",
+          "wb_id": "38044300",
+          "survey_type": "Initial Survey",
+          "wb_name": "Bog",
+          "id_date": "1962-10-02",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 8,
+            "quartileCount": "2.0-6.0",
+            "totalWeight": 0,
+            "totalCatch": 19,
+            "averageWeight": "0.00",
+            "quartileWeight": "1.3-2.5",
+            "species": "NOP",
+            "CPUE": "2.38"
+          },
+          {
+            "CPUE": "11.25",
+            "species": "WAE",
+            "quartileWeight": "0.8-1.3",
+            "averageWeight": "0.00",
+            "quartileCount": "3.2-13.7",
+            "totalWeight": 0,
+            "totalCatch": 90,
+            "gear": "Standard gill nets",
+            "gearCount": 8
+          },
+          {
+            "species": "YEP",
+            "CPUE": "12.38",
+            "averageWeight": "0.00",
+            "quartileWeight": "0.2-0.3",
+            "gearCount": 8,
+            "gear": "Standard gill nets",
+            "totalWeight": 0,
+            "totalCatch": 99,
+            "quartileCount": "4.7-15.8"
+          },
+          {
+            "quartileWeight": "1.4-2.4",
+            "averageWeight": "0.00",
+            "CPUE": "2.00",
+            "species": "WTS",
+            "quartileCount": "3.0-11.0",
+            "totalWeight": 0,
+            "totalCatch": 16,
+            "gear": "Standard gill nets",
+            "gearCount": 8
+          }
+        ],
+        "surveyID": "112143"
+      },
+      {
+        "surveyID": "112211",
+        "narrative": "<p>Walleye catch in gillnets was 2.2 times higher than the area average. Northern Pike catch in gillnets was about half of the area average. A good forage base is present, with Yellow Perch catch in gillnets 14.5/lift, which is about equal to the area average. </p>",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyDate": "1985-07-01",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "1985-07-01",
+          "wb_name": "Bog",
+          "survey_type": "Population Assessment",
+          "wb_id": "38044300",
+          "county": "Lake",
+          "survey_id": "112211"
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.1-0.3",
+            "totalWeight": 0.2,
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "CPUE": "0.25",
+            "species": "BUB",
+            "quartileWeight": "0.4-1.1",
+            "averageWeight": "0.20"
+          },
+          {
+            "species": "NOP",
+            "CPUE": "2.25",
+            "averageWeight": "1.94",
+            "quartileWeight": "1.3-2.5",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "totalWeight": 17.5,
+            "totalCatch": 9,
+            "quartileCount": "2.0-6.0"
+          },
+          {
+            "totalWeight": 51.5,
+            "totalCatch": 71,
+            "quartileCount": "3.2-13.7",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.8-1.3",
+            "averageWeight": "0.73",
+            "CPUE": "17.75",
+            "species": "WAE"
+          },
+          {
+            "quartileCount": "4.7-15.8",
+            "totalWeight": 25,
+            "totalCatch": 58,
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileWeight": "0.2-0.3",
+            "averageWeight": "0.43",
+            "CPUE": "14.50",
+            "species": "YEP"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalWeight": 0.5,
+            "totalCatch": 1,
+            "species": "BKT",
+            "CPUE": "0.25",
+            "averageWeight": "0.50",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "3.0-11.0",
+            "totalWeight": 55,
+            "totalCatch": 32,
+            "averageWeight": "1.72",
+            "quartileWeight": "1.4-2.4",
+            "species": "WTS",
+            "CPUE": "8.00"
+          }
+        ]
+      },
+      {
+        "surveyID": "4251021154828000",
+        "narrative": "<p>Bog Lake is a 249 acre body of water located approximately 11.5 miles north-northwest of Isabella, completely within the Boundary Waters Canoe Area Wilderness (BWCAW).  The present access is a 0.9 mile hiking trail from a small parking area (four cars) at the north end of USFS Rd. #377D.  A self registration box and day-use permits are located at the trail-head for day-trips and off-season camping.  From May 1 through September 30 a quota system is in place for overnight camping in the BWCAW, requiring a reservation (fee) for travel from each entry point.   All BWCAW regulations apply to Bog Lake and the access area; state-wide fishing regulations for inland waters apply to Bog Lake. <br> \n <br> \nThe lake has a maximum depth of 16 feet, 93% littoral, with a secchi disk reading of 7.9 feet in the brown, bog stained water.  Water quality indicated the lake was very soft and infertile.  Sand is the most common substrate followed by boulder, ledge rock and detritus.  Spawning habitat was rated as fair for northern pike, good for yellow perch and excellent for walleye. <br> \n <br> \nThe fish sample in 2010 consisted of northern pike, walleye, white sucker and yellow perch.  Walleye were sampled in above average numbers for northeastern Minnesota lakes with similar characteristics.  The average size of walleye was small at slightly less than 0.7 pound (11.75 inches); the largest walleye was 24.4 inches.  The walleye catch was similar to catches in previous population assessments, dating back to 1962, where high numbers of small walleye were also sampled.  Walleye growth was slow in Bog Lake compared to fish sampled in other Finland area assessments. <br> \n <br> \nNorthern pike were sampled in below average numbers for the lake class.  The northern pike average size was 3.5 pounds (24.5 inches); the largest northern pike was just over 32 inches.  Historically, the northern pike catch has been low numbers of small fish; the average size sampled in 2010 was the largest recorded in any assessment. <br> \n <br> \nYellow perch were sampled in above average numbers of above average size in the 2010 lake survey.  The average weight was 0.33 pound (8.1 inches); 52% of the yellow perch sampled were greater than 8 inches, the largest 11.4 inches.  Previous investigations have also recorded high numbers of good size yellow perch. <br> \n <br> \nAlthough Bog Lake is not on a major canoe route to other interior BWCAW lakes, the current fish community structure and abundance should attract anglers to this lake.  The lake's name is a misnomer as hard sand (not bog) is common along much of the shoreline.   <br> \n</p>",
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "wb_id": "38044300",
+          "county": "Lake",
+          "survey_id": "4251021154828000",
+          "id_date": "2010-08-02",
+          "survey_type": "Re-Survey",
+          "wb_name": "Bog",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                2
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                32,
+                1
+              ]
+            ],
+            "minimum_length": 17,
+            "maximum_length": 32
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                1,
+                10
+              ],
+              [
+                10,
+                12
+              ],
+              [
+                11,
+                6
+              ],
+              [
+                5,
+                24
+              ],
+              [
+                6,
+                10
+              ],
+              [
+                7,
+                20
+              ],
+              [
+                8,
+                17
+              ],
+              [
+                9,
+                24
+              ]
+            ],
+            "minimum_length": 1,
+            "maximum_length": 11
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ],
+            "minimum_length": 11,
+            "maximum_length": 18
+          },
+          "WAE": {
+            "maximum_length": 24,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                10,
+                7
+              ],
+              [
+                11,
+                13
+              ],
+              [
+                12,
+                14
+              ],
+              [
+                13,
+                21
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                7,
+                10
+              ],
+              [
+                8,
+                6
+              ],
+              [
+                9,
+                11
+              ]
+            ],
+            "minimum_length": 4
+          }
+        },
+        "surveyDate": "2010-08-02",
+        "fishCatchSummaries": [
+          {
+            "gear": "Survey seining",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalWeight": 0,
+            "totalCatch": 10,
+            "species": "YEP",
+            "CPUE": "2.50",
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A"
+          },
+          {
+            "species": "NOP",
+            "CPUE": "2.50",
+            "averageWeight": "3.55",
+            "quartileWeight": "1.3-2.5",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileCount": "2.0-6.0",
+            "totalWeight": 24170,
+            "totalCatch": 15
+          },
+          {
+            "averageWeight": "0.67",
+            "quartileWeight": "0.8-1.3",
+            "species": "WAE",
+            "CPUE": "15.83",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalWeight": 29024,
+            "totalCatch": 95,
+            "quartileCount": "3.2-13.7"
+          },
+          {
+            "quartileWeight": "0.2-0.3",
+            "averageWeight": "0.33",
+            "CPUE": "18.83",
+            "species": "YEP",
+            "quartileCount": "4.7-15.8",
+            "totalWeight": 16797,
+            "totalCatch": 113,
+            "gear": "Standard gill nets",
+            "gearCount": 6
+          },
+          {
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalWeight": 6415,
+            "totalCatch": 10,
+            "quartileCount": "3.0-11.0",
+            "species": "WTS",
+            "CPUE": "1.67",
+            "averageWeight": "1.41",
+            "quartileWeight": "1.4-2.4"
+          }
+        ]
+      }
+    ],
+    "shoreLengthMiles": 3.36,
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": "Carry-in access trail from end of USFS Rd #377D.  This 0.9 mile foot trail starts at a small parking area about 0.25 mile outside the BWCAW boundary.",
+        "location": " ",
+        "accessTypeId": "CA",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "sampledPlants": [
+      "Arrowhead Group (Sagittaria sp.)",
+      "Blue Flag Iris (Iris versicolor)",
+      "Dwarf Water milfoil (Myriophyllum tenellum)",
+      "Filamentous algae (Eukaryotic)",
+      "Flat-leaf Bladderwort (Utricularia intermedia)",
+      "Floating-leaf Burreed Group (Sparganium sp. )",
+      "Grass Group  (Gramineae/Poaceae Family)",
+      "Quillwort Group  (Isoetes sp.)",
+      "Sedge Group (Carex sp.)",
+      "Spikerush Group (Eleocharis sp.)",
+      "St. John's-wort Group (Hypericum sp.)",
+      "Swamp Horsetail (Equisetum fluviatile)",
+      "Variable -leaf Pondweed (Potamogeton gramineus)",
+      "Yellow Waterlily Group (Nuphar sp.)",
+      "hardstem bulrush (Schoenoplectus acutus)",
+      "laborador tea (Rhododendron groenlandicum)",
+      "leatherleaf (Chamaedaphne calyculata)",
+      "pipewort (Eriocaulon aquaticum)",
+      "ribbon-leaved pondweed (Potamogeton epihydrus)",
+      "three-way sedge (Dulichium arundinaceum)",
+      "water lobelia (Lobelia dortmanna)"
+    ],
+    "areaAcres": 258.52,
+    "county": "Lake",
+    "averageWaterClarity": "7.9",
+    "lakeName": "Bog",
+    "DOWNumber": "38044300",
+    "maxDepthFeet": 16,
+    "littoralAcres": 232,
+    "officeCode": "F215"
+  }
+}

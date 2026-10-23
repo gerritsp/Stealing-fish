@@ -1,0 +1,764 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "meanDepthFeet": 0,
+    "areaAcres": 883.53,
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "08/16/1983",
+        "10.5"
+      ],
+      [
+        "06/25/2019",
+        "9"
+      ],
+      [
+        "08/05/2025",
+        "9.5"
+      ]
+    ],
+    "county": "Cook",
+    "shoreLengthMiles": 23.4,
+    "surveys": [
+      {
+        "surveyDate": "1995-07-17",
+        "lengths": {
+          "NOP": {
+            "maximum_length": 31,
+            "minimum_length": 25,
+            "fishCount": [
+              [
+                25,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                31,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 25
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 18
+          },
+          "WTS": {
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                10
+              ],
+              [
+                20,
+                8
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "minimum_length": 9
+          }
+        },
+        "headerInfo": {
+          "wb_id": "16046000",
+          "wb_name": "Long Island",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "survey_id": "110549",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "1995-07-17"
+        },
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.36",
+            "gear": "Shallow gill nets",
+            "CPUE": "1.00",
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "totalCatch": 4,
+            "quartileCount": "N/A",
+            "species": "BUB",
+            "totalWeight": 2465
+          },
+          {
+            "averageWeight": "1.55",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "1.75",
+            "gearCount": 8,
+            "quartileCount": "N/A",
+            "totalCatch": 14,
+            "species": "WTS",
+            "totalWeight": 9829
+          },
+          {
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "totalCatch": 5,
+            "totalWeight": 4922,
+            "species": "LAT",
+            "averageWeight": "2.17",
+            "quartileWeight": "N/A",
+            "CPUE": "1.25",
+            "gear": "Shallow gill nets"
+          },
+          {
+            "species": "NOP",
+            "totalWeight": 5320,
+            "totalCatch": 3,
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "averageWeight": "3.91",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "0.75"
+          },
+          {
+            "averageWeight": "0.56",
+            "CPUE": "1.38",
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "totalWeight": 2801,
+            "species": "BUB",
+            "gearCount": 8,
+            "quartileCount": "N/A",
+            "totalCatch": 11
+          },
+          {
+            "quartileCount": "N/A",
+            "gearCount": 8,
+            "totalCatch": 5,
+            "totalWeight": 5849,
+            "species": "LAT",
+            "CPUE": "0.62",
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "averageWeight": "2.58"
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 39,
+            "species": "WTS",
+            "totalWeight": 33628,
+            "averageWeight": "1.90",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "9.75"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyID": "110549",
+        "narrative": "<p>Fair numbers of lake trout were collected, including fish up to 25 inches.  Fish from several year classes were present, but it appeared that natural reproduction might be sporadic.  Lake trout growth was about average for the area.  A few northern pike were collected, all 25 inches or larger.  There did not appear to be much northern pike reproduction in the lake.  Burbot were abundant, but mostly too small to interest anglers.  Since the lake was last checked in 1983, it appeared that lake trout numbers had increased and northern pike numbers had decreased.</p>"
+      },
+      {
+        "narrative": "<p>THE LAKE APPEARS TO HAVE A LOW LAKE TROUT POPULA- TION. HOWEVER, SAMPLING GEAR/METHODS MAY HAVE BEEN INEFFECTIVE. LIMITING FACTORS MAY BE SPAWNING HABITAT AND PREDATION BY NORTHERN PIKE AND PERHAPS BURBOT. THE NORTHERN PIKE POPUALTIONS ARE ABOUT AVG FOR THE AREA, WITH SEVERAL AGE CLASSES WELL REPRESENTED. BURBOT NUMBERS ARE HIGH, WITH SEVERAL AGE GROUPS SEEMINGLY INDICATED BY LENGTH-FREQUENCY YELLOW PERCH NUMBERS ARE LOW, ALTHOUGH SOME YOUNG- OF-YEAR WERE OBSERVED.</p>",
+        "surveyID": "109910",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "totalWeight": 11.4,
+            "gearCount": 12,
+            "quartileCount": "0.2-1.0",
+            "totalCatch": 17,
+            "averageWeight": "0.67",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "1.42"
+          },
+          {
+            "CPUE": "0.17",
+            "quartileWeight": "1.5-4.0",
+            "gear": "Standard gill nets",
+            "averageWeight": "4.05",
+            "totalWeight": 8.1,
+            "species": "LAT",
+            "totalCatch": 2,
+            "gearCount": 12,
+            "quartileCount": "0.4-3.7"
+          },
+          {
+            "averageWeight": "2.01",
+            "CPUE": "2.92",
+            "quartileWeight": "2.1-4.9",
+            "gear": "Standard gill nets",
+            "totalCatch": 35,
+            "gearCount": 12,
+            "quartileCount": "0.6-2.4",
+            "totalWeight": 70.2,
+            "species": "NOP"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "0.17",
+            "averageWeight": "0.12",
+            "species": "YEP",
+            "totalWeight": 0.25,
+            "gearCount": 12,
+            "quartileCount": "0.4-3.7",
+            "totalCatch": 2
+          },
+          {
+            "quartileCount": "0.8-5.3",
+            "gearCount": 12,
+            "totalCatch": 39,
+            "totalWeight": 70.8,
+            "species": "WTS",
+            "averageWeight": "1.82",
+            "CPUE": "3.25",
+            "quartileWeight": "1.1-2.5",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "headerInfo": {
+          "wb_id": "16046000",
+          "wb_name": "Long Island",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "survey_id": "109910",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "1983-08-15"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1983-08-15",
+        "lengths": {}
+      },
+      {
+        "surveyID": "17301919647345000",
+        "narrative": "<p>Long Island Lake is part of the headwaters for the Rainy River, draining to that system via the Cross River to Gunflint Lake.  Only two surveys of this lake have been done - one in 1983 and one in 1995.  Northern pike and lake trout are the only gamefish native to this lake.  Current (2016) long range goals for those species in Long Island Lake are a minimum lake trout gill net catch of 0.3 fish/set, and a minimum northern pike gill net catch of 1.5 fish/set, with some northern pike larger than 25 inches present.  This was the first of two standard surveys scheduled in the 2016 lake management plan revision to determine lake trout and northern pike relative abundance, size structure, growth rates, and age and size at maturity, and to identify any factors limiting the lake trout population.  The second is scheduled for 2024. <br> \n <br> \nFair numbers of lake trout were present in 2019, including some good-sized fish.  The 2019 lake trout catch was similar to the catch seen in the 1995 survey.  The gill net catch in deep and shallow sets combined (1.0 fish/set) met the goal for this lake established in the 2016 LMP.   Nine year classes, all naturally produced, contributed to the catch, although none appeared to have been exceptionally strong.  Lake trout as old as 29 years were sampled, and six of the 11 fish taken were over 20 years old.  Growth of young lake trout had been slow; across all age classes, fish reached a mean length of just 10.3 inches at the end of their fifth year, compared to an area average of 14.9 inches.  Other than burbot, lake trout in this lake have no cold-water forage species available, and young fish likely subsist mainly on an invertebrate diet.  That is common in many BWCAW lake trout lakes, and usually results in slow growth. <br> \n <br> \nA few northern pike were also present in 2019, but larger fish seemed to have been scarce.  The 2019 northern pike catch was more similar to the low catch seen in 1995 than to the much higher catch seen in the 1983 initial survey.  The gill net catch in deep and shallow sets combined (0.45 fish/set) was below the long range goal for the species, but the size goal was met.  Only three and four-year-old northern pike were taken in 2019.  Their growth appeared to have been faster than average for the area; they reached a mean length of 22.9 inches at the end of their third year, compared to an area average of 18.8 inches. <br> \n <br> \nThis was the first survey of any lake in the upper Cross River watershed to sample smallmouth bass.  We had hoped a low barrier falls below Karl Lake would keep that species from spreading any further into the BWCAW.  Their presence in Long Island Lake in 2019 suggests they may now have access to nearly all the lakes upstream of Karl Lake.  Fish from two year classes were taken in 2019, so it is likely smallmouth bass have been present and reproducing for some time.  Their abundance cannot be accurately gauged by any sampling method available to us in these remote waters. <br> \n <br> \nAlthough none were sampled, the possible presence of walleye in this lake was indicated by fish remains found near one of our 2019 sampling sites.  Walleye have also never been sampled in the upper Cross River system, and their presence might be more damaging than the presence of smallmouth bass, when it comes to effects on lake trout populations in these waters. <br> \n <br> \nMany lakes may be affected by the possible spread of smallmouth bass and walleye into this watershed.  Lake trout lakes that could be affected (depending on the presence of natural barriers to fish movement)  include Cash, Town, Cherokee, Gordon, Long Island, and Karl. <br> \n <br> \nCatches of white sucker, yellow perch, and burbot in 2019 were at least broadly similar to catches seen in past surveys.  All of the burbot taken were small.  Modest numbers of yellow perch and small white sucker were present to provide forage for northern pike.  A fairly high catch of bluntnose minnows in small-mesh trap nets suggested smaller northern pike also had access to fair numbers of minnows. <br> \n <br> \nThe use of small-mesh trap nets in 2019 marked the first time any attempt was made to better describe the near-shore fish community in this lake.  In addition to detecting the presence of smallmouth bass, those nets added Iowa darter, Johnny darter, blacknose shiner, bluntnose minnow, and western blacknose dace to the list of species known to be present. <br> \n</p>",
+        "lengths": {
+          "WTS": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                6,
+                4
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 21
+          },
+          "YEP": {
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                2,
+                11
+              ],
+              [
+                3,
+                13
+              ],
+              [
+                4,
+                4
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 2
+          },
+          "BUB": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "minimum_length": 10
+          },
+          "SMB": {
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 5
+          },
+          "NOP": {
+            "maximum_length": 27,
+            "fishCount": [
+              [
+                2,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                27,
+                1
+              ]
+            ],
+            "minimum_length": 2
+          },
+          "LAT": {
+            "maximum_length": 25,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                3
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 6
+          }
+        },
+        "surveyDate": "2019-06-25",
+        "headerInfo": {
+          "wb_id": "16046000",
+          "wb_name": "Long Island",
+          "county": "Cook",
+          "survey_type": "Standard Survey",
+          "survey_id": "17301919647345000",
+          "wb_alt_name": "",
+          "id_date": "2019-06-25",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 7,
+            "totalCatch": 8,
+            "quartileCount": "N/A",
+            "totalWeight": 9408,
+            "species": "LAT",
+            "averageWeight": "2.59",
+            "CPUE": "1.14",
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets"
+          },
+          {
+            "totalWeight": 0,
+            "species": "NOP",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "totalCatch": 1,
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A",
+            "CPUE": "0.17",
+            "gear": "Trapnet - Mini Fyke"
+          },
+          {
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "totalWeight": 0,
+            "species": "JND",
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A",
+            "CPUE": "0.17",
+            "gear": "Trapnet - Mini Fyke"
+          },
+          {
+            "averageWeight": "0.20",
+            "quartileWeight": "N/A",
+            "CPUE": "0.50",
+            "gear": "Shallow gill nets",
+            "totalCatch": 2,
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalWeight": 180,
+            "species": "YEP"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "0.25",
+            "averageWeight": "0.26",
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "totalCatch": 1,
+            "species": "BUB",
+            "totalWeight": 119
+          },
+          {
+            "species": "NOP",
+            "totalWeight": 6976,
+            "gearCount": 4,
+            "totalCatch": 5,
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "1.25",
+            "averageWeight": "3.08"
+          },
+          {
+            "totalWeight": 0,
+            "species": "BND",
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalCatch": 3,
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A",
+            "CPUE": "0.50",
+            "gear": "Trapnet - Mini Fyke"
+          },
+          {
+            "averageWeight": "1.32",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "2.75",
+            "species": "WTS",
+            "totalWeight": 6610,
+            "gearCount": 4,
+            "totalCatch": 11,
+            "quartileCount": "N/A"
+          },
+          {
+            "totalWeight": 178,
+            "species": "SMB",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "totalCatch": 2,
+            "quartileWeight": "N/A",
+            "CPUE": "0.33",
+            "gear": "Trapnet - Mini Fyke",
+            "averageWeight": "0.20"
+          },
+          {
+            "averageWeight": "0.00",
+            "CPUE": "0.50",
+            "quartileWeight": "N/A",
+            "gear": "Trapnet - Mini Fyke",
+            "gearCount": 6,
+            "totalCatch": 3,
+            "quartileCount": "N/A",
+            "totalWeight": 0,
+            "species": "IOD"
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 3,
+            "species": "LAT",
+            "totalWeight": 4867,
+            "averageWeight": "3.58",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "0.75"
+          },
+          {
+            "averageWeight": "0.67",
+            "quartileWeight": "N/A",
+            "CPUE": "1.43",
+            "gear": "Deep gill nets",
+            "totalCatch": 10,
+            "gearCount": 7,
+            "quartileCount": "N/A",
+            "totalWeight": 3030,
+            "species": "BUB"
+          },
+          {
+            "averageWeight": "0.00",
+            "gear": "Trapnet - Mini Fyke",
+            "CPUE": "15.33",
+            "quartileWeight": "N/A",
+            "species": "BNS",
+            "totalWeight": 0,
+            "totalCatch": 92,
+            "gearCount": 6,
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "1.14",
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "averageWeight": "0.68",
+            "totalWeight": 2485,
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "gearCount": 7,
+            "totalCatch": 8
+          },
+          {
+            "averageWeight": "0.01",
+            "quartileWeight": "N/A",
+            "CPUE": "4.67",
+            "gear": "Trapnet - Mini Fyke",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "totalCatch": 28,
+            "totalWeight": 184,
+            "species": "YEP"
+          },
+          {
+            "species": "BNM",
+            "totalWeight": 0,
+            "totalCatch": 607,
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "gear": "Trapnet - Mini Fyke",
+            "CPUE": "101.17",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00"
+          }
+        ],
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyID": "-283",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Long Island Lake on August 5th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 39.4 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L at 45.9 feet at the time of sampling. The thickness of this layer of water in the water column was 6.6 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 8.4 degrees C (47.1 degrees F), was substituted as TDO3. TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 and 1983 indicated no suitable oxythermal habitat 2024, and a 35.9-foot thick layer in 1983. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyDate": "2025-08-05",
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "county": "Cook",
+          "wb_id": "16046000",
+          "wb_name": "Long Island",
+          "wb_alt_name": "",
+          "id_date": "2025-08-05",
+          "wb_type": "Lake",
+          "survey_id": "-283"
+        },
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey"
+      }
+    ],
+    "DOWNumber": "16046000",
+    "averageWaterClarity": "9.7",
+    "lakeName": "Long Island",
+    "maxDepthFeet": 85,
+    "littoralAcres": 310.2,
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "",
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO"
+      }
+    ]
+  },
+  "timestamp": 1790285817,
+  "status": "SUCCESS"
+}

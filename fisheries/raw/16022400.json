@@ -1,0 +1,309 @@
+{
+  "timestamp": 1790285793,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "sampledPlants": [],
+    "DOWNumber": "16022400",
+    "county": "Cook",
+    "officeCode": "F218",
+    "averageWaterClarity": "10.0",
+    "shoreLengthMiles": 6.55,
+    "surveys": [
+      {
+        "surveyDate": "1985-09-10",
+        "narrative": "<p>WALLEYE AND SMALLMOUTH BASS APPARENTLY HAVE MIG- RATED INTO VISTA LAKE WITHIN ABOUT THE LAST TEN YEARS, BUT SMB WERE NOT TAKEN IN THIS SURVEY. BOTH SPECIES MAY BE HAVING TROUBLE ESTABLISHING THEM- SELVES BECAUSE OF THE FAIRLY LARGE NORTHERN PIKE POPULATION AND RELATIVELY LITTLE FORAGE IN THE WAY OF YELLOW PERCH. ADULT WHITE SUCKERS ARE IN AVG ABUNDANCE.</p>",
+        "lengths": {},
+        "surveyID": "109835",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.3-2.4",
+            "totalWeight": 28.5,
+            "gear": "Standard gill nets",
+            "CPUE": "4.50",
+            "species": "NOP",
+            "gearCount": 4,
+            "quartileCount": "2.0-6.3",
+            "averageWeight": "1.58",
+            "totalCatch": 18
+          },
+          {
+            "gearCount": 4,
+            "CPUE": "1.75",
+            "species": "WAE",
+            "totalCatch": 7,
+            "averageWeight": "1.50",
+            "quartileCount": "3.0-9.8",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.9-1.6",
+            "totalWeight": 10.5
+          },
+          {
+            "gearCount": 4,
+            "CPUE": "0.50",
+            "species": "YEP",
+            "averageWeight": "0.12",
+            "totalCatch": 2,
+            "quartileCount": "2.2-14.6",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.25,
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "quartileWeight": "1.5-2.4",
+            "totalWeight": 39,
+            "gear": "Standard gill nets",
+            "quartileCount": "3.6-14.1",
+            "averageWeight": "2.60",
+            "totalCatch": 15,
+            "gearCount": 4,
+            "CPUE": "3.75",
+            "species": "WTS"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "16022400",
+          "survey_id": "109835",
+          "wb_name": "Vista",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "id_date": "1985-09-10"
+        }
+      },
+      {
+        "lengths": {
+          "BUB": {
+            "minimum_length": 11,
+            "maximum_length": 12,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "maximum_length": 30,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                30,
+                1
+              ]
+            ],
+            "minimum_length": 13
+          },
+          "WTS": {
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                2
+              ]
+            ],
+            "maximum_length": 18
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                2
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 6
+          },
+          "WAE": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 20
+          }
+        },
+        "narrative": "<p>Walleye were present in fair numbers and size, with several 14-17 inch fish collected.  Most of the walleye collected were from the 1986-1988 year classes, years in which walleye fry were stocked; however, there appeared to be a fairly strong naturally-produced 1991 year class as well.  Northern pike numbers were relatively low, although fish up to 31 inches were collected.</p>",
+        "surveyDate": "1993-09-15",
+        "surveyType": "Standard Survey",
+        "surveyID": "110214",
+        "headerInfo": {
+          "wb_id": "16022400",
+          "survey_id": "110214",
+          "wb_type": "Lake",
+          "wb_name": "Vista",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "id_date": "1993-09-15",
+          "county": "Cook"
+        },
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 332,
+            "quartileWeight": "0.2",
+            "gearCount": 6,
+            "species": "BUB",
+            "CPUE": "0.33",
+            "averageWeight": "0.37",
+            "totalCatch": 2,
+            "quartileCount": "0.5"
+          },
+          {
+            "quartileCount": "2.0-6.3",
+            "averageWeight": "2.23",
+            "totalCatch": 7,
+            "gearCount": 6,
+            "species": "NOP",
+            "CPUE": "1.17",
+            "quartileWeight": "1.3-2.4",
+            "totalWeight": 7096,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 13,
+            "averageWeight": "1.10",
+            "quartileCount": "3.0-9.8",
+            "gearCount": 6,
+            "species": "WAE",
+            "CPUE": "2.17",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.9-1.6",
+            "totalWeight": 6501
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "0.83",
+            "species": "YEP",
+            "totalCatch": 5,
+            "averageWeight": "0.17",
+            "quartileCount": "2.2-14.6",
+            "gear": "Standard gill nets",
+            "totalWeight": 388,
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "quartileCount": "3.6-14.1",
+            "averageWeight": "1.59",
+            "totalCatch": 12,
+            "gearCount": 6,
+            "species": "WTS",
+            "CPUE": "2.00",
+            "totalWeight": 8668,
+            "quartileWeight": "1.5-2.4",
+            "gear": "Standard gill nets"
+          }
+        ]
+      }
+    ],
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO"
+      }
+    ],
+    "lakeName": "Vista",
+    "maxDepthFeet": 47,
+    "areaAcres": 165.64,
+    "littoralAcres": 150.7,
+    "waterClarity": [
+      [
+        "09/11/1985",
+        "10"
+      ]
+    ]
+  }
+}

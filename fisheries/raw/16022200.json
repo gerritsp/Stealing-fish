@@ -1,0 +1,168 @@
+{
+  "timestamp": 1790285795,
+  "result": {
+    "maxDepthFeet": 26,
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "lakeName": "Jackal",
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "totalCatch": 2,
+            "CPUE": "1.00",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "totalWeight": 9.25,
+            "averageWeight": "4.62",
+            "species": "BNT"
+          },
+          {
+            "averageWeight": "2.56",
+            "species": "NOP",
+            "quartileCount": "2.3-5.1",
+            "totalWeight": 15.38,
+            "gear": "Standard gill nets",
+            "CPUE": "3.00",
+            "totalCatch": 6,
+            "quartileWeight": "1.4-2.2",
+            "gearCount": 2
+          },
+          {
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "totalWeight": 3.75,
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "averageWeight": "3.75",
+            "gearCount": 2,
+            "totalCatch": 1,
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 1,
+            "quartileWeight": "0.7-2.3",
+            "gearCount": 2,
+            "averageWeight": "2.00",
+            "species": "WTS",
+            "quartileCount": "1.7-12.5",
+            "totalWeight": 2,
+            "gear": "Standard gill nets",
+            "CPUE": "0.50"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "headerInfo": {
+          "wb_alt_name": "Jake",
+          "county": "Cook",
+          "wb_id": "16022200",
+          "wb_type": "Lake",
+          "id_date": "1992-10-08",
+          "survey_id": "110681",
+          "survey_type": "Population Assessment",
+          "wb_name": "Jackal"
+        },
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>For a designated stream trout lake, the brook trout catch was very low.  Survival of past stockings was apparently poor, no doubt due to predation by northern pike.  The growth of the single brook trout collected was fast by area standards.Brown trout collected in this assessment either moved down to Jake Lake from Lux Lake, where they were stocked in 1988, or were accidentally stocked into Jake Lake in that year.  Angler reports indicate that there were good numbers of brown trout in Lux Lake, so the latter possibility is remote.  Brown trout growth appeared to have been good.The northern pike catch in this assessment was within the normal range for lakes of this ecological class.  Only one strong year class was represented in the catch, and the growth of those fish (age 3) had been fast by area standards.No yellow perch were collected in this assessment, but this species was observed in Morgan Lake, and since fish can move freely between Morgan and Jake Lakes, they are no doubt also present in Jake Lake.The reclamation of Morgan and Jake Lakes was a resounding failure.  Northern pike and yellow perch were either not completely killed, or quickly re-entered the system, despite the construction of a barrier below Jake Lake.</p>",
+        "surveyDate": "1992-10-08",
+        "surveyID": "110681"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 31,
+            "quartileWeight": "1.4-2.2",
+            "gearCount": 2,
+            "averageWeight": "1.15",
+            "species": "NOP",
+            "quartileCount": "2.3-5.1",
+            "gear": "Standard gill nets",
+            "totalWeight": 35.75,
+            "CPUE": "15.50"
+          },
+          {
+            "species": "YEP",
+            "averageWeight": "0.10",
+            "CPUE": "0.50",
+            "quartileCount": "1.3-10.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.1,
+            "gearCount": 2,
+            "totalCatch": 1,
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "quartileCount": "1.7-12.5",
+            "totalWeight": 2.5,
+            "gear": "Standard gill nets",
+            "CPUE": "0.50",
+            "averageWeight": "2.50",
+            "species": "WTS",
+            "totalCatch": 1,
+            "quartileWeight": "0.7-2.3",
+            "gearCount": 2
+          },
+          {
+            "gearCount": 2,
+            "totalCatch": 5,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.05",
+            "species": "PMK",
+            "CPUE": "2.50",
+            "quartileCount": "N/A",
+            "totalWeight": 0.25,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "narrative": "<p>NORTHERN PIKE NUMBERS ARE VERY HIGH, AND MOST FISH SEEM TO BE IN TEH IV, V AND VI AGE CLASSES. GROWTH RATES ARE GOOD, DUE TO THE VARIED FORAGE BASE OF PERCH, SUCKERS AND VARIOUS MINNOW SPECIES.</p>",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_name": "Jackal",
+          "survey_id": "109926",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "id_date": "1984-08-15",
+          "county": "Cook",
+          "wb_alt_name": "Jake",
+          "wb_id": "16022200"
+        },
+        "lengths": {},
+        "surveyDate": "1984-08-15",
+        "surveyID": "109926"
+      }
+    ],
+    "littoralAcres": 22,
+    "officeCode": "F218",
+    "county": "Cook",
+    "DOWNumber": "16022200",
+    "waterClarity": [
+      [
+        "10/08/1992",
+        "8.5"
+      ],
+      [
+        "08/15/1984",
+        "11"
+      ]
+    ],
+    "shoreLengthMiles": 1.27,
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "location": "NONE",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " "
+      }
+    ],
+    "averageWaterClarity": "9.8",
+    "areaAcres": 30.97,
+    "lakeAltName": "Jake"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

@@ -1,0 +1,99 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "surveys": [
+      {
+        "narrative": "<p>Netting indicates a good population of both N Pike and Yel Perch and a fair population of Gldn Shiners.  Bluegills are present as indicated by 18 young-of-year caught by seining.  Only a single Walleye and SM Bass were taken.  An unusual fact is the apparent absence of Suckers.</p>",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "4.00",
+            "totalWeight": 15.8,
+            "quartileCount": "3.9-9.4",
+            "quartileWeight": "1.2-2.4",
+            "gearCount": 3,
+            "averageWeight": "1.32",
+            "species": "NOP",
+            "totalCatch": 12
+          },
+          {
+            "totalCatch": 1,
+            "species": "WAE",
+            "averageWeight": "2.76",
+            "gearCount": 3,
+            "quartileWeight": "0.8-2.4",
+            "quartileCount": "1.0-7.2",
+            "totalWeight": 2.76,
+            "CPUE": "0.33",
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "13.67",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "2.0-23.0",
+            "totalWeight": 3.95,
+            "averageWeight": "0.10",
+            "gearCount": 3,
+            "totalCatch": 41,
+            "species": "YEP"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "0.33",
+            "quartileWeight": "0.1-0.1",
+            "totalWeight": 0.1,
+            "quartileCount": "0.5-16.8",
+            "gearCount": 3,
+            "averageWeight": "0.10",
+            "species": "GOS",
+            "totalCatch": 1
+          }
+        ],
+        "surveyID": "109796",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1972-08-02",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "Cook",
+          "wb_id": "16061300",
+          "id_date": "1972-08-02",
+          "survey_type": "Initial Survey",
+          "survey_id": "109796",
+          "wb_alt_name": "",
+          "wb_name": "Tenor",
+          "wb_type": "Lake"
+        }
+      }
+    ],
+    "averageWaterClarity": "4.0",
+    "DOWNumber": "16061300",
+    "lakeName": "Tenor",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "A 5 rod portage to the North shore of Tenor Lake from Saganaga Lake.",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "officeCode": "F218",
+    "littoralAcres": 21.45,
+    "county": "Cook",
+    "maxDepthFeet": 11,
+    "sampledPlants": [],
+    "areaAcres": 21.45,
+    "waterClarity": [
+      [
+        "08/02/1972",
+        "4"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 0.94
+  },
+  "timestamp": 1790286038,
+  "message": "Normal execution."
+}

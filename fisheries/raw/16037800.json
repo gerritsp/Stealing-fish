@@ -1,0 +1,632 @@
+{
+  "timestamp": 1790285615,
+  "status": "SUCCESS",
+  "result": {
+    "littoralAcres": 0,
+    "lakeName": "Kinogami",
+    "county": "Cook",
+    "maxDepthFeet": 30,
+    "averageWaterClarity": "7.5",
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "09/01/1970",
+        "7.5"
+      ],
+      [
+        "06/19/2013",
+        "8.5"
+      ],
+      [
+        "06/30/1992",
+        "6.5"
+      ]
+    ],
+    "DOWNumber": "16037800",
+    "lakeAltName": "Long",
+    "accesses": [
+      {
+        "location": "",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "CA"
+      }
+    ],
+    "surveys": [
+      {
+        "headerInfo": {
+          "county": "Cook",
+          "wb_name": "Kinogami",
+          "wb_type": "Lake",
+          "id_date": "2002-07-01",
+          "wb_id": "16037800",
+          "wb_alt_name": "Long",
+          "survey_id": "111355",
+          "survey_type": "Population Assessment"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 9750,
+            "gearCount": 5,
+            "averageWeight": "0.80",
+            "totalCatch": 27,
+            "CPUE": "5.40",
+            "species": "SMB",
+            "quartileCount": "0.2-0.7",
+            "quartileWeight": "0.3-2.2",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "0.7-1.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 11201,
+            "gearCount": 5,
+            "averageWeight": "1.37",
+            "totalCatch": 18,
+            "CPUE": "3.60",
+            "species": "WAE",
+            "quartileCount": "3.0-13.2"
+          },
+          {
+            "quartileCount": "0.5-2.8",
+            "species": "YEP",
+            "gearCount": 5,
+            "totalWeight": 461,
+            "CPUE": "1.40",
+            "totalCatch": 7,
+            "averageWeight": "0.15",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "totalCatch": 54,
+            "CPUE": "10.80",
+            "averageWeight": "1.72",
+            "gearCount": 5,
+            "totalWeight": 42235,
+            "quartileCount": "2.6-11.7",
+            "species": "WTS",
+            "quartileWeight": "1.7-2.4",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 5,
+            "totalWeight": 1075,
+            "totalCatch": 1,
+            "CPUE": "0.20",
+            "averageWeight": "2.37",
+            "quartileCount": "0.5-2.6",
+            "species": "MUE",
+            "quartileWeight": "1.0-7.1",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "0.8-1.9",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.62",
+            "CPUE": "0.20",
+            "totalCatch": 1,
+            "totalWeight": 281,
+            "gearCount": 5,
+            "species": "LMB",
+            "quartileCount": "0.2-0.7"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>The walleye catch in this survey was typical of recent catches in Kinogami Lake and within the normal range for lakes of this class.  Compared to the 1992 assessment, the number of walleye per gill net declined somewhat and the average size increased.  Most walleye were from 13 to 19 inches long.  Seven year classes were identified.  All were the result of natural reproduction, since the lake was last stocked in 1986.  Growth rates appeared to have been faster than average for area lakes of this class.  Walleye reached 12.5 inches by age 3, 14 inches by age 4, 16.5 inches by age 5, and 18 inches by age 6.This survey was the first to collect smallmouth bass, and they were the most abundant game fish in the catch.  There were more per net than is usual for lakes of this class.  Lengths ranged from 8 to 16 inches, four year-classes were identified, and growth rates appeared to have been average.One largemouth bass was caught, as in 1992, indicating that a small population remains from the moderate population that appeared to be present in 1987.  One muskellunge was caught.  It probably swam from Crescent Lake upstream through Willow Creek to reach Kinogami Lake.  Northern pike have been caught in some, but not all, past assessments, but none were caught in 2002.The lake has a moderate population of yellow perch.  The number caught per net was typical for this lake and for lakes of this class.  They provide forage for the gamefish species.More white sucker were caught than any other species, and they could be considered moderately abundant for a lake of this class.</p>",
+        "surveyID": "111355",
+        "lengths": {
+          "MUE": {
+            "maximum_length": 23,
+            "minimum_length": 23,
+            "fishCount": [
+              [
+                23,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                16,
+                11
+              ],
+              [
+                17,
+                13
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "minimum_length": 6
+          },
+          "WAE": {
+            "maximum_length": 24,
+            "fishCount": [
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 9
+          },
+          "LMB": {
+            "maximum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ]
+            ],
+            "minimum_length": 10
+          },
+          "SMB": {
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                5
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "minimum_length": 7
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "2002-07-01"
+      },
+      {
+        "headerInfo": {
+          "wb_name": "Kinogami",
+          "county": "Cook",
+          "wb_alt_name": "Long",
+          "survey_id": "4311318652894004",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "id_date": "2013-06-19",
+          "wb_id": "16037800"
+        },
+        "surveyID": "4311318652894004",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 5,
+            "totalWeight": 11512,
+            "totalCatch": 12,
+            "CPUE": "2.40",
+            "averageWeight": "2.11",
+            "quartileCount": "1.2-3.9",
+            "species": "NOP",
+            "quartileWeight": "1.5-2.4",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "0.3-2.2",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.32",
+            "totalCatch": 7,
+            "CPUE": "1.40",
+            "totalWeight": 4201,
+            "gearCount": 5,
+            "species": "SMB",
+            "quartileCount": "0.2-0.7"
+          },
+          {
+            "quartileWeight": "0.7-1.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.63",
+            "totalCatch": 4,
+            "CPUE": "0.80",
+            "totalWeight": 4770,
+            "gearCount": 5,
+            "species": "WAE",
+            "quartileCount": "3.0-13.2"
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 89,
+            "gearCount": 5,
+            "averageWeight": "0.10",
+            "totalCatch": 2,
+            "CPUE": "0.40",
+            "species": "YEP",
+            "quartileCount": "0.5-2.8"
+          },
+          {
+            "quartileWeight": "1.7-2.4",
+            "gear": "Standard gill nets",
+            "totalWeight": 33507,
+            "gearCount": 5,
+            "averageWeight": "2.38",
+            "totalCatch": 31,
+            "CPUE": "6.20",
+            "species": "WTS",
+            "quartileCount": "2.6-11.7"
+          },
+          {
+            "species": "MUE",
+            "quartileCount": "0.5-2.6",
+            "totalWeight": 1500,
+            "gearCount": 5,
+            "averageWeight": "3.31",
+            "totalCatch": 1,
+            "CPUE": "0.20",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.0-7.1"
+          }
+        ],
+        "narrative": "<p>Walleye numbers were low in Kinogami Lake in 2013, although average size for the few fish present was fairly high.  The walleye gill net catch in 2013 was the lowest ever observed in this lake.  No young walleye were collected, suggesting poor reproductive success, or high losses of juvenile fish, in recent years.  All walleye collected in 2013 had been naturally produced.  The four walleye collected reached an average length of 15.8 in at the end of their fifth year, suggesting growth had been a little faster than average for a lake of this type in Cook County, despite the lack of yellow perch. <br> \n <br> \nThe yellow perch gill net catch was also the lowest ever seen in this lake, falling below the normal range for a lake of this type.  Low yellow perch abundance meant walleye in this lake probably relied heavily on invertebrate forage. <br> \n <br> \nNorthern pike gill net catches in this lake have varied widely; the catch was fairly high in 1987, but only one was collected in 1992 and none were caught in 2002.  The 2013 catch was the second highest seen in this lake since it was first surveyed in 1970.  At least two year classes, both naturally produced, contributed to the 2013 catch.  Growth of young northern pike had been average for the area; two-year-old fish reached a mean length of 14.5 inches by the end of their second year. <br> \n <br> \nMuskellunge abundance in Kinogami Lake seems to have remained low.  A single muskellunge was collected in 2013, duplicating the results of the 2002 assessment, which also collected just a single fish.  None were found in Kinogami Lake prior to 2002.  Muskellunge would have entered Kinogami Lake from Crescent Lake, where a self-sustained population has been present since the late 1970s.  We do not know whether muskellunge have reproduced in Kinogami Lake or have moved into the lake from Crescent Lake, where they are known to reproduce.  Muskellunge in this lake are descendants of Shoepack-strain fish, and so have limited growth potential. <br> \n <br> \nSmallmouth bass were first taken in Kinogami Lake in 2002, and they were already well established and relatively abundant at that time.  The 2013 gill net catch was lower than the catch seen in 2002, but was still above the normal range for the lake type.  Four year classes contributed to the catch.   Smallmouth bass growth rates appeared to have been close to average for the area.  Four-year-old fish reached a mean length of 10.2 inches by the end of their fourth year.  Smallmouth bass may have first become established in Crescent Lake, but they have since moved into all of the lakes in the upper Poplar River watershed. <br> \n <br> \nOne reason for this assessment was to determine the effects of the smallmouth bass introduction on walleye in this lake; however, that may not be possible.  The bass introduction coincided with the appearance of muskellunge in Kinogami Lake, and a resurgence in northern pike abundance.  Similar surges in northern pike abundance were seen in the past in this lake, prior to the smallmouth bass introduction, making it less likely the latest surge was related to that introduction.  Historically, walleye catches in this lake have tended to be lower when northern pike catches were higher, suggested the effects those species have on each other may be stronger than the effects of the recent smallmouth bass introduction. <br> \n   <br> \n <br> \n</p>",
+        "lengths": {
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 6
+          },
+          "NOP": {
+            "maximum_length": 30,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                30,
+                1
+              ]
+            ],
+            "minimum_length": 14
+          },
+          "SMB": {
+            "maximum_length": 15,
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                3
+              ]
+            ]
+          },
+          "MUE": {
+            "maximum_length": 24,
+            "minimum_length": 24,
+            "fishCount": [
+              [
+                24,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                10
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 11
+          },
+          "WAE": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 18
+          }
+        },
+        "surveyDate": "2013-06-19",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "headerInfo": {
+          "county": "Cook",
+          "wb_name": "Kinogami",
+          "wb_id": "16037800",
+          "id_date": "1987-07-06",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "survey_id": "110057",
+          "wb_alt_name": "Long"
+        },
+        "surveyID": "110057",
+        "narrative": "<p>WALLEYE ARE PRESENT IN FAIR NUMBERS WITH GOOD AVERAGE SIZE. SEVERAL YEAR-CLASSES ARE REPRESENTED IN THIS SAMPLE, BUT THERE IS A LARGE GAP FROM 1980 TO 1982. THE 1986 STOCKING OF WALLEYE FRY HAS PROBABLY NOT RECRUITED TO THE SAMPLING GEAR AS YET. WALLEYE REPRODUCTION APPEARS TO BE SUCCESSFUL ENOUGH TO MAINTAIN A MODERATE FISHERY. WALLEYE GROWTH IS BELOW THE STATE AVERAGE, BUT GOOD FOR THIS AREA. LARGEMOUTH BASS NUMBES AND SIZE ARE GOOD. ONLY TWO YEAR-CLASSES WERE REPRESENTED; HOWEVER, SAMPLE SIZE WAS SMALL. LARGEMOUTH BASS GROWTH IS GOOD (SLIGHTLY ABOVE STATE AVERAGE). YELLOW PERCH AND PUMPKINSEED NUMBERS ARE LOW, WHILE WHITE SUCKERS ARE ABUNDANT.</p>",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "1.2-3.9",
+            "species": "NOP",
+            "CPUE": "2.33",
+            "totalCatch": 14,
+            "averageWeight": "1.54",
+            "gearCount": 6,
+            "totalWeight": 21.5,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-2.4"
+          },
+          {
+            "quartileWeight": "0.7-1.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 30.9,
+            "gearCount": 6,
+            "averageWeight": "1.47",
+            "totalCatch": 21,
+            "CPUE": "3.50",
+            "species": "WAE",
+            "quartileCount": "3.0-13.2"
+          },
+          {
+            "averageWeight": "0.12",
+            "totalCatch": 6,
+            "CPUE": "1.00",
+            "totalWeight": 0.75,
+            "gearCount": 6,
+            "species": "YEP",
+            "quartileCount": "0.5-2.8",
+            "quartileWeight": "0.1-0.3",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.7-2.4",
+            "species": "WTS",
+            "quartileCount": "2.6-11.7",
+            "totalWeight": 72.75,
+            "gearCount": 6,
+            "averageWeight": "2.20",
+            "totalCatch": 33,
+            "CPUE": "5.50"
+          },
+          {
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.25",
+            "CPUE": "0.17",
+            "totalCatch": 1,
+            "totalWeight": 0.25,
+            "gearCount": 6,
+            "species": "PMK",
+            "quartileCount": "N/A"
+          },
+          {
+            "species": "LMB",
+            "quartileCount": "0.2-0.7",
+            "averageWeight": "1.25",
+            "CPUE": "0.83",
+            "totalCatch": 5,
+            "totalWeight": 6.25,
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.8-1.9"
+          }
+        ],
+        "lengths": {},
+        "surveyDate": "1987-07-06",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 5.08,
+    "areaAcres": 110.92,
+    "officeCode": "F218"
+  },
+  "message": "Normal execution."
+}

@@ -1,0 +1,354 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "waterClarity": [
+      [
+        "06/24/2013",
+        "12"
+      ]
+    ],
+    "DOWNumber": "69030700",
+    "meanDepthFeet": 21,
+    "officeCode": "F214",
+    "maxDepthFeet": 44,
+    "sampledPlants": [],
+    "littoralAcres": 24,
+    "county": "St. Louis",
+    "shoreLengthMiles": 2.52,
+    "averageWaterClarity": "12.0",
+    "lakeName": "Clark",
+    "accesses": [
+      {
+        "location": " ",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "140 rod portage from Crab Lake.",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "CA"
+      },
+      {
+        "accessTypeId": "CA",
+        "lakeAccessComments": "30 rod portage from Glimmer Lake.",
+        "publicUseAuthCode": "OPEN",
+        "location": " ",
+        "ownerTypeId": "USF"
+      },
+      {
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "48 rod portage from Meat Lake.",
+        "location": " ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA"
+      }
+    ],
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_name": "Clark",
+          "wb_id": "69030700",
+          "wb_alt_name": "",
+          "survey_id": "6851332530880000",
+          "county": "St. Louis",
+          "survey_type": "Population Assessment",
+          "id_date": "2013-06-24",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "2013-06-24",
+        "narrative": "<p>Clark Lake is located approximately 12 miles NW of Ely and is entirely within the BWCAW. It has a surface area of 66 acres and a maximum depth of 41 feet. It has the best water clarity of the nearby lakes with a secchi disc reading of 12 feet. Most of the shoreline is slightly steep with pine covered hills and coarse soils. A larger bog area with black spruce is present surrounding the outet to Crab Lake.  <br> \n <br> \nAccess is by portage from Crab Lake (140 rods), Meat Lake (48 rods) or Glimmer Lake (30 rods). There is one designated USFS campsite located on the lake.  <br> \n <br> \nNorthern pike numbers in 2013 (11.7/gill net) were higher than average when compared to other area pike lakes in this class. The average pike sampled was 23.2 inches long and about 4 to 5 years old. The largest pike sampled was 36.7 inches long. Anglers should consider releasing pike over 24\" on Clark Lake to help maintain the size quality of the pike fishery. Lakes with a high proportion of large pike are uncommon in this area as the lakes tend to be low in productivity. Pike in these lakes are slow growing, so even light harvest can remove most of the largest individuals from a population, and it takes a long time to replace them.  <br> \n <br> \nLargemouth bass numbers in 2013 (2.3/gill net) were higher than average when compared to other area largemouth lakes in this class. The average largemouth sampled was 9.3 inches long and about 5 years old. The largest bass sampled was 15.0 inches long. <br> \n <br> \nClark Lake had the most fish species diversity of the nearby smaller lakes. Several species of panfish including bluegill, pumpkinseed, green sunfish and hybrid sunfish were sampled. White sucker and golden shiner were also sampled. Yellow perch remains were observed in pike stomach samples. </p>",
+        "surveyID": "6851332530880000",
+        "lengths": {
+          "BLG": {
+            "minimum_length": 3,
+            "fishCount": [
+              [
+                3,
+                13
+              ],
+              [
+                4,
+                15
+              ]
+            ],
+            "maximum_length": 4
+          },
+          "GSF": {
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ],
+            "minimum_length": 4,
+            "maximum_length": 4
+          },
+          "HSF": {
+            "fishCount": [
+              [
+                5,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 5
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                5
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                23,
+                3
+              ],
+              [
+                24,
+                4
+              ],
+              [
+                25,
+                3
+              ],
+              [
+                26,
+                5
+              ],
+              [
+                28,
+                2
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                30,
+                2
+              ],
+              [
+                36,
+                1
+              ]
+            ],
+            "minimum_length": 10,
+            "maximum_length": 36
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 20
+          },
+          "GOS": {
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 6
+          },
+          "PMK": {
+            "minimum_length": 3,
+            "fishCount": [
+              [
+                3,
+                1
+              ]
+            ],
+            "maximum_length": 3
+          },
+          "LMB": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 14
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "species": "HSF",
+            "quartileWeight": "N/A",
+            "CPUE": "0.33",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.11",
+            "totalWeight": 52,
+            "totalCatch": 1,
+            "gearCount": 3,
+            "quartileCount": "N/A"
+          },
+          {
+            "gearCount": 3,
+            "quartileCount": "1.3-5.3",
+            "quartileWeight": "1.6-3.1",
+            "species": "NOP",
+            "totalCatch": 35,
+            "averageWeight": "3.37",
+            "totalWeight": 53465,
+            "CPUE": "11.67",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "0.3-1.5",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "species": "GSF",
+            "totalCatch": 1,
+            "averageWeight": "0.06",
+            "totalWeight": 28,
+            "gear": "Standard gill nets",
+            "CPUE": "0.33"
+          },
+          {
+            "CPUE": "0.33",
+            "gear": "Standard gill nets",
+            "totalWeight": 40,
+            "averageWeight": "0.09",
+            "totalCatch": 1,
+            "quartileWeight": "0.1-0.1",
+            "species": "GOS",
+            "gearCount": 3,
+            "quartileCount": "0.3-4.6"
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "totalCatch": 16,
+            "CPUE": "5.33",
+            "gear": "Standard gill nets",
+            "totalWeight": 15246,
+            "averageWeight": "2.10",
+            "gearCount": 3,
+            "quartileCount": "1.2-4.9"
+          },
+          {
+            "averageWeight": "0.04",
+            "totalWeight": 18,
+            "CPUE": "0.33",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "species": "PMK",
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "quartileCount": "N/A"
+          },
+          {
+            "species": "LMB",
+            "quartileWeight": "0.5-1.5",
+            "averageWeight": "0.60",
+            "totalWeight": 1902,
+            "CPUE": "2.33",
+            "gear": "Standard gill nets",
+            "totalCatch": 7,
+            "quartileCount": "0.3-1.8",
+            "gearCount": 3
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "9.33",
+            "averageWeight": "0.04",
+            "totalWeight": 524,
+            "totalCatch": 28,
+            "species": "BLG",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gearCount": 3
+          }
+        ],
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "areaAcres": 73.43
+  },
+  "timestamp": 1790285562,
+  "message": "Normal execution."
+}

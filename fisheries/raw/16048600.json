@@ -1,0 +1,132 @@
+{
+  "timestamp": 1790285607,
+  "result": {
+    "surveys": [
+      {
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>WALLEYE ABUNDANCE WAS VERY LOW; ONLY AGE II WALLEYE WERE SAMPLED AND THESE FISH MAY HAVE MOVED FROM PETERSON LAKE WHICH WAS STOCKED IN 1988.  IT APPEARS THAT THE THREE YEARS OF WALLEYE FRY STOCKING IN BAKER LAKE HAVE BEEN UNSUCCESSFUL. NORTHERN PIKE ABUNDANCE WAS LOW AND SIZE WAS FAIRLY SMALL.  YELLOW PERCH ABUNDANCE WAS GOOD. A WIDE RANGE OF SIZES, INCLUDING SOME OVER 10 IN WERE COLLECTED.</p>",
+        "fishCatchSummaries": [
+          {
+            "species": "YEP",
+            "CPUE": "2.40",
+            "averageWeight": "0.14",
+            "quartileWeight": "0.1-0.3",
+            "totalWeight": 1.63,
+            "gearCount": 5,
+            "totalCatch": 12,
+            "gear": "Standard trap nets",
+            "quartileCount": "1.0-5.9"
+          },
+          {
+            "totalCatch": 3,
+            "gear": "Standard trap nets",
+            "quartileCount": "0.3-1.6",
+            "quartileWeight": "0.5-1.8",
+            "gearCount": 5,
+            "totalWeight": 1.31,
+            "CPUE": "0.60",
+            "averageWeight": "0.44",
+            "species": "WAE"
+          },
+          {
+            "totalCatch": 16,
+            "quartileCount": "1.2-6.1",
+            "gear": "Standard trap nets",
+            "quartileWeight": "1.4-2.7",
+            "totalWeight": 20.84,
+            "gearCount": 5,
+            "CPUE": "3.20",
+            "averageWeight": "1.30",
+            "species": "WTS"
+          },
+          {
+            "quartileWeight": "1.1-2.0",
+            "totalWeight": 1.88,
+            "gearCount": 2,
+            "totalCatch": 3,
+            "quartileCount": "2.8-8.5",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "CPUE": "1.50",
+            "averageWeight": "0.63"
+          },
+          {
+            "averageWeight": "0.21",
+            "CPUE": "30.50",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "quartileCount": "2.0-16.0",
+            "totalCatch": 61,
+            "gearCount": 2,
+            "totalWeight": 12.53,
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "gearCount": 2,
+            "totalWeight": 60.4,
+            "quartileWeight": "1.4-2.5",
+            "quartileCount": "4.0-14.5",
+            "gear": "Standard gill nets",
+            "totalCatch": 57,
+            "species": "WTS",
+            "averageWeight": "1.06",
+            "CPUE": "28.50"
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Standard trap nets",
+            "totalCatch": 1,
+            "gearCount": 5,
+            "totalWeight": 0.38,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.38",
+            "CPUE": "0.20",
+            "species": "NOP"
+          }
+        ],
+        "headerInfo": {
+          "survey_id": "110147",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_name": "Baker",
+          "wb_id": "16048600",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "id_date": "1990-07-19"
+        },
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyID": "110147",
+        "surveyDate": "1990-07-19"
+      }
+    ],
+    "officeCode": "F218",
+    "areaAcres": 20.15,
+    "shoreLengthMiles": 1.2,
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "DOWNumber": "16048600",
+    "waterClarity": [
+      [
+        "07/19/1990",
+        "7"
+      ]
+    ],
+    "lakeName": "Baker",
+    "averageWaterClarity": "7.0",
+    "county": "Cook",
+    "littoralAcres": 20.15,
+    "accesses": [
+      {
+        "publicUseAuthCode": "OPEN",
+        "location": " ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "G",
+        "lakeAccessComments": "Boat ramp on south shore.  Parking for two or three vehicles.  Lake is mostly inside the BWCAW."
+      }
+    ],
+    "maxDepthFeet": 10
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

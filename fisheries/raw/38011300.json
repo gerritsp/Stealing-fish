@@ -1,0 +1,111 @@
+{
+  "timestamp": 1790285851,
+  "result": {
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "08/20/2025",
+        "17"
+      ],
+      [
+        "08/03/2025",
+        "13"
+      ]
+    ],
+    "areaAcres": 178.61,
+    "littoralAcres": 70,
+    "surveys": [
+      {
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "survey_id": "22122522051864000",
+          "wb_id": "38011300",
+          "wb_name": "Raven",
+          "id_date": "2025-08-03",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_alt_name": ""
+        },
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Raven Lake on August 20th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 65.6 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 32.8 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 38.8 feet at the time of sampling. This layer in the water column was 6.0 feet, indicating oxythermal habitat for Lake Trout was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 7.4 degrees C (45.3 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 and 2025 also indicated suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 2025 when the suitable oxythermal habitat layer was 6.0 feet thick. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveyID": "22122522051864000",
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-08-03"
+      },
+      {
+        "surveyID": "107927",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1975-07-07",
+        "narrative": "<p>(this far off the main canoe routes. Consists of above average populations of lake trout and white sucker.  Yellow perch are present in low numbers.</p>",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "survey_id": "107927",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38011300",
+          "wb_name": "Raven",
+          "id_date": "1975-07-07"
+        },
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "CPUE": "4.33",
+            "species": "LAT",
+            "averageWeight": "2.19",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "totalCatch": 13,
+            "totalWeight": 28.5,
+            "quartileCount": "0.4-3.7",
+            "quartileWeight": "1.5-4.0"
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 3,
+            "averageWeight": "0.25",
+            "species": "YEP",
+            "CPUE": "0.33",
+            "quartileCount": "0.4-3.7",
+            "totalWeight": 0.25,
+            "totalCatch": 1,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 3,
+            "averageWeight": "1.72",
+            "species": "WTS",
+            "CPUE": "5.33",
+            "quartileCount": "0.8-5.3",
+            "totalCatch": 16,
+            "totalWeight": 27.5,
+            "gear": "Standard gill nets"
+          }
+        ]
+      }
+    ],
+    "maxDepthFeet": 56,
+    "officeCode": "F214",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "location": "Lake is in BWCA on a non-motor route.  One portage from Roe Lake.",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "county": "Lake",
+    "sampledPlants": [],
+    "shoreLengthMiles": 3.41,
+    "averageWaterClarity": "15.0",
+    "DOWNumber": "38011300",
+    "lakeName": "Raven"
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

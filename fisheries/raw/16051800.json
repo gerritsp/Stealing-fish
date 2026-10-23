@@ -1,0 +1,77 @@
+{
+  "timestamp": 1790285679,
+  "message": "Normal execution.",
+  "result": {
+    "waterClarity": [
+      [
+        "07/17/1975",
+        "8.5"
+      ]
+    ],
+    "maxDepthFeet": 19,
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "Accessible via 0.3 mile portage from restricted BWCA logging road.",
+        "accessTypeId": "O"
+      }
+    ],
+    "littoralAcres": 54.5,
+    "officeCode": "F218",
+    "sampledPlants": [],
+    "lakeName": "Clam",
+    "averageWaterClarity": "8.5",
+    "DOWNumber": "16051800",
+    "shoreLengthMiles": 2.08,
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_id": "16051800",
+          "id_date": "1975-07-17",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_id": "109776",
+          "wb_alt_name": "",
+          "wb_name": "Clam"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyID": "109776",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Clam Lake has a fair N Pike population with a sparse Sucker population for forage.</p>",
+        "lengths": {},
+        "surveyDate": "1975-07-17",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "totalWeight": 10,
+            "quartileCount": "3.9-9.4",
+            "CPUE": "5.50",
+            "quartileWeight": "1.2-2.4",
+            "species": "NOP",
+            "totalCatch": 11,
+            "averageWeight": "0.91"
+          },
+          {
+            "totalCatch": 3,
+            "averageWeight": "2.67",
+            "quartileWeight": "0.8-2.3",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalWeight": 8,
+            "quartileCount": "2.6-17.5",
+            "CPUE": "1.50",
+            "gearCount": 2
+          }
+        ]
+      }
+    ],
+    "areaAcres": 56.41,
+    "county": "Cook"
+  },
+  "status": "SUCCESS"
+}

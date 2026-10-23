@@ -1,0 +1,72 @@
+{
+  "timestamp": 1790285972,
+  "result": {
+    "surveys": [
+      {
+        "surveyID": "108300",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "species": "YEP",
+            "gearCount": 1,
+            "totalWeight": 0.1,
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "2.5-14.3",
+            "totalCatch": 1,
+            "averageWeight": "0.10"
+          },
+          {
+            "CPUE": "3.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.9-2.3",
+            "gearCount": 1,
+            "totalWeight": 2.5,
+            "species": "WTS",
+            "totalCatch": 3,
+            "averageWeight": "0.83",
+            "quartileCount": "1.6-8.4"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_type": "Lake",
+          "survey_type": "Re-Survey",
+          "wb_name": "Kekekabic Pond 1",
+          "id_date": "1972-08-28",
+          "wb_alt_name": "",
+          "wb_id": "38018801",
+          "survey_id": "108300"
+        },
+        "narrative": "<p>Few fish present. Those that are present are rough fish. </p>",
+        "surveySubType": "Re-Survey",
+        "surveyDate": "1972-08-28"
+      }
+    ],
+    "DOWNumber": "38018801",
+    "waterClarity": [],
+    "county": "Lake",
+    "littoralAcres": 3,
+    "officeCode": "F214",
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "ACCESS BY CANOE AND PORTAGE ~PADDLE ONLY~."
+      }
+    ],
+    "shoreLengthMiles": 0.46,
+    "maxDepthFeet": 20,
+    "areaAcres": 4.23,
+    "lakeName": "Kekekabic Pond 1",
+    "averageWaterClarity": "N/A",
+    "meanDepthFeet": 0
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

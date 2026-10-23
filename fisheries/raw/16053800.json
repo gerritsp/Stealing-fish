@@ -1,0 +1,88 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "littoralAcres": 24,
+    "county": "Cook",
+    "areaAcres": 37.16,
+    "lakeName": "Copper",
+    "officeCode": "F218",
+    "DOWNumber": "16053800",
+    "surveys": [
+      {
+        "surveyDate": "1989-07-17",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "averageWeight": "0.25",
+            "quartileWeight": "N/A",
+            "totalCatch": 2,
+            "species": "BUB",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "CPUE": "0.50",
+            "totalWeight": 0.5
+          },
+          {
+            "gearCount": 4,
+            "totalCatch": 7,
+            "averageWeight": "1.71",
+            "quartileWeight": "N/A",
+            "species": "NOP",
+            "totalWeight": 12,
+            "CPUE": "1.75",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "0.75",
+            "totalWeight": 0.5,
+            "species": "WTS",
+            "totalCatch": 3,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.17",
+            "gearCount": 4
+          }
+        ],
+        "narrative": "<p>A FEW NORTHERN PIKE ARE PRESENT, BUT NO LARGE FISH WERE SAMPLED. THERE APPEARS TO BE A RELA- TIVELY STRONG 1986 YEAR CLASS, BUT SEVERAL OTHERS ARE WEAK OR MISSING. GROWTH IS FAST BY COOK COUNTY STANDARDS.</p>",
+        "lengths": {},
+        "surveyID": "110112",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "id_date": "1989-07-17",
+          "survey_type": "Initial Survey",
+          "wb_id": "16053800",
+          "survey_id": "110112",
+          "wb_alt_name": "",
+          "wb_name": "Copper",
+          "county": "Cook",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "waterClarity": [
+      [
+        "07/17/1989",
+        "6"
+      ]
+    ],
+    "averageWaterClarity": "6.0",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "location": "NONE  HOWEVER  THIS LAKE LIES ENTIRELY WITHIN THE BWCAW.",
+        "lakeAccessComments": " "
+      }
+    ],
+    "maxDepthFeet": 52,
+    "shoreLengthMiles": 2.52,
+    "meanDepthFeet": 0,
+    "sampledPlants": []
+  },
+  "timestamp": 1790285870,
+  "message": "Normal execution."
+}

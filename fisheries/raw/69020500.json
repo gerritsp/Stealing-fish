@@ -1,0 +1,1142 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790286048,
+  "result": {
+    "DOWNumber": "69020500",
+    "waterClarity": [
+      [
+        "08/15/2024",
+        "3.28"
+      ],
+      [
+        "06/13/2016",
+        "5"
+      ],
+      [
+        "09/05/2006",
+        "8"
+      ],
+      [
+        "08/18/2025",
+        "5.7"
+      ]
+    ],
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_name": "Stuart",
+          "survey_id": "16152423249904000",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "id_date": "2024-08-15",
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "wb_id": "69020500"
+        },
+        "surveyType": "Targeted Survey",
+        "surveyID": "16152423249904000",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2024-08-15",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Stuart Lake, on August 15, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature was at or below 21.2 for the entire water column and the dissolved oxygen concentration decreased to 3.0 mg/L at 18.9 feet at the time of sampling. The thickness of this layer of water in the water column was 18.9 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 18.0 degrees C (69.1 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey.  <br> \n <br> \nThis is the first survey completed on Stuart Lake during the late summer period of maximum oxythermal stress. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "wb_id": "69020500",
+          "survey_id": "109153",
+          "wb_name": "Stuart",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "id_date": "1996-07-08"
+        },
+        "surveyID": "109153",
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                47,
+                1
+              ]
+            ],
+            "minimum_length": 16,
+            "maximum_length": 47
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                10,
+                7
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                25
+              ],
+              [
+                19,
+                20
+              ],
+              [
+                20,
+                13
+              ],
+              [
+                21,
+                12
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                8
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                6
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                9,
+                8
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 28
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                6
+              ]
+            ],
+            "maximum_length": 11,
+            "minimum_length": 6
+          },
+          "TLC": {
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 12
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 10,
+            "CPUE": "0.83",
+            "quartileCount": "1.2-3.6",
+            "totalWeight": 20734,
+            "averageWeight": "4.57",
+            "species": "NOP",
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.9-3.6"
+          },
+          {
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "gear": "Standard gill nets",
+            "gearCount": 12,
+            "quartileCount": "3.1-9.8",
+            "totalCatch": 45,
+            "CPUE": "3.75",
+            "averageWeight": "0.90",
+            "totalWeight": 18287
+          },
+          {
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.9-7.1",
+            "totalCatch": 23,
+            "CPUE": "1.92",
+            "averageWeight": "0.39",
+            "totalWeight": 4020
+          },
+          {
+            "species": "WTS",
+            "quartileWeight": "1.3-2.0",
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "quartileCount": "2.8-6.7",
+            "totalCatch": 101,
+            "CPUE": "8.42",
+            "averageWeight": "5.26",
+            "totalWeight": 240823
+          },
+          {
+            "species": "TLC",
+            "quartileWeight": "0.2-0.5",
+            "gear": "Standard gill nets",
+            "gearCount": 12,
+            "quartileCount": "1.8-12.4",
+            "CPUE": "1.08",
+            "totalCatch": 13,
+            "averageWeight": "0.60",
+            "totalWeight": 3566
+          }
+        ],
+        "surveySubType": "Re-Survey",
+        "surveyDate": "1996-07-08",
+        "narrative": "<p>Stuart Lake is in Ecological Lake Class 7, which consists of 41 lakes in northeast Minnesota that are very large, have irregular shoreline shapes, and have very soft and chemically unproductive water.  Stuart Lake differs from most Class 7 lakes in that it is smaller, more bowl-shaped, has less shallow productive area along the shoreline, and has water that is more brown from bog stain.Stuart Lake stratifies thermally in most years with a midsummer bottom temperature of about 50 F and retains good oxygen (more than 2 ppm) to a depth of 21 ft to the bottom, depending on the year.  The Stuart River flows through this lake with large midsummer flows.  This flow, when combined with the open and windswept shape of the lake basin, prevents thermal stratification from occurring during some summers.  The inlet and outlet both have barriers to fish movement in the form of rapids and waterfalls.  Shallow water bottom substrates are mostly boulder and ledgerock.  Aquatic plants are generally sparse.The total catch of fish in the gillnets in 1996 (all fish species combined) of 16 fish/net was lower than normal for this lake class, however the total catch by weight of 31 lb/net was normal for this lake class.  This indicates that Stuart Lake has fewer, but larger fish than other Class 7 lakes.  Previous gillnet catches in four assessments dating back to 1974 were similar to the 1996 catch.White sucker dominated the gillnet catch in 1996, as they have in most previous gillnet assessments in Stuart Lake.  Sucker numbers and sizes were higher than normal for this lake class.Walleye were absent in Stuart Lake in the 1974 gillnetting.  Walleye fry were introduced in 1982 and have been stocked several times since.  The 1996 gillnet catch of walleye was normal for this lake class and was similar to previous catches in 1992 and 1988, but was lower than the peak catch of 9.8/gillnet in 1985, which occurred shortly after walleye were first stocked.  Walleye sizes have averaged about 13 in, but the largest, caught in 1996, was 28 in (8.8 lb).  Walleye growth in 1996 (9 in at age two, 14 in at age six) is slow by area standards and considerably slower than the growth observed shortly after walleye were first stocked.  Most walleye in 1996 (26 of 43) were from the stocked year classes of 1990 and 1993, the remainder were naturally produced.Northern pike numbers in 1996 were lower than normal for this year class.  Pike numbers were normal in 1974, prior to the stocking of walleye.  Pike sizes in 1996 averaged 25 in; the largest was 48 in with an estimated weight of 31 lb.  Pike growth, 25 in at age four, was normal for the area.Yellow perch numbers in 1996 were lower than normal for this lake class.  Perch numbers have declined since walleye were introduced.  Perch sizes averaged 9 in, with the largest 12 in.  Cisco numbers in 1996 were lower than normal for this lake class.  Cisco were only caught in the 1992 and 1996 assessments.  Most of the gillnets have been set in shallow, warm water and as a consequence the population of this cold water species has probably been underestimated.  Cisco sizes have averaged about 11 in.</p>"
+      },
+      {
+        "surveyID": "109023",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_id": "69020500",
+          "wb_alt_name": "",
+          "id_date": "1974-08-23",
+          "wb_type": "Lake",
+          "wb_name": "Stuart",
+          "survey_id": "109023",
+          "survey_type": "Initial Survey"
+        },
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 56,
+            "averageWeight": "2.67",
+            "CPUE": "3.50",
+            "totalCatch": 21,
+            "quartileCount": "1.2-3.6",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileWeight": "1.9-3.6",
+            "species": "NOP"
+          },
+          {
+            "quartileWeight": "N/A",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "species": "GSF",
+            "averageWeight": "0.10",
+            "totalWeight": 1,
+            "quartileCount": "0.1-1.7",
+            "totalCatch": 10,
+            "CPUE": "1.67"
+          },
+          {
+            "CPUE": "3.50",
+            "totalCatch": 21,
+            "quartileCount": "1.9-7.1",
+            "totalWeight": 5.4,
+            "averageWeight": "0.26",
+            "species": "YEP",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "quartileWeight": "1.3-2.0",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "averageWeight": "1.03",
+            "totalWeight": 51.5,
+            "quartileCount": "2.8-6.7",
+            "CPUE": "8.33",
+            "totalCatch": 50
+          }
+        ],
+        "narrative": "<p>Consists of above average populations of northern pike, sucker and green sunfish.  Yellow perch are present in above average numbers for lakes in this area, but below the state average.  The Perch are of good size.</p>",
+        "surveyDate": "1974-08-23",
+        "surveySubType": "Initial Survey"
+      },
+      {
+        "surveyID": "109025",
+        "headerInfo": {
+          "wb_name": "Stuart",
+          "survey_id": "109025",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "id_date": "1988-09-08",
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "wb_id": "69020500"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>White sucker are present in above average numbers; largemouth bass, yellow perch, and walleye are present in average numbers; northern pike are present in below average numbers. White sucker and yellow perch sizes are above average. Walleye growth was very fast initially, but has recently slowed considerably.</p>",
+        "surveyDate": "1988-09-08",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.9-3.6",
+            "species": "NOP",
+            "totalWeight": 2.8,
+            "averageWeight": "1.40",
+            "CPUE": "0.33",
+            "totalCatch": 2,
+            "quartileCount": "1.2-3.6"
+          },
+          {
+            "totalWeight": 23.2,
+            "averageWeight": "0.93",
+            "totalCatch": 25,
+            "CPUE": "4.17",
+            "quartileCount": "3.1-9.8",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-1.3",
+            "species": "WAE"
+          },
+          {
+            "CPUE": "3.50",
+            "totalCatch": 21,
+            "quartileCount": "1.9-7.1",
+            "totalWeight": 10.5,
+            "averageWeight": "0.50",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "quartileCount": "2.8-6.7",
+            "totalCatch": 90,
+            "CPUE": "15.00",
+            "averageWeight": "2.39",
+            "totalWeight": 214.7,
+            "species": "WTS",
+            "quartileWeight": "1.3-2.0",
+            "gearCount": 6,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "0.2-0.8",
+            "CPUE": "0.33",
+            "totalCatch": 2,
+            "averageWeight": "1.60",
+            "totalWeight": 3.2,
+            "species": "LMB",
+            "quartileWeight": "0.9-1.3",
+            "gearCount": 6,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "lengths": {}
+      },
+      {
+        "narrative": "<p>Stuart Lake is located approximately 21 miles NW of Ely in the BWCAW. The most common access is via the Stuart River entry point located off the Echo Trail (CR 116). The Stuart River route involves 6 portages with a total length of 2.4 miles and approximately 6 miles of paddling on the river. There are 5 designated USFS campsites located around the lake for overnight camping. <br> \n <br> \nStuart is a softwater (low fertility) lake. The Stuart River flows through this lake with normal midsummer flows but may dry up in extremely dry summers. The inlet and outlet to Stuart Lake both have barriers to upstream fish movement (rapids and falls). Lake bottom substrates along the shoreline of Stuart Lake are mostly boulder and ledgerock, with small amounts of sand, rubble, and muck. Aquatic plants are sparse. <br> \n <br> \nWalleye, northern pike, yellow perch, cisco and white sucker were sampled during the lake survey in 2016. These species were sampled in numbers near or below average. Anecdotal reports indicate that  largemouth bass are also present in Stuart Lake.  <br> \n <br> \nWalleye numbers in 2016 (4.4/gill net) were similar to the historic average for Stuart Lake and below average compared to other similar lakes in the area. The average walleye sampled was 13 inches and about 5 years old. The largest walleye sampled in 2016 was 26 inches long which was one of only 3 walleye over 15 inches sampled. Walleye fry are stocked into Stuart once every three years, but walleye are also naturally produced in non-stocked years. <br> \n <br> \nNorthern pike numbers in 2016 (0.8/gill net) were identical to the historic average and below average compared to other similar lakes in the area. The average pike sampled was 24 inches and the largest pike sampled in 2016 was 31 inches long. <br> \n <br> \nYellow perch abundance in 2016 (2.0/gill net) was nearly identical to the historic average and below average compared to other similar lakes in the area. The average perch sampled was 10 inches and the largest perch in 2016 was 13.5 inches long.</p>",
+        "surveyDate": "2016-06-13",
+        "surveySubType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "1.2-3.6",
+            "totalCatch": 7,
+            "CPUE": "0.78",
+            "averageWeight": "3.25",
+            "totalWeight": 10323,
+            "species": "NOP",
+            "quartileWeight": "1.9-3.6",
+            "gearCount": 9,
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "0.82",
+            "totalWeight": 14805,
+            "quartileCount": "3.1-9.8",
+            "CPUE": "4.44",
+            "totalCatch": 40,
+            "quartileWeight": "0.7-1.3",
+            "gearCount": 9,
+            "gear": "Standard gill nets",
+            "species": "WAE"
+          },
+          {
+            "averageWeight": "0.55",
+            "totalWeight": 4530,
+            "quartileCount": "1.9-7.1",
+            "CPUE": "2.00",
+            "totalCatch": 18,
+            "quartileWeight": "0.1-0.3",
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "species": "YEP"
+          },
+          {
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "quartileWeight": "1.3-2.0",
+            "CPUE": "4.22",
+            "totalCatch": 38,
+            "quartileCount": "2.8-6.7",
+            "totalWeight": 55029,
+            "averageWeight": "3.19"
+          },
+          {
+            "quartileWeight": "0.2-0.5",
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "species": "TLC",
+            "averageWeight": "0.45",
+            "totalWeight": 2027,
+            "quartileCount": "1.8-12.4",
+            "CPUE": "1.11",
+            "totalCatch": 10
+          }
+        ],
+        "lengths": {
+          "WTS": {
+            "maximum_length": 21,
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                13
+              ],
+              [
+                19,
+                10
+              ],
+              [
+                20,
+                5
+              ],
+              [
+                21,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                13,
+                8
+              ],
+              [
+                14,
+                8
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                8,
+                5
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 26,
+            "minimum_length": 8
+          },
+          "NOP": {
+            "minimum_length": 19,
+            "maximum_length": 30,
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                30,
+                1
+              ]
+            ]
+          },
+          "TLC": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                9,
+                4
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 11
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                6
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 13
+          }
+        },
+        "surveyID": "12391628631889000",
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_id": "69020500",
+          "wb_alt_name": "",
+          "id_date": "2016-06-13",
+          "wb_type": "Lake",
+          "survey_id": "12391628631889000",
+          "wb_name": "Stuart",
+          "survey_type": "Standard Survey"
+        },
+        "surveyType": "Standard Survey"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.9-3.6",
+            "species": "NOP",
+            "totalWeight": 5.2,
+            "averageWeight": "2.60",
+            "CPUE": "0.40",
+            "totalCatch": 2,
+            "quartileCount": "1.2-3.6"
+          },
+          {
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "quartileCount": "3.1-9.8",
+            "CPUE": "9.80",
+            "totalCatch": 49,
+            "averageWeight": "0.84",
+            "totalWeight": 41.2
+          },
+          {
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "gear": "Standard gill nets",
+            "gearCount": 5,
+            "quartileCount": "1.9-7.1",
+            "totalCatch": 16,
+            "CPUE": "3.20",
+            "averageWeight": "0.36",
+            "totalWeight": 5.8
+          },
+          {
+            "averageWeight": "1.67",
+            "totalWeight": 75,
+            "quartileCount": "2.8-6.7",
+            "CPUE": "9.00",
+            "totalCatch": 45,
+            "quartileWeight": "1.3-2.0",
+            "gear": "Standard gill nets",
+            "gearCount": 5,
+            "species": "WTS"
+          },
+          {
+            "quartileCount": "0.2-0.8",
+            "CPUE": "0.40",
+            "totalCatch": 2,
+            "averageWeight": "1.10",
+            "totalWeight": 2.2,
+            "species": "LMB",
+            "quartileWeight": "0.9-1.3",
+            "gearCount": 5,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "lengths": {},
+        "narrative": "<p>White sucker and walleye are present in above average numbers; yellow perch are present in average numbers; and northern pike are present in below average numbers. Largemouth bass are present. Smallmouth bass and green sunfish were observed in the 1974 survey, but not in this survey. Walleye were introduced in 1982 and 1983. The 1982 stocking had poor survival; most fish are from the 1983 stocking. Growth is very fast (11.6 which is to be expected with an introduction.</p>",
+        "surveyDate": "1985-09-18",
+        "surveySubType": "Population Assessment",
+        "surveyID": "109024",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "wb_id": "69020500",
+          "wb_name": "Stuart",
+          "survey_id": "109024",
+          "survey_type": "Population Assessment",
+          "id_date": "1985-09-18",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "id_date": "2006-09-05",
+          "wb_type": "Lake",
+          "survey_id": "1210631853202002",
+          "wb_name": "Stuart",
+          "survey_type": "Population Assessment",
+          "county": "St. Louis",
+          "wb_id": "69020500",
+          "wb_alt_name": ""
+        },
+        "surveyID": "1210631853202002",
+        "lengths": {
+          "YEP": {
+            "minimum_length": 6,
+            "maximum_length": 14,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                4
+              ]
+            ]
+          },
+          "TLC": {
+            "maximum_length": 12,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                29,
+                2
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                33,
+                1
+              ]
+            ],
+            "maximum_length": 33,
+            "minimum_length": 15
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                9
+              ],
+              [
+                12,
+                9
+              ],
+              [
+                13,
+                8
+              ],
+              [
+                14,
+                8
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 25,
+            "minimum_length": 9
+          },
+          "WTS": {
+            "minimum_length": 10,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                11
+              ],
+              [
+                17,
+                10
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "quartileWeight": "1.9-3.6",
+            "gear": "Standard gill nets",
+            "gearCount": 12,
+            "quartileCount": "1.2-3.6",
+            "totalCatch": 15,
+            "CPUE": "1.25",
+            "averageWeight": "3.44",
+            "totalWeight": 23436
+          },
+          {
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "gear": "Standard gill nets",
+            "gearCount": 12,
+            "quartileCount": "3.1-9.8",
+            "CPUE": "4.25",
+            "totalCatch": 51,
+            "averageWeight": "1.02",
+            "totalWeight": 23588
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 12,
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "totalWeight": 5929,
+            "averageWeight": "0.54",
+            "CPUE": "2.00",
+            "totalCatch": 24,
+            "quartileCount": "1.9-7.1"
+          },
+          {
+            "species": "WTS",
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.3-2.0",
+            "CPUE": "4.67",
+            "totalCatch": 56,
+            "quartileCount": "2.8-6.7",
+            "totalWeight": 48981,
+            "averageWeight": "1.93"
+          },
+          {
+            "averageWeight": "0.37",
+            "totalWeight": 829,
+            "quartileCount": "1.8-12.4",
+            "CPUE": "0.42",
+            "totalCatch": 5,
+            "quartileWeight": "0.2-0.5",
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "species": "TLC"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyDate": "2006-09-05",
+        "narrative": "<p>Stuart Lake is in Ecological Lake Class 7, which consists of 41 lakes in northeast Minnesota that are very large, have irregular shoreline shapes, and have very soft (unmineralized) water.  Stuart Lake is smaller, more bowl-shaped, and has less biologically productive shallow area along the shoreline than is typical of lakes in this lake class. <br> \n <br> \nStuart Lake was thermally stratified on 09/05/2006 with a surface temperature of 72 F and a bottom temperature of 52 F.  Adequate oxygen for fish (more than 2 ppm) was retained to a depth of 21 feet, where the temperature was 66 F.  The Stuart River flows through this lake with normal midsummer flows of 150-300 cubic feet per second, but there was no flow at the time of the 2006 investigation following an extremely dry summer.  The inlet and outlet to Stuart Lake both have barriers to upstream fish movement (rapids and falls).  Lake bottom substrates along the shoreline of Stuart Lake are mostly boulder and ledgerock, with small amounts of sand, rubble, and muck.  Aquatic plants are sparse. <br> \n <br> \nFish were sampled in 2006 with 12 gillnets.  Five previous investigations on Stuart Lake, dating back to 1974, used 5-12 gillnets.  Fish populations in 2006 were dominated by walleye, white sucker, northern pike, and yellow perch. <br> \n <br> \nWalleye were absent in the initial investigation on Stuart Lake in 1974.  Walleye fry were stocked in 1982-83, and then every third year through 2005.  Walleye numbers were fairly high in 1985 (9.8/gillnet), but then stabilized with a median walleye catch of 4.0/gillnet in subsequent investigations.  The 2006 walleye catch of 4.2/gillnet was somewhat lower than normal (in the second quartile) for this lake class, but was similar to recent catches on Stuart Lake.   <br> \n <br> \nWalleye sizes in 2006 averaged 14.1 inches (1.0 lb), which was somewhat larger than normal (in the third quartile) for this lake class and was similar to the average walleye size of 13.6 inches in all investigations on this lake.  The largest walleye in 2006 was 25.2 inches.  Although there has been some natural reproduction of walleye occurring in Stuart Lake in recent years, half of the walleye captured in 2006 (27 of 51) were from the fry-stocked years of 1999 and 2002.  Walleye growth was very slow (in the first quartile) by area standards, and walleye from the fry-stocked year-class of 2005 would have been too small to catch in the gillnets in 2006. <br> \n <br> \nSucker numbers in 2006 (4.7/gillnet) were somewhat higher than normal (in the third quartile) for this lake class, but were lower than the median sucker catch of 8.7/gillnet in all investigations on this lake.  Sucker sizes in 2006 averaged 16.3 inches. <br> \n <br> \nNorthern pike numbers were fairly high (3.5/gillnet) in the initial investigation on Stuart Lake.  Following the introduction of walleye, pike numbers declined to a median catch of 0.8/gillnet in investigations from 1985 through 2006.  The 2006 pike catch of 1.2/gillnet was lower than normal (near the first quartile) for this lake class, but was higher than in recent investigations on this lake.   Pike sizes in 2006 averaged 23.9 inches (3.4 lb), which was somewhat larger than normal (in the third quartile) for this lake class, and was larger than the average pike size of 22.4 inches in all investigations on this lake.  The largest pike in 2006 was 33.3 inches.  Most of the pike captured in 2006 were ages three and five.  Pike growth was somewhat slower than normal (in the second quartile) by area standards. <br> \n <br> \nPerch numbers in 2006 (2.0/gillnet) were somewhat lower than normal (in the second quartile) for this lake class, but were similar to the median perch catch of 2.7/gillnet in all investigations on this lake.  Perch sizes in 2006 averaged 9.8 inches (0.5 lb), which was larger than normal (in the fourth quartile) for this lake class, but was similar to the average perch size of 9.5 inches in all investigations on this lake.  The largest perch in 2006 was 14.1 inches.  Perch growth was faster than normal (in the fourth quartile) by area standards.</p>"
+      },
+      {
+        "headerInfo": {
+          "id_date": "2025-08-18",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "survey_id": "-387",
+          "wb_name": "Stuart",
+          "wb_id": "69020500",
+          "county": "St. Louis",
+          "wb_alt_name": ""
+        },
+        "surveyType": "Targeted Survey",
+        "surveyID": "-387",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-08-18",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Stuart Lake on August 18th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 36.1 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 13.8 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 15.6 feet at the time of sampling. The thickness of this layer of water in the water column was 1.8 feet, indicating that oxythermal habitat was present but marginal for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 20.1 degrees C (68.2 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were marginal for Cisco at the time of the survey as the layer was confined to less than 3 feet of suitable habitat at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 indicated suitable oxythermal habitat, with 18.9 feet of oxythermal habitat. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 40,
+    "shoreLengthMiles": 11.25,
+    "officeCode": "F214",
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "accessTypeId": "PO",
+        "lakeAccessComments": "74 rod/ 407 yd. portage from Stuart River"
+      },
+      {
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": "118 rod/ 649 yd. portage from Dahlgren River",
+        "accessTypeId": "PO",
+        "location": " "
+      },
+      {
+        "accessTypeId": "PO",
+        "lakeAccessComments": "320 rod/ 1760 yd. portage from Fox Lake",
+        "location": " ",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF"
+      },
+      {
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT",
+        "location": " ",
+        "accessTypeId": "A",
+        "lakeAccessComments": "180 rod/ 990 yd. portage from Nibin Lake"
+      }
+    ],
+    "averageWaterClarity": "5.5",
+    "littoralAcres": 236,
+    "areaAcres": 775.93,
+    "lakeName": "Stuart",
+    "county": "St. Louis"
+  },
+  "status": "SUCCESS"
+}

@@ -1,0 +1,88 @@
+{
+  "timestamp": 1790285638,
+  "result": {
+    "shoreLengthMiles": 5.86,
+    "sampledPlants": [],
+    "lakeName": "Pipe",
+    "surveys": [
+      {
+        "surveyDate": "1975-06-25",
+        "surveySubType": "Initial Survey",
+        "surveyID": "109724",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 33,
+            "totalWeight": 94,
+            "quartileWeight": "1.5-2.4",
+            "species": "NOP",
+            "quartileCount": "1.2-3.9",
+            "CPUE": "8.25",
+            "gearCount": 4,
+            "averageWeight": "2.85"
+          },
+          {
+            "averageWeight": "0.12",
+            "gearCount": 4,
+            "quartileCount": "0.5-2.8",
+            "CPUE": "0.50",
+            "totalWeight": 0.25,
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "totalCatch": 2,
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "0.87",
+            "quartileCount": "2.6-11.7",
+            "CPUE": "5.75",
+            "gearCount": 4,
+            "totalCatch": 23,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "totalWeight": 20,
+            "quartileWeight": "1.7-2.4"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "16037500",
+          "wb_name": "Pipe",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "id_date": "1975-06-25",
+          "survey_id": "109724"
+        },
+        "lengths": {},
+        "narrative": "<p>Lake contains only N Pike as game species and with Wht Suckers and Yel Perch for forage fish.</p>"
+      }
+    ],
+    "maxDepthFeet": 33,
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "location": "Accessible via 0.1 mile portage from East Pipe Lake.",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " "
+      }
+    ],
+    "DOWNumber": "16037500",
+    "waterClarity": [
+      [
+        "06/26/1975",
+        "13"
+      ]
+    ],
+    "littoralAcres": 156,
+    "averageWaterClarity": "13.0",
+    "county": "Cook",
+    "areaAcres": 284.66,
+    "officeCode": "F218"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

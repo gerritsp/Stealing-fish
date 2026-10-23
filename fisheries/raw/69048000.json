@@ -1,0 +1,213 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "county": "St. Louis",
+    "areaAcres": 156.49,
+    "littoralAcres": 42,
+    "officeCode": "F217",
+    "surveys": [
+      {
+        "surveyDate": "2000-07-10",
+        "surveyID": "111962",
+        "lengths": {
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 10
+          },
+          "WTS": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                17
+              ],
+              [
+                12,
+                10
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                13
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                7,
+                9
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                6
+              ]
+            ],
+            "maximum_length": 18
+          },
+          "GSF": {
+            "fishCount": [
+              [
+                4,
+                5
+              ],
+              [
+                5,
+                3
+              ]
+            ],
+            "maximum_length": 5,
+            "minimum_length": 4
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 8,
+            "quartileWeight": "N/A",
+            "gearCount": 6,
+            "totalWeight": 320,
+            "CPUE": "1.33",
+            "quartileCount": "0.3-2.5",
+            "gear": "Standard gill nets",
+            "species": "GSF",
+            "averageWeight": "0.09"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.21",
+            "species": "YEP",
+            "CPUE": "1.17",
+            "quartileCount": "1.0-8.0",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 6,
+            "totalWeight": 680,
+            "totalCatch": 7
+          },
+          {
+            "totalCatch": 80,
+            "gearCount": 6,
+            "totalWeight": 32110,
+            "quartileWeight": "0.6-2.0",
+            "quartileCount": "1.5-10.4",
+            "CPUE": "13.33",
+            "averageWeight": "0.88",
+            "species": "WTS",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "id_date": "2000-07-10",
+          "county": "St. Louis",
+          "wb_name": "Beartrack",
+          "wb_type": "Lake",
+          "survey_id": "111962",
+          "survey_type": "Re-Survey",
+          "wb_id": "69048000",
+          "wb_alt_name": ""
+        },
+        "narrative": "<p>Beartrack is a small, clear water lake located in the Boundary Waters Canoe Area Wilderness. The lake is only accessible via portage trails coming from Little Beartrack Lake or Thumb Lake. There are three primitive campsites maintained by the U.S. Forest Service on the lake. The fish community is simple with only a few species present. Individual fish are generally small.White suckers were the most common fish sampled during 2000.  Sucker numbers were high compared to other lakes like Beartrack.  Average length was 13 inches, however, suckers up to 18 inches were collected.  Yellow perch were sampled in low numbers.  The largest perch sampled was ten inches in length, however, most were less than eight inches.  The only other fish species collected during the 2000 survey was green sunfish. Green sunfish averaged five inches in length. Beartrack is a beautiful lake for paddling, camping or swimming but better fishing can probably be found in some of the neighboring lakes.</p>"
+      },
+      {
+        "surveyID": "11991627035793000",
+        "lengths": {},
+        "surveyDate": "2016-08-17",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "wb_id": "69048000",
+          "survey_id": "11991627035793000",
+          "wb_type": "Lake",
+          "wb_name": "Beartrack",
+          "county": "St. Louis",
+          "id_date": "2016-08-17"
+        },
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Dissolved oxygen and temperature were sampled in Beartrack Lake on August 17, 2016. This data was collected as part of an assessment of Lake Trout habitat suitability during the peak of the summer. This sample showed that optimum habitat conditions for Lake Trout existed from 23 to 36 feet in depth. Over 1/4 of the water column provided optimum habitat. Water quality sampling in July of 2001 had similar results with optimum conditions existing from 21 to 35 feet deep, and in July of 2000 optimum conditions existed from 22 to 40 feet deep. </p>"
+      }
+    ],
+    "meanDepthFeet": 25.3,
+    "sampledPlants": [],
+    "maxDepthFeet": 55,
+    "accesses": [
+      {
+        "location": "200 rod portage trail from Thumb Lake.",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA"
+      },
+      {
+        "location": "30 rod portage from Little Beartrack Lake.",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA"
+      }
+    ],
+    "shoreLengthMiles": 2.79,
+    "averageWaterClarity": "18.0",
+    "lakeName": "Beartrack",
+    "waterClarity": [
+      [
+        "08/17/2016",
+        "18"
+      ]
+    ],
+    "DOWNumber": "69048000"
+  },
+  "timestamp": 1790286073
+}

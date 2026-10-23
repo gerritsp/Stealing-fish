@@ -1,0 +1,61 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285826,
+  "message": "Normal execution.",
+  "result": {
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "location": "Portages 1/4 mi. from Haven L. 1/4 mi. from Swing Lake.",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O"
+      }
+    ],
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "surveyDate": "1982-07-23",
+        "surveySubType": "Initial Survey",
+        "surveyID": "108013",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38050700",
+          "id_date": "1982-07-23",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "survey_id": "108013",
+          "wb_name": "Abinodji"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.3-5.1",
+            "species": "NOP",
+            "averageWeight": "1.38",
+            "gearCount": 4,
+            "quartileWeight": "1.4-2.2",
+            "totalCatch": 21,
+            "gear": "Standard gill nets",
+            "CPUE": "5.25",
+            "totalWeight": 29
+          }
+        ],
+        "lengths": {},
+        "narrative": "<p>Composed of an above average population of small northern pike.</p>"
+      }
+    ],
+    "waterClarity": [],
+    "county": "Lake",
+    "littoralAcres": 18,
+    "areaAcres": 35.74,
+    "lakeName": "Abinodji",
+    "shoreLengthMiles": 1.62,
+    "officeCode": "F214",
+    "DOWNumber": "38050700",
+    "averageWaterClarity": "N/A",
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 33
+  }
+}

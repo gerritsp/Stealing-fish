@@ -1,0 +1,77 @@
+{
+  "timestamp": 1790285910,
+  "status": "SUCCESS",
+  "result": {
+    "maxDepthFeet": 35,
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_id": "16011500",
+          "wb_name": "Rocky",
+          "county": "Cook",
+          "survey_id": "109626",
+          "wb_alt_name": "",
+          "id_date": "1974-08-13",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "1974-08-13",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.00",
+            "gearCount": 3,
+            "totalWeight": 2,
+            "quartileCount": "2.3-5.1",
+            "totalCatch": 2,
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.4-2.2",
+            "CPUE": "0.67"
+          },
+          {
+            "quartileWeight": "0.7-2.3",
+            "CPUE": "0.33",
+            "species": "WTS",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-12.5",
+            "totalWeight": 1,
+            "averageWeight": "1.00",
+            "gearCount": 3
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyID": "109626",
+        "narrative": "<p>Only two N Pike and one Sucker were taken in three gillnets set overnight.  Additional netting should be done to determine if there are too many N Pike, requiring reclamation prior to Trout stocking.</p>"
+      }
+    ],
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "shoreLengthMiles": 2.37,
+    "meanDepthFeet": 0,
+    "DOWNumber": "16011500",
+    "waterClarity": [
+      [
+        "08/14/1974",
+        "7"
+      ]
+    ],
+    "littoralAcres": 0,
+    "areaAcres": 75.71,
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "Accessible via 0.4 mile unmarked portage trail from Alder Lake."
+      }
+    ],
+    "lakeName": "Rocky",
+    "averageWaterClarity": "7.0",
+    "county": "Cook"
+  },
+  "message": "Normal execution."
+}

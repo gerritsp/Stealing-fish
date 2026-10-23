@@ -1,0 +1,427 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285865,
+  "result": {
+    "littoralAcres": 198,
+    "sampledPlants": [],
+    "county": "Cook",
+    "officeCode": "F218",
+    "lakeName": "Tuscarora",
+    "maxDepthFeet": 130,
+    "areaAcres": 805.07,
+    "surveys": [
+      {
+        "narrative": "<p>Tuscarora Lake has a fair population of Lake Trout and N Pike of good size.  Perch numbers appear low and Suckers in fair numbers.  The proposed snowmobile ban about 1980 will reduce winter fishing to a very low level.</p>",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1974-08-26",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "16062300",
+          "county": "Cook",
+          "wb_name": "Tuscarora",
+          "wb_type": "Lake",
+          "id_date": "1974-08-26",
+          "survey_type": "Initial Survey",
+          "survey_id": "109802"
+        },
+        "surveyID": "109802",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 12,
+            "species": "BUB",
+            "quartileWeight": "0.7-1.9",
+            "averageWeight": "1.00",
+            "totalCatch": 1,
+            "CPUE": "0.08",
+            "quartileCount": "0.3-1.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 1
+          },
+          {
+            "totalCatch": 20,
+            "CPUE": "1.67",
+            "quartileCount": "0.8-4.3",
+            "gearCount": 12,
+            "species": "LAT",
+            "quartileWeight": "1.2-3.1",
+            "averageWeight": "1.50",
+            "gear": "Standard gill nets",
+            "totalWeight": 30
+          },
+          {
+            "quartileWeight": "2.7-5.3",
+            "species": "NOP",
+            "averageWeight": "2.97",
+            "gearCount": 12,
+            "CPUE": "2.92",
+            "quartileCount": "0.3-1.0",
+            "totalCatch": 35,
+            "totalWeight": 104,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 3.6,
+            "gearCount": 12,
+            "averageWeight": "0.11",
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "totalCatch": 33,
+            "CPUE": "2.75",
+            "quartileCount": "0.3-2.8"
+          },
+          {
+            "totalWeight": 170.3,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-5.0",
+            "CPUE": "10.92",
+            "totalCatch": 131,
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "averageWeight": "1.30",
+            "gearCount": 12
+          }
+        ],
+        "lengths": {}
+      },
+      {
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_name": "Tuscarora",
+          "wb_alt_name": "",
+          "wb_id": "16062300",
+          "county": "Cook",
+          "survey_id": "21872425450144205",
+          "survey_type": "Targeted Survey",
+          "id_date": "2024-08-05"
+        },
+        "surveyDate": "2024-08-05",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Tuscarora Lake on August 5, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 47.6 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 129.3 feet at the time of sampling. The thickness of this layer in the water column was 81.8 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.6 degrees C (43.9 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nThis is the first survey completed on Tuscarora Lake during the late summer thermal stress period, however, data collected outside the thermal maximum period in 1974 and 1989 indicated suitable oxythermal habitat during those sampling periods. The least favorable conditions were recorded in 1989 when the suitable habitat layer thickness was 37.4 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyType": "Targeted Survey",
+        "surveyID": "21872425450144205"
+      },
+      {
+        "surveyDate": "1989-08-30",
+        "headerInfo": {
+          "survey_id": "110103",
+          "survey_type": "Population Assessment",
+          "id_date": "1989-08-30",
+          "wb_name": "Tuscarora",
+          "wb_type": "Lake",
+          "wb_id": "16062300",
+          "wb_alt_name": "",
+          "county": "Cook"
+        },
+        "narrative": "<p>LAKE TROUT ABUNDANCE WAS GOOD AND A WIDE RANGE OF AGES WERE SAMPLED. LAKE TROUT GROWTH WAS SOMEWHAT SLOW BY COOK COUNTY STANDARDS. ADULT YELLOW PERCH NUMBERS WERE LOW, BUT YOY YELLOW PERCH WERE PROVIDING FORAGE FOR LAKE TROUT. WHITE SUCKER WERE ABUNDANT AND BURBOT WERE ALSO PRESENT.</p>",
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 4,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.3",
+            "CPUE": "0.62",
+            "totalCatch": 5,
+            "species": "BUB",
+            "quartileWeight": "0.7-1.9",
+            "averageWeight": "0.80",
+            "gearCount": 8
+          },
+          {
+            "quartileCount": "0.8-4.3",
+            "CPUE": "6.00",
+            "totalCatch": 48,
+            "species": "LAT",
+            "quartileWeight": "1.2-3.1",
+            "averageWeight": "1.43",
+            "gearCount": 8,
+            "totalWeight": 68.5,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 0.3,
+            "gear": "Standard gill nets",
+            "CPUE": "0.25",
+            "quartileCount": "0.3-2.8",
+            "totalCatch": 2,
+            "averageWeight": "0.15",
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "gearCount": 8
+          },
+          {
+            "totalCatch": 65,
+            "quartileCount": "1.7-5.0",
+            "CPUE": "8.12",
+            "gearCount": 8,
+            "averageWeight": "1.50",
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalWeight": 97.75
+          }
+        ],
+        "surveyID": "110103",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "narrative": "<p>The 1999 lake trout catch was within the normal range for this lake class.  Although it was lower than the catch observed in 1989, it was similar to the catch seen in 1974.  Several lake trout year classes, all naturally produced, were included in the catch, and lake trout growth had been slightly slower than average.  Four-year-old lake trout averaged 13.1 inches in length when taken in late August.  Lake trout collected in 1999 ranged from 10.0 to 21.2 inches in length, and were fairly evenly distributed over that range.  Tuscarora Lake has a reputation for producing good numbers of generally small lake trout, and that reputation was confirmed in this survey.A few northern pike were also collected in 1999.  The catch, though low in number, was still within the normal range for lakes of this class, and it included some larger fish.  Fair numbers of yellow perch were also present, but all were too small to have been of much interest to anglers.  Yellow perch were providing forage for northern pike, lake trout, and each other.Walleye and smallmouth bass have never been found in this lake.  They are not native to this area, and have not yet spread to this system.</p>",
+        "surveySubType": "Re-Survey",
+        "surveyDate": "1999-08-30",
+        "headerInfo": {
+          "wb_name": "Tuscarora",
+          "wb_type": "Lake",
+          "wb_id": "16062300",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_id": "111078",
+          "survey_type": "Re-Survey",
+          "id_date": "1999-08-30"
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "111078",
+        "lengths": {
+          "YEP": {
+            "maximum_length": 8,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                4
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 21,
+            "maximum_length": 34,
+            "fishCount": [
+              [
+                21,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                34,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "maximum_length": 21,
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 8,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "BUB": {
+            "maximum_length": 16,
+            "minimum_length": 16,
+            "fishCount": [
+              [
+                16,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 505,
+            "gear": "Standard gill nets",
+            "species": "BUB",
+            "quartileWeight": "0.7-1.9",
+            "averageWeight": "1.11",
+            "gearCount": 8,
+            "quartileCount": "0.3-1.3",
+            "CPUE": "0.12",
+            "totalCatch": 1
+          },
+          {
+            "totalWeight": 9267,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-4.3",
+            "CPUE": "1.88",
+            "totalCatch": 15,
+            "averageWeight": "1.36",
+            "species": "LAT",
+            "quartileWeight": "1.2-3.1",
+            "gearCount": 8
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 11135,
+            "totalCatch": 5,
+            "quartileCount": "0.3-1.0",
+            "CPUE": "0.62",
+            "gearCount": 8,
+            "species": "NOP",
+            "quartileWeight": "2.7-5.3",
+            "averageWeight": "4.91"
+          },
+          {
+            "totalWeight": 842,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "averageWeight": "0.14",
+            "gearCount": 8,
+            "CPUE": "1.62",
+            "quartileCount": "0.3-2.8",
+            "totalCatch": 13
+          },
+          {
+            "totalWeight": 13863,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-5.0",
+            "CPUE": "2.75",
+            "totalCatch": 22,
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "averageWeight": "1.39",
+            "gearCount": 8
+          }
+        ]
+      }
+    ],
+    "shoreLengthMiles": 13.61,
+    "averageWaterClarity": "13.3",
+    "waterClarity": [
+      [
+        "08/27/1974",
+        "16"
+      ],
+      [
+        "08/05/2024",
+        "9.84"
+      ],
+      [
+        "08/30/1989",
+        "14"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "DOWNumber": "16062300",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "Lake is entirely inside the BWCAW.  Access by portage trail from Missing Link; Owl; and Howl Lakes.",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "CA"
+      }
+    ]
+  },
+  "message": "Normal execution."
+}

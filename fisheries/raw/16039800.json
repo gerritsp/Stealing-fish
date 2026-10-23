@@ -1,0 +1,322 @@
+{
+  "timestamp": 1790285704,
+  "status": "SUCCESS",
+  "result": {
+    "waterClarity": [
+      [
+        "08/17/1981",
+        "22"
+      ],
+      [
+        "07/24/1984",
+        "17"
+      ],
+      [
+        "07/27/1972",
+        "19"
+      ],
+      [
+        "09/20/2021",
+        "17"
+      ],
+      [
+        "09/10/1987",
+        "14.5"
+      ]
+    ],
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT",
+        "location": "",
+        "accessTypeId": "PO",
+        "lakeAccessComments": " "
+      }
+    ],
+    "shoreLengthMiles": 1.16,
+    "officeCode": "F218",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "surveyID": "220712146613052",
+        "narrative": "<p>Ice cover prevented stocking in 2006, so that only a few large age-3 brook trout were present at the time of the assessment.  Few of those fish can be expected to survive another year, so fishing in Wench Lake will likely be poor in 2008.  Fingerlings will be stocked in fall 2008, and fishing should be improving by the end of 2009.  The fishery should be fully recovered by 2011.\n\n\n</p>",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 4,
+            "quartileCount": "N/A",
+            "gearCount": 2,
+            "CPUE": "2.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 7928,
+            "species": "BKT",
+            "averageWeight": "4.37"
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Wench",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_id": "16039800",
+          "id_date": "2007-10-04",
+          "survey_id": "220712146613052"
+        },
+        "lengths": {
+          "BKT": {
+            "maximum_length": 20,
+            "minimum_length": 19,
+            "fishCount": [
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyDate": "2007-10-04"
+      },
+      {
+        "surveySubType": "Re-Survey",
+        "narrative": "<p>The Brook Trout population is maintained totally by stocking.</p>",
+        "surveyID": "109739",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1981-08-17",
+        "lengths": {},
+        "headerInfo": {
+          "wb_name": "Wench",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Re-Survey",
+          "county": "Cook",
+          "survey_id": "109739",
+          "id_date": "1981-08-17",
+          "wb_id": "16039800"
+        },
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.56",
+            "species": "BKT",
+            "totalWeight": 37.7,
+            "gear": "Standard gill nets",
+            "CPUE": "33.50",
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalCatch": 67
+          }
+        ]
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.47",
+            "species": "BKT",
+            "totalWeight": 13271,
+            "CPUE": "31.00",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "totalCatch": 62,
+            "quartileWeight": "N/A",
+            "gearCount": 2
+          }
+        ],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Wench",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_id": "16039800",
+          "id_date": "1995-10-11",
+          "survey_id": "110559"
+        },
+        "lengths": {
+          "BKT": {
+            "minimum_length": 8,
+            "maximum_length": 14,
+            "fishCount": [
+              [
+                10,
+                24
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                20
+              ]
+            ]
+          }
+        },
+        "surveyDate": "1995-10-11",
+        "surveyType": "Standard Survey",
+        "surveyID": "110559",
+        "narrative": "<p>Wench Lake has a relatively large population of slow-growing brook trout, and should provide good fishing for fish 9 to 14 inches long.  Brook trout seldom exceed 15 inches in Wench Lake.</p>",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "totalCatch": 16,
+            "quartileWeight": "N/A",
+            "CPUE": "5.33",
+            "gear": "Standard gill nets",
+            "species": "BKT",
+            "totalWeight": 25.5,
+            "averageWeight": "1.59"
+          }
+        ],
+        "lengths": {},
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Wench",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_id": "16039800",
+          "id_date": "1984-07-24",
+          "survey_id": "109941"
+        },
+        "surveyDate": "1984-07-24",
+        "surveyType": "Standard Survey",
+        "surveyID": "109941",
+        "narrative": "<p>THE BROOK TROUT POPULATION IS ENTIRELY MAINTAINED BY AERIAL STOCKING. GROWTH RATES ARE FAIRLY GOOD. THERE IS NO MINNOW FORAGE BASE AT ALL NO MINNOW SPECIES OF ANY KING HAS EVER BEEN OBSERVED IN THIS LAKE.</p>",
+        "surveySubType": "Re-Survey"
+      },
+      {
+        "narrative": "<p>Wench Lake is located off the west end of Brule Lake, inside the Boundary Waters Canoe Area Wilderness.  It has been managed for stream trout (Brook Trout) since 1972.  The current goal for the fishery (from the 2015 lake management plan) is to maintain a Brook Trout population with a minimum gill net catch of 9.0 fish/set, with some fish over 16 inches in length.  This was to have been the second of three surveys scheduled to determine whether catch goals could be met with the reduced stocking rate (reduced from 2,000 to 1,000 fingerlings/stocking) in place since 2002, and to determine whether that reduction resulted in improved growth for stocked fish.  The first survey (2017) could not be completed due to a lack of staff and funding; the third and final survey is scheduled for 2024. <br> \n <br> \nBrook Trout were apparently abundant in Wench Lake in 2021, and some larger fish (over 16 inches) were present.  Survey results indicated the catch goal for this lake could be met at the current stocking rate and frequency (1,000 fingerlings every even-numbered year); however, they provided no evidence for any improvement in growth rates. The Brook Trout gill net catch in 2021 was high for this lake historically, and exceeded the current long range goal by a wide margin.  Several fish larger than 16 inches were included in that catch.  The high catch was apparently driven mainly by good survival of fingerlings stocked in 2018 (Tobin Harbor strain), and attainment of the size goal was driven by good long-term survival of small Tobin Harbor strain yearlings stocked in 2016 (2015 year class).  Growth of younger Brook Trout collected in 2021 had been slow; fish reached a mean length of just 9.1 inches at the end of their third year, compared to an area average of 12.5 inches.   <br> \n <br> \nAs has been the case in all past surveys of this lake, no undesirable fish species were found in 2021.  No minnows had been reported seen or captured in this lake prior to 2021, but some were observed along shore, and in Brook Trout stomaches, in this survey.  It is likely they were present, but not noticed, in the past as well.  Minnows are a desirable supplement to the invertebrate diets that drive many of the area's stream trout populations. <br> \n <br> \nWench Lake provides a relatively high volume of well-oxygenated cold water in its deeper waters, which should carry Brook Trout through any periods of elevated water temperatures in the lake's surface waters.  The temperature-oxygen profile measured during this survey (20 September) found good levels of dissolved oxygen persisted through the summer at depths of about 20 to 32 feet (water temperatures 61.2 to 44.2 F, respectively). Similar conditions have been noted in other fall temperature-oxygen profiles done on this lake. <br> \n <br> \n</p>",
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "surveyID": "17312127141506276",
+        "headerInfo": {
+          "county": "Cook",
+          "survey_id": "17312127141506276",
+          "wb_id": "16039800",
+          "id_date": "2021-09-20",
+          "wb_alt_name": "",
+          "wb_name": "Wench",
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake"
+        },
+        "lengths": {
+          "BKT": {
+            "minimum_length": 7,
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                10,
+                31
+              ],
+              [
+                11,
+                10
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                9
+              ]
+            ]
+          }
+        },
+        "surveyDate": "2021-09-20",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "27.50",
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalCatch": 55,
+            "averageWeight": "0.49",
+            "species": "BKT",
+            "totalWeight": 12183
+          }
+        ]
+      },
+      {
+        "lengths": {},
+        "headerInfo": {
+          "wb_id": "16039800",
+          "id_date": "1987-09-10",
+          "survey_id": "110045",
+          "county": "Cook",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Wench"
+        },
+        "surveyDate": "1987-09-10",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 39,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "CPUE": "19.50",
+            "totalWeight": 27.75,
+            "species": "BKT",
+            "averageWeight": "0.71"
+          }
+        ],
+        "narrative": "<p>BROOK TROUT ARE PRESENT IN EXCELLENT NUMBERS AND A WIDE RANGE OF SIZES. SURVIVAL APPEARS TO BE GOOD FOR ALL STOCKINGS FROM 1984 TO 1986. GROWTH APPEARS TO BE SLOWER THAN NORMAL FOR THIS AREA (PERSONAL OBSERVATION). NO MINNOWS ARE PRESENT - THE FORAGE BASE IS ENTIRELY INVERTEBRATE. ALL BROOK TROUT CURRENTLY PRESENT ARE OF THE NIPIGON STRAIN. THIS STRAIN IS KNOWN PRIMARILY FOR LONGEVITY, SO THE PRESENCE OF GOOD NUMBERS OF AGE III FISH IS ENCOURAGING. SURVIVAL OF THESE FISH TO AGE IV AND OLDER MAY RESULT IN SOME TROPHY SIZED FISH.</p>",
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey",
+        "surveyID": "110045"
+      }
+    ],
+    "maxDepthFeet": 59,
+    "littoralAcres": 11,
+    "averageWaterClarity": "17.9",
+    "county": "Cook",
+    "meanDepthFeet": 0,
+    "DOWNumber": "16039800",
+    "sampledPlants": [],
+    "lakeName": "Wench",
+    "areaAcres": 23.48
+  },
+  "message": "Normal execution."
+}

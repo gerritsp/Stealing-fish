@@ -1,0 +1,423 @@
+{
+  "result": {
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "location": "",
+        "lakeAccessComments": " "
+      }
+    ],
+    "lakeName": "Moon",
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "officeCode": "F218",
+    "littoralAcres": 82.4,
+    "averageWaterClarity": "11.9",
+    "county": "Cook",
+    "lakeAltName": "Sucker",
+    "maxDepthFeet": 30,
+    "shoreLengthMiles": 3.93,
+    "waterClarity": [
+      [
+        "07/15/1969",
+        "12.5"
+      ],
+      [
+        "06/14/2010",
+        "11.3"
+      ]
+    ],
+    "surveys": [
+      {
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_id": "16011700",
+          "wb_name": "Moon",
+          "id_date": "2000-06-13",
+          "wb_alt_name": "Sucker",
+          "survey_id": "111253",
+          "survey_type": "Re-Survey"
+        },
+        "surveyID": "111253",
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                24,
+                2
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                29,
+                2
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                32,
+                1
+              ]
+            ],
+            "maximum_length": 32,
+            "minimum_length": 24
+          },
+          "YEP": {
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                5,
+                5
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 5
+          },
+          "WAE": {
+            "minimum_length": 10,
+            "maximum_length": 25,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ]
+            ]
+          },
+          "GSF": {
+            "fishCount": [
+              [
+                1,
+                2
+              ],
+              [
+                2,
+                4
+              ]
+            ],
+            "maximum_length": 2,
+            "minimum_length": 1
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 8
+          }
+        },
+        "narrative": "<p>Walleye abundance in Moon Lake appeared to have been low in 2000.  Many of the fish that were collected were two years old, and under 11 inches.  Growth rates (for young fish) had been about average for the area, despite the fairly low number of yellow perch present.  The northern pike catch was also low, apparently due to a poor year class in 1998.  The fish that were taken were good-sized, and had exhibited excellent growth.No smallmouth bass were collected in 2000, but they were seen along shore, and were reported by anglers.</p>",
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "totalWeight": 16558,
+            "gearCount": 6,
+            "totalCatch": 7,
+            "quartileCount": "2.3-5.1",
+            "gear": "Standard gill nets",
+            "averageWeight": "5.21",
+            "quartileWeight": "1.4-2.2",
+            "CPUE": "1.17"
+          },
+          {
+            "quartileCount": "N/A",
+            "totalCatch": 6,
+            "totalWeight": 14,
+            "gearCount": 8,
+            "CPUE": "0.75",
+            "quartileWeight": "N/A",
+            "gear": "Minnow traps",
+            "averageWeight": "0.01",
+            "species": "GSF"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "1.21",
+            "CPUE": "1.83",
+            "quartileWeight": "0.9-2.0",
+            "totalWeight": 6017,
+            "gearCount": 6,
+            "totalCatch": 11,
+            "quartileCount": "1.0-7.1",
+            "species": "WAE"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.13",
+            "CPUE": "1.67",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 6,
+            "totalWeight": 599,
+            "quartileCount": "1.3-10.3",
+            "totalCatch": 10,
+            "species": "YEP"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "2.01",
+            "quartileWeight": "0.7-2.3",
+            "CPUE": "1.67",
+            "totalWeight": 9137,
+            "gearCount": 6,
+            "totalCatch": 10,
+            "quartileCount": "1.7-12.5",
+            "species": "WTS"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyDate": "2000-06-13"
+      },
+      {
+        "surveyID": "4311008551335020",
+        "lengths": {
+          "WAE": {
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                12,
+                3
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ]
+            ],
+            "minimum_length": 12
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                5,
+                5
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 11,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                2
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                28,
+                3
+              ],
+              [
+                32,
+                1
+              ]
+            ],
+            "maximum_length": 32
+          }
+        },
+        "headerInfo": {
+          "county": "Cook",
+          "wb_id": "16011700",
+          "wb_type": "Lake",
+          "wb_name": "Moon",
+          "id_date": "2010-06-14",
+          "wb_alt_name": "Sucker",
+          "survey_type": "Population Assessment",
+          "survey_id": "4311008551335020"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2010-06-14",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 6,
+            "quartileCount": "2.3-5.1",
+            "totalWeight": 13402,
+            "gearCount": 5,
+            "quartileWeight": "1.4-2.2",
+            "CPUE": "1.20",
+            "gear": "Standard gill nets",
+            "averageWeight": "4.92",
+            "species": "NOP"
+          },
+          {
+            "species": "WAE",
+            "averageWeight": "2.02",
+            "gear": "Standard gill nets",
+            "CPUE": "2.00",
+            "quartileWeight": "0.9-2.0",
+            "gearCount": 5,
+            "totalWeight": 9173,
+            "totalCatch": 10,
+            "quartileCount": "1.0-7.1"
+          },
+          {
+            "CPUE": "2.20",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.09",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.3-10.3",
+            "totalCatch": 11,
+            "totalWeight": 465,
+            "gearCount": 5,
+            "species": "YEP"
+          },
+          {
+            "species": "WTS",
+            "gearCount": 5,
+            "totalWeight": 26928,
+            "totalCatch": 25,
+            "quartileCount": "1.7-12.5",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.37",
+            "CPUE": "5.00",
+            "quartileWeight": "0.7-2.3"
+          }
+        ],
+        "narrative": "<p>Walleye were present in average numbers, but were above-average in size in 2010.    Several year classes, all naturally produced, contributed to the walleye catch, although none had been particularly strong.  Walleye growth rates had apparently been average; five-year-old fish averaged 17.0 inches in length at the end of their fifth growing season, compared to an area average of 16.7 inches.  Forage for walleye was provided by a modest yellow perch population. <br> \n <br> \nNorthern pike numbers were low (as has usually been the case in this lake), but northern pike collected were above-average in size.  Reproduction appeared to have been limited; only one fish under 25 in long was taken.  All but one of the northern pike taken in 2010 were over three years of age.  Northern pike growth had been fairly fast, with fish reaching a length of 26.7 inches at the end of their fourth year.  The presence of fair numbers of small white sucker may have contributed to good northern pike growth rates observed in 2010. <br> \n <br> \nWhite sucker and yellow perch gill net catches were within normal ranges for the lake class, and were similar to catches observed in 2000.  Although smallmouth bass were almost certainly present, none were taken in 2010. <br> \n <br> \n</p>"
+      }
+    ],
+    "DOWNumber": "16011700",
+    "areaAcres": 148.03
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285911
+}

@@ -1,0 +1,174 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "areaAcres": 56.6,
+    "sampledPlants": [],
+    "waterClarity": [],
+    "meanDepthFeet": 0,
+    "county": "Lake",
+    "DOWNumber": "38047200",
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "Becoosin/Benezie Loop; S of Kekekabic Trail.",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "littoralAcres": 49,
+    "averageWaterClarity": "N/A",
+    "maxDepthFeet": 17,
+    "surveys": [
+      {
+        "surveyID": "109305",
+        "narrative": "<p>Becoosin Lake is in Ecological Lake Class 14, which consists of 92 lakes in northeast Minnesota that are very small, shallow, and have very soft (unmineralized) water.  Becoosin Lake is typical of lakes in this lake class except that it is larger (52 acres) than the lake class average size of 23 acres.Becoosin Lake was thermally stratified on 08/17/98 and the oxygen level dropped very abruptly from good (5 ppm) at 9 ft to poor (0.4 ppm) at 10 ft, where the temperature was 66 F.  The bottom temperature was 52 F.  Inlet 1 appears to originate in a small lake 0.5 mi SW of Becoosin Lake; bogs and beaver dams likely limit fish movement through this inlet.  Inlet 2 drains a small bog area.  The outlet eventually flows to Parent Lake, but beaver dams, bogs, and steep gradients limit fish movement.  Lake bottom substrates along the shoreline are mostly boulder, with lower amounts of ledgerock and rubble.  Aquatic plants grew to a depth of 2 ft and were very sparse except for concentrations in small bays.Becoosin Lake ranks as mesotrophic-to-eutrophic.  The amount of phosphorus in the water is high for such a remote and infertile lake.Fish sampling in the 1998 survey consisted of three standard shallow gillnet sets.  Trapnets were not set due to the difficult portage access.  Collapsible minnow traps were set to sample small fish.The total catch of fish in the gillnets of 29 fish/net (23 lb/net) was normal for this lake class.  Fish populations were dominated by white sucker and yellow perch, although golden shiner, pearl dace, and finescale dace were also captured.Sucker numbers (13.3/gillnet) were normal for this lake class.  Sucker sizes averaged 1.1 lb, which is also normal for this lake class.  Yellow perch numbers (15.3/gillnet) were normal for this lake class.  Perch sizes averaged 0.6 lb, which is larger than normal for this lake class.  The largest perch was 13.6\" (1.1 lb).  Perch growth was normal for the area.  A few of the perch were infected with yellow grub.  Yellow grub is a common parasite that is native to the area.  It is found in or under the skin and is often removed by filleting.  It cannot infect humans and is killed at cooking temperatures.Notable by their absence in this lake are northern pike, as they are present in 54 percent of the lakes in Lake Class 14.</p>",
+        "surveySubType": "Initial Survey",
+        "lengths": {
+          "YEP": {
+            "maximum_length": 13,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                12
+              ],
+              [
+                12,
+                10
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                5,
+                7
+              ],
+              [
+                6,
+                8
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                4
+              ]
+            ],
+            "minimum_length": 5
+          },
+          "GOS": {
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 5
+          },
+          "WTS": {
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                11
+              ],
+              [
+                15,
+                14
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9
+          }
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "15.33",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "2.0-23.0",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.58",
+            "totalWeight": 12173,
+            "totalCatch": 46,
+            "species": "YEP"
+          },
+          {
+            "quartileCount": "0.5-16.8",
+            "quartileWeight": "0.1-0.1",
+            "totalWeight": 124,
+            "averageWeight": "0.14",
+            "gearCount": 3,
+            "CPUE": "0.67",
+            "gear": "Standard gill nets",
+            "species": "GOS",
+            "totalCatch": 2
+          },
+          {
+            "totalWeight": 42286,
+            "averageWeight": "2.33",
+            "quartileWeight": "0.8-2.3",
+            "quartileCount": "2.6-17.5",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "CPUE": "13.33",
+            "species": "WTS",
+            "totalCatch": 40
+          }
+        ],
+        "surveyDate": "1998-08-17",
+        "headerInfo": {
+          "id_date": "1998-08-17",
+          "wb_name": "Becoosin",
+          "survey_id": "109305",
+          "wb_alt_name": "",
+          "wb_id": "38047200",
+          "county": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake"
+        }
+      }
+    ],
+    "officeCode": "F214",
+    "shoreLengthMiles": 2.6,
+    "lakeName": "Becoosin"
+  },
+  "timestamp": 1790285736,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,691 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285928,
+  "result": {
+    "officeCode": "F218",
+    "littoralAcres": 22.3,
+    "county": "Cook",
+    "maxDepthFeet": 37,
+    "averageWaterClarity": "11.3",
+    "shoreLengthMiles": 1.81,
+    "waterClarity": [
+      [
+        "07/05/1989",
+        "9"
+      ],
+      [
+        "06/18/2007",
+        "13.5"
+      ],
+      [
+        "06/18/2024",
+        "8.2"
+      ],
+      [
+        "08/23/1983",
+        "14"
+      ],
+      [
+        "06/22/1992",
+        "12"
+      ]
+    ],
+    "lakeName": "Bingshick",
+    "DOWNumber": "16062700",
+    "surveys": [
+      {
+        "surveyID": "110120",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_id": "16062700",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "1989-07-05",
+          "wb_name": "Bingshick",
+          "survey_type": "Population Assessment",
+          "survey_id": "110120",
+          "county": "Cook"
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "5.00",
+            "averageWeight": "0.07",
+            "quartileCount": "0.4-7.0",
+            "quartileWeight": "N/A",
+            "species": "GSF",
+            "totalWeight": 0.69,
+            "totalCatch": 10,
+            "gearCount": 2,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 8.94,
+            "species": "BKT",
+            "totalCatch": 17,
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "CPUE": "8.50",
+            "averageWeight": "0.53",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "1.7-12.5",
+            "quartileWeight": "0.7-2.3",
+            "CPUE": "14.50",
+            "averageWeight": "0.44",
+            "species": "WTS",
+            "totalWeight": 12.81,
+            "totalCatch": 29,
+            "gearCount": 2,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyDate": "1989-07-05",
+        "lengths": {},
+        "narrative": "<p>THERE APPEARS TO HAVE BEEN GOOD SURVIVAL OF BROOK TROUT STOCKED IN 1988, AND BROOK TROUT STOCKED IN 1987 AND 1986 WERE ALSO SAMPLED. BROOK TROUT GROWTH IS AVERAGE FOR COOK COUNTY. WHITE SUCKER ARE ABUNDANT BUT SMALL, WITH MOST FISH IN THE 6 TO 9 IN SIZE RANGE. GREEN SUNFISH ARE ALSO PRESENT.</p>"
+      },
+      {
+        "surveyID": "220711745136002",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_name": "Bingshick",
+          "id_date": "2007-06-23",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_id": "220711745136002",
+          "survey_type": "Population Assessment",
+          "wb_id": "16062700",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "2007-06-23",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 8,
+            "species": "BKT",
+            "totalWeight": 6181,
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "CPUE": "4.00",
+            "averageWeight": "1.70",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "0.7-2.3",
+            "quartileCount": "1.7-12.5",
+            "averageWeight": "0.52",
+            "CPUE": "15.00",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "totalCatch": 30,
+            "totalWeight": 7018,
+            "species": "WTS"
+          }
+        ],
+        "lengths": {
+          "BKT": {
+            "maximum_length": 19,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                7,
+                7
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                9
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 19
+          }
+        },
+        "narrative": "<p>Fair numbers of brook trout were present in the spring of 2007; however, two recent stockings had apparently failed.  As a result, the population consisted of a few large four-year-old fish, and some much smaller fish from a 2006 stocking.  It is unlikely any of the four-year-olds would survive for another year; by 2008, the population will likely consist of fair numbers of small (10-12 inch) brook trout, and little else. <br> \n <br> \n</p>"
+      },
+      {
+        "narrative": "<p>Bingshick Lake is a small, 45-acre lake with a maximum depth of 37 ft and is primarily managed for brook trout. Bingshick Lake lies entirely within the Boundary Water Canoe Area Wilderness and is a part of the Rainy River Headwaters watershed. Access is difficult due to multiple portages from BWCAW entry point #52 (Round Lake) or an approximate 3.0-mile portage via the Kekekabic trail from the Gunflint Trail parking lot. In 2024, a standard survey was conducted using gillnets to assess the current fish community and evaluate the success of brook trout stocking efforts. <br> \n   <br> \nThe 2024 survey was the eighth survey conducted on Bingshick Lake since 1983, and the results were similar to previous surveys. The brook trout catch rate was above average and exceeded the 4.0 fish/net goal for the lake. Brook trout lengths ranged from 9.8 to 17.4 inches with an average length of 13.0 inches. The population was comprised of age two and four fish, with age four fish being larger than 14 inches. Growth rates were average compared to similar stocked brook trout lakes within the Grand Marais area. Bingshick Lake continues to provide the opportunity to catch memorable sized brook trout within the Grand Marais area that will likely satisfy anglers looking to catch larger fish.  <br> \n <br> \nWhite sucker abundance has been slowly increasing in Bingshick Lake and were relatively high in the 2024 survey. White sucker lengths ranged from 6.7 to 18.7 inches. Continued increases in white sucker abundance may have adverse effects on the brook trout population within Bingshick Lake. Green sunfish were also present within the lake, although not large enough to be of interest to anglers.  <br> \n <br> \nMinnesota Lakes within Cook County continue to be susceptible to aquatic invasive species introductions. Invasive species have the potential to significantly alter fish communities and overall lake health. Anglers should clean watercraft and fishing gear, drain all water, and dispose of unused bait in the trash to prevent accidental introductions to these pristine waters within this part of the state. <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 18,
+            "totalWeight": 7347,
+            "species": "BKT",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "9.00",
+            "averageWeight": "0.90"
+          },
+          {
+            "averageWeight": "0.44",
+            "CPUE": "22.50",
+            "quartileWeight": "0.7-2.3",
+            "quartileCount": "1.7-12.5",
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "totalWeight": 8944,
+            "species": "WTS",
+            "totalCatch": 45
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyDate": "2024-06-18",
+        "lengths": {
+          "WTS": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                7,
+                24
+              ],
+              [
+                8,
+                8
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 6
+          },
+          "BKT": {
+            "maximum_length": 17,
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                7
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyID": "22222504147188161",
+        "headerInfo": {
+          "wb_name": "Bingshick",
+          "id_date": "2024-06-18",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_id": "22222504147188161",
+          "survey_type": "Standard Survey",
+          "wb_id": "16062700",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Standard Survey"
+      },
+      {
+        "narrative": "<p>THERE APPEARS TO HAVE BEEN GOOD SURVIVAL OF BROOK TROUT STOCKED IN 1984. ALL TROUT CAPTURED IN THIS ASSESSMENT WERE AGE 2. THEY SHOW AVERAGE GROWTH. THE SUCKER POPULATION IS FAIRLY LARGE, BUT THEIR AVERAGE SIZE IS SMALL, AND THEY MAY EVENTUALLY PROVIDE SOME FORAGE FOR THE LARGER BROOK TROUT.</p>",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "totalWeight": 7.5,
+            "species": "BKT",
+            "totalCatch": 8,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "averageWeight": "0.94",
+            "CPUE": "4.00"
+          },
+          {
+            "totalCatch": 33,
+            "totalWeight": 4.75,
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "CPUE": "16.50",
+            "averageWeight": "0.14",
+            "quartileCount": "1.7-12.5",
+            "quartileWeight": "0.7-2.3"
+          }
+        ],
+        "surveyDate": "1986-07-07",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyID": "109968",
+        "headerInfo": {
+          "wb_name": "Bingshick",
+          "wb_alt_name": "",
+          "id_date": "1986-07-07",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "survey_id": "109968",
+          "wb_id": "16062700",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveyID": "111448",
+        "headerInfo": {
+          "wb_id": "16062700",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "2004-06-28",
+          "wb_name": "Bingshick",
+          "survey_type": "Population Assessment",
+          "survey_id": "111448",
+          "county": "Cook"
+        },
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>The catch of brook trout in gill nets was below the normal range for lakes in the Grand Marais area, and was low for this lake, historically.  Three year classes were represented in the catch.  Growth of the brook trout appeared somewhat fast for lakes in the Grand Marais area, and several large brook trout were captured.  Bingshick Lake shows promise as a good place to try for trophy brook trout.As expected, no other game fish were captured.  The catch of white sucker was within the normal range for lakes of this class.</p>",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "totalCatch": 4,
+            "totalWeight": 2760,
+            "species": "BKT",
+            "averageWeight": "1.52",
+            "CPUE": "2.00",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileCount": "1.7-12.5",
+            "quartileWeight": "0.7-2.3",
+            "CPUE": "8.00",
+            "averageWeight": "0.64",
+            "totalCatch": 16,
+            "totalWeight": 4644,
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "gearCount": 2
+          }
+        ],
+        "surveyDate": "2004-06-28",
+        "lengths": {
+          "BKT": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 19
+          },
+          "WTS": {
+            "maximum_length": 21,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "lengths": {
+          "WTS": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                8
+              ],
+              [
+                7,
+                32
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "maximum_length": 17
+          },
+          "BKT": {
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "maximum_length": 19
+          }
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 6,
+            "totalWeight": 5360,
+            "species": "BKT",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "CPUE": "3.00",
+            "averageWeight": "1.97",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "totalWeight": 4754,
+            "species": "WTS",
+            "totalCatch": 49,
+            "quartileWeight": "0.7-2.3",
+            "quartileCount": "1.7-12.5",
+            "averageWeight": "0.21",
+            "CPUE": "24.50"
+          }
+        ],
+        "surveyDate": "2010-06-23",
+        "narrative": "<p>The brook trout catch was less than the average for the last five assessments of this lake, but within the usual range for area brook trout lakes.  The average size of brook trout was large for the lake and the area.  These results can be partially explained by the fact that the lake was not stocked in 2009, so no one-year-old brook trout were present.  Growth rates of brook trout had been good.  The five age-2 fish averaged 14.2 inches long, and the single age-3 fish was 19.5 inches long. <br> \n <br> \nBeginning in 2010, the lake will be stocked only in even years.  As a result, beginning 2011, the summer population will consist of age-1 and age-3 fish in odd years, and age-2 and age-4 fish in even years.  Age-4 brook trout are never abundant, and the species usually dies of natural causes before age 5.</p>",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_id": "16062700",
+          "wb_type": "Lake",
+          "wb_name": "Bingshick",
+          "id_date": "2010-06-23",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_id": "4311015940949009",
+          "survey_type": "Population Assessment"
+        },
+        "surveyID": "4311015940949009"
+      },
+      {
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "16062700",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "survey_id": "109912",
+          "wb_name": "Bingshick",
+          "wb_alt_name": "",
+          "id_date": "1983-08-22"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyID": "109912",
+        "narrative": "<p>AT PRESENT NO FISHABLE POPULATION IS PRESENT IN THE LAEK. THE WHITE SUCKER POPULATION IS LOW AND STRANGELY SEEMS TO LACK MANY ADULT FISH. THIS IS NOT NORMAL FOR THIS AREA AND MAYBE CAUSED BY A FAIRLY RECENT PARTIAL WINTERKILL OR BY THE LAKES SOMEWHAT LOW PH AFFECTING REPRODUCTION.</p>",
+        "lengths": {},
+        "surveyDate": "1983-08-22",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 0.3,
+            "species": "CRC",
+            "totalCatch": 2,
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "CPUE": "0.67",
+            "averageWeight": "0.15",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalWeight": 1.7,
+            "species": "GSF",
+            "totalCatch": 22,
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "CPUE": "7.33",
+            "averageWeight": "0.08",
+            "quartileCount": "0.4-7.0",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "1.7-12.5",
+            "quartileWeight": "0.7-2.3",
+            "CPUE": "5.00",
+            "averageWeight": "0.33",
+            "totalCatch": 15,
+            "species": "WTS",
+            "totalWeight": 4.9,
+            "gear": "Standard gill nets",
+            "gearCount": 3
+          }
+        ]
+      },
+      {
+        "narrative": "<p>The brook trout catch exceeded the minimum CPUE established as the long-term goal in the 1992 lake management plan for this lake.  Three year classes were represented in the catch, and growth was average for brook trout in lakes in this area.The white sucker catch was below the normal range for lakes of this ecological class, but was about average for this lake historically.  The high white sucker abundance in this lake does not appear to have limited brook trout growth.</p>",
+        "lengths": {},
+        "surveyDate": "1992-06-22",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.4-7.0",
+            "quartileWeight": "N/A",
+            "CPUE": "3.50",
+            "averageWeight": "0.09",
+            "totalCatch": 7,
+            "totalWeight": 0.63,
+            "species": "GSF",
+            "gear": "Standard gill nets",
+            "gearCount": 2
+          },
+          {
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "10.50",
+            "averageWeight": "0.70",
+            "totalWeight": 14.63,
+            "species": "BKT",
+            "totalCatch": 21,
+            "gearCount": 2,
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "0.68",
+            "CPUE": "14.00",
+            "quartileWeight": "0.7-2.3",
+            "quartileCount": "1.7-12.5",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "totalCatch": 28,
+            "totalWeight": 19,
+            "species": "WTS"
+          }
+        ],
+        "headerInfo": {
+          "wb_id": "16062700",
+          "wb_type": "Lake",
+          "wb_name": "Bingshick",
+          "id_date": "1992-06-22",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_id": "110671",
+          "survey_type": "Population Assessment"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyID": "110671"
+      }
+    ],
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO",
+        "lakeAccessComments": "Portage from Flying Lake.  Lake is entirely inside the BWCAW.",
+        "location": " ",
+        "ownerTypeId": "USF"
+      },
+      {
+        "ownerTypeId": "USF",
+        "location": "",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "CA"
+      }
+    ],
+    "sampledPlants": [],
+    "areaAcres": 45.69,
+    "meanDepthFeet": 0
+  }
+}

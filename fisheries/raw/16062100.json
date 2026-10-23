@@ -1,0 +1,88 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "DOWNumber": "16062100",
+    "shoreLengthMiles": 2.73,
+    "county": "Cook",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "location": "1/4 mile portage from Granite River.",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "littoralAcres": 0,
+    "averageWaterClarity": "9.5",
+    "areaAcres": 89.29,
+    "maxDepthFeet": 22,
+    "waterClarity": [
+      [
+        "08/07/1979",
+        "9.5"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 86,
+            "gearCount": 3,
+            "CPUE": "15.33",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "quartileCount": "1.1-5.8",
+            "totalCatch": 46,
+            "quartileWeight": "0.8-3.0",
+            "averageWeight": "1.87"
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.16",
+            "totalCatch": 9,
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "quartileCount": "1.1-12.4",
+            "totalWeight": 1.4,
+            "gearCount": 3,
+            "CPUE": "3.00"
+          },
+          {
+            "totalWeight": 1,
+            "gearCount": 3,
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "1.0-8.9",
+            "totalCatch": 3,
+            "quartileWeight": "0.4-1.7",
+            "averageWeight": "0.33"
+          }
+        ],
+        "narrative": "<p>There is a large population of medium sized N Pike but few Suckers and Perch for forage.</p>",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "id_date": "1979-08-07",
+          "wb_name": "Tepee",
+          "survey_id": "109801",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_id": "16062100"
+        },
+        "surveyID": "109801",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyDate": "1979-08-07"
+      }
+    ],
+    "lakeName": "Tepee"
+  },
+  "timestamp": 1790286032
+}

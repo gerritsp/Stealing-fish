@@ -1,0 +1,140 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790286068,
+  "result": {
+    "littoralAcres": 100,
+    "averageWaterClarity": "12.3",
+    "waterClarity": [
+      [
+        "07/30/2025",
+        "12.3"
+      ]
+    ],
+    "lakeName": "Finger",
+    "county": "St. Louis",
+    "DOWNumber": "69034800",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "location": "Portage from Lac La Croix to Pocket Lake to Finger Lake in BWCAW on paddle-only route.",
+        "accessTypeId": "O"
+      }
+    ],
+    "maxDepthFeet": 60,
+    "officeCode": "F214",
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Composed of an above average population of Northern Cisco, an average population of Walleye, and below average populations of Sucker, Redhorse, Northern Pike, and Rock Bass.  Smallmouth Bass and Perch were taken in the seines, but not by gillnetting.</p>",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1980-07-08",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "4.00",
+            "species": "SHR",
+            "totalWeight": 4,
+            "quartileWeight": "3.6",
+            "quartileCount": "0.4",
+            "gearCount": 5,
+            "CPUE": "0.20",
+            "gear": "Standard gill nets",
+            "totalCatch": 1
+          },
+          {
+            "CPUE": "0.20",
+            "gearCount": 5,
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "averageWeight": "4.50",
+            "quartileWeight": "2.1-4.9",
+            "quartileCount": "0.6-2.4",
+            "totalWeight": 4.5
+          },
+          {
+            "species": "RKB",
+            "averageWeight": "0.19",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "0.4-1.2",
+            "totalWeight": 0.75,
+            "CPUE": "0.80",
+            "gearCount": 5,
+            "totalCatch": 4,
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "4.80",
+            "gearCount": 5,
+            "totalCatch": 24,
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "averageWeight": "1.75",
+            "quartileCount": "1.2-5.2",
+            "quartileWeight": "1.0-2.0",
+            "totalWeight": 42
+          },
+          {
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "totalWeight": 32,
+            "species": "WTS",
+            "averageWeight": "3.56",
+            "totalCatch": 9,
+            "gear": "Standard gill nets",
+            "CPUE": "1.80",
+            "gearCount": 5
+          },
+          {
+            "totalCatch": 151,
+            "gear": "Standard gill nets",
+            "CPUE": "30.20",
+            "gearCount": 5,
+            "quartileWeight": "0.2-1.0",
+            "quartileCount": "3.2-20.2",
+            "totalWeight": 40.3,
+            "species": "TLC",
+            "averageWeight": "0.27"
+          }
+        ],
+        "lengths": {},
+        "surveyID": "108160",
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "108160",
+          "wb_id": "69034800",
+          "id_date": "1980-07-08",
+          "survey_type": "Initial Survey",
+          "wb_name": "Finger"
+        }
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Finger Lake on July 30th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 55.1 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 11.6 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 46.5 feet at the time of sampling. The thickness of this layer of water in the water column was 34.9 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.7 degrees C (42.3 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates suitable oxythermal habitat. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveyID": "-297",
+        "headerInfo": {
+          "survey_id": "-297",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "wb_name": "Finger",
+          "id_date": "2025-07-30",
+          "survey_type": "Targeted Survey",
+          "wb_id": "69034800"
+        },
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyDate": "2025-07-30",
+        "surveySubType": "Targeted Survey"
+      }
+    ],
+    "shoreLengthMiles": 7.12,
+    "areaAcres": 271.84
+  },
+  "status": "SUCCESS"
+}

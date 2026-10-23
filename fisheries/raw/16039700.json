@@ -1,0 +1,83 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285730,
+  "result": {
+    "littoralAcres": 29,
+    "lakeName": "Cam",
+    "averageWaterClarity": "N/A",
+    "DOWNumber": "16039700",
+    "county": "Cook",
+    "maxDepthFeet": 57,
+    "meanDepthFeet": 15,
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "id_date": "1973-07-16",
+          "wb_id": "16039700",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_name": "Cam",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "survey_id": "109738"
+        },
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "totalWeight": 25.1,
+            "totalCatch": 12,
+            "quartileCount": "N/A",
+            "CPUE": "4.00",
+            "averageWeight": "2.09",
+            "quartileWeight": "N/A"
+          },
+          {
+            "CPUE": "0.67",
+            "averageWeight": "0.10",
+            "quartileWeight": "N/A",
+            "totalCatch": 2,
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "totalWeight": 0.2,
+            "gear": "Standard gill nets",
+            "species": "YEP"
+          },
+          {
+            "species": "WTS",
+            "gearCount": 3,
+            "totalWeight": 3.6,
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "totalCatch": 4,
+            "CPUE": "1.33",
+            "averageWeight": "0.90",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "narrative": "<p>Suckers and Perch are present in low numbers. A fair N Pike population with a good distribution of sizes provides a fair limited fishery.</p>",
+        "surveyDate": "1973-07-16",
+        "lengths": {},
+        "surveyID": "109738"
+      }
+    ],
+    "officeCode": "F218",
+    "sampledPlants": [],
+    "areaAcres": 56.43,
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "A 0.35 mile portage trail from Brule Lake provides access to Cam Lake.  Entirely inside the BWCAW.",
+        "accessTypeId": "O"
+      }
+    ],
+    "waterClarity": [],
+    "shoreLengthMiles": 2.45
+  }
+}

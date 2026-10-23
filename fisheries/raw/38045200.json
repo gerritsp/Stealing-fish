@@ -1,0 +1,105 @@
+{
+  "result": {
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "location": "BWCAW access via canoe routes; no motorized travel allowed.",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " "
+      }
+    ],
+    "DOWNumber": "38045200",
+    "maxDepthFeet": 25,
+    "averageWaterClarity": "N/A",
+    "lakeName": "North Wilder",
+    "shoreLengthMiles": 5.49,
+    "sampledPlants": [],
+    "waterClarity": [],
+    "officeCode": "F215",
+    "littoralAcres": 89.1,
+    "meanDepthFeet": 8,
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1966-08-16",
+        "headerInfo": {
+          "id_date": "1966-08-16",
+          "survey_type": "Initial Survey",
+          "county": "Lake",
+          "wb_name": "North Wilder",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38045200",
+          "survey_id": "112811"
+        },
+        "surveyID": "112811",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "1.00",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "species": "NOP",
+            "totalCatch": 4,
+            "quartileWeight": "1.3-2.4",
+            "gearCount": 4,
+            "quartileCount": "2.0-6.3"
+          },
+          {
+            "totalCatch": 5,
+            "species": "WAE",
+            "averageWeight": "0.00",
+            "quartileWeight": "0.9-1.6",
+            "gearCount": 4,
+            "quartileCount": "3.0-9.8",
+            "totalWeight": 0,
+            "gear": "Standard gill nets",
+            "CPUE": "1.25"
+          },
+          {
+            "totalWeight": 0,
+            "gear": "Standard gill nets",
+            "CPUE": "0.25",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 4,
+            "quartileCount": "2.2-14.6",
+            "totalCatch": 1,
+            "species": "YEP",
+            "averageWeight": "0.00"
+          },
+          {
+            "species": "WTS",
+            "averageWeight": "0.00",
+            "totalCatch": 5,
+            "gearCount": 4,
+            "quartileCount": "3.6-14.1",
+            "quartileWeight": "1.5-2.4",
+            "CPUE": "1.25",
+            "gear": "Standard gill nets",
+            "totalWeight": 0
+          },
+          {
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 0,
+            "gearCount": 4,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "species": "BLG",
+            "averageWeight": "0.00",
+            "totalCatch": 4
+          }
+        ],
+        "narrative": "<p>North Wilder Lake is a 99 acre soft-water lake in the Kawishiwi River watershed. It lies within the roadless area and airspace reservation zone of the Superior National Forest and is surrounded by 85% federal land and 15% state owned land. Access can be gained by portage from the surrounding lakes or from the Kawishiwi River. The lake has a maximum depth of 25 feet, and a median depth of 8 feet, 89% (89 acres) of the lake is shallower than 15 feet. There are two inlets and an outlet. The beaver have built dams in the outlet and the main inlet, blocking access to spawning facilities for Walleye and Northern Pike. The area surrounding the very irregular shoreline consists mainly of bedrock with birch, aspen and pine forest cover. The shoal water soils consist chiefly of boulder and muck with some ledgerock. There are some marsh areas, mainly along the inlets and outlet. The shoreline is undeveloped.     At the time of the survey there was sufficient dissolved oxygen to sustain fish life to a depth of 14 feet. The water had a brown bog stain which limited the secchi disc reading to 4 feet.     Aquatic vegetation is quite sparse with the emergent vegetation found along much of the shoreline in the narrow shoal area and the submerged vegetation is found in the shoal areas of the protected bays.     Northern Pike, Walleye, Bluegill and Rock Bass were the gamefish taken in test netting. White Sucker, Yellow Perch and Iowa Darter were also taken.     Spawniing facilities are rated \"good\" for Northern Pike and Smallmouth Bass, \"fair\" for Walleye and \"poor\" for Largemouth Bass and centrarchid panfish.     The survey crew found fishing quite good for Walleye and Northern Pike at the time of the survey. A local resident reports that he has taken a number of large Walleye from the lake by angling in the past.</p>",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "areaAcres": 100.1,
+    "county": "Lake"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285627
+}

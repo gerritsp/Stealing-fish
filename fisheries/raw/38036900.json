@@ -1,0 +1,105 @@
+{
+  "result": {
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "N/A",
+    "lakeName": "Hatchet",
+    "surveys": [
+      {
+        "surveyDate": "1972-07-17",
+        "lengths": {},
+        "surveyID": "107988",
+        "narrative": "<p>Lots of small walleyes, but do not appear to be stunted. Enough food in stomachs; all small Minnows- 2</p>",
+        "headerInfo": {
+          "wb_name": "Hatchet",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "wb_id": "38036900",
+          "id_date": "1972-07-17",
+          "survey_type": "Initial Survey",
+          "survey_id": "107988",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.0-8.5",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.4-2.7",
+            "CPUE": "0.71",
+            "totalWeight": 16.8,
+            "totalCatch": 5,
+            "gearCount": 7,
+            "averageWeight": "3.36"
+          },
+          {
+            "quartileCount": "2.2-10.5",
+            "quartileWeight": "1.1-1.9",
+            "species": "WAE",
+            "gear": "Standard gill nets",
+            "totalCatch": 60,
+            "totalWeight": 52.4,
+            "CPUE": "8.57",
+            "gearCount": 7,
+            "averageWeight": "0.87"
+          },
+          {
+            "quartileCount": "2.5-14.3",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 1.2,
+            "CPUE": "0.57",
+            "totalCatch": 4,
+            "gearCount": 7,
+            "averageWeight": "0.30"
+          },
+          {
+            "quartileCount": "1.6-8.4",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileWeight": "0.9-2.3",
+            "totalWeight": 77.9,
+            "CPUE": "5.57",
+            "totalCatch": 39,
+            "averageWeight": "2.00",
+            "gearCount": 7
+          },
+          {
+            "totalCatch": 2,
+            "CPUE": "0.29",
+            "totalWeight": 0.2,
+            "gearCount": 7,
+            "averageWeight": "0.10",
+            "quartileCount": "0.3-17.8",
+            "quartileWeight": "0.1-0.9",
+            "species": "TLC",
+            "gear": "Standard gill nets"
+          }
+        ]
+      }
+    ],
+    "maxDepthFeet": 40,
+    "littoralAcres": 107,
+    "officeCode": "F214",
+    "areaAcres": 126.9,
+    "shoreLengthMiles": 3.51,
+    "sampledPlants": [],
+    "waterClarity": [],
+    "county": "Lake",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "location": "Portage from Ina Lake at Thomas Lake."
+      }
+    ],
+    "DOWNumber": "38036900"
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285805,
+  "status": "SUCCESS"
+}

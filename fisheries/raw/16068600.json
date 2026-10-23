@@ -1,0 +1,205 @@
+{
+  "timestamp": 1790285700,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "waterClarity": [
+      [
+        "08/04/2025",
+        "10.5"
+      ],
+      [
+        "08/20/2024",
+        "13.1"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "littoralAcres": 153,
+    "areaAcres": 268.11,
+    "maxDepthFeet": 65,
+    "county": "Cook",
+    "sampledPlants": [],
+    "shoreLengthMiles": 9.56,
+    "lakeName": "Wine",
+    "averageWaterClarity": "11.8",
+    "surveys": [
+      {
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyID": "112516",
+        "surveyDate": "1981-06-17",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "4.08",
+            "gearCount": 3,
+            "CPUE": "4.00",
+            "totalWeight": 49,
+            "species": "LAT",
+            "quartileCount": "0.4-3.7",
+            "totalCatch": 12,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-4.0"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_id": "16068600",
+          "wb_name": "Wine",
+          "survey_type": "Population Assessment",
+          "id_date": "1981-06-17",
+          "wb_type": "Lake",
+          "survey_id": "112516",
+          "wb_alt_name": "",
+          "county": "Cook"
+        },
+        "narrative": "<p>Prior to 1977 the only fish present in Wine Lake were three species of minnows. The initial introduction of Lake Trout in 1977 has been a complete success. All the female trout taken during the assessment operation were carrying well developed eggs. Natural reproduction should have taken place in the fall of 1981. No future stocking of this lake is planned at the present time. Netting checks will be made in about 5 years to determine the success of natural reproduction in this lake.</p>"
+      },
+      {
+        "surveyDate": "2025-08-04",
+        "surveyType": "Targeted Survey",
+        "surveyID": "-341",
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "survey_id": "-341",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_id": "16068600",
+          "wb_name": "Wine",
+          "wb_type": "Lake",
+          "id_date": "2025-08-04",
+          "survey_type": "Targeted Survey"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Wine Lake on August 4th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 39.4 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 31.9 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 25.8 feet at the time of sampling. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 12.3 degrees C (54.1 degrees F). TDO3 values warmer than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were unsuitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated unsuitable oxythermal habitat. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "fishCatchSummaries": []
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveyID": "112291",
+        "surveyDate": "1975-07-28",
+        "lengths": {},
+        "headerInfo": {
+          "survey_id": "112291",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_id": "16068600",
+          "wb_name": "Wine",
+          "survey_type": "Initial Survey",
+          "id_date": "1975-07-28",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>Winter oxygen tests must be run before any management recommendations can be made. If winter oxygen is not a problem the lake will be managed for Lake Trout.</p>",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "LAT",
+            "quartileCount": "0.4-3.7",
+            "totalCatch": 0,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-4.0",
+            "averageWeight": "N/A",
+            "totalWeight": 0,
+            "CPUE": "0.00",
+            "gearCount": 9
+          }
+        ]
+      },
+      {
+        "lengths": {},
+        "surveyDate": "2024-08-20",
+        "surveyID": "21872426841102248",
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "survey_id": "21872426841102248",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_name": "Wine",
+          "wb_id": "16068600",
+          "wb_type": "Lake",
+          "id_date": "2024-08-20",
+          "survey_type": "Targeted Survey"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Wine Lake on August 20, 2024 to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased to below 8.8 degrees C (47.8 degrees F) at 34.4 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 21.2 feet at the time of sampling. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 16.7 degrees C (62.1 degrees F). TDO3 values warmer than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were unsuitable for Lake Trout at the time of the survey.  <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey on Wine Lake during the late summer period of maximum oxythermal stress. If inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. </p>",
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "id_date": "1993-08-02",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_name": "Wine",
+          "wb_id": "16068600",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "survey_id": "112515"
+        },
+        "narrative": "<p>Test nets in 1993 found higher numbers and larger average size Lake Trout in Wine Lake than in similar types of Lake Trout lakes. Lake Trout ranged from 19\" to 31.2\" (3.8 lbs to 9.7 lbs) with an average size of 6.7 lbs. A large part of the successful fishing occurs during the winter trout season, which requires a snowshoe or ski trek of approximately 7 miles into the BWCAW.</p>",
+        "fishCatchSummaries": [
+          {
+            "species": "LAT",
+            "quartileCount": "0.4-3.7",
+            "quartileWeight": "1.5-4.0",
+            "totalCatch": 11,
+            "gear": "Standard gill nets",
+            "averageWeight": "6.66",
+            "CPUE": "1.83",
+            "totalWeight": 33230,
+            "gearCount": 6
+          }
+        ],
+        "surveyDate": "1993-08-02",
+        "surveyType": "Standard Survey",
+        "surveyID": "112515",
+        "lengths": {
+          "LAT": {
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                4
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                27,
+                2
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                31,
+                1
+              ]
+            ],
+            "minimum_length": 19,
+            "maximum_length": 31
+          }
+        }
+      }
+    ],
+    "officeCode": "F215",
+    "DOWNumber": "16068600",
+    "accesses": [
+      {
+        "location": "Entirely within the BWCAW. Canoe access via portage trail from Frederick L. on the southeast end; Mug L. on the northwest end.",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": "Portage trail from Frederick Lake to the southeast end of Wine Lake."
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "timestamp": 1790286021,
+  "status": "SUCCESS",
+  "result": {
+    "surveys": [
+      {
+        "narrative": "<p>Composed of above average populations of Whitefish and Northern Pike.  Suckers and Yellow Perch are present in about average numbers.</p>",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_name": "Fish",
+          "wb_type": "Lake",
+          "wb_alt_name": "Twin",
+          "survey_type": "Initial Survey",
+          "survey_id": "107941",
+          "id_date": "1981-07-09",
+          "wb_id": "38016100",
+          "county": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyID": "107941",
+        "surveyDate": "1981-07-09",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 20,
+            "averageWeight": "2.08",
+            "gearCount": 3,
+            "quartileWeight": "1.6-3.3",
+            "CPUE": "6.67",
+            "quartileCount": "1.2-5.7",
+            "gear": "Standard gill nets",
+            "totalWeight": 41.5,
+            "species": "NOP"
+          },
+          {
+            "quartileCount": "2.0-16.5",
+            "CPUE": "7.33",
+            "gearCount": 3,
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 22,
+            "averageWeight": "0.24",
+            "species": "YEP",
+            "totalWeight": 5.25,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 8,
+            "gear": "Standard gill nets",
+            "species": "LKW",
+            "quartileWeight": "0.9",
+            "gearCount": 3,
+            "totalCatch": 7,
+            "averageWeight": "1.14",
+            "quartileCount": "1.2",
+            "CPUE": "2.33"
+          },
+          {
+            "averageWeight": "2.94",
+            "totalCatch": 8,
+            "gearCount": 3,
+            "quartileWeight": "1.2-2.1",
+            "CPUE": "2.67",
+            "quartileCount": "1.6-7.6",
+            "totalWeight": 23.5,
+            "gear": "Standard gill nets",
+            "species": "WTS"
+          }
+        ]
+      }
+    ],
+    "areaAcres": 96.91,
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "location": "Portage from Gift or Nawakwa lakes in BWCAW  paddle-only route  Superior National Forest.",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O"
+      }
+    ],
+    "lakeName": "Fish",
+    "county": "Lake",
+    "maxDepthFeet": 30,
+    "shoreLengthMiles": 3.29,
+    "lakeAltName": "Twin",
+    "waterClarity": [],
+    "averageWaterClarity": "N/A",
+    "DOWNumber": "38016100",
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "littoralAcres": 73,
+    "officeCode": "F214"
+  },
+  "message": "Normal execution."
+}

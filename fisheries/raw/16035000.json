@@ -1,0 +1,88 @@
+{
+  "result": {
+    "lakeName": "Banadad",
+    "averageWaterClarity": "7.5",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "location": "NONE",
+        "accessTypeId": "O"
+      }
+    ],
+    "surveys": [
+      {
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 2,
+            "quartileWeight": "0.3-1.8",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "species": "BUB",
+            "CPUE": "0.20",
+            "quartileCount": "0.1-0.5",
+            "gearCount": 5,
+            "averageWeight": "2.00"
+          },
+          {
+            "quartileWeight": "1.5-2.4",
+            "totalWeight": 19.2,
+            "CPUE": "3.00",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "totalCatch": 15,
+            "averageWeight": "1.28",
+            "quartileCount": "1.2-3.9",
+            "gearCount": 5
+          },
+          {
+            "totalWeight": 13,
+            "quartileWeight": "1.7-2.4",
+            "gear": "Standard gill nets",
+            "totalCatch": 6,
+            "species": "WTS",
+            "CPUE": "1.20",
+            "averageWeight": "2.17",
+            "quartileCount": "2.6-11.7",
+            "gearCount": 5
+          }
+        ],
+        "surveyDate": "1983-08-09",
+        "headerInfo": {
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "id_date": "1983-08-09",
+          "wb_alt_name": "",
+          "survey_id": "109904",
+          "wb_type": "Lake",
+          "wb_name": "Banadad",
+          "wb_id": "16035000"
+        },
+        "surveyID": "109904",
+        "narrative": "<p>POOR GAMEFISH POPULATION. NORTHERN PIKE ONLY GAMEFISH PRESENT. THE NORTHERNS ARE VERY SMALL AND NOT VERY ABUNDANT. FORAGE SPECIES (MINNOWS AND PERCH) ARE ALMOST NON-EXISTANT.</p>",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "08/11/1983",
+        "7.5"
+      ]
+    ],
+    "DOWNumber": "16035000",
+    "sampledPlants": [],
+    "county": "Cook",
+    "areaAcres": 177.87,
+    "shoreLengthMiles": 8.17,
+    "maxDepthFeet": 45,
+    "littoralAcres": 89,
+    "officeCode": "F218"
+  },
+  "timestamp": 1790285868,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

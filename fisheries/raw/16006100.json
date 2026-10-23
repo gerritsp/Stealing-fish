@@ -1,0 +1,372 @@
+{
+  "timestamp": 1790285921,
+  "message": "Normal execution.",
+  "result": {
+    "littoralAcres": 13,
+    "lakeName": "Vale",
+    "waterClarity": [
+      [
+        "09/11/1991",
+        "11.5"
+      ],
+      [
+        "09/08/2015",
+        "14.5"
+      ],
+      [
+        "09/01/1956",
+        "10"
+      ],
+      [
+        "09/11/2006",
+        "9"
+      ]
+    ],
+    "averageWaterClarity": "11.3",
+    "officeCode": "F218",
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "Steep portage trail from Pine Lake reaches NW corner of Vale Lake, near its outlet.  Lake is entirely inside the BWCAW.",
+        "accessTypeId": "PO",
+        "location": " "
+      }
+    ],
+    "sampledPlants": [],
+    "shoreLengthMiles": 0.92,
+    "surveys": [
+      {
+        "surveyID": "109999",
+        "narrative": "<p>THE SINGLE TROUT TAKEN IN THIS ASSESSMENT PROBABLY CAME FROM THE 1983 STOCKING. SURVIVAL OF THE 1985 STOCKING UNKNOWN.</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Vale",
+          "survey_type": "Population Assessment",
+          "survey_id": "109999",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_id": "16006100",
+          "id_date": "1986-09-10"
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "1986-09-10",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "4.75",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "gearCount": 2,
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "CPUE": "0.50",
+            "totalWeight": 4.75
+          }
+        ],
+        "lengths": {}
+      },
+      {
+        "headerInfo": {
+          "wb_type": "Lake",
+          "id_date": "2001-09-10",
+          "wb_id": "16006100",
+          "survey_id": "111293",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_name": "Vale"
+        },
+        "narrative": "<p>Vale Lake is a fairly remote stream trout lake that is in the Boundary Waters Canoe Area Wilderness (BWCAW).  Access is limited by permitted entry and non-motorized use in the BWCAW.  The portage trail to Vale Lake is rugged.  The catch and average size of captured brook trout have varied widely during assessments.  Growth of brook trout seems to vary widely among individuals.  Brook trout up to 20 inches have been captured in this lake.The 2001 catch was within the normal range for stream trout lakes in this area, both in terms of numbers and average size.  The catch was dominated by fish from the 2000 fingerling stocking, which were seven to eleven inches in length.</p>",
+        "surveyID": "111293",
+        "lengths": {
+          "BKT": {
+            "minimum_length": 7,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 8,
+            "totalWeight": 2663,
+            "CPUE": "4.00",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.73",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "gearCount": 2
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyDate": "2001-09-10",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyID": "110200",
+        "headerInfo": {
+          "id_date": "1991-09-11",
+          "wb_id": "16006100",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_id": "110200",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_name": "Vale"
+        },
+        "narrative": "<p>BKT WERE ABUNDANT, BUT MOSTLY SMALL.  MOST OF THE BKT COLLECTED WERE PROBABLY FROM THE 1990 STOCKING, BUT SOME SURVIVAL OF PREVIOUS STOCKINGS WAS INDICATED BY THE CATCH OF A SINGLE 18 IN FISH. IF ALL THE 6 TO 13 IN FISH COLLECTED WERE FROM THE 1990 STOCKING, GROWTH OF THESE FISH WAS UNUSUALLY VARIABLE.  WTS  WERE ABUNDANT, AND PRESENT IN A RANGE OF SIZES.</p>",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1991-09-11",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "species": "BKT",
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "averageWeight": "0.47",
+            "quartileWeight": "N/A",
+            "totalWeight": 19.38,
+            "gear": "Standard gill nets",
+            "CPUE": "20.50",
+            "totalCatch": 41
+          },
+          {
+            "totalWeight": 15,
+            "CPUE": "17.00",
+            "gear": "Standard gill nets",
+            "totalCatch": 34,
+            "species": "WTS",
+            "gearCount": 2,
+            "quartileCount": "1.7-12.5",
+            "quartileWeight": "0.7-2.3",
+            "averageWeight": "0.44"
+          }
+        ]
+      },
+      {
+        "narrative": "<p>Vale Lake is a small designated stream trout located in the BWCA on a non-motor route. This lake has a reputation of producing some large trout for those willing to take the time to access the lake.  Access is via a moderate-length but rugged portage trail from the south shore of Pine Lake. Vale Lake provides some shore-fishing opportunity for those that don't wish to portage in watercraft.  Fishing sites on the north and south shores of the lake can be reached by foot travel from the end of the portage trail. <br> \n <br> \nBrook Trout were abundant in Vale Lake in the fall 2015 survey and some large fish were present.  This assessment was done with two gill net sets which sampled a total of 39 Brook Trout ranging in length from 8.3 inches to 16.1 inches, with an average length of 14.0 inches.  The catch of 14.5 Brook Trout per net was higher than the average of six per net seen in stream trout lakes in this area.  All Brook Trout taken were one or three years of age, and were probably from the fall 2012 and 2014 stockings. Growth was about average for a lake of this type.  <br> \n <br> \nThe 2015 white sucker catch was the second highest observed in this lake; lengths ranged from 6.5 inches to 15.0 inches. The average size was small at 8.5 inches. High populations of white sucker in a stream trout lake could cause reduced growth rates for trout due to high competition for invertebrate forage.        <br> \n <br> \nPossible forage fish were observed in the form of large schools of dace (minnows), and abundant leeches along the shoreline. The smaller sucker could provide additional forage for the larger trout in the lake.    <br> \n <br> \nCaution should be used when crossing Pine Lake to access this lake as even a moderate West (or East) wind can produce large waves and dangerous conditions for canoeing on that lake.  <br> \n</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Vale",
+          "county": "Cook",
+          "survey_id": "12861525760087076",
+          "survey_type": "Standard Survey",
+          "id_date": "2015-09-08",
+          "wb_id": "16006100",
+          "wb_type": "Lake"
+        },
+        "surveyID": "12861525760087076",
+        "lengths": {
+          "WTS": {
+            "minimum_length": 6,
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                6,
+                8
+              ],
+              [
+                7,
+                9
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "BKT": {
+            "minimum_length": 8,
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                7
+              ],
+              [
+                15,
+                12
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.36",
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "totalCatch": 29,
+            "CPUE": "14.50",
+            "gear": "Standard gill nets",
+            "totalWeight": 17829
+          },
+          {
+            "quartileCount": "1.7-12.5",
+            "gearCount": 2,
+            "species": "WTS",
+            "quartileWeight": "0.7-2.3",
+            "averageWeight": "0.38",
+            "gear": "Standard gill nets",
+            "CPUE": "12.50",
+            "totalWeight": 4270,
+            "totalCatch": 25
+          }
+        ],
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2015-09-08"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "species": "BKT",
+            "quartileCount": "N/A",
+            "averageWeight": "1.99",
+            "quartileWeight": "N/A",
+            "CPUE": "4.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 7210,
+            "totalCatch": 8
+          },
+          {
+            "totalWeight": 3838,
+            "gear": "Standard gill nets",
+            "CPUE": "7.50",
+            "totalCatch": 15,
+            "quartileCount": "1.7-12.5",
+            "species": "WTS",
+            "gearCount": 2,
+            "averageWeight": "0.56",
+            "quartileWeight": "0.7-2.3"
+          }
+        ],
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                6
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                9,
+                6
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 19
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                15,
+                5
+              ],
+              [
+                17,
+                3
+              ]
+            ],
+            "maximum_length": 17,
+            "minimum_length": 15
+          }
+        },
+        "surveyDate": "2006-09-11",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "county": "Cook",
+          "survey_id": "570701857598024",
+          "survey_type": "Population Assessment",
+          "id_date": "2006-09-11",
+          "wb_id": "16006100",
+          "wb_type": "Lake",
+          "wb_name": "Vale",
+          "wb_alt_name": ""
+        },
+        "narrative": "<p>The 2006 brook trout catch was lower than average, compared to other stream trout lakes in this area; however, it wasn't unusually low for this lake, where catches have fluctuated considerably from assessment to assessment.  All of the fish collected in 2006 were four-year-old fish from a 2002 stocking.  While this produced an excellent average size, it also meant that no small fish will be present to support the fishery in this lake when the older fish are gone (brook trout rarely live beyond four years of age in stream trout lakes).  Survival of fish stocked in 2004 was apparently very low.  Brook trout were also stocked in 2006 (after this assessment), but those fish will probably not be large enough to be of interest to anglers until the summer of 2008. <br> \n <br> \n</p>",
+        "surveyID": "570701857598024"
+      }
+    ],
+    "DOWNumber": "16006100",
+    "areaAcres": 23.93,
+    "maxDepthFeet": 34,
+    "county": "Cook"
+  },
+  "status": "SUCCESS"
+}

@@ -1,0 +1,185 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "sampledPlants": [],
+    "averageWaterClarity": "N/A",
+    "county": "Lake",
+    "DOWNumber": "38052000",
+    "areaAcres": 53.19,
+    "maxDepthFeet": 38,
+    "shoreLengthMiles": 1.76,
+    "surveys": [
+      {
+        "surveyID": "109400",
+        "surveyDate": "2000-06-26",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 27305,
+            "CPUE": "5.00",
+            "averageWeight": "6.02",
+            "gearCount": 2,
+            "quartileCount": "1.0-3.0",
+            "quartileWeight": "2.2-3.8",
+            "totalCatch": 10,
+            "species": "NOP"
+          },
+          {
+            "CPUE": "23.00",
+            "totalWeight": 3790,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.0-8.0",
+            "gearCount": 2,
+            "averageWeight": "0.18",
+            "species": "YEP",
+            "totalCatch": 46,
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "CPUE": "9.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 10672,
+            "quartileCount": "0.3-0.8",
+            "gearCount": 2,
+            "averageWeight": "1.31",
+            "species": "LMB",
+            "quartileWeight": "0.1-1.3",
+            "totalCatch": 18
+          }
+        ],
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                4
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                28,
+                2
+              ],
+              [
+                31,
+                1
+              ]
+            ],
+            "minimum_length": 24,
+            "maximum_length": 31
+          },
+          "LMB": {
+            "minimum_length": 7,
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "maximum_length": 10,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                6,
+                19
+              ],
+              [
+                7,
+                14
+              ],
+              [
+                8,
+                8
+              ],
+              [
+                9,
+                4
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>Frog Lake is in Ecological Lake Class 4, which consists of 47 lakes in northeast Minnesota that are small, deep, and have very clear and soft (unmineralized) water.  Frog Lake differs from most of the lakes in this lake class in that it is shallower (38 ft) than the lake class average of 61 ft. Frog Lake ranks as mesotrophic according to Carlson's Trophic State Index, using a Secchi water clarity of 4.9 m, chlorophyll-a of 3.0 ppb, and total phosphorus of 14 ppb.Frog Lake is entirely within a non-motorized portion of the Boundary Waters Canoe Area Wilderness.  Portage access trails are from Trident Lake (100 rods) and from Birch Lake (100 rods).  There is one campsite on the lake maintained by the United States Forest Service.Frog Lake was thermally stratified on 06/26/2000 and retained 2 ppm oxygen to a depth of 29 ft, where the temperature was 45 F.  A small inlet from the west drains a local swamp.  Two outlets to Birch Lake each have beaver dams which limit fish movement.   The water level on 06/29/2000 was about 0.05 ft higher than on 08/29/1973.  Benchmark 1, a birch tree, was downed above the benchmark spike by a beaver sometime prior to the 2000 survey.  Shoal substrates were gravel, boulder, rubble, ledgerock, and silt.  Sedges and sweetgale ring much of the shoreline; other aquatic plants grow to a depth of 5 ft and are mostly found in the eastern bay and the northern outlet.Fish sampling in this fisheries lake survey consisted of two gillnet sets.  Trapnets were not used due to the difficult portage access.  Shoreline seining was not done due to the lack of suitable seining areas.The total catch of fish (all species combined) in Frog Lake of 37.0 fish/gillnet (45.8 lb/gillnet) was in the fourth quartile for this lake class.  Lake Class 4 is one of the least productive lake classes in northeast Minnesota, in terms of gillnet catches of fish.  Fish populations in Frog Lake consisted of largemouth bass, northern pike, and yellow perch.Largemouth bass numbers in 2000 (9.0/gillnet) were in the fourth quartile for this lake class.  Largemouth sizes averaged 13.6\" (1.3 lb), which was at the third quartile for this lake class; the largest largemouth was 16.8\".  Many of the largemouth had yellow perch or crayfish in their stomachs.  Largemouth growth was in the fourth quartile for area lakes.Northern pike numbers in 2000 (5.0/gillnet) were in the fourth quartile for this lake class.  Pike sizes averaged 27.2\" (6.0 lb), which was in the fourth quartile for this lake class; the largest pike was 31.5\".  Growth of young pike was in the fourth quartile for area lakes, while growth of older pike was in the third quartile.  Yellow perch numbers in 2000 (23.0/gillnet) were in the fourth quartile for this lake class.  Perch sizes averaged 7.6\" (0.17 lb), which was in the fourth quartile for this lake class; the largest perch was 10.5\".  Perch growth was in the third quartile for area lakes.Although no stocking records exist for this lake, it is likely that the largemouth bass were introduced, perhaps by CCC crews in the 1930's.  Notable by their absence in this lake are white sucker.  Yellow grub and neascus (black spot) were present on many of the gamefish examined in 2000.  These are common parasites that are native to the area and cannot infect humans.  They are often removed by filleting and are killed by temperatures used for cooking fish.</p>",
+        "headerInfo": {
+          "survey_id": "109400",
+          "wb_id": "38052000",
+          "id_date": "2000-06-26",
+          "wb_name": "Frog",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "county": "Lake"
+        }
+      }
+    ],
+    "officeCode": "F214",
+    "lakeName": "Frog",
+    "waterClarity": [],
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "lakeAccessComments": " ",
+        "location": "100 rod portage from Birch L.",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF"
+      },
+      {
+        "accessTypeId": "CA",
+        "location": "100 rod portage from Trident L.",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " "
+      }
+    ],
+    "littoralAcres": 21.5,
+    "meanDepthFeet": 0
+  },
+  "timestamp": 1790285914
+}

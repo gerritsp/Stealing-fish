@@ -1,0 +1,289 @@
+{
+  "timestamp": 1790285540,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveyDate": "2014-07-29",
+        "narrative": "<p>Boga Lake is a 27 acre lake with a maximum depth of 19.0 feet.  The lake is located approximately 17 miles northeast of Isabella, Minnesota and is entirely within the Boundary Waters Canoe Area Wilderness (BWCAW).  The lake is accessible via a 16 rod portage from Isabella Lake, an entry point to the BWCAW. The lake can also be accessed via the Perent River. There is one campsite on the western shore of the lake.  <br> \n <br> \nThis lake was first surveyed by the DNR in 2014.  Walleye, Northern Pike, Yellow Perch, and White Sucker were found at low to moderate numbers in Boga Lake.   With the lake being connect to the Perent River, fish species are able to move in and out of the lake at different times of the year for feeding or spawning.  With this open system for fish movement, the survey may not have been able to sample the all of fish that use Boga Lake throughout the year. <br> \n <br> \nThe Walleye population is maintained through natural reproduction with four age classes found during this survey.  The catch rate for Walleyes was below the average for this type of lake class, and the size of the Walleye ranged from 6.7 to 18.1 inches and had an average weight of 0.8 pounds.  Growth of Walleyes in the lake appears to be average for the Finland area.  <br> \n <br> \nSix Northern Pike were caught in the gill nets for a catch rate of 3.0/lift, is well below the average for the lake class.  Northern Pike length ranged from 18.7 to 39.6 inches.  Growth of Northern Pike is slightly above average for the Finland Area lakes and there were 5 age classes represented.  <br> \n <br> \nThe Yellow Perch gill net catch rate was above average in the number of fish with 10.0/lift.  Yellow Perch sizes ranged from 4.9 to 7.1 inches with a mean of 5.9 inches.  The average weight of the perch was 0.1 pounds.  Growth of Yellow Perch is slower than average for Finland Area lakes. <br> \n <br> \nEight Rock Bass were sampled and ranged in size from 5.9 to 8.3 inches and averaged 0.3 pounds.  White Sucker catch rate was above the average and the size ranged from 6.5 inches to 19.5 inches with an averaged 1.5 pounds. <br> \n  <br> \nBoga Lake is mainly a paddle-through lake along the Perent River route that may not receive much angling pressure.  All anglers on Boga Lake must abide by the BWCAW regulations at all times; the lake is entirely non-motorized.  <br> \n</p>",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "id_date": "2014-07-29",
+          "wb_type": "Lake",
+          "survey_id": "5781422035629000",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "wb_name": "Boga",
+          "wb_id": "38031500"
+        },
+        "lengths": {
+          "WTS": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 19
+          },
+          "RKB": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8
+          },
+          "YEP": {
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                12
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 7
+          },
+          "WAE": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 18
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                39,
+                1
+              ]
+            ],
+            "minimum_length": 18,
+            "maximum_length": 39
+          }
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 6,
+            "species": "NOP",
+            "quartileCount": "3.9-9.4",
+            "averageWeight": "5.34",
+            "totalWeight": 14543,
+            "CPUE": "3.00",
+            "gearCount": 2,
+            "quartileWeight": "1.2-2.4"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.28",
+            "quartileCount": "1.9-16.0",
+            "species": "RKB",
+            "totalCatch": 8,
+            "CPUE": "4.00",
+            "totalWeight": 1000,
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 2
+          },
+          {
+            "totalCatch": 1,
+            "averageWeight": "0.00",
+            "quartileCount": "N/A",
+            "species": "TPM",
+            "gear": "Minnow traps",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "CPUE": "0.33"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "species": "WAE",
+            "quartileCount": "1.0-7.2",
+            "averageWeight": "0.84",
+            "totalWeight": 1520,
+            "CPUE": "2.00",
+            "gearCount": 2,
+            "quartileWeight": "0.8-2.4"
+          },
+          {
+            "totalWeight": 787,
+            "CPUE": "10.00",
+            "gearCount": 2,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "totalCatch": 20,
+            "quartileCount": "2.0-23.0",
+            "species": "YEP",
+            "averageWeight": "0.09"
+          },
+          {
+            "totalWeight": 15870,
+            "CPUE": "11.50",
+            "quartileWeight": "0.8-2.3",
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "totalCatch": 23,
+            "averageWeight": "1.52",
+            "quartileCount": "2.6-17.5",
+            "species": "WTS"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyID": "5781422035629000"
+      }
+    ],
+    "maxDepthFeet": 19,
+    "averageWaterClarity": "5.5",
+    "sampledPlants": [
+      "Arrowhead Group (Sagittaria sp.)",
+      "Bladderwort Group (Utricularia sp.)",
+      "Bulrush Group (Scirpus sp.)",
+      "Flat-leaf Bladderwort (Utricularia intermedia)",
+      "Floating-leaf Burreed Group (Sparganium sp. )",
+      "Horsetail Group (Equisetum sp.)",
+      "Muskgrass Group (Chara sp.)",
+      "Northern Milfoil (Myriophyllum sibiricum)",
+      "Rice Group (Zizania sp.)",
+      "Sedge Group (Cyperaceae sp.)",
+      "Smartweed Group (Persciaria sp.)",
+      "Spikerush Group (Eleocharis sp.)",
+      "Water Bulrush (Schoenoplectus subterminalis)",
+      "White Waterlily Group (Nymphaea sp.)",
+      "Yellow Waterlily Group (Nuphar sp.)",
+      "bulb-bearing water hemlock (Cicuta bulbifera)",
+      "floating pondweed (Potamogeton natans)",
+      "large-leaved pondweed (Potamogeton amplifolius)",
+      "leatherleaf (Chamaedaphne calyculata)",
+      "ribbon-leaved pondweed (Potamogeton epihydrus)",
+      "sweet gale (Myrica gale)",
+      "three-way sedge (Dulichium arundinaceum)",
+      "watershield (Brasenia schreberi)",
+      "white-stemmed pondweed (Potamogeton praelongus)"
+    ],
+    "accesses": [
+      {
+        "location": " ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "Portage trail from Isabella Lake. Approximately 16 rods long."
+      }
+    ],
+    "areaAcres": 30.44,
+    "waterClarity": [
+      [
+        "07/29/2014",
+        "5.5"
+      ]
+    ],
+    "shoreLengthMiles": 1.24,
+    "county": "Lake",
+    "DOWNumber": "38031500",
+    "lakeName": "Boga",
+    "officeCode": "F215",
+    "littoralAcres": 25.78
+  }
+}

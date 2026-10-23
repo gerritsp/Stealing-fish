@@ -1,0 +1,738 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "shoreLengthMiles": 8.33,
+    "officeCode": "F217",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "location": "Portage through Lower and Upper Pauness Lakes; up Little Indian Sioux River from Loon Lake; or down Little Indian Sioux River from Echo Trail.",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "county": "St. Louis",
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "09/10/2015",
+        "4.8"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "lakeName": "Shell",
+    "littoralAcres": 493.3,
+    "surveys": [
+      {
+        "lengths": {
+          "WTS": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                10,
+                17
+              ],
+              [
+                11,
+                16
+              ],
+              [
+                12,
+                19
+              ],
+              [
+                13,
+                14
+              ],
+              [
+                14,
+                9
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                9
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                9,
+                8
+              ]
+            ],
+            "maximum_length": 19
+          },
+          "BLG": {
+            "maximum_length": 4,
+            "minimum_length": 3,
+            "fishCount": [
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                2
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                5
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                4
+              ],
+              [
+                26,
+                4
+              ],
+              [
+                27,
+                2
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                33,
+                1
+              ],
+              [
+                36,
+                1
+              ],
+              [
+                40,
+                2
+              ]
+            ],
+            "minimum_length": 18,
+            "maximum_length": 40
+          },
+          "PMK": {
+            "minimum_length": 3,
+            "fishCount": [
+              [
+                3,
+                1
+              ]
+            ],
+            "maximum_length": 3
+          },
+          "SMB": {
+            "maximum_length": 14,
+            "fishCount": [
+              [
+                14,
+                1
+              ]
+            ],
+            "minimum_length": 14
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                8
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                20,
+                9
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                23,
+                4
+              ],
+              [
+                24,
+                6
+              ],
+              [
+                27,
+                1
+              ]
+            ],
+            "minimum_length": 14,
+            "maximum_length": 27
+          },
+          "YEP": {
+            "minimum_length": 3,
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                5,
+                7
+              ],
+              [
+                6,
+                5
+              ]
+            ],
+            "maximum_length": 6
+          },
+          "LMB": {
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ]
+            ],
+            "maximum_length": 12
+          },
+          "SHR": {
+            "fishCount": [
+              [
+                17,
+                2
+              ]
+            ],
+            "minimum_length": 17,
+            "maximum_length": 17
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "1997-09-02",
+        "headerInfo": {
+          "wb_name": "Shell",
+          "wb_id": "69046100",
+          "id_date": "1997-09-02",
+          "survey_id": "111881",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "wb_alt_name": ""
+        },
+        "surveyID": "111881",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "4.58",
+            "CPUE": "3.44",
+            "species": "NOP",
+            "gearCount": 9,
+            "totalWeight": 64385,
+            "quartileWeight": "1.3-2.5",
+            "quartileCount": "2.0-6.0",
+            "totalCatch": 31,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 112,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.4-2.4",
+            "quartileCount": "3.0-11.0",
+            "gearCount": 9,
+            "totalWeight": 48020,
+            "CPUE": "12.44",
+            "averageWeight": "0.95",
+            "species": "WTS"
+          },
+          {
+            "gearCount": 9,
+            "totalWeight": 73443,
+            "totalCatch": 54,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.8-1.3",
+            "quartileCount": "3.2-13.7",
+            "CPUE": "6.00",
+            "averageWeight": "3.00",
+            "species": "WAE"
+          },
+          {
+            "totalWeight": 15,
+            "gearCount": 9,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "species": "PMK",
+            "CPUE": "0.11",
+            "averageWeight": "0.03"
+          },
+          {
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.9-2.0",
+            "quartileCount": "0.2-1.8",
+            "gearCount": 9,
+            "totalWeight": 775,
+            "averageWeight": "1.71",
+            "CPUE": "0.11",
+            "species": "SMB"
+          },
+          {
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.3-2.7",
+            "quartileCount": "0.3-2.0",
+            "totalWeight": 1750,
+            "gearCount": 9,
+            "species": "SHR",
+            "CPUE": "0.22",
+            "averageWeight": "1.93"
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "gearCount": 9,
+            "totalWeight": 65,
+            "CPUE": "0.44",
+            "averageWeight": "0.04",
+            "species": "BLG"
+          },
+          {
+            "averageWeight": "1.15",
+            "CPUE": "0.11",
+            "species": "LMB",
+            "gearCount": 9,
+            "totalWeight": 520,
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "quartileWeight": "0.3-1.3",
+            "quartileCount": "0.3-0.6"
+          },
+          {
+            "averageWeight": "0.07",
+            "CPUE": "1.44",
+            "species": "YEP",
+            "quartileCount": "4.7-15.8",
+            "quartileWeight": "0.2-0.3",
+            "totalCatch": 13,
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "totalWeight": 401
+          }
+        ],
+        "surveySubType": "Re-Survey",
+        "narrative": "<p>Shell lake is located in the western portion of the Boundary Waters Canoe Area Wilderness.  All fish sampling ws conducted using gill nets because of the remote location.  Nine species of fish were sampled, but because gill nets are not effective at catching some species, only four species were sampled adequately.Walleye and northern pike were the two main predators sampled.  The abundances of both of these species were normal for lakes similar to Shell Lake.  Growth rates of both species were high, and the average walleye and pike from Shell Lake were larger than the average size of these species from other lakes in the International Falls Area.  Pike averaged 26.0\" and walleye averaged 20.0\".The yellow perch catch rate was below the normal range for this type of lake.  Unlike the walleye and pike, growth rates were slow.  Perch were probably being preyed on heavily by poth pike and walleye.  The white sucker catch rate, on the other hand, was higher than normal for this lake type.  The predators may switch back and forth betwen pike and suckers as one or the other becomes scarce.  Other species sampled in low numbers included bluegill, pumkinseed, largemouth bass, smallmouth bass, and shorthead redhorse.  </p>"
+      },
+      {
+        "headerInfo": {
+          "wb_name": "Shell",
+          "wb_id": "69046100",
+          "id_date": "2015-09-08",
+          "survey_id": "13351524657273000",
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "county": "St. Louis"
+        },
+        "surveyID": "13351524657273000",
+        "narrative": "<p>Shell Lake is located in the Boundary Waters Canoe Area Wilderness about 13 miles southeast of Crane Lake, MN. The lake is shallow; all 493 acres are less than 15 feet deep.  The water is bog-stained and transparency was about 5 feet on September 10, 2015.  Shoarelines are primarily ledge rock and boulder, though softer bottom types are found in bays and near inlets.  Eight species of fish were sampled, but only four were well represented.   <br> \n <br> \nBass and panfish are possibly more abundant than sampling indicates. They are poorly sampled by gill nets and due to the remote location, only gill nets were used.  The primary management focus on Shell Lake is Walleye followed by Northern Pike. <br> \n <br> \nNorthern Pike abundance was below the expected range for this lake type.  However, size exceeded expectations.  The average weight of Northern Pike captured was 3.03 pounds, which was well above the top of the expected range (2.50 pounds) for this lake type.  Average length was 23.8 inches with a range from 18.1 to 30.4.   <br> \n <br> \nWalleye abundance was similar to previous investigations and within the expected range for this lake type.  In 2015, six year-classes were present and age ranged from 1-6 years.  The 2012 and 2013 year-classes were strongest and combined for 79% of the sample.  Total length ranged from 5.6-19.7 inches and the average was 12.3.  Average weight was 0.69 pounds, which was below the expected range for this lake type.   <br> \n <br> \nYellow Perch abundance was low and sizes were small.  Length ranged from 5.6-8.8 inches and the average was 6.9. </p>",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 9,
+            "totalWeight": 16497,
+            "totalCatch": 12,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.3-2.5",
+            "quartileCount": "2.0-6.0",
+            "CPUE": "1.33",
+            "averageWeight": "3.03",
+            "species": "NOP"
+          },
+          {
+            "totalWeight": 365,
+            "gearCount": 9,
+            "totalCatch": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.2-1.6",
+            "quartileWeight": "0.3-0.5",
+            "species": "RKB",
+            "averageWeight": "0.27",
+            "CPUE": "0.33"
+          },
+          {
+            "species": "SMB",
+            "averageWeight": "2.00",
+            "CPUE": "0.44",
+            "totalWeight": 3628,
+            "gearCount": 9,
+            "quartileCount": "0.2-1.8",
+            "quartileWeight": "0.9-2.0",
+            "totalCatch": 4,
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "6.56",
+            "averageWeight": "0.69",
+            "species": "WAE",
+            "quartileCount": "3.2-13.7",
+            "quartileWeight": "0.8-1.3",
+            "gear": "Standard gill nets",
+            "totalCatch": 59,
+            "gearCount": 9,
+            "totalWeight": 18499
+          },
+          {
+            "totalCatch": 23,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-0.3",
+            "quartileCount": "4.7-15.8",
+            "totalWeight": 1788,
+            "gearCount": 9,
+            "species": "YEP",
+            "averageWeight": "0.17",
+            "CPUE": "2.56"
+          },
+          {
+            "quartileCount": "3.0-11.0",
+            "quartileWeight": "1.4-2.4",
+            "gear": "Standard gill nets",
+            "totalCatch": 55,
+            "gearCount": 9,
+            "totalWeight": 35490,
+            "averageWeight": "1.42",
+            "CPUE": "6.11",
+            "species": "WTS"
+          },
+          {
+            "averageWeight": "1.62",
+            "CPUE": "0.11",
+            "species": "LMB",
+            "quartileWeight": "0.3-1.3",
+            "quartileCount": "0.3-0.6",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "gearCount": 9,
+            "totalWeight": 735
+          },
+          {
+            "averageWeight": "0.43",
+            "CPUE": "0.22",
+            "species": "BLG",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "totalWeight": 391
+          }
+        ],
+        "surveySubType": "Standard Survey",
+        "lengths": {
+          "WAE": {
+            "maximum_length": 19,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                10,
+                11
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                12,
+                13
+              ],
+              [
+                13,
+                7
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                7
+              ]
+            ]
+          },
+          "YEP": {
+            "maximum_length": 8,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                6
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                7,
+                8
+              ],
+              [
+                8,
+                3
+              ]
+            ]
+          },
+          "LMB": {
+            "maximum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ]
+            ],
+            "minimum_length": 13
+          },
+          "WTS": {
+            "maximum_length": 18,
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                6
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                9
+              ],
+              [
+                14,
+                8
+              ],
+              [
+                15,
+                6
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                10
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "BLG": {
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 5
+          },
+          "NOP": {
+            "maximum_length": 30,
+            "minimum_length": 18,
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                22,
+                4
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                30,
+                1
+              ]
+            ]
+          },
+          "SMB": {
+            "maximum_length": 17,
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ]
+            ]
+          },
+          "RKB": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "2015-09-08"
+      }
+    ],
+    "areaAcres": 493.3,
+    "DOWNumber": "69046100",
+    "maxDepthFeet": 15,
+    "averageWaterClarity": "4.8"
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285961
+}

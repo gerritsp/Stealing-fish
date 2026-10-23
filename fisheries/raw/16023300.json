@@ -1,0 +1,926 @@
+{
+  "timestamp": 1790285987,
+  "status": "SUCCESS",
+  "result": {
+    "DOWNumber": "16023300",
+    "surveys": [
+      {
+        "surveySubType": "Standard Survey",
+        "surveyID": "12821820130024000",
+        "headerInfo": {
+          "survey_id": "12821820130024000",
+          "survey_type": "Standard Survey",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_name": "Partridge",
+          "wb_id": "16023300",
+          "wb_alt_name": "",
+          "id_date": "2018-07-16"
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "2018-07-16",
+        "narrative": "<p>Partridge is a native Lake Trout lake that has not been known to support any gamefish species other than Lake Trout.  The long-range goal for Lake Trout in this lake, from the current (2016) management plan, is to maintain a minimum gill net catch of 5.0 fish/set (deep and shallow sets combined), with some fish over 18 inches in length present.  This was the first of two surveys scheduled in the 2016 plan to determine whether the Lake Trout recruitment remained adequate, and to determine age and length at maturity for Lake Trout. <br> \n <br> \nLake Trout were apparently abundant in Partridge Lake in 2018, and although no large fish were found, fish in the 14-18-inch size range were common.  The Lake Trout catch in combined deep and shallow sets in 2018 (11.75 fish/set) was the highest seen in Partridge Lake since 1975, and was well above the normal range for a lake of this type.  Although the lack of immature fish in the catch might have suggested recruitment was low, the sheer number of Lake Trout sampled, and the large number of natural year classes contributing to the catch (13) indicated it was adequate for this type of population.  There were no signs that harvest had been excessive.  The catch goal from the 2016 plan was exceeded in 2018, and by a wide margin.  The catch included several fish over 18 inches in length, so the size goal was met as well.  Sizes of fish taken in 2018 were typical for this lake historically; Partridge Lake has never been known as a producer of large Lake Trout.  Growth of Lake Trout collected in 2018 had been slow; fish reached a mean length of just 11.4 inches at the end of their sixth year.  Lake Trout in this lake rely mainly on invertebrate forage, which generally does not support fast growth or large fish.  Despite their slow growth, Lake Trout collected in this survey appeared to have been in excellent condition. <br> \n <br> \nAlthough Partridge Lake had been known to support some minnows, this was the first survey of the lake to incorporate any form of nearshore small-fish sampling.  As a result, the 2018 survey added Fathead Minnow to the list of species known to be present in the lake.  No other species new to this lake were collected in 2018.  White Sucker and Green Sunfish had been collected in Partridge Lake in the past, and both were sampled again in 2018.  Gill net catches for both species were similar to catches seen in the past in this lake.  White Sucker can compete with Lake Trout for some types of invertebrate forage, but in this case they also contributed to the diet of some of the Lake Trout sampled.  Green Sunfish may also be competitors, but they too have been taken by Lake Trout in this and other area lakes. <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 2,
+            "species": "GSF",
+            "gearCount": 2,
+            "CPUE": "1.00",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.04",
+            "gear": "Deep gill nets",
+            "totalWeight": 38
+          },
+          {
+            "CPUE": "0.75",
+            "totalCatch": 6,
+            "species": "FHM",
+            "gearCount": 8,
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "CPUE": "10.00",
+            "gearCount": 2,
+            "totalCatch": 20,
+            "species": "WTS",
+            "totalWeight": 5251,
+            "averageWeight": "0.58",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 12166,
+            "averageWeight": "1.68",
+            "gear": "Shallow gill nets",
+            "gearCount": 2,
+            "totalCatch": 16,
+            "species": "LAT",
+            "CPUE": "8.00"
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 0,
+            "gear": "Minnow traps",
+            "averageWeight": "0.00",
+            "gearCount": 8,
+            "totalCatch": 481,
+            "species": "GSF",
+            "CPUE": "60.12"
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 62,
+            "gear": "Shallow gill nets",
+            "averageWeight": "0.07",
+            "gearCount": 2,
+            "totalCatch": 2,
+            "species": "GSF",
+            "CPUE": "1.00"
+          },
+          {
+            "averageWeight": "1.50",
+            "gear": "Deep gill nets",
+            "totalWeight": 21077,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "15.50",
+            "gearCount": 2,
+            "totalCatch": 31,
+            "species": "LAT"
+          },
+          {
+            "gearCount": 2,
+            "species": "WTS",
+            "totalCatch": 21,
+            "CPUE": "10.50",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "averageWeight": "0.29",
+            "gear": "Shallow gill nets",
+            "totalWeight": 2809
+          }
+        ],
+        "lengths": {
+          "WTS": {
+            "minimum_length": 6,
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                8,
+                6
+              ],
+              [
+                9,
+                18
+              ]
+            ]
+          },
+          "GSF": {
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                4,
+                3
+              ]
+            ],
+            "maximum_length": 4,
+            "minimum_length": 3
+          },
+          "LAT": {
+            "minimum_length": 7,
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                11
+              ],
+              [
+                16,
+                8
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "surveySubType": "Re-Survey",
+        "surveyID": "110368",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_type": "Re-Survey",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "survey_id": "110368",
+          "id_date": "1994-08-01",
+          "wb_alt_name": "",
+          "wb_id": "16023300",
+          "wb_name": "Partridge"
+        },
+        "surveyDate": "1994-08-01",
+        "narrative": "<p>Lake trout were abundant, and were present in a wide range of sizes.  The Partridge Lake lake trout population is native and self-     sustaining.  Lake trout growth was slow; six-year-old fish, which accounted for 38% of the catch, averaged only 15.1 inches in length     when collected in early August.  Forage for lake trout was probably limited to invertebrates and small white sucker.  White sucker were     abundant, and many were small enough to serve as forage for the size lake trout collected.</p>",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "2.00",
+            "species": "WTS",
+            "totalCatch": 6,
+            "gearCount": 3,
+            "totalWeight": 2877,
+            "averageWeight": "1.06",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "averageWeight": "1.40",
+            "gear": "Shallow gill nets",
+            "totalWeight": 11396,
+            "gearCount": 3,
+            "totalCatch": 18,
+            "species": "LAT",
+            "CPUE": "6.00"
+          },
+          {
+            "CPUE": "0.33",
+            "totalCatch": 1,
+            "species": "GSF",
+            "gearCount": 3,
+            "totalWeight": 25,
+            "gear": "Shallow gill nets",
+            "averageWeight": "0.06",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "CPUE": "7.67",
+            "gearCount": 3,
+            "species": "LAT",
+            "totalCatch": 23,
+            "totalWeight": 14734,
+            "averageWeight": "1.41",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          },
+          {
+            "gearCount": 3,
+            "totalCatch": 39,
+            "species": "WTS",
+            "CPUE": "13.00",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 16662,
+            "averageWeight": "0.94",
+            "gear": "Shallow gill nets"
+          }
+        ],
+        "lengths": {
+          "LAT": {
+            "fishCount": [
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                7
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                10
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 12
+          },
+          "GSF": {
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                7,
+                15
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Partridge Lake on August 21st, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 17 feet. Dissolved oxygen decreased to below 3.0 mg/L at 54.6 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.2\u00b0C (41.4\u00b0F). <br> \n <br> \nTDO3 values cooler than 8.8\u00b0C indicate that oxythermal conditions are favorable for Lake Trout. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for Lake Trout was available across a range of depths at the time of sampling. Data collected in 1970-2004 further indicate suitable oxythermal habitat across years. When adequate oxythermal habitat is available, Lake Trout are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyID": "20512322952343005",
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2023-08-21",
+        "headerInfo": {
+          "wb_id": "16023300",
+          "wb_name": "Partridge",
+          "wb_alt_name": "",
+          "id_date": "2023-08-21",
+          "survey_id": "20512322952343005",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "county": "Cook"
+        },
+        "surveyType": "Targeted Survey"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyID": "4311319629045000",
+        "headerInfo": {
+          "wb_name": "Partridge",
+          "wb_id": "16023300",
+          "id_date": "2013-07-15",
+          "wb_alt_name": "",
+          "survey_id": "4311319629045000",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "2013-07-15",
+        "narrative": "<p>Lake trout were abundant in Partridge Lake in 2013.  As has typically been the case in this lake, all of the lake trout taken were under 20 inches in length.  The lake trout gill net catch in 2013 was similar to other catches seen in this lake since 1986, and exceeded the normal range for a lake of this type.  Because few small (under 12 inch) lake trout were collected, the mean weight for lake trout collected in 2013 was the second highest ever observed in this lake, following a trend towards higher mean weights observed in the lake since 1975.  Several year classes, all naturally produced, contributed to the catch.  Young lake trout are often only lightly sampled in standard survey gear, so the lack of young fish in the 2013 catch did not necessarily indicate a recruiment failure.  Recruitment is probably adequate, given the many reasonably strong year classes observed in the 2013 catch. <br> \n <br> \nLake trout in Partridge Lake probably subsist an a largely invertebrate diet.  As a result, their potential to reach large sizes is limited.  Size and age distributions of lake trout taken in this assessment were typical for lake trout lakes of this type in this area with simple fish communities, no warmwater game fish, and no coldwater forage fish.  Growth of lake trout collected in 2013 had been relatively slow.  Six-year-old fish reached an average length of 15.1 inches by the end of their sixth year, compared to an average of 17.7 inches for similar lakes in this area.  <br> \n <br> \nNo species new to this lake were collected in 2013.  The white sucker gill net catch remained low, compared to catches observed in this lake in the 1970s, while the green sunfish catch remained high, and was similar to the high catch observed in the 2004 assessment.  Both species were likely native to this lake. <br> \n <br> \n    <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 6,
+            "species": "WTS",
+            "gearCount": 3,
+            "CPUE": "2.00",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "averageWeight": "0.53",
+            "totalWeight": 1452
+          },
+          {
+            "gear": "Shallow gill nets",
+            "averageWeight": "1.70",
+            "totalWeight": 8498,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "3.67",
+            "gearCount": 3,
+            "totalCatch": 11,
+            "species": "LAT"
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 372,
+            "gear": "Shallow gill nets",
+            "averageWeight": "0.07",
+            "gearCount": 3,
+            "species": "GSF",
+            "totalCatch": 11,
+            "CPUE": "3.67"
+          },
+          {
+            "species": "LAT",
+            "totalCatch": 16,
+            "gearCount": 3,
+            "CPUE": "5.33",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "averageWeight": "2.22",
+            "totalWeight": 16082
+          },
+          {
+            "totalWeight": 7353,
+            "averageWeight": "0.77",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "7.00",
+            "species": "WTS",
+            "totalCatch": 21,
+            "gearCount": 3
+          }
+        ],
+        "lengths": {
+          "GSF": {
+            "minimum_length": 4,
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                4,
+                10
+              ],
+              [
+                5,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                6,
+                9
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                6
+              ]
+            ]
+          },
+          "LAT": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9
+          }
+        }
+      },
+      {
+        "headerInfo": {
+          "wb_id": "16023300",
+          "wb_name": "Partridge",
+          "wb_alt_name": "",
+          "id_date": "2004-07-26",
+          "survey_id": "111471",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "2004-07-26",
+        "surveySubType": "Population Assessment",
+        "surveyID": "111471",
+        "lengths": {
+          "LAT": {
+            "fishCount": [
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 23,
+            "minimum_length": 9
+          },
+          "WTS": {
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                7
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "maximum_length": 19
+          },
+          "GSF": {
+            "minimum_length": 4,
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                4,
+                10
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.00",
+            "gearCount": 3,
+            "species": "WTS",
+            "totalCatch": 3,
+            "totalWeight": 3129,
+            "gear": "Deep gill nets",
+            "averageWeight": "2.30",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalWeight": 21114,
+            "averageWeight": "3.10",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "5.00",
+            "species": "LAT",
+            "totalCatch": 15,
+            "gearCount": 3
+          },
+          {
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalWeight": 299,
+            "averageWeight": "0.05",
+            "gear": "Shallow gill nets",
+            "totalCatch": 12,
+            "species": "GSF",
+            "gearCount": 3,
+            "CPUE": "4.00"
+          },
+          {
+            "CPUE": "7.33",
+            "totalCatch": 22,
+            "species": "LAT",
+            "gearCount": 3,
+            "gear": "Deep gill nets",
+            "averageWeight": "1.71",
+            "totalWeight": 17054,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "CPUE": "7.33",
+            "species": "WTS",
+            "totalCatch": 22,
+            "gearCount": 3,
+            "totalWeight": 11531,
+            "gear": "Shallow gill nets",
+            "averageWeight": "1.16",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "narrative": "<p>lake trout were abundant in 2004, and with a mean weight of 2.3 lb/fish, their average size was higher than usually seen in this lake.  All lake trout taken in 2004 had been naturally produced, and most were five to eight years old.  Lake trout growth had been slow, probably because the fish subsist mainly on a diet of invertebrates in this lake.White sucker and green sunfish were also taken in 2004, and both species appeared to have been abundant.  As has usually been the case in this lake, no other fish species were taken.</p>"
+      },
+      {
+        "surveyID": "21872425648380227",
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2024-08-08",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "2024-08-08",
+          "wb_id": "16023300",
+          "wb_name": "Partridge",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "county": "Cook",
+          "survey_id": "21872425648380227"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Partridge Lake, on August 8, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 28.1 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 60.8 feet at the time of sampling. The thickness of this layer in the water column was 32.7 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.1 degrees C (42.9 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 1970 and 2023 during the late summer thermal stress period indicated suitable oxythermal habitat during years sampled. Data were also collected outside the thermal maximum period in 2013 and 2018, this data indicated suitable oxythermal habitat during those sampling periods. The least favorable oxythermal habitat conditions were recorded in 2023, during the peak summer stress period, when the suitable habitat layer thickness was 29.9 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n <br> \n</p>",
+        "lengths": {},
+        "fishCatchSummaries": []
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyID": "109991",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "id_date": "1986-09-04",
+          "wb_alt_name": "",
+          "wb_name": "Partridge",
+          "wb_id": "16023300",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "survey_id": "109991"
+        },
+        "surveyDate": "1986-09-04",
+        "narrative": "<p>LAKE TROUT NUMBERS ARE GOOD. SIZE IS SMALL. THERE APPEARS TO BE GOOD NATURAL REPRODUCTION - SEVERAL AGE-CLASSES ARE PRESENT. GROWTH IS SLOW.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.4-3.7",
+            "quartileWeight": "1.5-4.0",
+            "totalWeight": 17,
+            "averageWeight": "1.70",
+            "gear": "Standard gill nets",
+            "species": "LAT",
+            "totalCatch": 10,
+            "gearCount": 2,
+            "CPUE": "5.00"
+          },
+          {
+            "averageWeight": "1.61",
+            "gear": "Standard gill nets",
+            "totalWeight": 25.75,
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "8.00",
+            "totalCatch": 16,
+            "species": "WTS",
+            "gearCount": 2
+          }
+        ]
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Partridge Lake on August 11th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 80 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 26.1 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 60.0 feet at the time of sampling. The thickness of this layer of water in the water column was 34.0 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.0 degrees C (42.8 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2023, 2024, 1970 also indicate suitable oxythermal habitat in all years surveyed. When adequate oxythermal habitat is unavailable, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "surveyID": "-315",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "2025-08-11",
+          "wb_name": "Partridge",
+          "wb_id": "16023300",
+          "county": "Cook",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "survey_id": "-315"
+        },
+        "surveyDate": "2025-08-11"
+      }
+    ],
+    "areaAcres": 118.19,
+    "lakeName": "Partridge",
+    "meanDepthFeet": 35,
+    "county": "Cook",
+    "averageWaterClarity": "14.8",
+    "shoreLengthMiles": 3.18,
+    "accesses": [
+      {
+        "lakeAccessComments": "Lake is entirely inside the BWCAW.  Access by portage from Birch Lake.",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO",
+        "location": " "
+      },
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT",
+        "location": ""
+      }
+    ],
+    "waterClarity": [
+      [
+        "07/16/2018",
+        "13.5"
+      ],
+      [
+        "07/15/2013",
+        "15"
+      ],
+      [
+        "07/28/1970",
+        "12"
+      ],
+      [
+        "08/08/2024",
+        "16.4"
+      ],
+      [
+        "08/11/2025",
+        "17.2"
+      ]
+    ],
+    "sampledPlants": [],
+    "maxDepthFeet": 80,
+    "littoralAcres": 23,
+    "officeCode": "F218"
+  },
+  "message": "Normal execution."
+}

@@ -1,0 +1,167 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "waterClarity": [
+      [
+        "08/02/1973",
+        "4.7"
+      ],
+      [
+        "07/17/1991",
+        "7.5"
+      ]
+    ],
+    "averageWaterClarity": "6.1",
+    "shoreLengthMiles": 10.19,
+    "DOWNumber": "16047700",
+    "sampledPlants": [],
+    "littoralAcres": 222,
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "PORTAGE TRAILS ACROSS USFS LAND FROM SMOKE AND KELLY LAKES.  BURNT LAKE IS ENTIRELY INSIDE BWCAW.",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "lakeName": "Burnt",
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_name": "Burnt",
+          "survey_id": "109765",
+          "id_date": "1973-07-30",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "wb_id": "16047700"
+        },
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.5-2.4",
+            "totalCatch": 26,
+            "gear": "Standard gill nets",
+            "CPUE": "4.33",
+            "species": "NOP",
+            "averageWeight": "1.90",
+            "totalWeight": 49.3,
+            "quartileCount": "1.2-3.9",
+            "gearCount": 6
+          },
+          {
+            "totalWeight": 73,
+            "gearCount": 6,
+            "quartileCount": "3.0-13.2",
+            "averageWeight": "1.46",
+            "species": "WAE",
+            "gear": "Standard gill nets",
+            "CPUE": "8.33",
+            "totalCatch": 50,
+            "quartileWeight": "0.7-1.3"
+          },
+          {
+            "totalCatch": 12,
+            "quartileWeight": "0.1-0.3",
+            "gear": "Standard gill nets",
+            "CPUE": "2.00",
+            "averageWeight": "0.14",
+            "species": "YEP",
+            "totalWeight": 1.7,
+            "quartileCount": "0.5-2.8",
+            "gearCount": 6
+          },
+          {
+            "quartileWeight": "1.7-2.4",
+            "totalCatch": 71,
+            "gear": "Standard gill nets",
+            "CPUE": "11.83",
+            "species": "WTS",
+            "averageWeight": "1.57",
+            "totalWeight": 111.6,
+            "quartileCount": "2.6-11.7",
+            "gearCount": 6
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyID": "109765",
+        "narrative": "<p>There are good populations of Walleye, N Pike and Wht Suckers with good size ranges.  Perch, a prey species, are low in numbers.</p>",
+        "surveyDate": "1973-07-30"
+      },
+      {
+        "headerInfo": {
+          "id_date": "1991-07-17",
+          "wb_name": "Burnt",
+          "survey_id": "110203",
+          "wb_type": "Lake",
+          "wb_id": "16047700",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_type": "Population Assessment"
+        },
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "1.2-3.9",
+            "gearCount": 6,
+            "totalWeight": 62.19,
+            "species": "NOP",
+            "averageWeight": "2.07",
+            "CPUE": "5.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-2.4",
+            "totalCatch": 30
+          },
+          {
+            "CPUE": "2.50",
+            "gear": "Standard gill nets",
+            "totalCatch": 15,
+            "quartileWeight": "0.7-1.3",
+            "gearCount": 6,
+            "quartileCount": "3.0-13.2",
+            "totalWeight": 19.56,
+            "species": "WAE",
+            "averageWeight": "1.30"
+          },
+          {
+            "quartileCount": "0.5-2.8",
+            "gearCount": 6,
+            "totalWeight": 0.13,
+            "species": "YEP",
+            "averageWeight": "0.13",
+            "CPUE": "0.17",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "quartileCount": "2.6-11.7",
+            "gearCount": 6,
+            "totalWeight": 161.63,
+            "averageWeight": "2.34",
+            "species": "WTS",
+            "CPUE": "11.50",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.7-2.4",
+            "totalCatch": 69
+          }
+        ],
+        "surveyID": "110203",
+        "narrative": "<p>WAE CPUE WAS BELOW THE REGIONAL MEDIAN FOR LAKES OF THIS CLASS.  MOST WAE COLLECTED RANGED FROM 13 TO 19 IN.  SEVERAL NATURALLY PRODUCED YEAR CLASSES WERE REPRESENTED, AND WAE GROWTH WAS ABOUT AVERAGE FOR COOK COUNTY; THE MEAN LENGTH FOR AGE III WAE AT LAST ANNULUS FORMATION WAS 12.6 IN, COMPARED TO THE COOK COUNTY AVERAGE FOR AGE III OF 11.0 IN.  NOP ABUNDANCE WAS HIGH FOR LAKES OF THIS TYPE, AND SIZE WAS GOOD, WITH MOST OF THE FISH COLLECTED OVER 21 IN.  YEP ABUNDANCE WAS LOW, LIMITING THE FORAGE AVAILABLE TO NOP AND WAE.</p>",
+        "surveyDate": "1991-07-17"
+      }
+    ],
+    "maxDepthFeet": 23,
+    "areaAcres": 357.62,
+    "county": "Cook"
+  },
+  "timestamp": 1790285621,
+  "status": "SUCCESS"
+}

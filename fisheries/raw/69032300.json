@@ -1,0 +1,72 @@
+{
+  "timestamp": 1790285581,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "shoreLengthMiles": 3.19,
+    "averageWaterClarity": "N/A",
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "averageWeight": "2.70",
+            "species": "NOP",
+            "quartileCount": "2.0-6.3",
+            "CPUE": "6.67",
+            "gear": "Standard gill nets",
+            "totalWeight": 54,
+            "totalCatch": 20,
+            "quartileWeight": "1.3-2.4"
+          },
+          {
+            "species": "YEP",
+            "averageWeight": "0.16",
+            "gearCount": 3,
+            "totalCatch": 22,
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 3.5,
+            "gear": "Standard gill nets",
+            "CPUE": "7.33",
+            "quartileCount": "2.2-14.6"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "surveyID": "108249",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "id_date": "1983-08-08",
+          "wb_name": "Neewin",
+          "wb_type": "Lake",
+          "survey_id": "108249",
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "wb_id": "69032300"
+        },
+        "narrative": "<p>Neewin Lake contains moderate populations of northern pike and yellow perch. </p>",
+        "lengths": {},
+        "surveyDate": "1983-08-08"
+      }
+    ],
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "location": "1/2 MI USFS PORTAGE FROM CUMMINGS LAKE. ENTIRELY WITHIN THE BWCAW ON A NO-MOTOR ROUTE.",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O"
+      }
+    ],
+    "waterClarity": [],
+    "county": "St. Louis",
+    "lakeName": "Neewin",
+    "maxDepthFeet": 15,
+    "areaAcres": 94.11,
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "DOWNumber": "69032300",
+    "littoralAcres": 94.11,
+    "officeCode": "F214"
+  }
+}

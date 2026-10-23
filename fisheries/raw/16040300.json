@@ -1,0 +1,88 @@
+{
+  "result": {
+    "shoreLengthMiles": 1.83,
+    "officeCode": "F218",
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "5.0",
+    "areaAcres": 32.51,
+    "county": "Cook",
+    "surveys": [
+      {
+        "lengths": {},
+        "narrative": "<p>Whip Lake has a good population of small N Pike with an occasional large fish.  Suckers and Perch are low in numbers.</p>",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1974-07-08",
+        "headerInfo": {
+          "id_date": "1974-07-08",
+          "county": "Cook",
+          "wb_id": "16040300",
+          "survey_id": "109742",
+          "wb_name": "Whip",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "7.50",
+            "gearCount": 2,
+            "quartileCount": "2.8-8.5",
+            "totalCatch": 15,
+            "quartileWeight": "1.1-2.0",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "averageWeight": "1.30",
+            "totalWeight": 19.5
+          },
+          {
+            "gearCount": 2,
+            "CPUE": "2.00",
+            "quartileWeight": "0.1-0.3",
+            "totalCatch": 4,
+            "quartileCount": "2.0-16.0",
+            "totalWeight": 1,
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "averageWeight": "0.25"
+          },
+          {
+            "totalWeight": 7,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.33",
+            "species": "WTS",
+            "CPUE": "1.50",
+            "gearCount": 2,
+            "totalCatch": 3,
+            "quartileCount": "4.0-14.5",
+            "quartileWeight": "1.4-2.5"
+          }
+        ],
+        "surveyID": "109742"
+      }
+    ],
+    "DOWNumber": "16040300",
+    "maxDepthFeet": 9,
+    "littoralAcres": 32.51,
+    "waterClarity": [
+      [
+        "07/09/1974",
+        "5"
+      ]
+    ],
+    "lakeName": "Whip",
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO"
+      }
+    ]
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285671,
+  "status": "SUCCESS"
+}

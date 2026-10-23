@@ -1,0 +1,179 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "surveys": [
+      {
+        "surveyID": "109809",
+        "surveyDate": "1980-07-24",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "0.25",
+            "averageWeight": "0.30",
+            "totalCatch": 1,
+            "quartileCount": "0.2-1.0",
+            "gearCount": 4,
+            "totalWeight": 0.3,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "1.5-4.0",
+            "species": "LAT",
+            "gear": "Standard gill nets",
+            "totalWeight": 11.5,
+            "gearCount": 4,
+            "quartileCount": "0.4-3.7",
+            "totalCatch": 8,
+            "CPUE": "2.00",
+            "averageWeight": "1.44"
+          },
+          {
+            "quartileWeight": "2.1-4.9",
+            "species": "NOP",
+            "totalWeight": 3,
+            "gearCount": 4,
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "averageWeight": "3.00",
+            "CPUE": "0.25"
+          },
+          {
+            "CPUE": "2.75",
+            "averageWeight": "1.42",
+            "totalCatch": 11,
+            "quartileCount": "0.8-5.3",
+            "gearCount": 4,
+            "totalWeight": 15.6,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileWeight": "1.1-2.5"
+          }
+        ],
+        "headerInfo": {
+          "wb_id": "16071600",
+          "survey_id": "109809",
+          "wb_alt_name": "",
+          "wb_name": "Fern",
+          "wb_type": "Lake",
+          "id_date": "1980-07-24",
+          "county": "Cook",
+          "survey_type": "Initial Survey"
+        },
+        "narrative": "<p>The lake seems to have a fairly good naturally reproducing Lake Trout population, with fair ranges of sizes. The Sucker population appears small; N Pike, Burbot and Northern redbelly dace are present.</p>",
+        "surveySubType": "Initial Survey"
+      },
+      {
+        "surveyID": "110676",
+        "lengths": {},
+        "surveyDate": "1992-07-06",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "quartileWeight": "0.6-1.5",
+            "averageWeight": "0.50",
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "quartileCount": "0.2-1.0",
+            "gearCount": 4,
+            "totalWeight": 0.5,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 4,
+            "totalWeight": 10.5,
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.62",
+            "CPUE": "1.00",
+            "totalCatch": 4,
+            "species": "LAT",
+            "quartileWeight": "1.5-4.0"
+          },
+          {
+            "averageWeight": "0.57",
+            "CPUE": "3.25",
+            "totalCatch": 13,
+            "gear": "Standard gill nets",
+            "totalWeight": 7.4,
+            "gearCount": 4,
+            "quartileCount": "0.8-5.3",
+            "species": "WTS",
+            "quartileWeight": "1.1-2.5"
+          }
+        ],
+        "headerInfo": {
+          "survey_id": "110676",
+          "wb_id": "16071600",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_name": "Fern",
+          "wb_type": "Lake",
+          "id_date": "1992-07-06",
+          "wb_alt_name": ""
+        },
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Fewer lake trout were collected in gill nets compared to 1980.  The small-mesh gill nets also used in this assessment collected three young lake trout (2-3 in), indicating at least some recent reproductive success.  Lake trout growth rates appeared to be about average for Cook County.</p>"
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "lengths": {},
+        "surveyDate": "2024-08-07",
+        "surveyID": "21872425630403000",
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Fern Lake on August 7, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 23.3 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 54.4 feet at the time of sampling. The thickness of this layer in the water column was 31.1 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.9 degrees C (42.6 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nThis is the first survey completed on Fern Lake during the late summer thermal stress period, however, data collected outside the thermal maximum period in 1980 and 1992 indicated suitable oxythermal habitat during that sampling period. The least favorable conditions were recorded in 1980 when the suitable habitat layer thickness was 30.4 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "wb_id": "16071600",
+          "survey_id": "21872425630403000",
+          "wb_type": "Lake",
+          "id_date": "2024-08-07",
+          "wb_name": "Fern",
+          "survey_type": "Targeted Survey",
+          "county": "Cook",
+          "wb_alt_name": ""
+        }
+      }
+    ],
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 2.45,
+    "waterClarity": [
+      [
+        "07/24/1980",
+        "15"
+      ],
+      [
+        "07/10/1992",
+        "8.5"
+      ],
+      [
+        "08/07/2024",
+        "9.8"
+      ]
+    ],
+    "averageWaterClarity": "11.1",
+    "DOWNumber": "16071600",
+    "lakeName": "Fern",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "location": "No public access.  In BWCA  portages from Frinchand Gillis Lakes.",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "maxDepthFeet": 65,
+    "sampledPlants": [],
+    "littoralAcres": 17,
+    "areaAcres": 71.78,
+    "officeCode": "F218",
+    "county": "Cook"
+  },
+  "timestamp": 1790285901
+}

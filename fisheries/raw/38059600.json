@@ -1,0 +1,907 @@
+{
+  "result": {
+    "lakeName": "Quadga",
+    "meanDepthFeet": 0,
+    "areaAcres": 251.2,
+    "sampledPlants": [],
+    "averageWaterClarity": "13.0",
+    "county": "Lake",
+    "DOWNumber": "38059600",
+    "maxDepthFeet": 35,
+    "shoreLengthMiles": 4.3,
+    "surveys": [
+      {
+        "narrative": "<p>did not appear plentiful near the shore,however;  four fishermen who had fished Quadga Lake three hours were contacted on the lake August 2.</p>",
+        "surveyDate": "1962-08-02",
+        "surveyID": "112609",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_name": "Quadga",
+          "survey_id": "112609",
+          "id_date": "1962-08-02",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "wb_id": "38059600"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "species": "CSH",
+            "quartileWeight": "N/A",
+            "gear": "Standard trap nets",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "CPUE": "0.50",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 2
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-2.4",
+            "species": "NOP",
+            "gearCount": 6,
+            "CPUE": "3.50",
+            "totalCatch": 21,
+            "quartileCount": "1.2-3.9",
+            "averageWeight": "0.00",
+            "totalWeight": 0
+          },
+          {
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "CPUE": "10.50",
+            "gearCount": 6,
+            "quartileCount": "2.6-11.7",
+            "totalCatch": 63,
+            "species": "WTS",
+            "quartileWeight": "1.7-2.4",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "0.1-0.4",
+            "gear": "Standard trap nets",
+            "species": "YEP",
+            "CPUE": "1.00",
+            "gearCount": 4,
+            "quartileCount": "0.3-1.0",
+            "totalCatch": 4,
+            "totalWeight": 0,
+            "averageWeight": "0.00"
+          },
+          {
+            "species": "RKB",
+            "gear": "Standard trap nets",
+            "quartileWeight": "0.2-0.5",
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "gearCount": 4,
+            "CPUE": "1.25",
+            "totalCatch": 5,
+            "quartileCount": "0.7-1.2"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-1.3",
+            "species": "WAE",
+            "totalCatch": 42,
+            "quartileCount": "3.0-13.2",
+            "gearCount": 6,
+            "CPUE": "7.00",
+            "averageWeight": "0.00",
+            "totalWeight": 0
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "0.50",
+            "totalCatch": 3,
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "species": "PMK"
+          },
+          {
+            "species": "NOP",
+            "gear": "Standard trap nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "totalCatch": 2,
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "CPUE": "0.50"
+          },
+          {
+            "gear": "Standard trap nets",
+            "quartileWeight": "1.4-2.8",
+            "species": "WTS",
+            "totalCatch": 1,
+            "quartileCount": "0.7-2.3",
+            "gearCount": 4,
+            "CPUE": "0.25",
+            "averageWeight": "0.00",
+            "totalWeight": 0
+          },
+          {
+            "quartileWeight": "0.8-1.5",
+            "gear": "Standard trap nets",
+            "species": "WAE",
+            "CPUE": "0.50",
+            "gearCount": 4,
+            "quartileCount": "0.5-2.7",
+            "totalCatch": 2,
+            "totalWeight": 0,
+            "averageWeight": "0.00"
+          },
+          {
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "gearCount": 4,
+            "CPUE": "0.50",
+            "totalCatch": 2,
+            "quartileCount": "0.5",
+            "species": "PMK",
+            "gear": "Standard trap nets",
+            "quartileWeight": "0.4"
+          },
+          {
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "totalCatch": 12,
+            "quartileCount": "0.5-2.8",
+            "gearCount": 6,
+            "CPUE": "2.00",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "species": "RKB",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-0.5",
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "gearCount": 6,
+            "CPUE": "3.17",
+            "totalCatch": 19,
+            "quartileCount": "0.5-2.3"
+          }
+        ]
+      },
+      {
+        "surveyDate": "2014-08-04",
+        "surveyID": "5781422036774001",
+        "narrative": "<p>Quadga Lake is a 251.2 acre lake with a maximum depth of 35.0 feet.  The lake is located over 13.0 miles north of Isabella, Minnesota and is entirely within the Boundary Waters Canoe Area Wilderness (BWCAW).  The lake is accessible from two portage trails off the Isabella River.  The two trails join together to make a single trail before reaching Quadga Lake.  There is one trail on the upstream side of rapids that is 62 rods and the second trail is on the downstream side of rapids that is 64 rods.  There are four campsites around the lake, but during the 2014 assessment only two sites were open for use.  The other sites were closed and in need of maintenance after the Pagami Creek fire in 2011. All anglers on Quadga Lake must abide by BWCAW regulations at all times; the lake is entirely non-motorized. <br> \n <br> \nThe 2014 population assessment was the third time the lake has been sampled, and the first time since 1994.  Walleye, Northern Pike, Largemouth Bass, Yellow Perch, Rock Bass, White Sucker, Bluegill, Pumpkinseed Sunfish, and Blacknose Shiner were collected in the nets.  The 2014 assessment was the first time Largemouth Bass and Bluegill had been sampled in the lake.   <br> \n <br> \nA total of ten Walleyes were sampled for a catch-per-effort (CPE) of 1.7/lift.  Size of the Walleyes in 2014 ranged from 11.6 to 26.9 inches and averaged 21.7 inches (4.3 pounds).  Three year classes were represented in the sample.  <br> \n <br> \nThe Northern Pike catch was the highest in the history of the lake with 80 fish sampled.  Pike sizes ranged from 9.9 to 31.5 inches with an average length of 23.7 inches and an average weight of 3.2 pounds.  The largest pike weighted in at 6.9 pounds and was 31.4 inches.  Nine year classes (age-1 to age-9) were present in the sample as determined from scale reading.  Growth for Northern Pike appears to be above average when compared to other Finland Area lakes.  <br> \n <br> \nTwenty-two Largemouth Bass collected in the sample by gill nets and angling.  The average size of Largemouth Bass was 12.6 inches and weighed 1.2 pounds.  The largest fish was caught on rod and reel and was 18.7 inches (3.7 pounds).  There were eight year classes represented for the sample from age-2 to age-11.   The growth of Largemouth Bass is slow compared to other lakes in Finland Fisheries Area.   <br> \n <br> \nThe Yellow Perch catch of 40 fish was the highest in lake's history.  The size of the perch ranged from 2.8 to 9.5 inches with an average of 6.4 inches.  Forty-five Bluegills were collected in the gill nets and by angling and averaged 4.7 inches.  Four Rock Bass, two Pumpkinseed Sunfish, and five White Suckers were also sampled in the nets.  <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "quartileWeight": "1.5-2.4",
+            "gear": "Standard gill nets",
+            "totalWeight": 114410,
+            "averageWeight": "3.15",
+            "quartileCount": "1.2-3.9",
+            "totalCatch": 80,
+            "CPUE": "13.33",
+            "gearCount": 6
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.7-2.4",
+            "species": "WTS",
+            "gearCount": 6,
+            "CPUE": "0.83",
+            "totalCatch": 5,
+            "quartileCount": "2.6-11.7",
+            "averageWeight": "1.10",
+            "totalWeight": 2500
+          },
+          {
+            "averageWeight": "0.10",
+            "totalWeight": 405,
+            "totalCatch": 9,
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "CPUE": "3.00",
+            "species": "BLG",
+            "gear": "Open-water angling",
+            "quartileWeight": "N/A"
+          },
+          {
+            "species": "LMB",
+            "quartileWeight": "N/A",
+            "gear": "Open-water angling",
+            "totalWeight": 8340,
+            "averageWeight": "1.23",
+            "quartileCount": "N/A",
+            "totalCatch": 15,
+            "CPUE": "5.00",
+            "gearCount": 3
+          },
+          {
+            "totalWeight": 19595,
+            "averageWeight": "4.32",
+            "quartileCount": "3.0-13.2",
+            "totalCatch": 10,
+            "CPUE": "1.67",
+            "gearCount": 6,
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "PMK",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.12",
+            "totalWeight": 105,
+            "totalCatch": 2,
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "CPUE": "0.33"
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "0.67",
+            "totalCatch": 4,
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "species": "BNS"
+          },
+          {
+            "CPUE": "0.17",
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A",
+            "gear": "Minnow traps",
+            "species": "BLG"
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "6.00",
+            "totalCatch": 36,
+            "quartileCount": "N/A",
+            "averageWeight": "0.05",
+            "totalWeight": 855,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "species": "BLG"
+          },
+          {
+            "averageWeight": "0.11",
+            "totalWeight": 1979,
+            "gearCount": 6,
+            "CPUE": "6.67",
+            "totalCatch": 40,
+            "quartileCount": "0.5-2.8",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "averageWeight": "1.11",
+            "totalWeight": 3520,
+            "gearCount": 6,
+            "CPUE": "1.17",
+            "totalCatch": 7,
+            "quartileCount": "0.2-0.7",
+            "species": "LMB",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.8-1.9"
+          },
+          {
+            "CPUE": "0.67",
+            "gearCount": 6,
+            "quartileCount": "0.5-2.3",
+            "totalCatch": 4,
+            "totalWeight": 490,
+            "averageWeight": "0.27",
+            "quartileWeight": "0.2-0.5",
+            "gear": "Standard gill nets",
+            "species": "RKB"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "38059600",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Quadga",
+          "survey_type": "Population Assessment",
+          "id_date": "2014-08-04",
+          "survey_id": "5781422036774001"
+        },
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "RKB": {
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "maximum_length": 7,
+            "minimum_length": 6
+          },
+          "LMB": {
+            "maximum_length": 18,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "minimum_length": 11,
+            "maximum_length": 26,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                2
+              ]
+            ]
+          },
+          "BLG": {
+            "minimum_length": 3,
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                3,
+                15
+              ],
+              [
+                4,
+                17
+              ],
+              [
+                5,
+                9
+              ],
+              [
+                6,
+                4
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                2,
+                1
+              ],
+              [
+                5,
+                9
+              ],
+              [
+                6,
+                26
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 9,
+            "minimum_length": 2
+          },
+          "NOP": {
+            "minimum_length": 9,
+            "maximum_length": 31,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                6
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                6
+              ],
+              [
+                25,
+                10
+              ],
+              [
+                26,
+                9
+              ],
+              [
+                27,
+                10
+              ],
+              [
+                28,
+                5
+              ],
+              [
+                29,
+                3
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                31,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "PMK": {
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 6
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 20
+          }
+        }
+      },
+      {
+        "narrative": "<p>Test nets in 1994 indicate walleye abundance is lower in Quadga Lake than in similar lakes in the Finland Area. The decline in walleye numbers is related to successive years of poor reproduction. Walleye up to 23.6 inches were observed in the survey, with all walleye sampled exceeding 18.0 inches.     Northern pike abundance is high compared to similar lakes. Average size of the northern pike sampled was 21.0 inches with fish up to 28.0 inches (5 pounds) observed.     Quadga Lake is in the BWCAW, and is a short portage off a heavily traveled canoe route. There are 4 heavily used campsite on the lake.</p>",
+        "surveyID": "112599",
+        "surveyDate": "1994-08-01",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_id": "38059600",
+          "wb_type": "Lake",
+          "wb_name": "Quadga",
+          "survey_type": "Re-Survey",
+          "survey_id": "112599",
+          "id_date": "1994-08-01",
+          "wb_alt_name": ""
+        },
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "WAE": {
+            "minimum_length": 18,
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 17,
+            "maximum_length": 28,
+            "fishCount": [
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                12
+              ],
+              [
+                21,
+                5
+              ],
+              [
+                22,
+                5
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                28,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "maximum_length": 7,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                7
+              ],
+              [
+                7,
+                4
+              ]
+            ]
+          },
+          "PMK": {
+            "maximum_length": 4,
+            "minimum_length": 3,
+            "fishCount": [
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                1
+              ]
+            ]
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 3
+          },
+          "CSH": {
+            "minimum_length": 5,
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 18,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                11
+              ],
+              [
+                11,
+                7
+              ],
+              [
+                12,
+                12
+              ],
+              [
+                13,
+                11
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 31,
+            "quartileCount": "1.2-3.9",
+            "gearCount": 6,
+            "CPUE": "5.17",
+            "averageWeight": "2.14",
+            "totalWeight": 30080,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-2.4",
+            "species": "NOP"
+          },
+          {
+            "species": "RKB",
+            "quartileWeight": "0.2-0.5",
+            "gear": "Standard gill nets",
+            "totalWeight": 770,
+            "averageWeight": "0.17",
+            "quartileCount": "0.5-2.3",
+            "totalCatch": 10,
+            "CPUE": "1.67",
+            "gearCount": 6
+          },
+          {
+            "totalWeight": 10975,
+            "averageWeight": "3.46",
+            "CPUE": "1.17",
+            "gearCount": 6,
+            "quartileCount": "3.0-13.2",
+            "totalCatch": 7,
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 575,
+            "averageWeight": "0.10",
+            "quartileCount": "0.5-2.8",
+            "totalCatch": 13,
+            "CPUE": "2.17",
+            "gearCount": 6,
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.7-2.4",
+            "species": "WTS",
+            "gearCount": 6,
+            "CPUE": "10.33",
+            "totalCatch": 62,
+            "quartileCount": "2.6-11.7",
+            "averageWeight": "0.99",
+            "totalWeight": 27810
+          },
+          {
+            "averageWeight": "0.05",
+            "totalWeight": 70,
+            "gearCount": 6,
+            "CPUE": "0.50",
+            "totalCatch": 3,
+            "quartileCount": "N/A",
+            "species": "PMK",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "species": "CSH",
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "CPUE": "0.17",
+            "averageWeight": "0.07",
+            "totalWeight": 30
+          }
+        ]
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/04/2014",
+        "13"
+      ]
+    ],
+    "littoralAcres": 157,
+    "accesses": [
+      {
+        "lakeAccessComments": "Quadga Lake is entirely within the BWCAW, and access is limited to canoe travel via poratge trails from various canoe routes.  Two portage trails enter the lake one from the East side of rapids on the Isabella River and one from West side of rapids on the Isabella River.  ",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "location": " "
+      }
+    ],
+    "officeCode": "F215"
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285547,
+  "message": "Normal execution."
+}

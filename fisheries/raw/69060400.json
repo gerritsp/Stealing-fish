@@ -1,0 +1,309 @@
+{
+  "result": {
+    "lakeName": "Dovre",
+    "DOWNumber": "69060400",
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "Portage from Little Vermillion Lake",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "officeCode": "F217",
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "5.5",
+    "shoreLengthMiles": 2.48,
+    "county": "St. Louis",
+    "littoralAcres": 114,
+    "areaAcres": 115.55,
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Catches from this survey of Dovre lake show high numbers of both northern pike and yellow perch.  The catch rate for both species was higher in this sample than from all other previous surveys.   <br> \n <br> \nAlthough numerous, the pike in Dover lake aren't growing to larger sizes.  Northern pike average 18.9\" long with the largest being 25.8\".  Yellow perch may be the more appealing species to anglers in this lake.  The perch average 8.3\" long with the largest being 12.4\".  This may also offer anglers a good shore fishing opportunity.  The predator/prey relationship between pike and perch and the overall lack of fishing pressure on this lake make for fairly stable populations and no changes are expected. <br> \n <br> \n <br> \n <br> \n <br> \n <br> \n <br> \n <br> \n</p>",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "69060400",
+          "wb_name": "Dovre",
+          "survey_type": "Population Assessment",
+          "id_date": "2011-07-25",
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "survey_id": "4411120658080000"
+        },
+        "lengths": {
+          "NOP": {
+            "minimum_length": 11,
+            "maximum_length": 25,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                21
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                18,
+                18
+              ],
+              [
+                19,
+                24
+              ],
+              [
+                20,
+                14
+              ],
+              [
+                21,
+                13
+              ],
+              [
+                22,
+                11
+              ],
+              [
+                23,
+                14
+              ],
+              [
+                24,
+                5
+              ],
+              [
+                25,
+                3
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                51
+              ],
+              [
+                11,
+                14
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                5,
+                30
+              ],
+              [
+                6,
+                65
+              ],
+              [
+                7,
+                57
+              ],
+              [
+                8,
+                65
+              ],
+              [
+                9,
+                72
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 12
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.64",
+            "totalCatch": 154,
+            "species": "NOP",
+            "quartileCount": "2.0-6.3",
+            "quartileWeight": "1.3-2.4",
+            "gear": "Standard gill nets",
+            "CPUE": "25.67",
+            "gearCount": 6,
+            "totalWeight": 114449
+          },
+          {
+            "averageWeight": "0.30",
+            "totalCatch": 355,
+            "species": "YEP",
+            "quartileCount": "2.2-14.6",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 48207,
+            "gear": "Standard gill nets",
+            "CPUE": "59.17",
+            "gearCount": 6
+          }
+        ],
+        "surveyDate": "2011-07-25",
+        "surveyType": "Standard Survey",
+        "surveyID": "4411120658080000"
+      },
+      {
+        "surveyID": "111835",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1996-07-15",
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                17
+              ],
+              [
+                18,
+                11
+              ],
+              [
+                19,
+                11
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                12
+              ],
+              [
+                22,
+                12
+              ],
+              [
+                23,
+                9
+              ],
+              [
+                24,
+                9
+              ],
+              [
+                25,
+                8
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                28,
+                2
+              ]
+            ],
+            "maximum_length": 28,
+            "minimum_length": 14
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                5,
+                38
+              ],
+              [
+                6,
+                78
+              ],
+              [
+                7,
+                63
+              ],
+              [
+                8,
+                11
+              ]
+            ],
+            "minimum_length": 3,
+            "maximum_length": 8
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "CPUE": "17.17",
+            "totalWeight": 96158,
+            "quartileCount": "2.0-6.3",
+            "quartileWeight": "1.3-2.4",
+            "totalCatch": 103,
+            "averageWeight": "2.06",
+            "species": "NOP"
+          },
+          {
+            "species": "YEP",
+            "totalCatch": 191,
+            "averageWeight": "0.12",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "2.2-14.6",
+            "totalWeight": 10476,
+            "CPUE": "31.83",
+            "gear": "Standard gill nets",
+            "gearCount": 6
+          }
+        ],
+        "headerInfo": {
+          "county": "St. Louis",
+          "survey_id": "111835",
+          "wb_type": "Lake",
+          "id_date": "1996-07-15",
+          "wb_alt_name": "",
+          "wb_name": "Dovre",
+          "wb_id": "69060400",
+          "survey_type": "Re-Survey"
+        },
+        "narrative": "<p>Dovre Lake has high numbers of both yellow perch and northern pike.  However, neither species reaches a very large size.  Northern pike average 21\" long and yellow perch average 6.7\" long.  The largest northern pike was 28.7\".  The numbers and sizes of northern pike and yellow perch were similar to earlier surveys in 1973 and 1960.  The predator/prey relationship between pike and perch in this lake appears to be fairly stable, and no large changes in the fish populations are expected as long as no other fish are introduced.</p>",
+        "surveySubType": "Re-Survey"
+      }
+    ],
+    "maxDepthFeet": 17,
+    "waterClarity": [
+      [
+        "07/25/2011",
+        "5.5"
+      ]
+    ]
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790286082
+}

@@ -1,0 +1,454 @@
+{
+  "result": {
+    "littoralAcres": 15,
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveyType": "Targeted Survey",
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2024-08-05",
+        "headerInfo": {
+          "wb_name": "Fay",
+          "survey_type": "Targeted Survey",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "id_date": "2024-08-05",
+          "wb_id": "16078300",
+          "wb_type": "Lake",
+          "survey_id": "21872426141783148"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Fay Lake, on August 5, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 26.8 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 45.3 feet at the time of sampling. The thickness of this layer in the water column was 18.5 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.4 degrees C (43.5 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nThis is the first survey completed on Fay Lake during the late summer thermal stress period, however, data collected outside the thermal maximum period in 1986, indicated suitable oxythermal habitat during that sampling period when layer thickness was 67.8 feet.  When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "fishCatchSummaries": [],
+        "surveyID": "21872426141783148"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "LAT": {
+            "minimum_length": 17,
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                17,
+                1
+              ]
+            ]
+          },
+          "BKT": {
+            "minimum_length": 16,
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                16,
+                1
+              ]
+            ]
+          },
+          "GSF": {
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 6,
+            "minimum_length": 4
+          },
+          "GOS": {
+            "minimum_length": 6,
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                6,
+                9
+              ],
+              [
+                7,
+                11
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "maximum_length": 18,
+            "minimum_length": 6
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "1996-07-31",
+        "narrative": "<p>Fay Lake supported a small population of native lake trout.  Catch of lake trout in the 1996 assessment was low for lakes of this class.  A few brook trout may also be found in the lake, probably entering from Bingshick Lake, where they have been stocked.</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "1996-07-31",
+          "wb_type": "Lake",
+          "wb_id": "16078300",
+          "survey_id": "110731",
+          "wb_name": "Fay",
+          "survey_type": "Population Assessment",
+          "county": "Cook"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 1,
+            "averageWeight": "2.64",
+            "species": "LAT",
+            "CPUE": "0.25",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "0.4-3.7",
+            "quartileWeight": "1.5-4.0",
+            "totalWeight": 1198
+          },
+          {
+            "CPUE": "1.00",
+            "species": "GSF",
+            "averageWeight": "0.11",
+            "totalCatch": 4,
+            "gearCount": 4,
+            "quartileCount": "0.2-0.9",
+            "gear": "Standard gill nets",
+            "totalWeight": 191,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "0.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 38,
+            "quartileWeight": "0.1",
+            "CPUE": "0.25",
+            "species": "GOS",
+            "averageWeight": "0.08",
+            "totalCatch": 1
+          },
+          {
+            "CPUE": "0.25",
+            "species": "BKT",
+            "averageWeight": "1.96",
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "totalWeight": 891,
+            "quartileWeight": "N/A"
+          },
+          {
+            "species": "WTS",
+            "averageWeight": "0.30",
+            "CPUE": "7.00",
+            "totalCatch": 28,
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 3797,
+            "quartileWeight": "1.1-2.5"
+          }
+        ],
+        "surveyID": "110731"
+      },
+      {
+        "surveyDate": "1986-07-15",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-4.0",
+            "totalWeight": 11.5,
+            "totalCatch": 4,
+            "CPUE": "2.00",
+            "averageWeight": "2.88",
+            "species": "LAT"
+          },
+          {
+            "totalCatch": 1,
+            "species": "BKT",
+            "averageWeight": "1.50",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalWeight": 1.5
+          },
+          {
+            "CPUE": "10.00",
+            "species": "WTS",
+            "averageWeight": "0.55",
+            "totalCatch": 20,
+            "gearCount": 2,
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 11,
+            "quartileWeight": "1.1-2.5"
+          }
+        ],
+        "surveyID": "109964",
+        "narrative": "<p>THERE IS A SMALL POPULATION OF NATIVE LAKE TROUT PRESENT. SAMPLE SIZE IS TOO SMALL TO SAY WHETHER YEAR-CLASSES ARE MISSING IN THE LAKE. GROWTH IS ABOUT AVERAG. SUCKERS ARE SMALL ENOUGH TO PROVIDE FORAGE FOR LAKE TROUT.</p>",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_name": "Fay",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "16078300",
+          "survey_id": "109964",
+          "id_date": "1986-07-15"
+        }
+      },
+      {
+        "surveyDate": "2024-06-18",
+        "surveySubType": "Standard Survey",
+        "lengths": {
+          "BKT": {
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                17,
+                1
+              ]
+            ],
+            "maximum_length": 17
+          },
+          "LAT": {
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                8
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9
+          },
+          "GSF": {
+            "fishCount": [
+              [
+                4,
+                4
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                2
+              ]
+            ],
+            "maximum_length": 6,
+            "minimum_length": 4
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "maximum_length": 23
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "22222504433555001",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "0.4-3.7",
+            "totalWeight": 18540,
+            "quartileWeight": "1.5-4.0",
+            "species": "LAT",
+            "averageWeight": "1.51",
+            "CPUE": "6.75",
+            "totalCatch": 27
+          },
+          {
+            "totalCatch": 8,
+            "averageWeight": "0.12",
+            "species": "GSF",
+            "CPUE": "2.00",
+            "quartileWeight": "N/A",
+            "totalWeight": 445,
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "0.2-0.9"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 1319,
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "totalCatch": 2,
+            "CPUE": "0.50",
+            "averageWeight": "1.45",
+            "species": "BKT"
+          },
+          {
+            "CPUE": "3.50",
+            "averageWeight": "0.98",
+            "species": "WTS",
+            "totalCatch": 14,
+            "quartileCount": "0.8-5.3",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "totalWeight": 6216,
+            "quartileWeight": "1.1-2.5"
+          }
+        ],
+        "narrative": "<p>Fay Lake is a small, 71-acre lake with a maximum depth of 62 ft and is primarily managed for lake trout. Fay Lake lies entirely within the Boundary Waters Canoe Area Wilderness (BWACW) and is a part of the Rainy River Headwaters watershed. Access is difficult due to multiple portages from BWCAW entry point #52 (Round Lake) or an approximate 3.5-mile portage via the Kekekabic trail from the Gunflint Trail Parking lot. Temperature and dissolved oxygen data collected in august continues to support good habitat for lake trout in Fay Lake. In 2024, a standard survey was conducted using gillnets to assess the current fish community and update information on Lake Trout.  <br> \n <br> \nLake trout are the primary management species in Fay Lake and results from the 2024 survey indicate a healthy population. The lake trout catch rate was higher than previous surveys and well above the expected range for lakes similar to Fay. Lake trout lengths ranged from 9.1 to 22.1 inches, with an average size of 16.3 inches. Aging results found seven, naturally reproduced age classes present in the population and the oldest fish was 20 years old. The wide range of fish ages present during the survey supports natural reproduction and continues to provide good recruitment of fish into the adult population. Lake trout growth was relatively slow, taking fish 15 years to reach 18.0 inches. This is common in lakes where lake trout rely on invertebrate as prey instead of coldwater forage like rainbow smelt or cisco. Anglers looking to target lake trout within the BWCAW should not expect to catch large fish in Fay, but rather good numbers of smaller fish.  <br> \n <br> \nSometimes brook trout are found in Fay Lake and are likely migrants from nearby Bingshick Lake. Two brook trout were caught during the 2024 survey and measured 12.7 and 17.7 inches.  <br> \n <br> \nWhite sucker abundance was significantly lower than previous surveys. Green sunfish continue to be found in Fay Lake but at low numbers. Small sized sucker and sunfish may be available as prey for lake trout but do not contribute significantly to lake trout growth. <br> \n <br> \nMinnesota Lakes within Cook County continue to be susceptible to aquatic invasive species introductions. Invasive species have the potential to significantly alter fish communities and overall lake health. Anglers should clean watercraft and fishing gear, drain all water, and dispose of unused bait in the trash to prevent accidental introductions to these pristine waters within this part of the state.  <br> \n</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "2024-06-18",
+          "wb_id": "16078300",
+          "wb_type": "Lake",
+          "survey_id": "22222504433555001",
+          "wb_name": "Fay",
+          "survey_type": "Standard Survey",
+          "county": "Cook"
+        }
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/05/2024",
+        "11.8"
+      ],
+      [
+        "07/15/1986",
+        "12"
+      ],
+      [
+        "06/17/2024",
+        "12.8"
+      ]
+    ],
+    "county": "Cook",
+    "areaAcres": 71.29,
+    "maxDepthFeet": 62,
+    "lakeName": "Fay",
+    "shoreLengthMiles": 2.51,
+    "accesses": [
+      {
+        "location": "Lake is entirely inside the BWCAW. Accessible by portage trails from Bingshick; Glee; and Flying Lakes; the Chub River; and the Kekekabic Tr.",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "CA",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "DOWNumber": "16078300",
+    "averageWaterClarity": "12.2",
+    "officeCode": "F218",
+    "sampledPlants": []
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285924
+}

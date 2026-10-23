@@ -1,0 +1,465 @@
+{
+  "timestamp": 1790285899,
+  "result": {
+    "surveys": [
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Bat Lake on August 7, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 25.9 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 95.4 feet at the time of sampling. The thickness of this layer in the water column was 69.5 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.3 degrees C (41.5 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 1980 during the late summer thermal stress period indicated suitable oxythermal habitat that year. Data were also collected outside the thermal maximum period in 2013, this data indicated suitable oxythermal habitat during that sampling period. The least favorable oxythermal habitat conditions were recorded in 1980, during the peak summer stress period, when the suitable oxythermal habitat layer thickness was 46.5 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveyDate": "2024-08-07",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Bat",
+          "survey_type": "Targeted Survey",
+          "county": "Cook",
+          "id_date": "2024-08-07",
+          "wb_id": "16075200",
+          "survey_id": "21872425635240000",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Targeted Survey",
+        "surveyID": "21872425635240000",
+        "lengths": {}
+      },
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>No Lk Trt were glntd dur. the survey.  This indic. that very few or no Lk Trt are prsnt.  Addit. ntng or angling may be necessary to clarify the status of the lk.  A few Minnows were observed in shallow water-they appeared to be pearl dace; also a few sml Yel Perch were observed.  I believe sampling at other times of the year may be necessary to determine whether Lk Trt have indeed disappeared.</p>",
+        "headerInfo": {
+          "wb_id": "16075200",
+          "id_date": "1980-07-29",
+          "survey_type": "Initial Survey",
+          "wb_name": "Bat",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "109814"
+        },
+        "surveyDate": "1980-07-29",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.27",
+            "gear": "Standard gill nets",
+            "totalWeight": 3.25,
+            "species": "WTS",
+            "CPUE": "3.00",
+            "quartileWeight": "1.1-2.5",
+            "quartileCount": "0.8-5.3",
+            "gearCount": 4,
+            "totalCatch": 12
+          }
+        ],
+        "lengths": {},
+        "surveyID": "109814",
+        "surveySubType": "Initial Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Lake trout were apparently abundant but small in Bat Lake in 2004.  Lake trout (Gillis Lake strain) were introduced in this lake in 1982, and since 1991 the population has been self-sustained.  Lake trout growth was very slow - six-year-old fish were just 11.5 to 17.8 inches long when collected in July 2004.  Slow growth was due to the relatively high number of lake trout present, and the limited forage available for those fish.  White sucker were the only other fish taken in the 2004 survey.  They weren't abundant, and were too large to have been taken by lake trout.</p>",
+        "headerInfo": {
+          "survey_id": "111497",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Re-Survey",
+          "wb_name": "Bat",
+          "county": "Cook",
+          "id_date": "2004-07-12",
+          "wb_id": "16075200"
+        },
+        "surveyDate": "2004-07-12",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.5-4.0",
+            "totalCatch": 15,
+            "gearCount": 4,
+            "quartileCount": "0.4-3.7",
+            "averageWeight": "1.75",
+            "gear": "Standard gill nets",
+            "totalWeight": 11903,
+            "species": "LAT",
+            "CPUE": "3.75"
+          },
+          {
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 4,
+            "quartileCount": "0.8-5.3",
+            "totalCatch": 3,
+            "totalWeight": 1933,
+            "averageWeight": "1.42",
+            "gear": "Standard gill nets",
+            "CPUE": "0.75",
+            "species": "WTS"
+          }
+        ],
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                17,
+                2
+              ]
+            ],
+            "maximum_length": 17,
+            "minimum_length": 12
+          },
+          "LAT": {
+            "minimum_length": 11,
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                3
+              ]
+            ]
+          }
+        },
+        "surveyID": "111497",
+        "surveySubType": "Re-Survey"
+      },
+      {
+        "surveyDate": "2013-07-08",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.12",
+            "species": "IOD",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "totalCatch": 9,
+            "gearCount": 8,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "CPUE": "7.50",
+            "species": "LAT",
+            "totalWeight": 18489,
+            "averageWeight": "1.36",
+            "gear": "Standard gill nets",
+            "totalCatch": 30,
+            "gearCount": 4,
+            "quartileCount": "0.4-3.7",
+            "quartileWeight": "1.5-4.0"
+          },
+          {
+            "CPUE": "1.12",
+            "species": "FHM",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "totalCatch": 9,
+            "quartileCount": "N/A",
+            "gearCount": 8,
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 2,
+            "quartileCount": "N/A",
+            "gearCount": 8,
+            "quartileWeight": "N/A",
+            "species": "WTS",
+            "CPUE": "0.25",
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "totalWeight": 0
+          },
+          {
+            "totalWeight": 0,
+            "gear": "Minnow traps",
+            "averageWeight": "0.00",
+            "CPUE": "1.12",
+            "species": "LND",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gearCount": 8,
+            "totalCatch": 9
+          },
+          {
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "totalWeight": 0,
+            "species": "NRD",
+            "CPUE": "4.75",
+            "quartileWeight": "N/A",
+            "totalCatch": 38,
+            "quartileCount": "N/A",
+            "gearCount": 8
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Bat",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_id": "16075200",
+          "id_date": "2013-07-08",
+          "wb_type": "Lake",
+          "survey_id": "4311319128341000"
+        },
+        "narrative": "<p>This was the first of two assessments scheduled for this lake in the 2009 lake management plan to monitor the lake trout population.  The next assessment is currently scheduled for 2023. <br> \n <br> \nLake trout were abundant in Bat Lake in 2013, although most were fairly small.  The lake trout gill net catch was the highest seen in this lake to date, easily exceeding the normal range for a lake of this type.  No lake trout larger than 20 inches were taken; however, the lack of larger fish was not unusual for a lake of this type, where lake trout are limited to a mostly invertebrate forage base.  Several year classes, all naturally produced, contributed to the catch, with none standing out as having been exceptionally strong.  Lake trout growth had been slow; fish reached a mean length of just 15.5 inches at the end of their sixth year, compared to a mean of 17.7 inches for similar lakes in this area.  <br> \n <br> \nWhite sucker were still present in Bat Lake in 2013, but were apparently not abundant.  None were taken in gill nets in this assessment.  Catches in previous assessments have also been very low.  Minnow traps used in this assessment marked the first attempt to identify fish species found in nearshore areas of the lake.  Minnow traps added Iowa darter, fathead minnow, longnose dace, and northern redbelly dace to the list of fish species observed in this lake, and confirmed the continued presence of white sucker. <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyID": "4311319128341000",
+        "lengths": {
+          "LAT": {
+            "maximum_length": 19,
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                10
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "surveyDate": "1996-07-08",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.17",
+            "gear": "Standard gill nets",
+            "totalWeight": 11182,
+            "species": "LAT",
+            "CPUE": "5.25",
+            "quartileWeight": "1.5-4.0",
+            "totalCatch": 21,
+            "quartileCount": "0.4-3.7",
+            "gearCount": 4
+          },
+          {
+            "quartileWeight": "1.1-2.5",
+            "totalCatch": 1,
+            "gearCount": 4,
+            "quartileCount": "0.8-5.3",
+            "averageWeight": "0.87",
+            "gear": "Standard gill nets",
+            "totalWeight": 393,
+            "species": "WTS",
+            "CPUE": "0.25"
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Bat",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_id": "16075200",
+          "id_date": "1996-07-08",
+          "wb_type": "Lake",
+          "survey_id": "110700"
+        },
+        "narrative": "<p>Lake trout were abundant, and fish up to 21 inches were present.  Most, if not all, of the lake trout collected appeared to have been from 1991 and 1989 fingerling stockings.  No lake trout have been stocked in this lake since 1991 - it is hoped that they will begin to reproduce naturally.  Several of the lake trout collected in 1996 were mature fish.  No other gamefish species were found in the lake.</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyID": "110700",
+        "lengths": {
+          "WTS": {
+            "minimum_length": 13,
+            "maximum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "minimum_length": 11,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyID": "109980",
+        "lengths": {},
+        "surveyDate": "1986-07-09",
+        "fishCatchSummaries": [
+          {
+            "species": "LAT",
+            "CPUE": "5.50",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.84",
+            "totalWeight": 20.25,
+            "totalCatch": 11,
+            "gearCount": 2,
+            "quartileCount": "0.4-3.7",
+            "quartileWeight": "1.5-4.0"
+          },
+          {
+            "quartileWeight": "1.1-2.5",
+            "quartileCount": "0.8-5.3",
+            "gearCount": 2,
+            "totalCatch": 2,
+            "averageWeight": "0.25",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.5,
+            "species": "WTS",
+            "CPUE": "1.00"
+          }
+        ],
+        "headerInfo": {
+          "survey_id": "109980",
+          "wb_type": "Lake",
+          "id_date": "1986-07-09",
+          "wb_id": "16075200",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_name": "Bat",
+          "survey_type": "Population Assessment"
+        },
+        "narrative": "<p>LAKE TROUT NUMBERS ARE HIGH, AND GROWTH IS ABOUT AVERAGE. ALL LAKE TROUT CURRENTLY PRESENT ARE FROM THE 1982 STOCKING OF GILLIS LAKE STRAIN YEARLINGS. THE FORAGE BASS FOR THESE FISH IS UNKNOWN.</p>",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "maxDepthFeet": 110,
+    "averageWaterClarity": "15.9",
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "location": ""
+      },
+      {
+        "ownerTypeId": "USF",
+        "location": "",
+        "accessTypeId": "PO",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "PRMIT"
+      }
+    ],
+    "lakeName": "Bat",
+    "waterClarity": [
+      [
+        "08/07/2024",
+        "13.1"
+      ],
+      [
+        "07/29/1980",
+        "17.5"
+      ],
+      [
+        "07/08/2013",
+        "17"
+      ]
+    ],
+    "shoreLengthMiles": 2.37,
+    "county": "Cook",
+    "littoralAcres": 19,
+    "sampledPlants": [],
+    "DOWNumber": "16075200",
+    "officeCode": "F218",
+    "meanDepthFeet": 0,
+    "areaAcres": 83.22
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

@@ -1,0 +1,83 @@
+{
+  "timestamp": 1790285613,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "areaAcres": 23.68,
+    "maxDepthFeet": 7,
+    "shoreLengthMiles": 1.26,
+    "littoralAcres": 23.68,
+    "lakeName": "Tornado",
+    "averageWaterClarity": "N/A",
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.00",
+            "CPUE": "3.00",
+            "quartileWeight": "1.1-2.0",
+            "quartileCount": "4.0-15.0",
+            "gear": "Standard gill nets",
+            "totalCatch": 9,
+            "totalWeight": 0,
+            "species": "NOP",
+            "gearCount": 3
+          },
+          {
+            "species": "YEP",
+            "gearCount": 3,
+            "totalWeight": 0,
+            "CPUE": "0.67",
+            "averageWeight": "0.00",
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "quartileCount": "2.0-15.0",
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "quartileWeight": "0.4-1.9",
+            "quartileCount": "3.0-23.0",
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "averageWeight": "0.00",
+            "CPUE": "1.33",
+            "totalWeight": 0,
+            "species": "WTS",
+            "gearCount": 3
+          }
+        ],
+        "narrative": "<p>Tornado Lake is a 25 acre, moderately soft-water lake in the Kawishiwi River Watershed. The lake lies in the roadless area and airspace reservation zone (Boundary Waters Canoe Area) of the Superior National Forest and is completely surrounded by federal land. The maximum depth of Tornado Lake is 7 feet; the median depth is about 6 feet. The lake is completely surrounded by forest land with some marshes, and is accessible by temporary restricted logging roads, which come within 500 feet of the shore. There are four inlets to the lake and one outlet. Shoal water soils are mostly boulders and muck.     At the time of the survey, the water color was dark brown and moderate amounts of aquatic vegetation were present in depths to 5 feet. Northern Pike were the only species of gamefish taken in test netting. The Northern Pike appeared to be about average in abundance and generally small sized.     Spawning facilities area rated \"fair\" for Northern Pike and \"poor\" for other gamefish.     Tornado Lake has difficult accessibility (there is no trail to the lake) and appears to get little use by anglers. Two beaver lodges and fresh beaver cuttings were seen around the lake.</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "1964-09-04",
+          "survey_type": "Initial Survey",
+          "county": "Lake",
+          "survey_id": "112810",
+          "wb_id": "38044900",
+          "wb_name": "Tornado",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyID": "112810",
+        "surveyDate": "1964-09-04"
+      }
+    ],
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "location": "BWCAW access via canoe routes; no motorized travel allowed.",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "county": "Lake",
+    "waterClarity": [],
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "officeCode": "F215",
+    "DOWNumber": "38044900"
+  }
+}

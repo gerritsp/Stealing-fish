@@ -1,0 +1,66 @@
+{
+  "result": {
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "location": "Accessible via 0.4 mile blazed trail North through woods from Kinogami Lake."
+      }
+    ],
+    "averageWaterClarity": "7.0",
+    "meanDepthFeet": 0,
+    "officeCode": "F218",
+    "maxDepthFeet": 23,
+    "DOWNumber": "16037700",
+    "littoralAcres": 0,
+    "areaAcres": 27.1,
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "09/11/1974",
+        "7"
+      ]
+    ],
+    "shoreLengthMiles": 1.27,
+    "county": "Cook",
+    "surveys": [
+      {
+        "narrative": "<p>Hilly Lake was found to contain a fair population of N Pike.  No other species were taken or seen.</p>",
+        "headerInfo": {
+          "county": "Cook",
+          "id_date": "1974-09-11",
+          "wb_id": "16037700",
+          "survey_id": "109726",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "Hilly",
+          "survey_type": "Initial Survey"
+        },
+        "surveyID": "109726",
+        "surveyDate": "1974-09-11",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "1.41",
+            "species": "NOP",
+            "CPUE": "5.50",
+            "quartileWeight": "1.4-2.7",
+            "gearCount": 2,
+            "quartileCount": "2.0-8.5",
+            "totalCatch": 11,
+            "totalWeight": 15.5
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "lengths": {}
+      }
+    ],
+    "lakeName": "Hilly"
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285620
+}

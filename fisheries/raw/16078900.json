@@ -1,0 +1,250 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285969,
+  "result": {
+    "areaAcres": 165.7,
+    "officeCode": "F218",
+    "DOWNumber": "16078900",
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 125,
+    "lakeName": "Howard",
+    "littoralAcres": 38.4,
+    "averageWaterClarity": "20.0",
+    "shoreLengthMiles": 4.08,
+    "county": "Cook",
+    "accesses": [
+      {
+        "lakeAccessComments": "Lake is entirely within the BWCAW.  Portage trail from Gabimichigami Lake to west end of lake.",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "Lake is entirely inside the BWCAW.  Access via portage trail from Gabimichigami Lake; or via the Kekakabic Trail (about 8 miles)."
+      }
+    ],
+    "surveys": [
+      {
+        "headerInfo": {
+          "id_date": "1993-08-02",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_name": "Howard",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_id": "110813",
+          "wb_id": "16078900"
+        },
+        "narrative": "<p>Howard Lake supported a healthy native lake trout population.  Lake trout were abundant, but generally small (most under 18 in) and slow-growing.  Northern pike were present in small numbers, but no other gamefish were collected.</p>",
+        "lengths": {
+          "BUB": {
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                15,
+                2
+              ]
+            ],
+            "minimum_length": 11
+          },
+          "NOP": {
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "maximum_length": 22
+          },
+          "WTS": {
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "maximum_length": 22
+          },
+          "LAT": {
+            "maximum_length": 23,
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                23,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyID": "110813",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "CPUE": "0.33",
+            "quartileCount": "N/A",
+            "species": "BUB",
+            "totalWeight": 190,
+            "averageWeight": "0.42",
+            "totalCatch": 1
+          },
+          {
+            "CPUE": "2.33",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "totalWeight": 6095,
+            "species": "LAT",
+            "quartileCount": "N/A",
+            "averageWeight": "1.92",
+            "totalCatch": 7
+          },
+          {
+            "averageWeight": "1.27",
+            "totalCatch": 2,
+            "CPUE": "0.67",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "totalWeight": 1150,
+            "species": "NOP",
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "1.80",
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "gearCount": 5,
+            "totalWeight": 2293,
+            "quartileCount": "N/A",
+            "species": "BUB",
+            "averageWeight": "0.56",
+            "totalCatch": 9
+          },
+          {
+            "totalCatch": 14,
+            "averageWeight": "1.73",
+            "totalWeight": 11013,
+            "species": "LAT",
+            "quartileCount": "N/A",
+            "CPUE": "2.80",
+            "gearCount": 5,
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalWeight": 11210,
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "CPUE": "5.00",
+            "gearCount": 3,
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 15,
+            "averageWeight": "1.65"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyDate": "1993-08-02",
+        "surveySubType": "Population Assessment"
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/14/1980",
+        "20"
+      ]
+    ],
+    "sampledPlants": []
+  }
+}

@@ -1,0 +1,710 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285986,
+  "result": {
+    "maxDepthFeet": 28,
+    "averageWaterClarity": "9.7",
+    "littoralAcres": 28,
+    "officeCode": "F218",
+    "county": "Cook",
+    "DOWNumber": "16033600",
+    "sampledPlants": [],
+    "areaAcres": 47.14,
+    "meanDepthFeet": 0,
+    "lakeAltName": "South Round",
+    "surveys": [
+      {
+        "headerInfo": {
+          "id_date": "1983-07-07",
+          "wb_alt_name": "South Round",
+          "survey_id": "109895",
+          "wb_name": "Topper",
+          "survey_type": "Population Assessment",
+          "wb_id": "16033600",
+          "wb_type": "Lake",
+          "county": "Cook"
+        },
+        "surveyDate": "1983-07-07",
+        "surveyID": "109895",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.00",
+            "gearCount": 1,
+            "totalCatch": 1,
+            "quartileCount": "0.8",
+            "species": "GOS",
+            "quartileWeight": "0.1",
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 0
+          },
+          {
+            "averageWeight": "0.72",
+            "gearCount": 1,
+            "totalCatch": 46,
+            "species": "BKT",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "46.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 33
+          }
+        ],
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "narrative": "<p>THE BROOK TROUT POPULATION IS MAINTAINED BY ANNUAL STOCKING. BROOK TROUT ABUNDANCE, GROWTH AND CONDI- TION ARE GOOD. GOLDEN SHINERS PROBABLY PROVIDE SOME FORAGE.</p>"
+      },
+      {
+        "surveyDate": "2009-06-15",
+        "surveySubType": "Population Assessment",
+        "surveyID": "4310918748974013",
+        "headerInfo": {
+          "survey_id": "4310918748974013",
+          "wb_alt_name": "South Round",
+          "id_date": "2009-06-15",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_id": "16033600",
+          "wb_name": "Topper",
+          "survey_type": "Population Assessment"
+        },
+        "lengths": {
+          "BKT": {
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 6
+          }
+        },
+        "narrative": "<p>The 2009 brook trout catch was within the normal range (2.67-15.00 fish/gill net set) for spring assessments of stream trout lakes in this area; however, it was the lowest observed to date in Topper Lake.  No brook trout over three years of age were collected.  The catch of one-year-old fish was low, but most fish from the 2008 stocking may not have been large enough to be taken in standard gill nets at the time this assessment was done.  All two-year-old fish taken were fin-clipped fish from the 2007 fingerling stocking.  Growth of those fish had been somewhat faster than average.  They reached an average length of 9.8 inches by the end of their second year. <br> \n <br> \nNo undesirable fish species were found.  Minnow traps collected brook stickleback and fairly high numbers of fathead minnow.  This was the first time Topper Lake was sampled with any gear capable of collecting small fish. <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.00",
+            "totalCatch": 181,
+            "gearCount": 8,
+            "quartileCount": "N/A",
+            "species": "FHM",
+            "CPUE": "22.62",
+            "quartileWeight": "N/A",
+            "gear": "Minnow traps",
+            "totalWeight": 0
+          },
+          {
+            "gearCount": 2,
+            "totalCatch": 13,
+            "averageWeight": "1.17",
+            "species": "BKT",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "6.50",
+            "totalWeight": 6910
+          },
+          {
+            "gearCount": 8,
+            "totalCatch": 7,
+            "averageWeight": "0.00",
+            "species": "BST",
+            "quartileCount": "N/A",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "CPUE": "0.88",
+            "totalWeight": 0
+          }
+        ]
+      },
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>SURVIVAL OF BROOK TROUT FROM THE 1988, 1987, AND 1986 STOCKINGS WAS EXCELLENT. BROOK TROUT WAS AVERAGE FOR COOK COUNTY.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 63.9,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "56.00",
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "gearCount": 2,
+            "totalCatch": 112,
+            "averageWeight": "0.57"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyID": "110114",
+        "surveyDate": "1989-06-27",
+        "headerInfo": {
+          "survey_id": "110114",
+          "wb_alt_name": "South Round",
+          "id_date": "1989-06-27",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_id": "16033600",
+          "survey_type": "Population Assessment",
+          "wb_name": "Topper"
+        }
+      },
+      {
+        "headerInfo": {
+          "survey_id": "110900",
+          "id_date": "1998-06-08",
+          "wb_alt_name": "South Round",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_name": "Topper",
+          "wb_id": "16033600"
+        },
+        "surveyDate": "1998-06-08",
+        "surveySubType": "Population Assessment",
+        "surveyID": "110900",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "averageWeight": "0.49",
+            "totalCatch": 58,
+            "gearCount": 2,
+            "totalWeight": 12866,
+            "CPUE": "29.00",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "lengths": {
+          "BKT": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                11
+              ],
+              [
+                11,
+                14
+              ],
+              [
+                12,
+                8
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                8
+              ],
+              [
+                8,
+                9
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 14
+          }
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Brook trout were abundant, compared to other stream trout lakes in the area, but they were slow-growing, with most less than 12 inches in length.  Fish from the 1994 through 1998 stockings were collected.  Four-year-old fish from the 1994 stocking averaged 13.2 inches in length when collected in early June 1998.No undesirable fish species were found in 1998.</p>"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "species": "BKT",
+            "quartileCount": "N/A",
+            "totalCatch": 11,
+            "gearCount": 2,
+            "averageWeight": "0.45",
+            "totalWeight": 2268,
+            "gear": "Standard gill nets",
+            "CPUE": "5.50",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "lengths": {
+          "BKT": {
+            "maximum_length": 15,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Topper Lake is a small, 47-acre lake with a maximum depth of 28.0 feet and is located completely within the Boundary Waters Canoe Area Wilderness (BWCAW). Access to the lake is considered moderate, with a relatively short 0.5-mile portage over a small hill from the Mayhew Lake Road spur trail. Water temperatures and dissolved oxygen concentrations in Topper Lake have supported conditions that are suitable for stocked trout during the summertime. Topper Lake has been managed for brook trout since 1971 and is currently stocked annually with 2,500 fingerlings during the fall. The long-range goal for brook trout is to maintain a minimum gillnet catch of 10.0 fish/net with two-year classes of fish greater than 10.0 inches present. In 2025, a standard survey was conducted on Topper Lake to monitor the brook trout population. <br> \n <br> \nThe 2025 brook trout catch rate from gillnets was the lowest recorded at 2.5 fish/net and was well below the long-term median for the lake. Brook trout lengths ranged from 6.2 to 15.2 inches, with an average length of 10.2 inches. Less than half of the catch was greater than 10.0 inches, providing below average size structure compared to other area lakes. Aging results only found fish from the last three stocking events (2021, 2023, 2024). No brook trout were stocked in 2022 due to fish shortages and may have contributed to the low catch rate observed in 2025. It is unclear how significant the missed year class from 2022 influenced the catch rates during the 2025 survey or if the population has declined from the last survey. Brook trout growth in Topper Lake was fair, taking two years to reach 10.7 inches on average. Temperature and dissolved oxygen monitoring found suitable habitat for brook trout that does not appear to be limiting brook trout populations within the lake. Anglers looking to fish Topper Lake may find lower catches of brook trout that are smaller in size. <br> \n <br> \nMinnesota Lakes within Cook County continue to be susceptible to aquatic invasive species introductions. Invasive species have the potential to significantly alter fish communities and overall lake health. Anglers should clean watercraft and fishing gear, drain all water, and dispose of unused bait in the trash to prevent accidental introductions. <br> \n</p>",
+        "headerInfo": {
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_id": "16033600",
+          "survey_type": "Standard Survey",
+          "wb_name": "Topper",
+          "survey_id": "22452516157103000",
+          "wb_alt_name": "South Round",
+          "id_date": "2025-06-09"
+        },
+        "surveyDate": "2025-06-09",
+        "surveySubType": "Standard Survey",
+        "surveyID": "22452516157103000"
+      },
+      {
+        "lengths": {
+          "BKT": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 16
+          }
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>This was the second of three assessments scheduled in the 2008 lake management plan to determine whether survival and growth of stocked brook trout in this lake were adequate.  Goals for brook trout in that plan were to maintain gill net catches of at least 10.0 fish/set, with two catchable-size (over 10 inch) year classes present. <br> \n <br> \nBrook trout were relatively abundant in Topper Lake in 2011, and their average size was within the normal range for brook trout taken spring assessments in this area.  The gill net catch exceeded the long range goal from the 2008 lake management plan, and was above average compared to other spring assessments of stream trout lakes in the area.  All recent stockings were represented in the catch, and brook trout up to five years of age were collected.  Growth had been slower than average for this area; three-year-old fish reached an average length of 11.4 inches at the end of their third year, compared to an area average of 13.0 inches in similar lakes.  The presence of relatively high numbers of three- and four-year-old fish indicated harvest in this lake was probably not excessive.  Results of this assessment seemed to indicate that survival of stocked fish was excellent.  Good long-term survival allowed the lake to provide relatively high quality fishing opportunities despite slower than average growth. <br> \n <br> \nNo exotic or undesirable fish species were collected in 2011.  Sampling with 0.25-in-mesh wire minnow traps confirmed the presence of several forage species, including Iowa darter, brook stickleback, fathead minnow, and northern redbelly dace. <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 1,
+            "gearCount": 8,
+            "averageWeight": "0.00",
+            "species": "IOD",
+            "quartileCount": "N/A",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "CPUE": "0.12",
+            "totalWeight": 0
+          },
+          {
+            "totalCatch": 75,
+            "gearCount": 8,
+            "averageWeight": "0.00",
+            "species": "FHM",
+            "quartileCount": "N/A",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "CPUE": "9.38",
+            "totalWeight": 0
+          },
+          {
+            "totalWeight": 9319,
+            "quartileWeight": "N/A",
+            "CPUE": "11.50",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "averageWeight": "0.89",
+            "totalCatch": 23,
+            "gearCount": 2
+          },
+          {
+            "gearCount": 8,
+            "totalCatch": 1,
+            "averageWeight": "0.00",
+            "species": "NRD",
+            "quartileCount": "N/A",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "CPUE": "0.12",
+            "totalWeight": 0
+          },
+          {
+            "averageWeight": "0.00",
+            "gearCount": 8,
+            "totalCatch": 1,
+            "species": "BST",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "0.12",
+            "gear": "Minnow traps",
+            "totalWeight": 0
+          }
+        ],
+        "surveyDate": "2011-06-06",
+        "surveySubType": "Population Assessment",
+        "surveyID": "4311115738049002",
+        "headerInfo": {
+          "wb_id": "16033600",
+          "survey_type": "Population Assessment",
+          "wb_name": "Topper",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_alt_name": "South Round",
+          "id_date": "2011-06-06",
+          "survey_id": "4311115738049002"
+        }
+      },
+      {
+        "narrative": "<p>Brook trout numbers and size in this lake were above average in the spring of 2006.  Most of the brook trout collected were 11 to 16 inches in length.  Most were survivors of a 2003 fingerling stocking, but there was some evidence to suggest that a 2005 stocking had also done well.  No undesirable fish species were collected. <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "BKT": {
+            "maximum_length": 16,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                6,
+                4
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 15326,
+            "quartileWeight": "N/A",
+            "CPUE": "14.50",
+            "gear": "Standard gill nets",
+            "species": "BKT",
+            "quartileCount": "N/A",
+            "averageWeight": "1.17",
+            "gearCount": 2,
+            "totalCatch": 29
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyID": "450616546230000",
+        "surveyDate": "2006-06-07",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_name": "Topper",
+          "wb_id": "16033600",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "2006-06-07",
+          "wb_alt_name": "South Round",
+          "survey_id": "450616546230000"
+        }
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "totalCatch": 36,
+            "averageWeight": "0.59",
+            "species": "BKT",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "18.00",
+            "quartileWeight": "N/A",
+            "totalWeight": 9560
+          }
+        ],
+        "narrative": "<p>Brook trout were abundant in Topper Lake in spring 2002, although few large fish were present.  Long term survival of brook trout stocked in the lake appeared to have been good (several age-4 fish were collected), but growth rates had been slow.  No undesirable fish species were found in the lake.  Although a 1997 reduction in stocking rate in this lake appeared to have resulted in a reduction in brook trout abundance, abundance was still high compared to other stream trout lakes in the Grand Marais area, and management goals for the lake were met.</p>",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                10,
+                8
+              ],
+              [
+                11,
+                6
+              ],
+              [
+                12,
+                11
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                6,
+                4
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 13
+          }
+        },
+        "headerInfo": {
+          "survey_id": "111362",
+          "id_date": "2002-06-06",
+          "wb_alt_name": "South Round",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_name": "Topper",
+          "wb_id": "16033600"
+        },
+        "surveyID": "111362",
+        "surveySubType": "Population Assessment",
+        "surveyDate": "2002-06-06"
+      },
+      {
+        "surveyDate": "2015-06-11",
+        "surveySubType": "Standard Survey",
+        "surveyID": "12861515539520002",
+        "headerInfo": {
+          "survey_id": "12861515539520002",
+          "id_date": "2015-06-11",
+          "wb_alt_name": "South Round",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_name": "Topper",
+          "survey_type": "Standard Survey",
+          "wb_id": "16033600"
+        },
+        "lengths": {
+          "BKT": {
+            "maximum_length": 14,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                8
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                6,
+                4
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 6
+          }
+        },
+        "narrative": "<p>Brook Trout were abundant in Topper Lake in 2015, and their average size was within the normal range (0.40-1.17 lb/fish) for Brook Trout taken spring assessments in this area.  The gill net catch of 16.00 Brook Trout/set exceeded the goal from the 2008 lake management plan (10.0 brook trout/set).  All recent stockings were represented in the catch, and Brook Trout as old as four years were collected.  Growth rates were below area averages for all ages sampled (1-4).  Three-year-old fish reached a mean length of 10.6 inches by the end of their third year, compared to an area average of 12.7 inches.     <br> \n <br> \nThe presence of relatively high numbers of three- and four-year-old fish indicated harvest in this lake was probably not excessive.  Results of this assessment seemed to indicate that survival of stocked fish was excellent.  Good survival allowed the lake to provide relatively high quality fishing opportunities despite slower than average growth. <br> \n <br> \nNo exotic or undesirable fish species were collected in 2015. As has been the case in past surveys high numbers of potential forage fish were collected in quarter-inch wire minnow traps.  Fathead Minnows appeared very abundant, with lower numbers of Brook Stickleback also captured. <br> \n <br> \n <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 0,
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "CPUE": "96.00",
+            "quartileCount": "N/A",
+            "species": "FHM",
+            "totalCatch": 384,
+            "gearCount": 4,
+            "averageWeight": "0.00"
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "averageWeight": "0.59",
+            "totalCatch": 32,
+            "gearCount": 2,
+            "totalWeight": 8595,
+            "quartileWeight": "N/A",
+            "CPUE": "16.00",
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "0.00",
+            "totalCatch": 8,
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "species": "BST",
+            "quartileWeight": "N/A",
+            "CPUE": "2.00",
+            "gear": "Minnow traps",
+            "totalWeight": 0
+          }
+        ]
+      }
+    ],
+    "lakeName": "Topper",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "CA"
+      },
+      {
+        "location": "",
+        "lakeAccessComments": " ",
+        "accessTypeId": "CA",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT"
+      }
+    ],
+    "waterClarity": [
+      [
+        "06/15/2009",
+        "9.5"
+      ],
+      [
+        "07/29/1971",
+        "9.8"
+      ],
+      [
+        "06/27/1989",
+        "11"
+      ],
+      [
+        "06/09/2025",
+        "11.1"
+      ],
+      [
+        "06/06/2011",
+        "7.5"
+      ],
+      [
+        "07/22/2011",
+        "13"
+      ],
+      [
+        "06/07/2006",
+        "6.5"
+      ],
+      [
+        "06/11/2015",
+        "9.5"
+      ]
+    ],
+    "shoreLengthMiles": 1.28
+  }
+}

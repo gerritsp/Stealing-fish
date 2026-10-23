@@ -1,0 +1,166 @@
+{
+  "timestamp": 1790285802,
+  "result": {
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "USF",
+        "location": "Entirely inside the BWCAW.  Portage trails from Davis; Omega; and Muskeg Lakes.",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "county": "Cook",
+    "shoreLengthMiles": 5.98,
+    "surveys": [
+      {
+        "narrative": "<p>This survey was done to determine whether Kiskadinna Lake supported a native lake trout population.  No lake trout (or any other game fish species) were found; however, the presence of at least a small number of lake trout or northern pike could not be ruled out by this survey.  Temperature-oxygen conditions, while marginal, could have supported lake trout, and both species are found downstream in the watershed.  A 1939 CCC survey of this lake reported that northern pike were the most abundant fish species present (although none were sampled), and recommended that no stocking of the lake be done until the northern pike were reduced by angling.  No stocking ever was done, and it was unlikely that there was ever much angling either.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 0,
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "CPUE": "0.50",
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "gear": "Survey seining",
+            "species": "GSF",
+            "totalCatch": 1
+          },
+          {
+            "totalCatch": 6,
+            "species": "BND",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00",
+            "gear": "Survey seining",
+            "CPUE": "3.00",
+            "quartileCount": "N/A",
+            "totalWeight": 0,
+            "gearCount": 2
+          },
+          {
+            "totalCatch": 11,
+            "species": "NRD",
+            "averageWeight": "0.00",
+            "CPUE": "5.50",
+            "gear": "Survey seining",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "totalWeight": 0
+          },
+          {
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "CPUE": "3.67",
+            "averageWeight": "0.94",
+            "quartileCount": "2.6-11.7",
+            "quartileWeight": "1.7-2.4",
+            "gearCount": 6,
+            "totalWeight": 9394,
+            "totalCatch": 22
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "1.00",
+            "averageWeight": "0.00",
+            "gear": "Survey seining",
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "totalWeight": 0,
+            "species": "FHM",
+            "totalCatch": 2
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "wb_name": "Kiskadinna",
+          "wb_type": "Lake",
+          "wb_id": "16042800",
+          "id_date": "1999-07-19",
+          "wb_alt_name": "",
+          "survey_id": "111222"
+        },
+        "surveyDate": "1999-07-19",
+        "lengths": {
+          "GSF": {
+            "minimum_length": 1,
+            "fishCount": [
+              [
+                1,
+                1
+              ]
+            ],
+            "maximum_length": 1
+          },
+          "WTS": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                7,
+                6
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 19
+          }
+        },
+        "surveyID": "111222"
+      }
+    ],
+    "sampledPlants": [],
+    "DOWNumber": "16042800",
+    "lakeName": "Kiskadinna",
+    "averageWaterClarity": "N/A",
+    "maxDepthFeet": 40,
+    "littoralAcres": 0,
+    "areaAcres": 121.31,
+    "meanDepthFeet": 0,
+    "officeCode": "F218",
+    "waterClarity": []
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

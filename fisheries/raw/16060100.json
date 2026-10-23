@@ -1,0 +1,130 @@
+{
+  "result": {
+    "averageWaterClarity": "13.0",
+    "waterClarity": [
+      [
+        "08/23/1983",
+        "13"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "DOWNumber": "16060100",
+    "lakeName": "Honker",
+    "maxDepthFeet": 34,
+    "shoreLengthMiles": 2.22,
+    "littoralAcres": 33,
+    "areaAcres": 49.59,
+    "county": "Cook",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "location": "NONE",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "surveys": [
+      {
+        "narrative": "<p>NO GAMEFISH PRESENT IN THE LAKE. ALL GREEN SUNFISH ARE LESS THAN 2 OZ. SO NOT CONSIDERED CATCHABLE. VERY FEW ADULT WHITE SUCKERS WERE SAMPLED DURING THE SURVEY BUT A LARGE NUMBER OF IMMATURE ONES WERE CAUGHT. THIS MAY INDICATE A PARTIAL WINTER KILL OR REPRODUCTIVE PROBLEMS DURING SOME YEARS. WINTER DISSOLVED OXYGEN LEVELS SHOULD BE CHECKED TO SEE IF THERE IS A PROBLEM.</p>",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "16060100",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "wb_name": "Honker",
+          "id_date": "1983-08-23",
+          "survey_id": "109914",
+          "county": "Cook"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.10",
+            "totalWeight": 2.2,
+            "species": "GSF",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "CPUE": "7.33",
+            "quartileCount": "0.4-7.0",
+            "quartileWeight": "N/A",
+            "totalCatch": 22
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "totalWeight": 15.9,
+            "averageWeight": "0.20",
+            "totalCatch": 80,
+            "quartileWeight": "0.7-2.3",
+            "quartileCount": "1.7-12.5",
+            "CPUE": "26.67",
+            "gearCount": 3
+          },
+          {
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "CPUE": "0.67",
+            "totalCatch": 2,
+            "totalWeight": 0.2,
+            "averageWeight": "0.10",
+            "gear": "Standard gill nets",
+            "species": "CSH"
+          }
+        ],
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1983-08-23",
+        "surveyID": "109914"
+      },
+      {
+        "narrative": "<p>BROOK TROUT CAPTURED IN THIS ASSESSMENT CAME FROM A 1984 STOCKING IN BINGSHICK LAKE. THERE IS A LARGE WHITE SUCKER POPULATION, COMPOSED OF SMALL INDIVIDUALS. NETS WERE PROBABLY SET TOO DEEP TO SAMPLE RAINBOW TROUT, IF THE MAP IS CORRECT.</p>",
+        "headerInfo": {
+          "wb_id": "16060100",
+          "wb_type": "Lake",
+          "wb_name": "Honker",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "id_date": "1986-07-08",
+          "county": "Cook",
+          "survey_id": "110009"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "0.50",
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "averageWeight": "2.75",
+            "totalWeight": 2.75,
+            "species": "BKT",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "1.7-12.5",
+            "quartileWeight": "0.7-2.3",
+            "gearCount": 2,
+            "CPUE": "12.00",
+            "totalCatch": 24,
+            "totalWeight": 5,
+            "averageWeight": "0.21",
+            "gear": "Standard gill nets",
+            "species": "WTS"
+          }
+        ],
+        "lengths": {},
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1986-07-08",
+        "surveyID": "110009"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285981,
+  "message": "Normal execution."
+}

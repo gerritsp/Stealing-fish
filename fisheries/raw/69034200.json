@@ -1,0 +1,105 @@
+{
+  "result": {
+    "shoreLengthMiles": 3.28,
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "surveyID": "108157",
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.50",
+            "CPUE": "2.00",
+            "quartileWeight": "1.6-3.1",
+            "quartileCount": "1.3-5.3",
+            "totalWeight": 15,
+            "gearCount": 3,
+            "totalCatch": 6
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "RKB",
+            "averageWeight": "0.06",
+            "quartileWeight": "0.2-0.4",
+            "CPUE": "2.33",
+            "totalWeight": 0.4,
+            "quartileCount": "0.3-2.3",
+            "gearCount": 3,
+            "totalCatch": 7
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "0.33",
+            "averageWeight": "0.20",
+            "gearCount": 3,
+            "quartileCount": "0.5-7.0",
+            "totalWeight": 0.2,
+            "totalCatch": 1
+          },
+          {
+            "totalCatch": 10,
+            "gearCount": 3,
+            "totalWeight": 11.2,
+            "quartileCount": "1.2-4.9",
+            "CPUE": "3.33",
+            "quartileWeight": "1.6-2.4",
+            "averageWeight": "1.12",
+            "gear": "Standard gill nets",
+            "species": "WTS"
+          },
+          {
+            "quartileCount": "N/A",
+            "totalWeight": 0.2,
+            "gearCount": 3,
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "species": "PMK",
+            "averageWeight": "0.10",
+            "CPUE": "0.67",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "lengths": {},
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "id_date": "1974-07-09",
+          "wb_id": "69034200",
+          "survey_id": "108157",
+          "wb_alt_name": "",
+          "wb_name": "Rocky"
+        },
+        "narrative": "<p>Consists of small population of unimportant fish, except for northern pike.</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1974-07-09"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "location": "USFS portage from Green Lake and Oyster Lake. BWCA  non-motor route.",
+        "lakeAccessComments": " "
+      }
+    ],
+    "waterClarity": [],
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "county": "St. Louis",
+    "maxDepthFeet": 40,
+    "areaAcres": 119.68,
+    "littoralAcres": 42,
+    "averageWaterClarity": "N/A",
+    "lakeName": "Rocky",
+    "DOWNumber": "69034200"
+  },
+  "timestamp": 1790286055,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

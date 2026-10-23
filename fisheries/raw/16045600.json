@@ -1,0 +1,99 @@
+{
+  "result": {
+    "surveys": [
+      {
+        "narrative": "<p>INTRODUCTORY STOCKINGS SUCCEEDED IN ESTABLISHING FAIR NUMBERS OF WAE IN NORTH TEMPERANCE LAKE. SURVIVAL FROM THE 1985 AND 1986 STOCKINGS WAS POOR, BUT THE 1987 STOCKING HAD EXCELLENT SURVIVAL AND GROWTH; ALL FISH OF THAT YEAR CLASS WERE OVER 17 IN.  NO NATURAL REPRODUCTION WAS EVIDENT; HOWEVER, WAE WERE PROBABLY JUST REACHING SEXUAL MATURITY.  NOP ABUNDANCE AND SIZE WERE GOOD; 67% OF THE FISH COLLECTED WERE OVER 25 IN.  SEVERAL YEAR CLASSES WERE PRESENT, WITH 1984 THE STRONG- EST; HOWEVER, THERE WERE ALSO SEVERAL MISSING YEAR CLASSES.  NOP RECRUITMENT OR REPRODUCTION MAY BE SUBJECT TO FREQUENT FAILURES.  GROWTH WAS FAST BY COOK COUNTY STANDARDS.  FORAGE IN NORTH TEMPERANCE LAKE APPEARS TO BE LIMITED.  ONLY ONE YELLOW PERCH WAS COLLECTED.</p>",
+        "surveyDate": "1990-09-04",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "gearCount": 6,
+            "totalCatch": 18,
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "3.93",
+            "totalWeight": 70.81,
+            "CPUE": "3.00"
+          },
+          {
+            "totalWeight": 39.06,
+            "CPUE": "3.00",
+            "quartileWeight": "1.0-2.0",
+            "totalCatch": 18,
+            "averageWeight": "2.17",
+            "quartileCount": "1.2-5.2",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "species": "WAE"
+          },
+          {
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "gearCount": 6,
+            "averageWeight": "0.03",
+            "totalCatch": 1,
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "0.17",
+            "totalWeight": 0.03
+          },
+          {
+            "gearCount": 6,
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 7.88,
+            "CPUE": "0.83",
+            "totalCatch": 5,
+            "quartileWeight": "1.1-2.5",
+            "averageWeight": "1.58"
+          }
+        ],
+        "lengths": {},
+        "surveyID": "110155",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_name": "North Temperance",
+          "id_date": "1990-09-04",
+          "wb_id": "16045600",
+          "survey_id": "110155",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "county": "Cook"
+        },
+        "surveySubType": "Population Assessment"
+      }
+    ],
+    "DOWNumber": "16045600",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "location": "PORTAGE TRAILS FORM SOUTH TEMPERANCE and  SITKA LAKE ENTIRE LAKE IS WITHIN THE BWCAW.",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "shoreLengthMiles": 7.33,
+    "lakeName": "North Temperance",
+    "officeCode": "F218",
+    "maxDepthFeet": 50,
+    "areaAcres": 185.16,
+    "sampledPlants": [],
+    "county": "Cook",
+    "littoralAcres": 84,
+    "waterClarity": [
+      [
+        "09/05/1990",
+        "12"
+      ]
+    ],
+    "meanDepthFeet": 17,
+    "averageWaterClarity": "12.0"
+  },
+  "timestamp": 1790285706,
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

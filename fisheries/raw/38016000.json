@@ -1,0 +1,72 @@
+{
+  "result": {
+    "shoreLengthMiles": 1.18,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.2-2.4",
+            "species": "NOP",
+            "totalCatch": 19,
+            "quartileCount": "3.9-9.4",
+            "totalWeight": 30,
+            "CPUE": "9.50",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.58",
+            "gearCount": 2
+          },
+          {
+            "quartileWeight": "0.8-2.3",
+            "gear": "Standard gill nets",
+            "CPUE": "3.50",
+            "totalWeight": 30,
+            "gearCount": 2,
+            "averageWeight": "4.29",
+            "species": "WTS",
+            "totalCatch": 7,
+            "quartileCount": "2.6-17.5"
+          }
+        ],
+        "surveyID": "107940",
+        "surveyDate": "1981-07-08",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "1981-07-08",
+          "wb_name": "Faith",
+          "survey_id": "107940",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "wb_id": "38016000",
+          "survey_type": "Initial Survey"
+        },
+        "narrative": "<p>Composed of an average population of sucker and an above average population of northern pike.</p>",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "officeCode": "F214",
+    "areaAcres": 26.54,
+    "lakeName": "Faith",
+    "littoralAcres": 26.54,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "location": "Portage from Fish lake in BWCAW on non-motorized route.  Superior National Forest."
+      }
+    ],
+    "maxDepthFeet": 15,
+    "meanDepthFeet": 0,
+    "county": "Lake",
+    "waterClarity": [],
+    "DOWNumber": "38016000",
+    "sampledPlants": []
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790286025,
+  "message": "Normal execution."
+}

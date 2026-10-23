@@ -1,0 +1,77 @@
+{
+  "result": {
+    "lakeName": "Unnamed",
+    "DOWNumber": "16079600",
+    "areaAcres": 5.33,
+    "county": "Cook",
+    "littoralAcres": 0,
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "narrative": "<p>This lake has a high population of small Yel Perch Only one N Pike was taken.  It has suitable characteristics as a Stream Trout Lake with no inlet or outlet streams.</p>",
+        "surveyDate": "1974-09-05",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 1,
+            "CPUE": "0.50",
+            "quartileCount": "N/A",
+            "averageWeight": "2.00",
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "totalWeight": 2,
+            "species": "NOP"
+          },
+          {
+            "totalCatch": 56,
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "averageWeight": "0.07",
+            "CPUE": "28.00",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "totalWeight": 4
+          }
+        ],
+        "lengths": {},
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "wb_id": "16079600",
+          "wb_type": "Lake",
+          "id_date": "1974-09-05",
+          "county": "Cook",
+          "survey_id": "109822",
+          "wb_name": "Unnamed"
+        },
+        "surveyID": "109822",
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "shoreLengthMiles": 0.43,
+    "officeCode": "F218",
+    "waterClarity": [
+      [
+        "09/05/1974",
+        "11"
+      ]
+    ],
+    "averageWaterClarity": "11.0",
+    "maxDepthFeet": 31,
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "PRMIT",
+        "location": "",
+        "accessTypeId": "PO"
+      }
+    ]
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790286035,
+  "status": "SUCCESS"
+}

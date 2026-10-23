@@ -1,0 +1,258 @@
+{
+  "timestamp": 1790285991,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "county": "Cook",
+    "averageWaterClarity": "19.5",
+    "surveys": [
+      {
+        "narrative": "<p>Lake trout were abundant in Jap lake in 2004, but most were small.  The largest fish taken was 17.7 inches long, and most were smaller than 16 inches.  All the lake trout taken in 2004 had been produced naturally, and growth rates, at least for younger fish, had been fairly fast.  No other fish species were taken.  Minnows are the only other fish reported to be present in this lake.</p>",
+        "surveyID": "111458",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 48,
+            "averageWeight": "0.89",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-3.7",
+            "CPUE": "16.00",
+            "species": "LAT",
+            "totalWeight": 19280,
+            "quartileWeight": "1.5-4.0"
+          }
+        ],
+        "surveyDate": "2004-06-14",
+        "lengths": {
+          "LAT": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                7
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                10
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                9
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 17,
+            "minimum_length": 7
+          }
+        },
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_id": "111458",
+          "county": "Cook",
+          "id_date": "2004-06-14",
+          "wb_alt_name": "J.A.P.(PWI)",
+          "wb_name": "Paulson",
+          "survey_type": "Population Assessment",
+          "wb_id": "16062600"
+        }
+      },
+      {
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "surveyID": "21872426143620166",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Paulson Lake, on August 5, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 37.3 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 68.3 feet at the time of sampling. The thickness of this layer in the water column was 31.0 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.2 degrees C (43.2 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 1970 during the late summer thermal stress period indicated suitable oxythermal habitat, the suitable oxythermal habitat layer thickness was 25.7 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "headerInfo": {
+          "wb_name": "Paulson",
+          "wb_alt_name": "J.A.P.(PWI)",
+          "survey_type": "Targeted Survey",
+          "wb_id": "16062600",
+          "id_date": "2024-08-05",
+          "survey_id": "21872426143620166",
+          "county": "Cook",
+          "wb_type": "Lake"
+        },
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyDate": "2024-08-05"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>IN SPITE OF ANNUAL RAINBOW TROUT FINGERLING STOCKING (EXCLUDING 1982) NO RAINBOW TROUT WERE RECOVERED DURING THIS ASSESSMENT. A SINGLE STOCK- ING OF GILLIS STRAIN LAKE TROUT YEARLINGS IN 1982 HAS SHOWN EXCELLENT GROWTH (MEAN LENGTH OF 23.2 INCHES AT AGE V) AND GOOD SURVIVAL (4.0/GILL NET LIFT).</p>",
+        "surveyID": "109965",
+        "headerInfo": {
+          "id_date": "1986-06-03",
+          "county": "Cook",
+          "survey_id": "109965",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_id": "16062600",
+          "wb_name": "Paulson",
+          "wb_alt_name": "J.A.P.(PWI)"
+        },
+        "lengths": {},
+        "surveyDate": "1986-06-03",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 16,
+            "averageWeight": "5.81",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "0.4-3.7",
+            "CPUE": "4.00",
+            "species": "LAT",
+            "totalWeight": 92.94,
+            "quartileWeight": "1.5-4.0"
+          }
+        ]
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyID": "110801",
+        "narrative": "<p>Lake trout were extremely abundant, and most were between 13 and 16 inches in length.  All the lake trout collected (with the possible exception of age-6 fish) were naturally produced offspring of introductory stockings done in 1982 and 1988.  Despite the high population density, lake trout growth had been about average for this area.  Trout were feeding mainly on caddisflys and scuds when taken in June.No other fish species were collected, as has usually been the case in Jap Lake.</p>",
+        "headerInfo": {
+          "wb_name": "Paulson",
+          "wb_alt_name": "J.A.P.(PWI)",
+          "survey_type": "Population Assessment",
+          "wb_id": "16062600",
+          "id_date": "1997-06-16",
+          "wb_type": "Lake",
+          "survey_id": "110801",
+          "county": "Cook"
+        },
+        "lengths": {
+          "LAT": {
+            "minimum_length": 8,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                13,
+                10
+              ],
+              [
+                14,
+                19
+              ],
+              [
+                15,
+                24
+              ],
+              [
+                16,
+                14
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                4
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "averageWeight": "0.97",
+            "totalCatch": 89,
+            "quartileWeight": "1.5-4.0",
+            "totalWeight": 39262,
+            "species": "LAT",
+            "quartileCount": "0.4-3.7",
+            "CPUE": "22.25"
+          }
+        ],
+        "surveyDate": "1997-06-16"
+      }
+    ],
+    "littoralAcres": 0,
+    "maxDepthFeet": 60,
+    "lakeAltName": "J.A.P.(PWI)",
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "Inside the BWCAW.  Access via portage trails from Sea Gull or Glossy Lakes.",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "shoreLengthMiles": 4.33,
+    "DOWNumber": "16062600",
+    "sampledPlants": [],
+    "areaAcres": 121.12,
+    "officeCode": "F218",
+    "waterClarity": [
+      [
+        "08/05/2024",
+        "18.7"
+      ],
+      [
+        "08/27/1970",
+        "20.3"
+      ]
+    ],
+    "lakeName": "Paulson"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285993,
+  "message": "Normal execution.",
+  "result": {
+    "waterClarity": [],
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "Lies entirely within BWCA on non-motorized canoe route. Small portage trail not maintained comes from Skindance Lake.",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "lakeName": "Paco",
+    "DOWNumber": "38019000",
+    "littoralAcres": 16.25,
+    "surveys": [
+      {
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.00",
+            "gearCount": 1,
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "species": "RKB",
+            "totalCatch": 1,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.10",
+            "totalWeight": 0.1
+          },
+          {
+            "totalWeight": 1.75,
+            "averageWeight": "0.88",
+            "quartileWeight": "N/A",
+            "totalCatch": 2,
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "2.00",
+            "gearCount": 1
+          }
+        ],
+        "narrative": "<p>Consists of low populations of suckers and rock bass.</p>",
+        "surveyID": "107958",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1978-08-17",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "38019000",
+          "survey_id": "107958",
+          "wb_name": "Paco",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "id_date": "1978-08-17",
+          "county": "Lake"
+        }
+      }
+    ],
+    "county": "Lake",
+    "shoreLengthMiles": 0.74,
+    "averageWaterClarity": "N/A",
+    "officeCode": "F214",
+    "areaAcres": 16.25,
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 5,
+    "sampledPlants": []
+  }
+}

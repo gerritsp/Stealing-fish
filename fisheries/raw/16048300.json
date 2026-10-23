@@ -1,0 +1,298 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285615,
+  "result": {
+    "county": "Cook",
+    "surveys": [
+      {
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "species": "BKT",
+            "totalWeight": 3.5,
+            "gearCount": 2,
+            "CPUE": "0.50",
+            "totalCatch": 1,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "averageWeight": "3.50",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyID": "109871",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_id": "109871",
+          "county": "Cook",
+          "id_date": "1985-10-23",
+          "survey_type": "Population Assessment",
+          "wb_name": "Wee",
+          "wb_type": "Lake",
+          "wb_id": "16048300"
+        },
+        "surveyDate": "1985-10-23",
+        "narrative": "<p>BECAUSE OF THE TIMING OF THE ASSESSMENT, THERE ARE FEW SMALL FISH PRESENT. ANY FISH IN THE LAKE ARE SURVIVORS OF THE 1983 (AND POSSIBLY 1981) STOCKING THE 1985 STOCKING SHOULD PROVIDE A GOOD FISHERY FOR LATE SUMMER OF 1986 AND THROUGH 1987.</p>"
+      },
+      {
+        "headerInfo": {
+          "survey_id": "111415",
+          "wb_alt_name": "",
+          "wb_name": "Wee",
+          "wb_type": "Lake",
+          "wb_id": "16048300",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "id_date": "2003-09-09"
+        },
+        "surveyDate": "2003-09-09",
+        "narrative": "<p>The 2003 brook trout catch was very low compared to typical catches in stream trout lakes in this area, and compared to catches that have been observed in this lake in the past.  Only the smaller of the two fish taken was aged.  That fish was from a 2002 fingerling stocking, and had exhibited very slow growth.  The other was probably a two or three-year-old fish, based on its length.  A change in the weather during the assessment may have contributed to the low 2003 catch.  Wee Lake is entirely inside the BWCAW, and can be difficult to locate.  Fishing pressure is thought to be low to moderate, compared to other stream trout lakes in the area.</p>",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.43",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "totalWeight": 393,
+            "species": "BKT",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "1.00",
+            "totalCatch": 2
+          }
+        ],
+        "lengths": {
+          "BKT": {
+            "minimum_length": 7,
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyID": "111415",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.91",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalCatch": 29,
+            "CPUE": "14.50",
+            "gearCount": 2,
+            "totalWeight": 11963,
+            "species": "BKT"
+          }
+        ],
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                10,
+                8
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                8
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 18
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyID": "110734",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_id": "110734",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "Wee",
+          "wb_id": "16048300",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "id_date": "1996-09-12"
+        },
+        "surveyDate": "1996-09-12",
+        "narrative": "<p>Brook trout were abundant, and some large fish (up to 18 inches) were present.  All the brook trout captured in 1996 were from the 1993 or 1995 stockings, and growth had been good.  No competing fish species were found in the lake in 1996.</p>"
+      },
+      {
+        "lengths": {
+          "BKT": {
+            "minimum_length": 9,
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "totalWeight": 8948,
+            "species": "BKT",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "7.00",
+            "totalCatch": 14,
+            "averageWeight": "1.41",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyID": "111491",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_id": "111491",
+          "id_date": "2004-09-09",
+          "county": "Cook",
+          "wb_id": "16048300",
+          "wb_name": "Wee",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment"
+        },
+        "surveyDate": "2004-09-09",
+        "narrative": "<p>The brook trout catch was slightly below average for the area.  The average size of the fish caught was larger than average for the area, due primarily to the presence of several age-4 fish in the sample.  Ages 2, 3, and 4 were present, and all had been stocked.  Brook trout growth rates had been about average for the area.  When caught in September, age-2 fish measured 10.0 inches, age-3 fish measured 14.9 inches, and age-4 fish measured 16.5 inches.</p>"
+      },
+      {
+        "headerInfo": {
+          "survey_id": "109766",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "id_date": "1973-06-25",
+          "wb_name": "Wee",
+          "wb_type": "Lake",
+          "wb_id": "16048300",
+          "survey_type": "Initial Survey"
+        },
+        "surveyDate": "1973-06-25",
+        "narrative": "<p>No fish other than Minnows.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "surveyID": "109766"
+      },
+      {
+        "narrative": "<p>BROOK TROUT ABUNDANCE IS GOOD, BUT ALL FISH SAMP- LED APPEAR TO BE FROM THE 1987 FINGERLING STOCKING GROWTH THROUGH THE FIRST SEASON APPEARS TO BE FAIRLY SLOW. SURVIVAL BEYOND AGE II APPEARS TO BE LOW. WEE LAKE APPARENTLY REMAINS FREE OF UNDESIR- ABLE SPECIES SUCH AS WHITE SUCKER AND YELLOW PERCH</p>",
+        "surveyDate": "1988-09-08",
+        "headerInfo": {
+          "id_date": "1988-09-08",
+          "county": "Cook",
+          "wb_id": "16048300",
+          "wb_type": "Lake",
+          "wb_name": "Wee",
+          "survey_type": "Population Assessment",
+          "survey_id": "110069",
+          "wb_alt_name": ""
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyID": "110069",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.22",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalCatch": 20,
+            "CPUE": "10.00",
+            "gearCount": 2,
+            "species": "BKT",
+            "totalWeight": 4.44
+          }
+        ]
+      }
+    ],
+    "DOWNumber": "16048300",
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "maxDepthFeet": 34,
+    "accesses": [
+      {
+        "location": "Long carry-in trail across state land off end of old logging road off The Grade (USFS 165) just west of Crescent Lake.  Entirely in BWCAW.",
+        "ownerTypeId": "DNR",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": " ",
+        "accessTypeId": "CA"
+      }
+    ],
+    "littoralAcres": 10,
+    "areaAcres": 11.3,
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "06/26/1973",
+        "16"
+      ],
+      [
+        "09/08/1988",
+        "11"
+      ]
+    ],
+    "averageWaterClarity": "13.5",
+    "lakeName": "Wee",
+    "shoreLengthMiles": 0.56
+  },
+  "status": "SUCCESS"
+}

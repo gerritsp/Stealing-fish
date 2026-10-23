@@ -1,0 +1,126 @@
+{
+  "result": {
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 4625,
+            "quartileCount": "3.9-9.4",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.55",
+            "CPUE": "4.00",
+            "gearCount": 1,
+            "totalCatch": 4,
+            "quartileWeight": "1.2-2.4"
+          },
+          {
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "CPUE": "6.00",
+            "averageWeight": "1.18",
+            "gearCount": 1,
+            "totalCatch": 6,
+            "quartileWeight": "0.8-2.3",
+            "quartileCount": "2.6-17.5",
+            "totalWeight": 3225
+          }
+        ],
+        "surveyDate": "2017-08-22",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "11951724953946004",
+          "wb_id": "38007500",
+          "wb_name": "Short",
+          "survey_type": "Standard Survey",
+          "county": "Lake",
+          "id_date": "2017-08-22"
+        },
+        "narrative": "<p>Short Lake is located approximately 21 miles northeast of Isabella and lies completely within the Boundary Waters Canoe Area Wilderness (BWCAW).  Access to the lake starts by portaging the 0.95 miles trail into Watonwan Lake and then paddling north to the outlet (Unnamed \"Sundown\" Creek).  Once at the outlet there is 0.27 miles of creek to paddle and several small portages over beaver dams to reach the lake.    <br> \n <br> \nShort Lake has an area of 26.90 acres but only 8.49 acres of the lake were surveyed as the majority of the lake is a narrow stream channel from an old beaver pond.  The lake was found to have a maximum depth of 20 feet and water clarity was poor.  Visibility measured just 2 feet in the dark brown, bog-stained water.  The shoreline around the lake is mainly a mixed coniferous and deciduous forest with areas of bog along the southwestern shore.  Eleven aquatic plant species were noted during the survey with the majority of the vegetation found in the shallow western portion of the lake.   <br> \n <br> \nThe 2017 standard survey was the first recorded investigation on Short Lake and was done to document the status of the fish community and aquatic habitat in the lake.  Northern Pike and White Sucker were the only fish species sampled during this survey.  A single gill net captured four Northern Pike and six White Sucker.  Pike ranged from 17 to 30 inches and the largest weighed about 5 pounds.  White Suckers ranged from 9 to 19 inches and averaged 1.2 pounds.  <br> \n <br> \nShort Lake is a small, scenic, and remote BWCAW lake.  Access is difficult, yet the lake provides an opportunity to fish for Northern Pike for anglers wishing to get away from everyone and everything.  All anglers and visitors to Short Lake must abide by the BWCAW regulations and the lake is entirely non-motorized.  <br> \n</p>",
+        "surveyID": "11951724953946004",
+        "surveySubType": "Standard Survey",
+        "lengths": {
+          "NOP": {
+            "maximum_length": 29,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                29,
+                1
+              ]
+            ],
+            "minimum_length": 16
+          },
+          "WTS": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 8
+          }
+        },
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "maxDepthFeet": 20,
+    "DOWNumber": "38007500",
+    "officeCode": "F215",
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": "Paddle from Unnamed (Sundown) Creek from Watonwan Lake.  ",
+        "location": "Paddle and portage from Unnamed Creek from Watonwan Lake.  ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO"
+      }
+    ],
+    "areaAcres": 26.9,
+    "county": "Lake",
+    "waterClarity": [
+      [
+        "08/22/2017",
+        "2"
+      ]
+    ],
+    "shoreLengthMiles": 2.52,
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "averageWaterClarity": "2.0",
+    "littoralAcres": 0,
+    "lakeName": "Short"
+  },
+  "timestamp": 1790285608,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

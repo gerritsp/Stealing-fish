@@ -1,0 +1,99 @@
+{
+  "result": {
+    "maxDepthFeet": 26,
+    "surveys": [
+      {
+        "narrative": "<p>THE WALLEYE POPULATION APPEARS TO BE IN GOOD SHAPE. THERE ARE SEVERAL STRONG AGE-CLASSES PRE- SENT. GROWTH IS SLOW, AS IT IS IN MANY LAKES IN THIS VICINITY. THERE ARE SEVERAL AGE-CLASSES OF NORTHERN PIKE PRESENT, INDICATING AT LEAST SOME RELIABLE SPAWNING.</p>",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.4-2.7",
+            "totalCatch": 6,
+            "CPUE": "1.00",
+            "gearCount": 6,
+            "totalWeight": 18.25,
+            "species": "NOP",
+            "quartileCount": "2.0-8.5",
+            "averageWeight": "3.04"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-1.9",
+            "CPUE": "2.83",
+            "totalCatch": 17,
+            "gearCount": 6,
+            "totalWeight": 18.75,
+            "species": "WAE",
+            "quartileCount": "2.2-10.5",
+            "averageWeight": "1.10"
+          },
+          {
+            "totalWeight": 13.5,
+            "species": "YEP",
+            "quartileCount": "2.5-14.3",
+            "averageWeight": "0.52",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 6,
+            "CPUE": "4.33",
+            "totalCatch": 26
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalCatch": 6,
+            "CPUE": "1.00",
+            "quartileWeight": "0.9-2.3",
+            "totalWeight": 16.75,
+            "averageWeight": "2.79",
+            "quartileCount": "1.6-8.4",
+            "species": "WTS"
+          }
+        ],
+        "lengths": {},
+        "surveyDate": "1986-09-24",
+        "surveySubType": "Initial Survey",
+        "surveyID": "109952",
+        "headerInfo": {
+          "county": "Cook",
+          "id_date": "1986-09-24",
+          "survey_type": "Initial Survey",
+          "survey_id": "109952",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "16024000",
+          "wb_name": "Caribou"
+        },
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "county": "Cook",
+    "areaAcres": 246.15,
+    "shoreLengthMiles": 7.57,
+    "officeCode": "F218",
+    "averageWaterClarity": "7.0",
+    "accesses": [
+      {
+        "location": "Entirely inside the BWCAW.  Access by portage from Lizz; Meeds; and Horseshoe Lakes.",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "waterClarity": [
+      [
+        "09/24/1986",
+        "7"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "lakeName": "Caribou",
+    "DOWNumber": "16024000",
+    "sampledPlants": [],
+    "littoralAcres": 203
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285857
+}

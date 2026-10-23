@@ -1,0 +1,939 @@
+{
+  "timestamp": 1790285650,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "waterClarity": [
+      [
+        "09/12/2016",
+        "7.5"
+      ]
+    ],
+    "surveys": [
+      {
+        "headerInfo": {
+          "county": "Lake",
+          "wb_name": "Polly",
+          "wb_id": "38010400",
+          "survey_type": "Initial Survey",
+          "id_date": "1962-07-02",
+          "wb_alt_name": "",
+          "survey_id": "112111",
+          "wb_type": "Lake"
+        },
+        "lengths": {},
+        "narrative": "<p>07/02/1962 - Polly Lake is a 513 acre, very soft-water lake in the Kawishiwi River system. The lake lies within the roadless and airspace reservation zone of the Superior National Forest, and is accessible by portages from Malberg Lake, Kawasachong Lake or Hazel Lake.  The maximum depth of Polly Lake is 21 feet, the median depth is 9 feet, and approximately 80% of the lake is shallower than 15 feet.  There are six inlets (several are intermittent) and one outlet.  Forest land with limited amounts of shoreline marsh completely surrounds Polly Lake.  Three campsites are present.  Shoal soils are about 95% ledge rock and boulders, and 5% scattered rubble, gravel, sand, and muck.At the time of the survey, there was sufficient dissolved oxygen for fish life to a depth of about 14 feet. Aquatic vegetation was generally scarce, and the water was brown (secchi disk 10 feet).  Test netting indicated an abundance of Walleye, White Sucker, Yellow Perch and Northern Pike.  One Rock Bass was also taken.  About 95% of the Walleye were less than 15 inches long; Northern Pike ranged between 11 inches and 23 inches.  Scale aging of Walleye indicated very slow growth.  Shiner, Yellow Perch, Walleye and Green Sunfish were taken in minnow traps.  Almost one-half of the White Sucker examined were infected with fish lice (Argulus spp.), but only one gamefish, a Northern Pike was parasitized by the lice.Spawning facilities are rated \"good\" for Walleye, Northen Pike and Smallmouth Bass; \"fair\" for Largemouth Bass and trout; and \"poor\" for centrarchid panfish.Polly Lake is a lightly-fished canoe-route lake.  Walleye were known to be present as early as 1936, and Walleye angling has been reported to be fair in recent years.Fourteen beaver lodges and numerous cuttings were observed around the lake.</p>",
+        "surveyDate": "1962-07-02",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.4-2.7",
+            "quartileCount": "2.0-8.5",
+            "CPUE": "2.00",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "gearCount": 10,
+            "gear": "Standard gill nets",
+            "totalCatch": 20,
+            "species": "NOP"
+          },
+          {
+            "averageWeight": "0.00",
+            "gearCount": 10,
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "species": "RKB",
+            "quartileWeight": "0.2-0.3",
+            "quartileCount": "0.3-1.2",
+            "CPUE": "0.10",
+            "totalWeight": 0
+          },
+          {
+            "quartileCount": "2.2-10.5",
+            "quartileWeight": "1.1-1.9",
+            "totalWeight": 0,
+            "CPUE": "11.20",
+            "averageWeight": "0.00",
+            "species": "WAE",
+            "gearCount": 10,
+            "gear": "Standard gill nets",
+            "totalCatch": 112
+          },
+          {
+            "gearCount": 10,
+            "totalCatch": 63,
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "averageWeight": "0.00",
+            "CPUE": "6.30",
+            "totalWeight": 0,
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "2.5-14.3"
+          },
+          {
+            "quartileWeight": "0.9-2.3",
+            "quartileCount": "1.6-8.4",
+            "CPUE": "11.20",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "gear": "Standard gill nets",
+            "totalCatch": 112,
+            "gearCount": 10,
+            "species": "WTS"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyID": "112111"
+      },
+      {
+        "headerInfo": {
+          "county": "Lake",
+          "wb_name": "Polly",
+          "id_date": "2016-09-12",
+          "survey_type": "Standard Survey",
+          "wb_id": "38010400",
+          "wb_type": "Lake",
+          "survey_id": "11961626026900000",
+          "wb_alt_name": ""
+        },
+        "lengths": {
+          "WTS": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                12
+              ],
+              [
+                16,
+                12
+              ],
+              [
+                17,
+                35
+              ],
+              [
+                18,
+                15
+              ],
+              [
+                19,
+                16
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 20
+          },
+          "YEP": {
+            "maximum_length": 9,
+            "minimum_length": 2,
+            "fishCount": [
+              [
+                2,
+                3
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                10
+              ],
+              [
+                7,
+                9
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "SMB": {
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ]
+            ],
+            "maximum_length": 16
+          },
+          "RKB": {
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 5
+          },
+          "NOP": {
+            "maximum_length": 35,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                35,
+                1
+              ]
+            ],
+            "minimum_length": 12
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                10
+              ],
+              [
+                12,
+                7
+              ],
+              [
+                13,
+                9
+              ],
+              [
+                14,
+                7
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 24
+          }
+        },
+        "surveyDate": "2016-09-12",
+        "narrative": "<p>Polly Lake has an area of 485 acres with a maximum depth of 21 feet and has brown tinted water with clarity around 7 feet.  The lake is located within the BWCAW about 23 miles northeast of Isabella, and is a part of a popular canoe route called the Girl Chain.  There are three portage routes into the lake.  An 85 rod portage from Townline Lake to the south end of the lake, a 104 rod portage from Phoebe River to the southeast corner of the lake, and a 19 rod portage from Kawishiwi River to the north end of the lake.  The Pagami Fire of 2011 burned to the south and west of Polly Lake and affected the watershed of the lake, but only a very small portion of the southern shoreline burned during the fire. <br> \n <br> \nThe 2016 Walleye gill net catch in 9 sets was 6.1/net, which is average compared to similar lakes in the area.  The average weight of 1 pound per fish is slightly small compared to similar lakes.  The largest fish sampled was 24.4 inches long and weighed 5.1 pounds.  Nine different year classes were sampled and the growth rate of Walleye is average for the Finland Area. <br> \n  <br> \nThe Northern Pike catch of 1.1/net is considered below average relative to similar lakes.  The average weight of 1.7 pounds per fish is average for the area.  The largest fish sampled was 35.3 inches long and weighed 7.8 pounds.  Five year classes were sampled and the growth rate was average by Finland Area standards. <br> \n <br> \nSmallmouth Bass catch of 1.1/net is below average relative to similar lakes.  The average weight of 1.6 pounds per fish is average.  The largest fish sampled was 16.2 inches long and weighed 2.4 pounds.  Only two year classes were sampled and growth is average for the Finland Area.  Smallmouth Bass were first sampled in Polly Lake in 2002, with both the catch rate and average size increasing in 2016.  Bass generally do not sample well in nets, and with a sample of just 10 fish, it may not give an accurate picture of the population that is currently in the lake. <br> \n <br> \nYellow Perch catch was 2.8/net, average for the lake class.  The average weight of 0.2 pounds is slightly above average relative to similar lakes.  The largest fish sampled was 9.6 inches long and weighed almost half a pound.  Growth of Yellow Perch is slow for the Finland Area.  <br> \n <br> \nWhite Suckers were caught at above average numbers and average size, while Rock Bass were sampled in average numbers and size for similar lakes.  Seining and minnow traps also sampled Pumpkinseed, Green Sunfish, Blacknose Shiner and Common Shiner. <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.82",
+            "gearCount": 1,
+            "gear": "Open-water angling",
+            "totalCatch": 1,
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "1.00",
+            "totalWeight": 372
+          },
+          {
+            "CPUE": "0.25",
+            "totalWeight": 0,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "Minnow traps",
+            "totalCatch": 3,
+            "gearCount": 12,
+            "species": "RKB",
+            "averageWeight": "0.00"
+          },
+          {
+            "quartileCount": "2.0-8.5",
+            "quartileWeight": "1.4-2.7",
+            "totalWeight": 7820,
+            "CPUE": "1.11",
+            "averageWeight": "1.72",
+            "species": "NOP",
+            "gearCount": 9,
+            "gear": "Standard gill nets",
+            "totalCatch": 10
+          },
+          {
+            "gearCount": 3,
+            "gear": "15-ft beach seine",
+            "totalCatch": 2,
+            "species": "CSH",
+            "averageWeight": "0.00",
+            "CPUE": "0.67",
+            "totalWeight": 0,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          },
+          {
+            "averageWeight": "0.25",
+            "totalCatch": 4,
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "species": "RKB",
+            "quartileWeight": "0.2-0.3",
+            "quartileCount": "0.3-1.2",
+            "CPUE": "0.44",
+            "totalWeight": 460
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "1.00",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "gearCount": 3,
+            "gear": "15-ft beach seine",
+            "totalCatch": 3,
+            "species": "PMK"
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "0.08",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "totalCatch": 1,
+            "gearCount": 12,
+            "species": "CSH"
+          },
+          {
+            "totalWeight": 0,
+            "CPUE": "0.67",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "species": "YEP",
+            "totalCatch": 2,
+            "gear": "15-ft beach seine",
+            "gearCount": 3,
+            "averageWeight": "0.00"
+          },
+          {
+            "species": "GSF",
+            "gearCount": 3,
+            "totalCatch": 7,
+            "gear": "15-ft beach seine",
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "CPUE": "2.33",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalWeight": 0,
+            "CPUE": "1.58",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "species": "PMK",
+            "totalCatch": 19,
+            "gear": "Minnow traps",
+            "gearCount": 12,
+            "averageWeight": "0.00"
+          },
+          {
+            "averageWeight": "1.64",
+            "gear": "Standard gill nets",
+            "totalCatch": 10,
+            "gearCount": 9,
+            "species": "SMB",
+            "quartileWeight": "1.5-2.1",
+            "quartileCount": "1.6-3.5",
+            "CPUE": "1.11",
+            "totalWeight": 7425
+          },
+          {
+            "averageWeight": "0.97",
+            "species": "WAE",
+            "totalCatch": 55,
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "quartileCount": "2.2-10.5",
+            "quartileWeight": "1.1-1.9",
+            "totalWeight": 24181,
+            "CPUE": "6.11"
+          },
+          {
+            "species": "YEP",
+            "gearCount": 12,
+            "gear": "Minnow traps",
+            "totalCatch": 2,
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "CPUE": "0.17",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "totalCatch": 13,
+            "gearCount": 12,
+            "species": "GSF",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "1.08",
+            "totalWeight": 0
+          },
+          {
+            "averageWeight": "0.00",
+            "gearCount": 3,
+            "totalCatch": 4,
+            "gear": "15-ft beach seine",
+            "species": "BNS",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "1.33",
+            "totalWeight": 0
+          },
+          {
+            "quartileCount": "1.6-8.4",
+            "quartileWeight": "0.9-2.3",
+            "totalWeight": 94883,
+            "CPUE": "11.89",
+            "averageWeight": "1.95",
+            "species": "WTS",
+            "totalCatch": 107,
+            "gear": "Standard gill nets",
+            "gearCount": 9
+          },
+          {
+            "averageWeight": "0.34",
+            "species": "NOP",
+            "totalCatch": 1,
+            "gear": "15-ft beach seine",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalWeight": 156,
+            "CPUE": "0.33"
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "2.5-14.3",
+            "CPUE": "2.78",
+            "totalWeight": 2066,
+            "averageWeight": "0.18",
+            "gear": "Standard gill nets",
+            "totalCatch": 25,
+            "gearCount": 9,
+            "species": "YEP"
+          },
+          {
+            "averageWeight": "0.00",
+            "gearCount": 3,
+            "gear": "15-ft beach seine",
+            "totalCatch": 3,
+            "species": "RKB",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "1.00",
+            "totalWeight": 0
+          },
+          {
+            "totalCatch": 1,
+            "gear": "Minnow traps",
+            "gearCount": 12,
+            "species": "NOP",
+            "averageWeight": "1.74",
+            "CPUE": "0.08",
+            "totalWeight": 790,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          }
+        ],
+        "surveySubType": "Standard Survey",
+        "surveyID": "11961626026900000",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "headerInfo": {
+          "wb_name": "Polly",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "112969",
+          "id_date": "2002-07-08",
+          "survey_type": "Re-Survey",
+          "wb_id": "38010400"
+        },
+        "lengths": {
+          "WTS": {
+            "maximum_length": 18,
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                6
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                11
+              ],
+              [
+                15,
+                21
+              ],
+              [
+                16,
+                14
+              ],
+              [
+                17,
+                13
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "SMB": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 12
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                2,
+                28
+              ],
+              [
+                3,
+                1
+              ],
+              [
+                5,
+                7
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                5
+              ]
+            ],
+            "minimum_length": 2,
+            "maximum_length": 7
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 7
+          },
+          "NOP": {
+            "minimum_length": 15,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                36,
+                1
+              ]
+            ],
+            "maximum_length": 36
+          },
+          "PMK": {
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                4,
+                2
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "WAE": {
+            "maximum_length": 21,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                13,
+                9
+              ],
+              [
+                14,
+                8
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                8,
+                5
+              ],
+              [
+                9,
+                6
+              ]
+            ]
+          }
+        },
+        "narrative": "<p>Polly Lake is several portages inside the Boundary Waters Canoe Area Wilderness on a heavily used, motorless, canoe route.  The fish population is sustained entirely through natural reproduction.  Walleye are the primary fish species pursued by anglers in this lake.Walleye were sampled in average numbers in the 2002 survey; however, their average size (12.8 inches; 0.8 pound) was below the normal range.  The walleye ranged from 8.3 inches to 21.5 inches, with approximately 30% of the fish in the sample ranging between 12 inches and 14 inches.Northern pike were collected in below-average numbers, and for the most part the fish were small, with almost all the fish in the sample being less than 2.0 pounds.  One larger northern pike was sampled, it measured 36.2 inches and weighed 15.7 pounds.Yellow perch were collected in below average numbers and appeared to have been too small to interest most anglers.  The largest yellow perch collected was only 7.8 inches.Smallmouth bass were sampled in low numbers.  The fish in the sample were small, ranging between 5.6 inches and 12.3 inches.</p>",
+        "surveyDate": "2002-07-08",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.00",
+            "totalWeight": 11855,
+            "quartileWeight": "1.4-2.7",
+            "quartileCount": "2.0-8.5",
+            "gear": "Standard gill nets",
+            "totalCatch": 9,
+            "gearCount": 9,
+            "species": "NOP",
+            "averageWeight": "2.90"
+          },
+          {
+            "gearCount": 9,
+            "totalCatch": 77,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "averageWeight": "1.42",
+            "CPUE": "8.56",
+            "totalWeight": 49763,
+            "quartileWeight": "0.9-2.3",
+            "quartileCount": "1.6-8.4"
+          },
+          {
+            "averageWeight": "0.78",
+            "species": "WAE",
+            "totalCatch": 49,
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "quartileCount": "2.2-10.5",
+            "quartileWeight": "1.1-1.9",
+            "totalWeight": 17442,
+            "CPUE": "5.44"
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "0.22",
+            "totalWeight": 63,
+            "averageWeight": "0.07",
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "species": "PMK"
+          },
+          {
+            "totalWeight": 809,
+            "CPUE": "0.56",
+            "quartileCount": "1.6-3.5",
+            "quartileWeight": "1.5-2.1",
+            "species": "SMB",
+            "totalCatch": 5,
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "averageWeight": "0.36"
+          },
+          {
+            "gear": "Minnow traps",
+            "totalCatch": 5,
+            "gearCount": 4,
+            "species": "BNS",
+            "averageWeight": "0.00",
+            "CPUE": "1.25",
+            "totalWeight": 0,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "7.25",
+            "totalWeight": 9,
+            "averageWeight": "0.00",
+            "gearCount": 4,
+            "totalCatch": 29,
+            "gear": "Minnow traps",
+            "species": "YEP"
+          },
+          {
+            "gearCount": 9,
+            "totalCatch": 14,
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "averageWeight": "0.12",
+            "CPUE": "1.56",
+            "totalWeight": 736,
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "2.5-14.3"
+          },
+          {
+            "averageWeight": "0.24",
+            "species": "RKB",
+            "totalCatch": 4,
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "quartileCount": "0.3-1.2",
+            "quartileWeight": "0.2-0.3",
+            "totalWeight": 428,
+            "CPUE": "0.44"
+          }
+        ],
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey",
+        "surveyID": "112969"
+      }
+    ],
+    "averageWaterClarity": "7.5",
+    "DOWNumber": "38010400",
+    "officeCode": "F215",
+    "sampledPlants": [],
+    "areaAcres": 485.24,
+    "littoralAcres": 378,
+    "accesses": [
+      {
+        "lakeAccessComments": "An 85 rod portage trail from Townline Lake on south end of lake. Canoe access only. Entirely withing the BWCAW.",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "publicUseAuthCode": "OPEN"
+      },
+      {
+        "location": " ",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "A 104 rod portage trail from Phoebe River on southeast corner of lake."
+      },
+      {
+        "lakeAccessComments": "A 19 rod portage trail from Kawishiwi River on north end of lake. Canoe access only.",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "publicUseAuthCode": "OPEN"
+      }
+    ],
+    "shoreLengthMiles": 18.56,
+    "lakeName": "Polly",
+    "maxDepthFeet": 21,
+    "meanDepthFeet": 9,
+    "county": "Lake"
+  }
+}

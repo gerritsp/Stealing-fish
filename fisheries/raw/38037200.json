@@ -1,0 +1,182 @@
+{
+  "timestamp": 1790285786,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "surveyID": "108309",
+        "narrative": "<p>Cisco are present in above average numbers; walleye are present in average numbers; lake trout, northern pike, white sucker, burbot, and rock bass are present in below average numbers. Cisco and lake trout are small; walleye are larger than average. Walleye growth is above average. </p>",
+        "surveyDate": "1986-09-16",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "survey_id": "108309",
+          "wb_id": "38037200",
+          "id_date": "1986-09-16",
+          "wb_name": "Fraser",
+          "county": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "gearCount": 10,
+            "quartileWeight": "0.7-1.9",
+            "totalCatch": 1,
+            "totalWeight": 1.2,
+            "quartileCount": "0.3-1.3",
+            "gear": "Standard gill nets",
+            "CPUE": "0.10",
+            "averageWeight": "1.20"
+          },
+          {
+            "quartileCount": "0.8-4.3",
+            "gear": "Standard gill nets",
+            "CPUE": "1.00",
+            "averageWeight": "0.69",
+            "quartileWeight": "1.2-3.1",
+            "species": "LAT",
+            "gearCount": 10,
+            "totalWeight": 6.9,
+            "totalCatch": 10
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "gearCount": 10,
+            "totalWeight": 0.6,
+            "totalCatch": 4,
+            "quartileCount": "1.7-5.0",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.15",
+            "CPUE": "0.40"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "23.20",
+            "averageWeight": "0.11",
+            "quartileCount": "1.4-17.4",
+            "totalCatch": 232,
+            "totalWeight": 26.2,
+            "species": "TLC",
+            "gearCount": 10,
+            "quartileWeight": "0.1-0.7"
+          }
+        ],
+        "lengths": {},
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_id": "38037200",
+          "id_date": "1976-08-08",
+          "wb_name": "Fraser",
+          "survey_id": "107989",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 50,
+            "totalCatch": 15,
+            "quartileWeight": "1.2-3.1",
+            "gearCount": 8,
+            "species": "LAT",
+            "averageWeight": "3.33",
+            "CPUE": "1.88",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-4.3"
+          },
+          {
+            "quartileCount": "0.3-1.0",
+            "gear": "Standard gill nets",
+            "CPUE": "0.25",
+            "averageWeight": "3.50",
+            "quartileWeight": "2.7-5.3",
+            "species": "NOP",
+            "gearCount": 8,
+            "totalWeight": 7,
+            "totalCatch": 2
+          },
+          {
+            "averageWeight": "2.21",
+            "CPUE": "1.50",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-5.0",
+            "totalWeight": 26.5,
+            "totalCatch": 12,
+            "quartileWeight": "1.6-2.4",
+            "gearCount": 8,
+            "species": "WTS"
+          },
+          {
+            "totalWeight": 6.6,
+            "totalCatch": 58,
+            "quartileWeight": "0.1-0.7",
+            "species": "TLC",
+            "gearCount": 8,
+            "gear": "Standard gill nets",
+            "CPUE": "7.25",
+            "averageWeight": "0.11",
+            "quartileCount": "1.4-17.4"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "surveyID": "107989",
+        "narrative": "<p>(Stocking:  7/77-30,360 fingerlings. This assessment shows an above average population of cisco, a low population of northern pike, and average population of suckers and lake trout.  It should be noted that Fraser Lake contains an average population of larger walleyes according to the 1950 and 1976 surveys.</p>",
+        "surveyDate": "1976-08-08"
+      },
+      {
+        "surveyDate": "2025-08-03",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Fraser Lake on August 3rd, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 101.0 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 30.3 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L for the entire sampled depth. This layer in the water column was 70.7 feet, indicating oxythermal habitat for Lake Trout was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 5.3 degrees C (41.5 degrees F), was substituted as TDO3. TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyID": "22122522057259139",
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "id_date": "2025-08-03",
+          "wb_id": "38037200",
+          "wb_name": "Fraser",
+          "survey_id": "22122522057259139",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey"
+        }
+      }
+    ],
+    "areaAcres": 695.05,
+    "county": "Lake",
+    "averageWaterClarity": "11.0",
+    "waterClarity": [
+      [
+        "08/03/2025",
+        "11"
+      ]
+    ],
+    "littoralAcres": 158,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "location": "ACCESS BY USFS PORTAGES FROM GERRUND ~55 YARDS~AND SHEPO LAKES ~66 YARDS~  AND BY WATER ROUTE",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "lakeAccessComments": " "
+      }
+    ],
+    "DOWNumber": "38037200",
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "lakeName": "Fraser",
+    "maxDepthFeet": 105,
+    "shoreLengthMiles": 14.64
+  }
+}

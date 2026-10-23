@@ -1,0 +1,570 @@
+{
+  "timestamp": 1790285632,
+  "status": "SUCCESS",
+  "result": {
+    "averageWaterClarity": "9.0",
+    "shoreLengthMiles": 22.94,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "CPUE": "3.09",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.07",
+            "totalWeight": 70.25,
+            "quartileCount": "1.2-3.9",
+            "totalCatch": 34,
+            "gearCount": 11,
+            "species": "NOP",
+            "quartileWeight": "1.5-2.4"
+          },
+          {
+            "species": "RKB",
+            "quartileWeight": "0.2-0.5",
+            "quartileCount": "0.5-2.3",
+            "gearCount": 11,
+            "totalCatch": 13,
+            "gear": "Standard gill nets",
+            "totalWeight": 1.95,
+            "averageWeight": "0.15",
+            "CPUE": "1.18"
+          },
+          {
+            "gearCount": 11,
+            "totalCatch": 50,
+            "quartileCount": "3.0-13.2",
+            "quartileWeight": "0.7-1.3",
+            "species": "WAE",
+            "CPUE": "4.55",
+            "averageWeight": "0.92",
+            "totalWeight": 45.95,
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "4.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 5,
+            "averageWeight": "0.11",
+            "quartileCount": "0.5-2.8",
+            "totalCatch": 44,
+            "gearCount": 11,
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "averageWeight": "1.07",
+            "totalWeight": 7.5,
+            "gear": "Standard gill nets",
+            "CPUE": "0.64",
+            "quartileWeight": "1.5-5.5",
+            "species": "LKW",
+            "gearCount": 11,
+            "totalCatch": 7,
+            "quartileCount": "0.6-2.9"
+          },
+          {
+            "averageWeight": "1.42",
+            "totalWeight": 116.75,
+            "gear": "Standard gill nets",
+            "CPUE": "7.45",
+            "quartileWeight": "1.7-2.4",
+            "species": "WTS",
+            "gearCount": 11,
+            "totalCatch": 82,
+            "quartileCount": "2.6-11.7"
+          },
+          {
+            "CPUE": "0.27",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.08",
+            "totalWeight": 0.25,
+            "quartileCount": "1.0-5.3",
+            "gearCount": 11,
+            "totalCatch": 3,
+            "species": "TLC",
+            "quartileWeight": "0.2-0.8"
+          },
+          {
+            "gearCount": 11,
+            "totalCatch": 10,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "species": "BLG",
+            "CPUE": "0.91",
+            "averageWeight": "0.43",
+            "totalWeight": 4.35,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyDate": "1978-08-08",
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "survey_id": "108020",
+          "wb_id": "38052800",
+          "wb_name": "Four",
+          "id_date": "1978-08-08",
+          "survey_type": "Re-Survey"
+        },
+        "surveyID": "108020",
+        "narrative": "<p>Contains an above average population of sucker, while whitefish, perch, northern pike, rock bass, and walleye are present in about average numbers. Cisco and bluegill are present in below average numbers.</p>",
+        "lengths": {},
+        "surveyType": "Standard Survey"
+      },
+      {
+        "lengths": {
+          "BLG": {
+            "minimum_length": 3,
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                3,
+                3
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                3
+              ]
+            ]
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 9
+          },
+          "RKB": {
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                5
+              ]
+            ],
+            "maximum_length": 7
+          },
+          "LKW": {
+            "minimum_length": 9,
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "CIS": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 9
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                8
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                3
+              ],
+              [
+                29,
+                2
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                33,
+                1
+              ],
+              [
+                40,
+                1
+              ]
+            ],
+            "maximum_length": 40,
+            "minimum_length": 11
+          },
+          "WAE": {
+            "minimum_length": 7,
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                8
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                7
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                8
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                9
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "maximum_length": 21
+          },
+          "SMB": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                15,
+                2
+              ],
+              [
+                18,
+                1
+              ]
+            ],
+            "minimum_length": 15
+          }
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Lake Four is located within the Boundary Waters Canoe Area Wilderness (BWCAW) within the Superior National Forest and is a non-motorized lake.  It is approximately 20 miles east of Ely.  It is a 611 acre lake with a maximum depth of 25 feet and has brown water.  \n\nThe surrounding landscape of the southern part of Lake Four was drastically changed in the fall of 2011 when the Pagami Creek Fire burned through the area.  The fire started as a lightning strike about three miles west of Lake Three in late August on the north side of Pagami Creek.  By September 12th the fire had burned south and east and reached the shoreline of Lake Four.  Only a couple of hours later, nearly the entire southern basing on Lake Four were burned over, the northern portion was spared.  Six years later, the effects are still very prevalent.  Regenerating balsam fir, hazel, and dogwoods are filling in, but miles of exposed bedrock with the remnants charred logs still remain.  \n\nThere are four accesses, one of which is a water route and the other three are portages.  Accesses consist of the connection to Lake Three, a 25 rod portage to another small part of Lake Four before eventually connecting to Hudson Lake, a 30 rod portage to Fire Lake, and a 15 rod portage to Bridge Lake.  The Kawishiwi River is a large river that has a heavy influence on the system as it flows in from Hudson Lake and out to Lake Three.  \n\nOn June 19, 2017 Lake Four was not thermally stratified with a surface temperature of 68 F and a bottom temperature of 67 F.  Oxygen levels were good throughout the water column.  Lake bottom substrates along the shoreline are dominated by boulder with small areas of rubble, gravel, and muck.  Aquatic plants are sparse and only grow in some of the shallow bays.  \n\nThe overall gillnet catch rate for all fish combined was 16.1 fish/net which was the highest since the initial survey in 1963.  A yield of 24.8 pounds/net however, was the highest of all surveys on the lake.  Fish species sampled were northern pike, walleye, white sucker, lake whitefish, rock bass, yellow perch, bluegill, smallmouth bass, and cisco.\n\nThirty-two walleye were sampled for a CPUE of 3.6 fish/gill net, which was slightly better than previous surveys from Lake Four.  Walleye lengths ranged from 7 to 16.5 inches with an average 12 inches, this was similar to previous surveys.  The average weight was 0.5 pounds and growth was slow compared to other area lakes.  This isn't surprising as a lot of lakes with heavy river influences show signs of slow growth in walleye populations.  Ages ranged from 1 to 6 with good representation from the 2011 and 2012 year classes.  \n\nThe northern pike gillnet catch was 4.3 fish/net which was the highest on record for the lake and above average compared to other similar lakes.  The average weight was nearly 3 pounds and lengths ranged from 11 to 41 inches with an average of 22 inches.  The 41 inch pike is the largest on record for Lake Four.  \n\nEleven lake whitefish were sampled for a catch rate of 1.2 fish/net.  This catch rate was the highest on record for Lake Four and slightly above average compared to other catches on whitefish lakes in the Tower area.  Lengths ranged from 9.5 to 17.5 inches with an average of 14 inches.  Fish were aged up to 9 years old.  \n\nThree smallmouth bass were sampled in gill nets for the first time on Lake Four.  Sizes ranged from 15 to 19 inches.  Angler reports suggests smallmouth are relatively abundant in the lake with a number of decent sized fish.  Smallmouth do not always sample well in gill nets so it is not surprising we caught so few.\n\nOther species sampled in gill nets were bluegill, yellow perch, rock bass, cisco, and white sucker.\n</p>",
+        "headerInfo": {
+          "wb_id": "38052800",
+          "survey_type": "Standard Survey",
+          "id_date": "2017-06-19",
+          "wb_name": "Four",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "survey_id": "12231716633947001"
+        },
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "quartileWeight": "1.5-2.4",
+            "quartileCount": "1.2-3.9",
+            "totalCatch": 39,
+            "gearCount": 9,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.64",
+            "totalWeight": 46618,
+            "CPUE": "4.33"
+          },
+          {
+            "gearCount": 9,
+            "totalCatch": 32,
+            "quartileCount": "2.6-11.7",
+            "quartileWeight": "1.7-2.4",
+            "species": "WTS",
+            "CPUE": "3.56",
+            "totalWeight": 36445,
+            "averageWeight": "2.51",
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "3.56",
+            "gear": "Standard gill nets",
+            "totalWeight": 7280,
+            "averageWeight": "0.50",
+            "quartileCount": "3.0-13.2",
+            "totalCatch": 32,
+            "gearCount": 9,
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "2.57",
+            "totalWeight": 3497,
+            "CPUE": "0.33",
+            "species": "SMB",
+            "quartileWeight": "0.3-2.2",
+            "quartileCount": "0.2-0.7",
+            "totalCatch": 3,
+            "gearCount": 9
+          },
+          {
+            "quartileWeight": "N/A",
+            "species": "CIS",
+            "gearCount": 9,
+            "totalCatch": 3,
+            "quartileCount": "N/A",
+            "totalWeight": 200,
+            "averageWeight": "0.15",
+            "gear": "Standard gill nets",
+            "CPUE": "0.33"
+          },
+          {
+            "CPUE": "1.22",
+            "averageWeight": "0.97",
+            "totalWeight": 4820,
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "totalCatch": 11,
+            "quartileCount": "0.6-2.9",
+            "quartileWeight": "1.5-5.5",
+            "species": "LKW"
+          },
+          {
+            "CPUE": "0.78",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.24",
+            "totalWeight": 759,
+            "quartileCount": "N/A",
+            "gearCount": 9,
+            "totalCatch": 7,
+            "species": "BLG",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "totalCatch": 8,
+            "gearCount": 9,
+            "quartileCount": "0.5-2.8",
+            "averageWeight": "0.13",
+            "totalWeight": 475,
+            "gear": "Standard gill nets",
+            "CPUE": "0.89"
+          },
+          {
+            "species": "RKB",
+            "quartileWeight": "0.2-0.5",
+            "quartileCount": "0.5-2.3",
+            "gearCount": 9,
+            "totalCatch": 10,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.21",
+            "totalWeight": 970,
+            "CPUE": "1.11"
+          }
+        ],
+        "surveySubType": "Standard Survey",
+        "surveyDate": "2017-06-19",
+        "surveyID": "12231716633947001"
+      }
+    ],
+    "county": "Lake",
+    "accesses": [
+      {
+        "location": "",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "accessTypeId": "C",
+        "publicUseAuthCode": "OPEN"
+      },
+      {
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO",
+        "location": "",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " "
+      },
+      {
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN",
+        "location": "",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF"
+      },
+      {
+        "location": "",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN"
+      }
+    ],
+    "waterClarity": [
+      [
+        "06/19/2017",
+        "9"
+      ]
+    ],
+    "sampledPlants": [],
+    "maxDepthFeet": 25,
+    "meanDepthFeet": 0,
+    "lakeName": "Four",
+    "DOWNumber": "38052800",
+    "areaAcres": 610.88,
+    "officeCode": "F214",
+    "littoralAcres": 511
+  },
+  "message": "Normal execution."
+}

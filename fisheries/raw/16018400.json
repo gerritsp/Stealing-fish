@@ -1,0 +1,123 @@
+{
+  "timestamp": 1790285685,
+  "message": "Normal execution.",
+  "result": {
+    "officeCode": "F218",
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_id": "109660",
+          "wb_alt_name": "",
+          "wb_id": "16018400",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "wb_name": "Abita",
+          "id_date": "1972-06-26"
+        },
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "2.2-14.6",
+            "totalWeight": 1.8,
+            "totalCatch": 8,
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "2.67",
+            "species": "YEP",
+            "averageWeight": "0.23",
+            "gearCount": 3
+          },
+          {
+            "gearCount": 3,
+            "averageWeight": "0.74",
+            "species": "WTS",
+            "CPUE": "41.67",
+            "totalCatch": 125,
+            "quartileWeight": "1.5-2.4",
+            "totalWeight": 93.1,
+            "gear": "Standard gill nets",
+            "quartileCount": "3.6-14.1"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "narrative": "<p>There is a large active Sucker population of sev. age-classes.  Perch are present in small numbers.</p>",
+        "surveyID": "109660",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1972-06-26",
+        "lengths": {}
+      },
+      {
+        "headerInfo": {
+          "wb_name": "Abita",
+          "id_date": "1990-06-25",
+          "wb_alt_name": "",
+          "wb_id": "16018400",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "survey_id": "110144"
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "species": "YEP",
+            "averageWeight": "0.23",
+            "totalCatch": 3,
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "quartileCount": "2.2-14.6",
+            "totalWeight": 0.7
+          },
+          {
+            "gearCount": 3,
+            "averageWeight": "0.63",
+            "species": "WTS",
+            "CPUE": "58.33",
+            "quartileWeight": "1.5-2.4",
+            "totalCatch": 175,
+            "gear": "Standard gill nets",
+            "quartileCount": "3.6-14.1",
+            "totalWeight": 110.5
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "narrative": "<p>THREE YEARS OF INTRODUCTORY FRY STOCKING APPARENTLY HAVE FAILED TO ESTABLISH A WALLEYE POPULATION.  NO WALLEYE WERE COLLECTED IN THIS ASSESSMENT.  WHITE SUCKER WERE ABUNDANT AND A FEW YELLOW PERCH WERE COLLECTED.  THIS LAKE HAS LITTLE OR NO SPORT FISHING VALUE.</p>",
+        "surveyID": "110144",
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1990-06-25",
+        "lengths": {}
+      }
+    ],
+    "lakeName": "Abita",
+    "averageWaterClarity": "7.0",
+    "shoreLengthMiles": 2.37,
+    "waterClarity": [
+      [
+        "06/26/1972",
+        "7"
+      ],
+      [
+        "06/26/1990",
+        "7"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "county": "Cook",
+    "areaAcres": 92.69,
+    "littoralAcres": 92.69,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "PRMIT",
+        "location": "",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA"
+      }
+    ],
+    "maxDepthFeet": 14,
+    "DOWNumber": "16018400"
+  },
+  "status": "SUCCESS"
+}

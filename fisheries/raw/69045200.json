@@ -1,0 +1,127 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285587,
+  "result": {
+    "meanDepthFeet": 0,
+    "waterClarity": [],
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>White sucker and rock bass are present in above average numbers; northern pike and yellow perch are present in average numbers. Bluegill and hybrid sunfish and largemouth bass are also present. Bluegill and yellow perch recruitment is erratic. Bluegill growth is slow. </p>",
+        "surveyID": "108383",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 0.1,
+            "averageWeight": "0.10",
+            "CPUE": "0.25",
+            "gear": "Standard gill nets",
+            "species": "HSF",
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "totalCatch": 1,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "1.3-5.3",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "totalWeight": 62.3,
+            "averageWeight": "3.46",
+            "CPUE": "4.50",
+            "quartileWeight": "1.6-3.1",
+            "totalCatch": 18,
+            "gearCount": 4
+          },
+          {
+            "quartileWeight": "0.2-0.4",
+            "totalCatch": 14,
+            "gearCount": 4,
+            "quartileCount": "0.3-2.3",
+            "species": "RKB",
+            "gear": "Standard gill nets",
+            "CPUE": "3.50",
+            "totalWeight": 3.5,
+            "averageWeight": "0.25"
+          },
+          {
+            "quartileCount": "0.5-7.0",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "CPUE": "4.00",
+            "totalWeight": 4.1,
+            "averageWeight": "0.26",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 16,
+            "gearCount": 4
+          },
+          {
+            "totalWeight": 13.6,
+            "averageWeight": "0.42",
+            "CPUE": "8.00",
+            "quartileCount": "1.2-4.9",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalCatch": 32,
+            "gearCount": 4,
+            "quartileWeight": "1.6-2.4"
+          },
+          {
+            "gearCount": 4,
+            "totalCatch": 3,
+            "quartileWeight": "0.5-1.5",
+            "CPUE": "0.75",
+            "totalWeight": 4.5,
+            "averageWeight": "1.50",
+            "gear": "Standard gill nets",
+            "species": "LMB",
+            "quartileCount": "0.3-1.8"
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "species": "BLG",
+            "CPUE": "2.00",
+            "averageWeight": "0.10",
+            "totalWeight": 0.8,
+            "quartileWeight": "N/A",
+            "totalCatch": 8,
+            "gearCount": 4
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Bootleg",
+          "county": "St. Louis",
+          "id_date": "1988-06-08",
+          "wb_type": "Lake",
+          "survey_id": "108383",
+          "survey_type": "Initial Survey",
+          "wb_id": "69045200",
+          "wb_alt_name": ""
+        },
+        "surveyDate": "1988-06-08",
+        "lengths": {},
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "littoralAcres": 126,
+    "county": "St. Louis",
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "location": "ONE-QUARTER MILE USFS PORTAGE FROM THE LITTLE PONY RIVER.",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " "
+      }
+    ],
+    "maxDepthFeet": 26,
+    "lakeName": "Bootleg",
+    "DOWNumber": "69045200",
+    "averageWaterClarity": "N/A",
+    "shoreLengthMiles": 5.27,
+    "areaAcres": 347.27,
+    "officeCode": "F214",
+    "sampledPlants": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285928,
+  "message": "Normal execution.",
+  "result": {
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "N/A",
+    "maxDepthFeet": 17,
+    "DOWNumber": "16084000",
+    "areaAcres": 6.83,
+    "littoralAcres": 0,
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "location": "10 rod portage from Cow Lake.",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " "
+      }
+    ],
+    "county": "Cook",
+    "shoreLengthMiles": 0.53,
+    "waterClarity": [],
+    "sampledPlants": [],
+    "lakeName": "Unnamed",
+    "officeCode": "F218",
+    "surveys": [
+      {
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "CPUE": "37.50",
+            "averageWeight": "0.09",
+            "totalCatch": 75,
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "species": "YEP",
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "totalWeight": 7
+          }
+        ],
+        "surveyID": "109830",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "109830",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "wb_name": "Unnamed",
+          "wb_id": "16084000",
+          "id_date": "1973-07-18"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>This lake has a high population of small Yel Perch No other fish were taken in Minnow traps or gill- nets.  Dissolved oxygen is good only to about 10 feet in depth.  Winter oxygen tests are needed.</p>",
+        "surveyDate": "1973-07-18",
+        "surveySubType": "Initial Survey"
+      }
+    ]
+  }
+}

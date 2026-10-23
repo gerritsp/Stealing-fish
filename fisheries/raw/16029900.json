@@ -1,0 +1,88 @@
+{
+  "result": {
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "ENTIRE LAKE IS WITHIN BWCA and  ACCESSIBLE BY PORTAGE ONLY; 60 RODS FROM ONE ISLAND  10 FROM BANADAD",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.1-0.5",
+            "CPUE": "0.17",
+            "species": "BUB",
+            "totalCatch": 1,
+            "averageWeight": "0.20",
+            "quartileWeight": "0.3-1.8",
+            "totalWeight": 0.2,
+            "gearCount": 6,
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "7.17",
+            "quartileCount": "1.2-3.9",
+            "totalCatch": 43,
+            "species": "NOP",
+            "totalWeight": 93,
+            "quartileWeight": "1.5-2.4",
+            "averageWeight": "2.16",
+            "gearCount": 6,
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "WTS",
+            "totalCatch": 34,
+            "quartileCount": "2.6-11.7",
+            "CPUE": "5.67",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileWeight": "1.7-2.4",
+            "averageWeight": "1.61",
+            "totalWeight": 54.9
+          }
+        ],
+        "surveyID": "110026",
+        "headerInfo": {
+          "wb_name": "Rush",
+          "county": "Cook",
+          "wb_id": "16029900",
+          "id_date": "1982-08-03",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "survey_id": "110026",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1982-08-03",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "narrative": "<p>THIS LAKE HAS AN ABUNDANT NORTHERN PIKE POPULATION THAT SEEMS TO SHOW GROWTH UP TO A SIZE OF APPROXI- MATELY 21' THEN GROWTH SLOWS TO BELOW STATE AVER- AGES.</p>"
+      }
+    ],
+    "averageWaterClarity": "10.5",
+    "DOWNumber": "16029900",
+    "waterClarity": [
+      [
+        "08/03/1982",
+        "10.5"
+      ]
+    ],
+    "county": "Cook",
+    "officeCode": "F218",
+    "shoreLengthMiles": 8.65,
+    "littoralAcres": 137,
+    "sampledPlants": [],
+    "maxDepthFeet": 54,
+    "lakeName": "Rush",
+    "areaAcres": 261.01
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285885,
+  "message": "Normal execution."
+}

@@ -1,0 +1,49 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285589,
+  "result": {
+    "maxDepthFeet": 5,
+    "areaAcres": 46.22,
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "DOWNumber": "38078700",
+    "averageWaterClarity": "N/A",
+    "littoralAcres": 46.22,
+    "surveys": [
+      {
+        "surveyDate": "1986-06-06",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [],
+        "surveyID": "108315",
+        "narrative": "<p>Various species of minnows are present.</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_id": "108315",
+          "survey_type": "Initial Survey",
+          "wb_name": "Azion",
+          "id_date": "1986-06-06",
+          "county": "Lake",
+          "wb_id": "38078700",
+          "wb_type": "Lake"
+        }
+      }
+    ],
+    "shoreLengthMiles": 1.4,
+    "county": "Lake",
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "location": "ACCESS IS 1/3 MILE PORTAGE TRAIL NORTH FROM PIPE-STONE BAY OF BASSWOOD LAKE.",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "lakeName": "Azion",
+    "waterClarity": []
+  }
+}

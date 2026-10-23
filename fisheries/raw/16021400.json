@@ -1,0 +1,89 @@
+{
+  "result": {
+    "waterClarity": [
+      [
+        "07/08/1975",
+        "4"
+      ]
+    ],
+    "averageWaterClarity": "4.0",
+    "shoreLengthMiles": 0.89,
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "location": "Accessible via chained BWCA logging trail 1/2 mile west from Fiddle Cr. Rd.",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " "
+      }
+    ],
+    "county": "Cook",
+    "sampledPlants": [],
+    "littoralAcres": 19.88,
+    "maxDepthFeet": 11,
+    "lakeAltName": "Nighthawk",
+    "meanDepthFeet": 0,
+    "areaAcres": 19.88,
+    "lakeName": "Night Hawk",
+    "surveys": [
+      {
+        "lengths": {},
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_id": "109673",
+          "county": "Cook",
+          "wb_alt_name": "Nighthawk",
+          "wb_name": "Night Hawk",
+          "wb_id": "16021400",
+          "survey_type": "Initial Survey",
+          "id_date": "1975-07-08"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "4.0-15.0",
+            "CPUE": "2.00",
+            "quartileWeight": "1.1-2.0",
+            "totalCatch": 2,
+            "totalWeight": 1.5,
+            "averageWeight": "0.75",
+            "gear": "Standard gill nets",
+            "gearCount": 1,
+            "species": "NOP"
+          },
+          {
+            "gearCount": 1,
+            "species": "WAE",
+            "quartileWeight": "1.0-2.0",
+            "CPUE": "1.00",
+            "quartileCount": "2.0-12.0",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.00",
+            "totalWeight": 2,
+            "totalCatch": 1
+          },
+          {
+            "gearCount": 1,
+            "species": "WTS",
+            "CPUE": "13.00",
+            "quartileWeight": "0.4-1.9",
+            "quartileCount": "3.0-23.0",
+            "gear": "Standard gill nets",
+            "totalCatch": 13,
+            "totalWeight": 21.5,
+            "averageWeight": "1.65"
+          }
+        ],
+        "narrative": "<p>Nighthawk Lake has a good Sucker population but appears to be low in Walleyes and N Pike.</p>",
+        "surveyDate": "1975-07-08",
+        "surveyID": "109673"
+      }
+    ],
+    "DOWNumber": "16021400"
+  },
+  "timestamp": 1790285854,
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

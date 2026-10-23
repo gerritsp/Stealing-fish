@@ -1,0 +1,94 @@
+{
+  "timestamp": 1790285583,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "location": "ON MILE USFS PORTAGE TRAIL FROM LITTLE TROUT LAKE.",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O"
+      }
+    ],
+    "maxDepthFeet": 13,
+    "officeCode": "F214",
+    "DOWNumber": "69045400",
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 3.36,
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Gowan",
+          "county": "St. Louis",
+          "id_date": "1988-06-09",
+          "wb_id": "69045400",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "survey_id": "108384"
+        },
+        "surveyID": "108384",
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "totalWeight": 22,
+            "quartileWeight": "N/A",
+            "CPUE": "4.50",
+            "totalCatch": 9,
+            "averageWeight": "2.44",
+            "gearCount": 2,
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "CPUE": "5.00",
+            "totalCatch": 10,
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "averageWeight": "0.58",
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "totalWeight": 5.8
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "totalWeight": 0.3,
+            "CPUE": "1.50",
+            "quartileWeight": "N/A",
+            "totalCatch": 3,
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "averageWeight": "0.10"
+          },
+          {
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalWeight": 9.2,
+            "quartileWeight": "N/A",
+            "CPUE": "3.50",
+            "totalCatch": 7,
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "averageWeight": "1.31"
+          }
+        ],
+        "lengths": {},
+        "surveyDate": "1988-06-09",
+        "narrative": "<p>Numbers of northern pike, white sucker, and walleye are average; numbers of yellow perch are below average. Walleye year class strength appears pretty even. </p>",
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "waterClarity": [],
+    "averageWaterClarity": "N/A",
+    "sampledPlants": [],
+    "littoralAcres": 134.24,
+    "lakeName": "Gowan",
+    "areaAcres": 134.24,
+    "county": "St. Louis"
+  }
+}

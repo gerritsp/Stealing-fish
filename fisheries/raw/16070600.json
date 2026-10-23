@@ -1,0 +1,563 @@
+{
+  "timestamp": 1790285646,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "averageWaterClarity": "3.5",
+    "accesses": [
+      {
+        "lakeAccessComments": "13 rod portage to/from Sawbill Lake.",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "accessTypeId": "PO"
+      },
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "10 rod portage to/from Alton Lake.",
+        "publicUseAuthCode": "PRMIT",
+        "location": " ",
+        "accessTypeId": "PO"
+      },
+      {
+        "location": " ",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "Kelso River from Lujenida Lake.",
+        "publicUseAuthCode": "PRMIT"
+      }
+    ],
+    "DOWNumber": "16070600",
+    "sampledPlants": [
+      "Arrowhead Group (Sagittaria sp.)",
+      "Bladderwort Group (Utricularia sp.)",
+      "Blue Flag Iris (Iris versicolor)",
+      "Bushy Pondweed  (Najas flexilis)",
+      "Cottongrass Group (Eriophorum sp.)",
+      "Freshwater Sponge (Freshwater Sponge)",
+      "Grass Group  (Gramineae/Poaceae Family)",
+      "Horsetail Group (Equisetum sp.)",
+      "Needlerush Group (Eleocharis sp.)",
+      "Northern Milfoil (Myriophyllum sibiricum)",
+      "Quillwort Group  (Isoetes sp.)",
+      "Rush Group  (Juncus sp.)",
+      "Sedge Group (Carex sp.)",
+      "Sphagnum Moss Group (Sphagnum sp.)",
+      "Spikerush Group (Eleocharis sp.)",
+      "St. John's-wort Group (Hypericum sp.)",
+      "Swamp Fivefinger (Potentilla palustris)",
+      "Water Arum (Calla palustris)",
+      "Water Bulrush (Schoenoplectus subterminalis)",
+      "Water Moss Group (Drepanocladus sp.)",
+      "White Waterlily Group (Nymphaea sp.)",
+      "Yellow Waterlily Group (Nuphar sp.)",
+      "bog birch (Betula pumila)",
+      "bog rosemary (Andromeda glaucophylla)",
+      "broad-leaved cattail (Typha latifolia)",
+      "buckbean (Menyanthes trifoliata)",
+      "coiled pondweed (Potamogeton spirillus)",
+      "floating bur-reed (Sparganium fluctuans)",
+      "leatherleaf (Chamaedaphne calyculata)",
+      "mare's tail (Hippuris vulgaris)",
+      "northern wild rice (Zizania palustris (aquatica))",
+      "ribbon-leaved pondweed (Potamogeton epihydrus)",
+      "sweet gale (Myrica gale)",
+      "three-way sedge (Dulichium arundinaceum)"
+    ],
+    "meanDepthFeet": 10,
+    "officeCode": "F215",
+    "maxDepthFeet": 16,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.47",
+            "totalCatch": 32,
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "quartileCount": "2.0-6.3",
+            "CPUE": "2.67",
+            "gearCount": 12,
+            "quartileWeight": "1.3-2.4",
+            "totalWeight": 47.01
+          },
+          {
+            "species": "YEP",
+            "totalCatch": 19,
+            "averageWeight": "0.21",
+            "totalWeight": 4,
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 12,
+            "CPUE": "1.58",
+            "quartileCount": "2.2-14.6",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 53,
+            "species": "WTS",
+            "averageWeight": "1.98",
+            "quartileWeight": "1.5-2.4",
+            "totalWeight": 104.75,
+            "gear": "Standard gill nets",
+            "quartileCount": "3.6-14.1",
+            "CPUE": "4.42",
+            "gearCount": 12
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyDate": "1976-08-23",
+        "surveyID": "112084",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_name": "Kelso",
+          "survey_id": "112084",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "wb_id": "16070600",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "id_date": "1976-08-23"
+        },
+        "narrative": "<p>The Northern Pike population is good in relation to other lakes in the immediate area.</p>"
+      },
+      {
+        "lengths": {
+          "RKB": {
+            "fishCount": [
+              [
+                5,
+                1
+              ]
+            ],
+            "maximum_length": 5,
+            "minimum_length": 5
+          },
+          "NOP": {
+            "maximum_length": 26,
+            "fishCount": [
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                26,
+                2
+              ]
+            ],
+            "minimum_length": 14
+          },
+          "YEP": {
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                5,
+                4
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 5
+          },
+          "WTS": {
+            "minimum_length": 10,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyDate": "2025-09-08",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "totalCatch": 15,
+            "averageWeight": "1.50",
+            "totalWeight": 10177,
+            "quartileWeight": "1.3-2.4",
+            "gearCount": 6,
+            "quartileCount": "2.0-6.3",
+            "CPUE": "2.50",
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "0.10",
+            "species": "RKB",
+            "totalCatch": 1,
+            "gearCount": 6,
+            "CPUE": "0.17",
+            "quartileCount": "0.3-2.0",
+            "gear": "Standard gill nets",
+            "totalWeight": 46,
+            "quartileWeight": "0.2-0.4"
+          },
+          {
+            "averageWeight": "0.16",
+            "species": "YEP",
+            "totalCatch": 8,
+            "quartileCount": "2.2-14.6",
+            "CPUE": "1.33",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalWeight": 565,
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "CPUE": "4.33",
+            "quartileCount": "3.6-14.1",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalWeight": 20869,
+            "quartileWeight": "1.5-2.4",
+            "averageWeight": "1.77",
+            "species": "WTS",
+            "totalCatch": 26
+          }
+        ],
+        "narrative": "<p>Kelso Lake is located entirely within the Boundary Waters Canoe Area Wilderness (BWCAW) near Sawbill Lake and Alton Lake. No motorized use is allowed, and permits are required to access the lake which has three US Forest Service campsites on it. Users can access the lake by using a 13-rod portage from Sawbill Lake, a 10-rod portage from Alton Lake, or by paddling south from Lujenida Lake down the Kelso River into Kelso Lake. A survey of the lake was conducted in early September to update information on the Northen Pike population and fish community.  <br> \n <br> \nThe lake continues to support a low-density self-sustaining population of Northern Pike. Pike catch during the 2025 survey was normal when compared to similar lakes and was similar to previous surveys of Kelso Lake. Average length of pike was 19 inches, and average weight was 1.5 pounds. Three different ages of pike were sampled suggesting that they reproduce successfully with some consistency. Visitors to the lake are more likely to remember its scenic beauty than the angling opportunities it provides.  </p>",
+        "headerInfo": {
+          "survey_type": "Standard Survey",
+          "survey_id": "22102525851383000",
+          "wb_name": "Kelso",
+          "wb_id": "16070600",
+          "wb_alt_name": "",
+          "id_date": "2025-09-08",
+          "county": "Cook",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Standard Survey",
+        "surveyID": "22102525851383000"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.00",
+            "species": "NOP",
+            "totalCatch": 1,
+            "gearCount": 6,
+            "CPUE": "0.17",
+            "quartileCount": "N/A",
+            "gear": "Minnow traps",
+            "totalWeight": 0,
+            "quartileWeight": "N/A"
+          },
+          {
+            "averageWeight": "1.14",
+            "species": "NOP",
+            "totalCatch": 19,
+            "quartileCount": "2.0-6.3",
+            "CPUE": "3.17",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalWeight": 9820,
+            "quartileWeight": "1.3-2.4"
+          },
+          {
+            "averageWeight": "1.82",
+            "species": "SMB",
+            "totalCatch": 1,
+            "gearCount": 6,
+            "CPUE": "0.17",
+            "quartileCount": "0.5-5.8",
+            "gear": "Standard gill nets",
+            "totalWeight": 825,
+            "quartileWeight": "0.6-1.6"
+          },
+          {
+            "averageWeight": "0.18",
+            "totalCatch": 37,
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "quartileCount": "2.2-14.6",
+            "CPUE": "6.17",
+            "gearCount": 6,
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 3035
+          },
+          {
+            "species": "WTS",
+            "totalCatch": 73,
+            "averageWeight": "2.07",
+            "totalWeight": 68700,
+            "quartileWeight": "1.5-2.4",
+            "CPUE": "12.17",
+            "quartileCount": "3.6-14.1",
+            "gearCount": 6,
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "0.00",
+            "species": "BLG",
+            "totalCatch": 1,
+            "CPUE": "0.17",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "gear": "Minnow traps",
+            "totalWeight": 0,
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyDate": "2007-08-20",
+        "lengths": {
+          "SMB": {
+            "minimum_length": 14,
+            "fishCount": [
+              [
+                14,
+                1
+              ]
+            ],
+            "maximum_length": 14
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                9
+              ],
+              [
+                17,
+                14
+              ],
+              [
+                18,
+                17
+              ],
+              [
+                19,
+                11
+              ],
+              [
+                20,
+                6
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 8
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "maximum_length": 10,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                5,
+                5
+              ],
+              [
+                6,
+                8
+              ],
+              [
+                7,
+                12
+              ],
+              [
+                8,
+                7
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 4,
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                23,
+                2
+              ]
+            ]
+          },
+          "BLG": {
+            "minimum_length": 1,
+            "maximum_length": 1,
+            "fishCount": [
+              [
+                1,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyID": "610722850655000",
+        "headerInfo": {
+          "wb_id": "16070600",
+          "wb_alt_name": "",
+          "survey_type": "Re-Survey",
+          "wb_name": "Kelso",
+          "survey_id": "610722850655000",
+          "id_date": "2007-08-20",
+          "county": "Cook",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Re-Survey",
+        "narrative": "<p>Kelso Lake is a 97-acre lake located on a canoe route a short distance inside the BWCAW. Access is from a 13 rod portage from Sawbill Lake or a 10 rod portage from Alton Lake. The lake has a maximum depth of 16 feet with bog stained water that has a secchi disc visible to a depth of 4.5 feet. The lake receives a fair amount of traffic from canoeists traveling through to other destinations in the wilderness but fishing pressure is light. The fish population in Kelso Lake consists of northern pike, yellow perch, smallmouth bass, white sucker and bluegill.. <br> \n <br> \nA lake survey in 2007 collected northern pike in average numbers compared to other lakes in this lake class. The size of northern pike collected in 2007 was below average with a mean weight of 1.14 pounds. There were no northern pike larger than 2.9 pounds collected in the survey. <br> \n <br> \nYellow perch were collected in average numbers with approximately one-third of the fish larger than 8.0 inches. Yellow perch up to 10.2 inches were collected in 2007.     <br> \n <br> \nOne smallmouth bass (14.5 inches) and one young-of-the-year bluegill sunfish (1.1 inches) were sampled for the first time in 2007. Access limitations restricted the type of survey gear used in this investigation so abundances for these two species were not assessed.   <br> \n</p>"
+      }
+    ],
+    "lakeName": "Kelso",
+    "county": "Cook",
+    "waterClarity": [
+      [
+        "09/08/2025",
+        "2.5"
+      ],
+      [
+        "08/20/2007",
+        "4.5"
+      ]
+    ],
+    "littoralAcres": 95,
+    "shoreLengthMiles": 7.85,
+    "areaAcres": 132.65
+  }
+}

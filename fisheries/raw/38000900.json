@@ -1,0 +1,83 @@
+{
+  "timestamp": 1790286001,
+  "message": "Normal execution.",
+  "result": {
+    "lakeName": "Tickle",
+    "waterClarity": [],
+    "county": "Lake",
+    "DOWNumber": "38000900",
+    "officeCode": "F214",
+    "averageWaterClarity": "N/A",
+    "sampledPlants": [],
+    "areaAcres": 41.85,
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "location": "Foot trail to W arm of Lake from Ogishkemuncie Lake.",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "littoralAcres": 0,
+    "shoreLengthMiles": 1.77,
+    "maxDepthFeet": 61,
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_id": "38000900",
+          "wb_name": "Tickle",
+          "id_date": "1978-08-19",
+          "survey_type": "Initial Survey",
+          "survey_id": "107924",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_alt_name": ""
+        },
+        "surveyID": "107924",
+        "fishCatchSummaries": [
+          {
+            "species": "GSF",
+            "gear": "Standard gill nets",
+            "totalCatch": 10,
+            "CPUE": "3.33",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalWeight": 0.75,
+            "gearCount": 3,
+            "averageWeight": "0.07"
+          },
+          {
+            "gearCount": 3,
+            "averageWeight": "0.24",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "CPUE": "20.67",
+            "totalCatch": 62,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 14.75
+          },
+          {
+            "gearCount": 3,
+            "averageWeight": "0.52",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalCatch": 51,
+            "CPUE": "17.00",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalWeight": 26.75
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "narrative": "<p>Time when the beaver dam at the outlet was maintained.  Now the dam's almost gone with no head & only a few logs remaining to proveits past existence. Consists of above average populations of suckers, yellow perch, and greenrn sunfish.</p>",
+        "surveyDate": "1978-08-19"
+      }
+    ]
+  },
+  "status": "SUCCESS"
+}

@@ -1,0 +1,708 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790286049,
+  "status": "SUCCESS",
+  "result": {
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 8,
+            "gearCount": 6,
+            "quartileCount": "1.8-12.4",
+            "averageWeight": "0.56",
+            "gear": "Standard gill nets",
+            "CPUE": "1.33",
+            "quartileWeight": "0.2-0.5",
+            "species": "TLC",
+            "totalWeight": 4.5
+          },
+          {
+            "gearCount": 6,
+            "quartileCount": "1.2-3.6",
+            "totalCatch": 31,
+            "gear": "Standard gill nets",
+            "CPUE": "5.17",
+            "averageWeight": "2.50",
+            "quartileWeight": "1.9-3.6",
+            "totalWeight": 77.5,
+            "species": "NOP"
+          },
+          {
+            "gearCount": 6,
+            "totalCatch": 39,
+            "quartileCount": "2.8-6.7",
+            "gear": "Standard gill nets",
+            "CPUE": "6.50",
+            "averageWeight": "2.15",
+            "quartileWeight": "1.3-2.0",
+            "totalWeight": 84,
+            "species": "WTS"
+          },
+          {
+            "averageWeight": "0.93",
+            "CPUE": "6.83",
+            "gear": "Standard gill nets",
+            "totalCatch": 41,
+            "gearCount": 6,
+            "quartileCount": "3.1-9.8",
+            "species": "WAE",
+            "totalWeight": 38,
+            "quartileWeight": "0.7-1.3"
+          },
+          {
+            "gearCount": 6,
+            "quartileCount": "0.3-0.7",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "CPUE": "0.17",
+            "averageWeight": "1.50",
+            "quartileWeight": "0.5-1.3",
+            "totalWeight": 1.5,
+            "species": "SMB"
+          },
+          {
+            "averageWeight": "2.48",
+            "gear": "Standard gill nets",
+            "CPUE": "2.83",
+            "quartileCount": "0.2-0.6",
+            "gearCount": 6,
+            "totalCatch": 17,
+            "species": "SHR",
+            "totalWeight": 42.2,
+            "quartileWeight": "1.6-2.3"
+          },
+          {
+            "species": "SAR",
+            "totalWeight": 3,
+            "quartileWeight": "0.4-0.6",
+            "averageWeight": "0.50",
+            "gear": "Standard gill nets",
+            "CPUE": "1.00",
+            "gearCount": 6,
+            "quartileCount": "0.9-3.0",
+            "totalCatch": 6
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "totalWeight": 1.6,
+            "species": "YEP",
+            "quartileCount": "1.9-7.1",
+            "gearCount": 6,
+            "totalCatch": 12,
+            "gear": "Standard gill nets",
+            "CPUE": "2.00",
+            "averageWeight": "0.13"
+          },
+          {
+            "species": "RKB",
+            "totalWeight": 3.4,
+            "quartileWeight": "0.2-0.4",
+            "averageWeight": "0.28",
+            "gear": "Standard gill nets",
+            "CPUE": "2.00",
+            "quartileCount": "0.5-2.2",
+            "gearCount": 6,
+            "totalCatch": 12
+          }
+        ],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "1974-07-13",
+          "survey_type": "Initial Survey",
+          "survey_id": "108125",
+          "wb_id": "69022300",
+          "wb_name": "Agnes",
+          "wb_type": "Lake",
+          "county": "St. Louis"
+        },
+        "surveyID": "108125",
+        "lengths": {},
+        "narrative": "<p>Agnes has an above average walleye population.  Northern pike are about average.  N redhorse and sucker are above avgerage.  Smallmouth bass, sauger, perch, rock bass, and tullibee are present.</p>",
+        "surveyDate": "1974-07-13",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyID": "12231615834772000",
+        "lengths": {
+          "SAR": {
+            "maximum_length": 13,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                8
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                9
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ]
+            ],
+            "maximum_length": 14,
+            "minimum_length": 12
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                6
+              ],
+              [
+                11,
+                14
+              ],
+              [
+                12,
+                14
+              ],
+              [
+                13,
+                11
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 25
+          },
+          "SIL": {
+            "minimum_length": 5,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                5,
+                9
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                14
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                7
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                7
+              ],
+              [
+                14,
+                10
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                14
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                18,
+                8
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ],
+              [
+                0,
+                1
+              ]
+            ],
+            "minimum_length": 0,
+            "maximum_length": 20
+          },
+          "NOP": {
+            "maximum_length": 40,
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                34,
+                1
+              ],
+              [
+                40,
+                1
+              ]
+            ]
+          },
+          "CIS": {
+            "fishCount": [
+              [
+                10,
+                39
+              ],
+              [
+                11,
+                29
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                48
+              ],
+              [
+                9,
+                9
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 15
+          },
+          "BLC": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                3
+              ]
+            ],
+            "minimum_length": 10,
+            "maximum_length": 12
+          },
+          "SHR": {
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 16
+          },
+          "RKB": {
+            "minimum_length": 5,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                5,
+                5
+              ],
+              [
+                6,
+                8
+              ],
+              [
+                7,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                9
+              ],
+              [
+                6,
+                23
+              ],
+              [
+                7,
+                45
+              ],
+              [
+                8,
+                10
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 4,
+            "maximum_length": 9
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "3.00",
+            "averageWeight": "2.37",
+            "totalCatch": 27,
+            "gearCount": 9,
+            "quartileCount": "1.2-3.6",
+            "totalWeight": 28998,
+            "species": "NOP",
+            "quartileWeight": "1.9-3.6"
+          },
+          {
+            "averageWeight": "0.98",
+            "gear": "Standard gill nets",
+            "CPUE": "0.33",
+            "gearCount": 9,
+            "quartileCount": "0.2-1.4",
+            "totalCatch": 3,
+            "species": "BLC",
+            "totalWeight": 1340,
+            "quartileWeight": "0.2-0.5"
+          },
+          {
+            "totalWeight": 58758,
+            "species": "WTS",
+            "quartileWeight": "1.3-2.0",
+            "gear": "Standard gill nets",
+            "CPUE": "8.33",
+            "averageWeight": "1.73",
+            "quartileCount": "2.8-6.7",
+            "gearCount": 9,
+            "totalCatch": 75
+          },
+          {
+            "quartileWeight": "0.7-1.3",
+            "species": "WAE",
+            "totalWeight": 32066,
+            "quartileCount": "3.1-9.8",
+            "gearCount": 9,
+            "totalCatch": 72,
+            "averageWeight": "0.98",
+            "gear": "Standard gill nets",
+            "CPUE": "8.00"
+          },
+          {
+            "totalCatch": 32,
+            "gearCount": 9,
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "gear": "Standard gill nets",
+            "CPUE": "3.56",
+            "quartileWeight": "N/A",
+            "species": "SIL",
+            "totalWeight": 0
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 555,
+            "species": "BLC",
+            "gearCount": 2,
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "CPUE": "0.50",
+            "gear": "Open-water angling",
+            "averageWeight": "1.22"
+          },
+          {
+            "totalWeight": 3792,
+            "species": "SHR",
+            "quartileWeight": "1.6-2.3",
+            "gear": "Standard gill nets",
+            "CPUE": "0.33",
+            "averageWeight": "2.79",
+            "totalCatch": 3,
+            "gearCount": 9,
+            "quartileCount": "0.2-0.6"
+          },
+          {
+            "CPUE": "14.67",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.36",
+            "gearCount": 9,
+            "totalCatch": 132,
+            "quartileCount": "N/A",
+            "totalWeight": 21438,
+            "species": "CIS",
+            "quartileWeight": "N/A"
+          },
+          {
+            "averageWeight": "1.42",
+            "gear": "Open-water angling",
+            "CPUE": "1.00",
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "totalCatch": 2,
+            "species": "SMB",
+            "totalWeight": 1288,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "species": "WTS",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "gear": "Minnow traps",
+            "CPUE": "0.33",
+            "averageWeight": "0.00"
+          },
+          {
+            "gearCount": 9,
+            "totalCatch": 90,
+            "quartileCount": "1.9-7.1",
+            "averageWeight": "0.17",
+            "CPUE": "10.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "totalWeight": 7099
+          },
+          {
+            "species": "SAR",
+            "totalWeight": 4758,
+            "quartileWeight": "0.4-0.6",
+            "averageWeight": "0.44",
+            "gear": "Standard gill nets",
+            "CPUE": "2.67",
+            "gearCount": 9,
+            "totalCatch": 24,
+            "quartileCount": "0.9-3.0"
+          },
+          {
+            "quartileWeight": "0.2-0.4",
+            "totalWeight": 1220,
+            "species": "RKB",
+            "totalCatch": 14,
+            "gearCount": 9,
+            "quartileCount": "0.5-2.2",
+            "gear": "Standard gill nets",
+            "CPUE": "1.56",
+            "averageWeight": "0.19"
+          }
+        ],
+        "headerInfo": {
+          "survey_type": "Standard Survey",
+          "survey_id": "12231615834772000",
+          "wb_id": "69022300",
+          "wb_name": "Agnes",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "wb_alt_name": "",
+          "id_date": "2016-06-20"
+        },
+        "surveySubType": "Standard Survey",
+        "narrative": "<p>Agnes Lake is located about 24 miles northwest of Ely and is within the Superior National Forest's Boundary Waters Canoe Area Wilderness (BWCAW).  There are four accesses, three of which are portages and one is a water route.  Accesses consist of the inlet of the Moose River, a 160 rod portage to the Oyster River, a 24 rod portage to the Boulder River at the Boulder River outlet, and an additional 115 rod portage to the Boulder River.  Agnes has one major inlet and outlet.  The Moose River flows in on the southwest side of the lake and the Boulder River flows out to the northeast and on to Lac la Croix.  Agnes is a 1,045 acre lake with a maximum depth of 30 feet and brown/green colored water.  \n\nOn June 20, 2016 Agnes Lake was weakly thermally stratified with a surface temperature of 68 F and a bottom temperature of 57 F.  Oxygen levels were adequate for fish throughout the water column.  The shorelines of Agnes are dominated by boulder with small areas of sand, gravel, and muck.  Aquatic plants are sparse and only grow in some of the shallow bays.  \n\nThis is only the second fisheries assessment conducted on Agnes Lake.  The overall gillnet catch rate for all fish combined was 52.4 fish/net which is higher than the 1974 survey of 27.8 fish/net.  Fish species sampled were cisco, yellow perch, white sucker, walleye, silver lamprey, northern pike, sauger, rock bass, black crappie, and shorthead redhorse.  \n\nWalleye appear to be doing quite well in Agnes with a gill net catch rate of 8 fish/net, which is quite good compared to other walleye lakes in the Tower area and slightly better than the old survey.  Sizes ranged from 7 to 26 inches with an average of 14 inches and an average weight of about a pound.  Although numbers were good, the growth was somewhat slow. In Agnes Lake on average it takes five years for a walleye to reach 14.5 inches.  Ages ranged from 1 to 14 with good representation from the 2012 year class. This year class has shown to be strong in many walleye lakes in northeast Minnesota.  \n\nAgnes is one of only a handful of lakes in the Tower area to have sauger and it appears this lakes population is quite high with a catch rate of 2.7 fish/net. This catch rate is better than the 1974 survey and higher than any of the surveys on nearby Lac la Croix (max of 0.9 fish/net), where the Agnes sauger population likely came from. Sizes ranged from 8 to 13 inches with an average of 12 inches. At five years old, the average sauger was around 12 inches long. Ages ranged from 2 to 8 with very strong representation from the 2011 and 2012 year classes.\n  \nThe northern pike gillnet catch was 3 fish/net which is above average compared to other similar lakes but slightly below the catch rate of the 1974 survey.  Sizes ranged from 13 to 41 inches with an average of 21 inches.  The average weight was around 2.5 pounds.  \n\nThe yellow perch gillnet catch was 10 fish/net which is much better than the 1974 survey and very good compared to other Tower area lakes.  The average perch was 7 inches long with the largest nearing 10 inches.  \n\nSilver lamprey have been well documented by anglers on Agnes Lake.  Several reports and pictures obtained by our office show the surprise that sometimes awaits people as they pull their catch into their canoe, only to see this prehistoric looking serpent with a disk full of teeth either still clinging to their catch, or having fallen off into their canoe and now slithering toward them.  Naturally the assumption is, how did this \"sea lamprey\" get into this lake?  Unlike sea lamprey which are non-native and often kill their host, these silver lamprey are a native species which is parasitic, but generally doesn't adversely harm the fish it is attached to.  Agnes Lake has by far the largest population of these fish in the Tower area with this assessment capturing 24 of them. Most were unmeasured because of the difficulty in picking up and holding them, but average sizes were around 7 inches.      \n\nAgnes Lake is home to a substantial cisco population.  A gill net catch rate of 14.7 fish/net was much higher than the catch rate of 1.3 fish/net from the 1974 survey.  This current catch rate is also very good compared to other Tower area lakes containing cisco.  The average weight was 0.2 pounds and sizes ranged from 6 to 15 inches with an average of 10 inches.  \n\nNo smallmouth bass were sampled in gill nets however, two were caught while angling.  Each fish was 13 and 15 inches long.  Angler reports suggests smallmouth are relatively abundant in the lake with a number of decent sized fish.  Smallmouth do not always sample well in gill nets so it is not surprising we caught none.\n\nThree black crappie were caught in gill nets with one additional fish caught while angling.  Sizes were good ranging from 11 to 13 inches.  Similar to the smallmouth bass, angler reports suggests they sometimes do quite well on crappie in Agnes Lake.  \n\nOther species sampled in gill nets were rock bass, white sucker, and shorthead redhorse.\n\n</p>",
+        "surveyDate": "2016-06-20",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "officeCode": "F214",
+    "shoreLengthMiles": 13.04,
+    "county": "St. Louis",
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "06/21/2016",
+        "6"
+      ]
+    ],
+    "lakeName": "Agnes",
+    "DOWNumber": "69022300",
+    "averageWaterClarity": "6.0",
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "location": "USFS. Portages from Boulder River  also accessible from Nina Moose R.",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": "Moose River"
+      }
+    ],
+    "areaAcres": 1044.61,
+    "littoralAcres": 453,
+    "maxDepthFeet": 30
+  }
+}

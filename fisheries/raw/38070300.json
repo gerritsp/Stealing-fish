@@ -1,0 +1,498 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "lakeName": "Little Gabbro",
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "location": "Parking for approx. 10-15 vehicles at trailhead.",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "lakeAccessComments": "200 rod/ 1100 yd. portage from parking area."
+      },
+      {
+        "lakeAccessComments": "285 rod/ 1568 yd. portage from Bruin Lk.",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "PRMIT"
+      },
+      {
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO",
+        "location": " ",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "120 rod/ 660 yd. portage from Kawishiwi R. into north arm of lake near dam #1."
+      },
+      {
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "lakeAccessComments": "8 rod/ 44yd. portage around dam #2 into northwest bay of lake.",
+        "publicUseAuthCode": "PRMIT"
+      },
+      {
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "lakeAccessComments": "10 rod/ 55yd. portage from Kawishiwi R. into channel heading toward AC4.",
+        "publicUseAuthCode": "PRMIT"
+      }
+    ],
+    "surveys": [
+      {
+        "lengths": {
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                6
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 9,
+            "minimum_length": 5
+          },
+          "BLC": {
+            "fishCount": [
+              [
+                10,
+                1
+              ]
+            ],
+            "minimum_length": 10,
+            "maximum_length": 10
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                11,
+                6
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 20
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 10
+          },
+          "TLC": {
+            "maximum_length": 13,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                8,
+                2
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 13,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 19,
+            "minimum_length": 8
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "quartileWeight": "1.5-2.4",
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.2-3.9",
+            "gearCount": 4,
+            "totalWeight": 2031,
+            "averageWeight": "1.12",
+            "totalCatch": 4
+          },
+          {
+            "totalCatch": 1,
+            "totalWeight": 289,
+            "averageWeight": "0.64",
+            "quartileCount": "0.5",
+            "gearCount": 4,
+            "species": "BLC",
+            "CPUE": "0.25",
+            "quartileWeight": "0.3",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 1262,
+            "averageWeight": "0.46",
+            "totalCatch": 6,
+            "quartileWeight": "0.2-0.5",
+            "gear": "Standard gill nets",
+            "CPUE": "1.50",
+            "species": "RKB",
+            "gearCount": 4,
+            "quartileCount": "0.5-2.3"
+          },
+          {
+            "quartileCount": "3.0-13.2",
+            "gearCount": 4,
+            "CPUE": "4.00",
+            "quartileWeight": "0.7-1.3",
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "totalCatch": 16,
+            "totalWeight": 5044,
+            "averageWeight": "0.70"
+          },
+          {
+            "totalCatch": 18,
+            "totalWeight": 1294,
+            "averageWeight": "0.16",
+            "gearCount": 4,
+            "quartileCount": "0.5-2.8",
+            "quartileWeight": "0.1-0.3",
+            "gear": "Standard gill nets",
+            "CPUE": "4.50",
+            "species": "YEP"
+          },
+          {
+            "CPUE": "1.75",
+            "quartileWeight": "1.7-2.4",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "gearCount": 4,
+            "quartileCount": "2.6-11.7",
+            "totalWeight": 5214,
+            "averageWeight": "1.64",
+            "totalCatch": 7
+          },
+          {
+            "totalCatch": 7,
+            "totalWeight": 1610,
+            "averageWeight": "0.51",
+            "gearCount": 4,
+            "quartileCount": "1.0-5.3",
+            "quartileWeight": "0.2-0.8",
+            "gear": "Standard gill nets",
+            "CPUE": "1.75",
+            "species": "TLC"
+          }
+        ],
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "38070300",
+          "county": "Lake",
+          "survey_id": "12391628734129005",
+          "survey_type": "Standard Survey",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "id_date": "2016-09-12",
+          "wb_name": "Little Gabbro"
+        },
+        "surveyID": "12391628734129005",
+        "narrative": "<p>Little Gabbro Lake is located approximately 11 miles SE of Ely within the BWCAW. The primary access is a 200 rod portage from a parking area located off the Spruce Road. There are 3 designated campsites located on the lake and another one located in the narrows between Little Gabbro and Gabbro Lakes. <br> \n <br> \nSeven species of fish were sampled during the 2016 survey of Little Gabbro Lake. Yellow perch and rock bass were the only species sampled in above average numbers while walleye, northern pike, black crappie, cisco and white sucker were sampled in below average numbers. <br> \n <br> \nWalleye numbers in 2016 (4.0/gill net) were below average compared to other similar area lakes. The average walleye sampled was 12.6 inches and about 4 years old. The largest walleye sampled in 2016 was 20.2 inches which was the only walleye over 14 inches sampled. The 2016 survey indicated a walleye population with lower relative abundance and similar sizes compared to the last survey in 1988. <br> \n <br> \n</p>",
+        "surveyDate": "2016-09-12"
+      },
+      {
+        "headerInfo": {
+          "wb_type": "Lake",
+          "id_date": "1977-07-07",
+          "wb_name": "Little Gabbro",
+          "county": "Lake",
+          "wb_id": "38070300",
+          "survey_id": "108046",
+          "survey_type": "Re-Survey",
+          "wb_alt_name": ""
+        },
+        "surveyID": "108046",
+        "narrative": "<p>Composed of and above average population of cisco and average populations of suckers, northern pike, rock bass, and walleye.  The crappie and perch populations is below average but not uncommon for a lake of this type.</p>",
+        "surveyDate": "1977-07-07",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "CPUE": "3.25",
+            "quartileWeight": "1.5-2.4",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "gearCount": 4,
+            "quartileCount": "1.2-3.9",
+            "averageWeight": "1.73",
+            "totalWeight": 22.5,
+            "totalCatch": 13
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "0.5",
+            "quartileWeight": "0.3",
+            "CPUE": "0.25",
+            "gear": "Standard gill nets",
+            "species": "BLC",
+            "totalCatch": 1,
+            "totalWeight": 0.1,
+            "averageWeight": "0.10"
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "0.5-2.3",
+            "quartileWeight": "0.2-0.5",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "species": "RKB",
+            "totalCatch": 2,
+            "totalWeight": 1,
+            "averageWeight": "0.50"
+          },
+          {
+            "quartileWeight": "0.7-1.3",
+            "CPUE": "4.25",
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "gearCount": 4,
+            "quartileCount": "3.0-13.2",
+            "totalWeight": 16.75,
+            "averageWeight": "0.99",
+            "totalCatch": 17
+          },
+          {
+            "CPUE": "3.00",
+            "quartileWeight": "0.1-0.3",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "gearCount": 4,
+            "quartileCount": "0.5-2.8",
+            "averageWeight": "0.11",
+            "totalWeight": 1.3,
+            "totalCatch": 12
+          },
+          {
+            "totalWeight": 15.5,
+            "averageWeight": "1.72",
+            "totalCatch": 9,
+            "species": "WTS",
+            "quartileWeight": "1.7-2.4",
+            "gear": "Standard gill nets",
+            "CPUE": "2.25",
+            "gearCount": 4,
+            "quartileCount": "2.6-11.7"
+          },
+          {
+            "species": "TLC",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-0.8",
+            "CPUE": "13.00",
+            "quartileCount": "1.0-5.3",
+            "gearCount": 4,
+            "totalWeight": 20.75,
+            "averageWeight": "0.40",
+            "totalCatch": 52
+          }
+        ],
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyDate": "1988-09-16",
+        "narrative": "<p>Rock bass are present in average numbers; cisco, northern pike, white sucker, yellow perch and walleye are present in below average numbers. Cisco sizes range from 6.2. Sizes are larger than average; sucker and walleye sizes are smaller than average. Walleye year class strengths are fairly even. </p>",
+        "surveyID": "108377",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Lake",
+          "wb_id": "38070300",
+          "survey_type": "Population Assessment",
+          "survey_id": "108377",
+          "wb_name": "Little Gabbro",
+          "id_date": "1988-09-16",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "1.2-3.9",
+            "gearCount": 4,
+            "species": "NOP",
+            "CPUE": "1.25",
+            "quartileWeight": "1.5-2.4",
+            "gear": "Standard gill nets",
+            "totalCatch": 5,
+            "totalWeight": 16.2,
+            "averageWeight": "3.24"
+          },
+          {
+            "quartileCount": "0.5-2.3",
+            "gearCount": 4,
+            "quartileWeight": "0.2-0.5",
+            "gear": "Standard gill nets",
+            "CPUE": "1.50",
+            "species": "RKB",
+            "totalCatch": 6,
+            "totalWeight": 2.4,
+            "averageWeight": "0.40"
+          },
+          {
+            "totalCatch": 9,
+            "totalWeight": 6.3,
+            "averageWeight": "0.70",
+            "gearCount": 4,
+            "quartileCount": "3.0-13.2",
+            "CPUE": "2.25",
+            "quartileWeight": "0.7-1.3",
+            "gear": "Standard gill nets",
+            "species": "WAE"
+          },
+          {
+            "averageWeight": "0.25",
+            "totalWeight": 1.5,
+            "totalCatch": 6,
+            "quartileWeight": "0.1-0.3",
+            "gear": "Standard gill nets",
+            "CPUE": "1.50",
+            "species": "YEP",
+            "quartileCount": "0.5-2.8",
+            "gearCount": 4
+          },
+          {
+            "totalCatch": 7,
+            "averageWeight": "0.94",
+            "totalWeight": 6.6,
+            "quartileCount": "2.6-11.7",
+            "gearCount": 4,
+            "quartileWeight": "1.7-2.4",
+            "CPUE": "1.75",
+            "gear": "Standard gill nets",
+            "species": "WTS"
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "1.0-5.3",
+            "species": "TLC",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-0.8",
+            "CPUE": "2.00",
+            "totalCatch": 8,
+            "averageWeight": "0.15",
+            "totalWeight": 1.2
+          }
+        ],
+        "surveySubType": "Population Assessment"
+      }
+    ],
+    "county": "Lake",
+    "DOWNumber": "38070300",
+    "officeCode": "F214",
+    "meanDepthFeet": 0,
+    "areaAcres": 147.54,
+    "littoralAcres": 117,
+    "averageWaterClarity": "4.0",
+    "waterClarity": [
+      [
+        "09/12/2016",
+        "4"
+      ]
+    ],
+    "sampledPlants": [],
+    "shoreLengthMiles": 7.73,
+    "maxDepthFeet": 26
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285623
+}

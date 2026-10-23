@@ -1,0 +1,50 @@
+{
+  "result": {
+    "lakeAltName": "Serenade",
+    "meanDepthFeet": 0,
+    "lakeName": "Jonathan",
+    "county": "St. Louis",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "location": "NO DESIGNATED PORTAGE.",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "DOWNumber": "69031700",
+    "maxDepthFeet": 6,
+    "littoralAcres": 59.38,
+    "areaAcres": 59.38,
+    "shoreLengthMiles": 1.29,
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_name": "Jonathan",
+          "county": "St. Louis",
+          "wb_type": "Lake",
+          "survey_id": "108200",
+          "wb_id": "69031700",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "Serenade",
+          "id_date": "1985-07-01"
+        },
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyDate": "1985-07-01",
+        "narrative": "<p>No fish were caught during lake survey. </p>",
+        "surveyID": "108200",
+        "fishCatchSummaries": []
+      }
+    ],
+    "waterClarity": []
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285589,
+  "status": "SUCCESS"
+}

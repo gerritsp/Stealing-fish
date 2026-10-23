@@ -1,0 +1,86 @@
+{
+  "result": {
+    "sampledPlants": [],
+    "maxDepthFeet": 19,
+    "averageWaterClarity": "N/A",
+    "areaAcres": 207.89,
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveyID": "108166",
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1976-08-19",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.17",
+            "CPUE": "1.00",
+            "quartileCount": "2.0-8.5",
+            "quartileWeight": "1.4-2.7",
+            "species": "NOP",
+            "totalCatch": 3,
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "totalWeight": 3.5
+          },
+          {
+            "totalWeight": 22.5,
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "totalCatch": 19,
+            "quartileWeight": "1.1-1.9",
+            "species": "WAE",
+            "quartileCount": "2.2-10.5",
+            "CPUE": "6.33",
+            "averageWeight": "1.18"
+          },
+          {
+            "totalCatch": 21,
+            "gear": "Standard gill nets",
+            "totalWeight": 5.5,
+            "gearCount": 3,
+            "averageWeight": "0.26",
+            "quartileCount": "2.5-14.3",
+            "CPUE": "7.00",
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 12,
+            "gearCount": 3,
+            "totalWeight": 29.5,
+            "averageWeight": "2.46",
+            "quartileWeight": "0.9-2.3",
+            "species": "WTS",
+            "CPUE": "4.00",
+            "quartileCount": "1.6-8.4"
+          }
+        ],
+        "narrative": "<p>Consists of above average populations of walleye, yellow perch, and sucker.  Northern pike are present in below average numbers.</p>",
+        "headerInfo": {
+          "id_date": "1976-08-19",
+          "survey_type": "Initial Survey",
+          "wb_id": "69038100",
+          "county": "St. Louis",
+          "wb_type": "Lake",
+          "survey_id": "108166",
+          "wb_name": "Buck",
+          "wb_alt_name": ""
+        }
+      }
+    ],
+    "shoreLengthMiles": 6.1,
+    "lakeName": "Buck",
+    "waterClarity": [],
+    "accesses": [],
+    "DOWNumber": "69038100",
+    "county": "St. Louis",
+    "officeCode": "F214",
+    "littoralAcres": 207.89
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285571
+}

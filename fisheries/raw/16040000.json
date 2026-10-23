@@ -1,0 +1,66 @@
+{
+  "timestamp": 1790285716,
+  "result": {
+    "lakeName": "Lily",
+    "accesses": [
+      {
+        "location": "A 0.1 mile portage from Brule Lake to the Southern tip of Lily Lake.",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 0.95,
+    "littoralAcres": 0,
+    "county": "Cook",
+    "waterClarity": [
+      [
+        "07/24/1972",
+        "10.5"
+      ]
+    ],
+    "areaAcres": 18.81,
+    "DOWNumber": "16040000",
+    "maxDepthFeet": 51,
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "narrative": "<p>A fair population of small N Pike is present. Yel Perch and Minnows were taken by seining only.</p>",
+        "headerInfo": {
+          "county": "Cook",
+          "survey_id": "109740",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "1972-07-24",
+          "wb_id": "16040000",
+          "survey_type": "Initial Survey",
+          "wb_name": "Lily"
+        },
+        "surveyDate": "1972-07-24",
+        "surveyID": "109740",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.3-5.1",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "totalWeight": 8.2,
+            "averageWeight": "0.91",
+            "species": "NOP",
+            "totalCatch": 9,
+            "CPUE": "3.00",
+            "quartileWeight": "1.4-2.2"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "lengths": {}
+      }
+    ],
+    "officeCode": "F218",
+    "averageWaterClarity": "10.5"
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

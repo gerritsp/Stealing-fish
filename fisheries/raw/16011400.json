@@ -1,0 +1,1093 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "sampledPlants": [],
+    "DOWNumber": "16011400",
+    "lakeName": "Alder",
+    "surveys": [
+      {
+        "surveyID": "4311007752061000",
+        "lengths": {
+          "SMB": {
+            "maximum_length": 14,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 8
+          },
+          "LAT": {
+            "minimum_length": 6,
+            "maximum_length": 24,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "maximum_length": 20
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                12
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 9,
+            "minimum_length": 5
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                29,
+                1
+              ]
+            ],
+            "maximum_length": 29,
+            "minimum_length": 29
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2010-07-12",
+        "headerInfo": {
+          "county": "Cook",
+          "id_date": "2010-07-12",
+          "survey_type": "Population Assessment",
+          "wb_id": "16011400",
+          "wb_name": "Alder",
+          "wb_alt_name": "",
+          "survey_id": "4311007752061000",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>Lake trout abundance was low in 2010 for a lake of this class, and the 2010 catch fell short of the long range goal (0.4 fish/set) in the 2007 lake management plan.  The size goal in that plan (a minimum mean weight of 2.0 lb/fish) was met.  Although the lake trout catch was low, it was not unusually so for this lake historically.  Four year classes, all naturally produced, were included in the 2010 catch.  Sample sizes were too low to allow growth rates to be described with any confidence.  The presence of one and two-year-old fish in the catch indicated some natural reproduction was occurring. <br> \n  <br> \nWalleye abundance was also low in 2010, and fell short of the 2007 goal for that species.  The size goal from the 2007 plan was only minimally met by the catch of a single fish over 20 inches.  Five year classes contributed to the walleye catch, but none had been strong.  Walleye growth rates had apparently been about average, at least among young fish.  Walleye reached an average length of 11.9 inches at the end of their third year, compared to an area average of 11.6 inches. <br> \n <br> \nThe northern pike gill net catch was low for a lake of this class, but it wasn't unusually low for this lake historically.  Northern pike gill net catches ranged from zero to 0.5 fish/set in 1969-2005.   <br> \n <br> \nSmallmouth bass gill net catch and mean weight were within normal ranges for the lake class, and were similar to past observations in this lake.  Three year classes contributed to the smallmouth bass catch, but none were particularly strong.  Growth of four-year-old fish had been slow; they averaged 8.4 inches in length at the end of their fourth year. <br> \n <br> \nThe 2010 yellow perch gill net catch was the highest seen in this lake since 1969, and was well within the normal range for the lake class; however, most of the perch collected would have been too small to have been of much interest to anglers.  Although no scale samples were collected, it appeared from the length frequency distribution that a single strong year class may have accounted for most of the yellow perch taken in this assessment. <br> \n <br> \nTemperature-oxygen conditions in Alder Lake have, in some years, deteriorated to the point where they have been marginal for lake trout.  Conditions measured during this assessment were good; suitable for lake trout (temperature less than 55 F and oxygen over 5 ppm) at depths of 23 to at least 50 ft (the deepest tested). <br> \n <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.4-3.7",
+            "totalCatch": 4,
+            "gearCount": 12,
+            "totalWeight": 3862,
+            "gear": "Standard gill nets",
+            "species": "LAT",
+            "CPUE": "0.33",
+            "quartileWeight": "1.5-4.0",
+            "averageWeight": "2.13"
+          },
+          {
+            "quartileWeight": "2.1-4.9",
+            "CPUE": "0.08",
+            "averageWeight": "6.61",
+            "gearCount": 12,
+            "totalCatch": 1,
+            "quartileCount": "0.6-2.4",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "totalWeight": 3000
+          },
+          {
+            "averageWeight": "1.00",
+            "CPUE": "0.42",
+            "quartileWeight": "0.6-1.5",
+            "totalWeight": 2261,
+            "gear": "Standard gill nets",
+            "species": "SMB",
+            "quartileCount": "0.3-1.4",
+            "totalCatch": 5,
+            "gearCount": 12
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 5054,
+            "species": "WAE",
+            "quartileCount": "1.2-5.2",
+            "gearCount": 12,
+            "totalCatch": 6,
+            "averageWeight": "1.86",
+            "CPUE": "0.50",
+            "quartileWeight": "1.0-2.0"
+          },
+          {
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "totalWeight": 707,
+            "gearCount": 12,
+            "totalCatch": 15,
+            "quartileCount": "0.4-3.7",
+            "averageWeight": "0.10",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "1.25"
+          }
+        ]
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "CPUE": "0.56",
+            "quartileWeight": "1.5-4.0",
+            "averageWeight": "3.98",
+            "quartileCount": "0.4-3.7",
+            "gearCount": 9,
+            "totalCatch": 5,
+            "gear": "Standard gill nets",
+            "totalWeight": 19.88,
+            "species": "LAT"
+          },
+          {
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "totalWeight": 4.13,
+            "gearCount": 9,
+            "totalCatch": 1,
+            "quartileCount": "0.6-2.4",
+            "averageWeight": "4.13",
+            "quartileWeight": "2.1-4.9",
+            "CPUE": "0.11"
+          },
+          {
+            "quartileCount": "0.3-1.4",
+            "gearCount": 9,
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "totalWeight": 1.75,
+            "species": "SMB",
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "0.11",
+            "averageWeight": "1.75"
+          },
+          {
+            "CPUE": "1.44",
+            "quartileWeight": "1.0-2.0",
+            "averageWeight": "1.01",
+            "quartileCount": "1.2-5.2",
+            "totalCatch": 13,
+            "gearCount": 9,
+            "totalWeight": 13.13,
+            "gear": "Standard gill nets",
+            "species": "WAE"
+          },
+          {
+            "averageWeight": "3.02",
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "0.67",
+            "totalWeight": 18.13,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "totalCatch": 6,
+            "gearCount": 9
+          }
+        ],
+        "surveyID": "110670",
+        "lengths": {},
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_id": "110670",
+          "wb_alt_name": "",
+          "wb_name": "Alder",
+          "wb_id": "16011400",
+          "survey_type": "Population Assessment",
+          "id_date": "1992-08-17",
+          "county": "Cook"
+        },
+        "surveyDate": "1992-08-17",
+        "narrative": "<p>The lake trout catch in this assessment was near the median for lakes of this ecological class.  The lake trout sample size was small, but the 1989 year class appeared to be the most strongly represented.  Growth of the 1989 year class has been about average for Cook County.  Lake trout have not been stcoked in Alder Lake since 1984, and no fish from that stocking were taken in this assessment.The walleye catch was also withint the normal range for lakes of this class, although no large fish were collected.  Several year classes were represented in the catch, and walleye growth appeared to be about average for Cook County.  No walleye have been stocked in Alder Lake since 1970.</p>"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "2.94",
+            "quartileWeight": "1.5-4.0",
+            "CPUE": "1.08",
+            "totalWeight": 17325,
+            "gear": "Standard gill nets",
+            "species": "LAT",
+            "quartileCount": "0.4-3.7",
+            "totalCatch": 13,
+            "gearCount": 12
+          },
+          {
+            "averageWeight": "2.50",
+            "quartileWeight": "2.1-4.9",
+            "CPUE": "0.33",
+            "totalWeight": 4541,
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "quartileCount": "0.6-2.4",
+            "totalCatch": 4,
+            "gearCount": 12
+          },
+          {
+            "quartileCount": "N/A",
+            "gearCount": 1,
+            "totalCatch": 8,
+            "gear": "Minnow traps",
+            "totalWeight": 0,
+            "species": "GSF",
+            "quartileWeight": "N/A",
+            "CPUE": "8.00",
+            "averageWeight": "0.00"
+          },
+          {
+            "averageWeight": "0.15",
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "0.08",
+            "species": "SMB",
+            "totalWeight": 66,
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "gearCount": 12,
+            "quartileCount": "0.3-1.4"
+          },
+          {
+            "averageWeight": "1.91",
+            "quartileWeight": "1.0-2.0",
+            "CPUE": "0.42",
+            "species": "WAE",
+            "totalWeight": 4328,
+            "gear": "Standard gill nets",
+            "totalCatch": 5,
+            "gearCount": 12,
+            "quartileCount": "1.2-5.2"
+          },
+          {
+            "quartileCount": "0.4-3.7",
+            "gearCount": 12,
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "totalWeight": 46,
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "0.08",
+            "averageWeight": "0.10"
+          },
+          {
+            "averageWeight": "3.76",
+            "CPUE": "0.17",
+            "quartileWeight": "1.1-2.5",
+            "totalWeight": 3415,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "totalCatch": 2,
+            "gearCount": 12
+          }
+        ],
+        "narrative": "<p>Alder Lake in 1999 appeared to have been reverting to its original state as a lake trout lake.  The lake trout catch in 1999 was fairly high for this lake, due mainly to strong naturally-produced 1994 and 1995 year classes.  Lake trout growth rates had been about average for the area, despite the limited forage available.  The lake trout catch included fish as large as 28 inches.The catch of walleye in 1999 was the lowest ever observed in this lake historically.  No strong year classes had been produced recently, and the lake's BWCAW location precludes any stocking to increase walleye abundance.  Walleye growth rates had been about average for the area, despite the lack of a good yellow perch forage base.  Low walleye abundance may be one factor allowing the recovery of the lake trout population.Catches of smallmouth bass and northern pike were also low in 1999.  Smallmouth bass provide a good fishery in this lake, and their low catch in survey nets is misleading.</p>",
+        "surveyID": "111047",
+        "lengths": {
+          "YEP": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 6
+          },
+          "NOP": {
+            "minimum_length": 18,
+            "maximum_length": 25,
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                25,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                20,
+                1
+              ],
+              [
+                25,
+                1
+              ]
+            ],
+            "maximum_length": 25,
+            "minimum_length": 20
+          },
+          "WAE": {
+            "minimum_length": 12,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "maximum_length": 28,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                28,
+                1
+              ]
+            ],
+            "minimum_length": 11
+          },
+          "SMB": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 6
+          }
+        },
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1999-07-12",
+        "headerInfo": {
+          "wb_name": "Alder",
+          "wb_alt_name": "",
+          "survey_id": "111047",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "1999-07-12",
+          "survey_type": "Re-Survey",
+          "wb_id": "16011400"
+        }
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 8582,
+            "gear": "Standard gill nets",
+            "species": "LAT",
+            "quartileCount": "0.4-3.7",
+            "totalCatch": 6,
+            "gearCount": 12,
+            "averageWeight": "3.15",
+            "quartileWeight": "1.5-4.0",
+            "CPUE": "0.50"
+          },
+          {
+            "quartileWeight": "2.1-4.9",
+            "CPUE": "0.17",
+            "averageWeight": "5.80",
+            "totalCatch": 2,
+            "gearCount": 12,
+            "quartileCount": "0.6-2.4",
+            "species": "NOP",
+            "totalWeight": 5260,
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "1.65",
+            "CPUE": "0.17",
+            "quartileWeight": "0.6-1.5",
+            "species": "SMB",
+            "gear": "Standard gill nets",
+            "totalWeight": 1500,
+            "gearCount": 12,
+            "totalCatch": 2,
+            "quartileCount": "0.3-1.4"
+          },
+          {
+            "species": "WAE",
+            "gear": "Standard gill nets",
+            "totalWeight": 15087,
+            "gearCount": 12,
+            "totalCatch": 16,
+            "quartileCount": "1.2-5.2",
+            "averageWeight": "2.08",
+            "quartileWeight": "1.0-2.0",
+            "CPUE": "1.33"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyDate": "2015-06-15",
+        "headerInfo": {
+          "county": "Cook",
+          "id_date": "2015-06-15",
+          "survey_type": "Standard Survey",
+          "wb_id": "16011400",
+          "wb_name": "Alder",
+          "survey_id": "12861515539589003",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveyID": "12861515539589003",
+        "lengths": {
+          "LAT": {
+            "minimum_length": 11,
+            "maximum_length": 26,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                26,
+                1
+              ]
+            ]
+          },
+          "SMB": {
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ],
+            "minimum_length": 14
+          },
+          "NOP": {
+            "maximum_length": 30,
+            "fishCount": [
+              [
+                29,
+                1
+              ],
+              [
+                30,
+                1
+              ]
+            ],
+            "minimum_length": 29
+          },
+          "WAE": {
+            "minimum_length": 13,
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                2
+              ]
+            ]
+          }
+        },
+        "surveySubType": "Standard Survey",
+        "narrative": "<p>Alder Lake is managed primarily for lake trout, with walleye a secondary species.  Both species have been self-sustained in this lake for decades.  Smallmouth bass and northern pike are also present, but their numbers have typically been low.  That said, smallmouth bass are not sampled well in gill nets, and angler reports suggest they are more abundant in this lake than the gill net catch would indicate. <br> \n <br> \nAs has usually been the case in this lake, modest numbers of lake trout were found in 2015, with a few larger fish present.   The 2015 catch was similar to catches observed in previous surveys of this lake done since 1969.  Five lake trout year classes were included in the catch, and although none had been strong, they indicated natural reproduction had been successful on a fairly regular basis.  It appeared that growth, at least of young lake trout, had been about average for the area.   <br> \n <br> \nFair numbers of walleye were found in 2015, although none longer than 24 inches were taken.  The 2015 gill net catch was similar to catches observed in other surveys of this lake since 1992, but was lower than most catches seen in the lake prior to that year.  That difference may be in part due to differences in survey timing.  Earlier surveys were done in August, when walleye gill net catches tend to be higher compared to catches in June surveys.  Six year classes, all naturally produced, contributed to the 2015 walleye catch, with the strongest apparently produced in 2012.  Growth of young walleye had been average or better for this area, despite the lack of a good yellow perch forage base.  Walleye taken in this survey were fat, and in very good condition. Some of the walleye collected in deeper waters had been feeding on sculpins. <br> \n <br> \nGill net catches of other species were low.  No yellow perch were taken, but the species has been collected in low numbers in most past surveys of this lake.  Two northern pike and two smallmouth bass were also caught.  Anglers interviewed during the survey reported good fishing for smallmouth bass.  Alder Lake provides cool-water refuge areas needed by larger northern pike, but lacks high-quality cold-water forage species like cisco or whitefish. <br> \n <br> \n</p>"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.5-4.0",
+            "CPUE": "1.25",
+            "averageWeight": "1.95",
+            "gearCount": 12,
+            "totalCatch": 15,
+            "quartileCount": "0.4-3.7",
+            "species": "LAT",
+            "gear": "Standard gill nets",
+            "totalWeight": 29.25
+          },
+          {
+            "gearCount": 12,
+            "totalCatch": 6,
+            "quartileCount": "0.6-2.4",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "totalWeight": 31.5,
+            "quartileWeight": "2.1-4.9",
+            "CPUE": "0.50",
+            "averageWeight": "5.25"
+          },
+          {
+            "quartileCount": "0.3-1.4",
+            "totalCatch": 2,
+            "gearCount": 12,
+            "totalWeight": 1.25,
+            "gear": "Standard gill nets",
+            "species": "SMB",
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "0.17",
+            "averageWeight": "0.62"
+          },
+          {
+            "species": "WAE",
+            "totalWeight": 58,
+            "gear": "Standard gill nets",
+            "totalCatch": 34,
+            "gearCount": 12,
+            "quartileCount": "1.2-5.2",
+            "averageWeight": "1.71",
+            "CPUE": "2.83",
+            "quartileWeight": "1.0-2.0"
+          },
+          {
+            "CPUE": "0.25",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.08",
+            "quartileCount": "0.4-3.7",
+            "totalCatch": 3,
+            "gearCount": 12,
+            "totalWeight": 0.25,
+            "gear": "Standard gill nets",
+            "species": "YEP"
+          },
+          {
+            "averageWeight": "2.51",
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "2.17",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalWeight": 65.25,
+            "gearCount": 12,
+            "totalCatch": 26,
+            "quartileCount": "0.8-5.3"
+          }
+        ],
+        "narrative": "<p>THE NUMBERS OF LAKE TROUT ARE ABOUT AVG FOR THE AREA. THERE IS A GOOD RANGE OF AGE CLASSES PRESENT IN THE POPULATION, WITH THE AGE V CLASS APPEARING TO BE THE STRONGEST. GROWTH RATES ARE GOOD. THE WALLEYE POPULATION IS ALSO COMPOSED OF A WIDE RANGE OF AGE CLASSES, AND SHOWS GOOD GROWTH RATES. WALLEYE NUMBERS APPEAR TO BE A LITTLE BELOW LOCAL MEDIANS, BUT HAVE APPARENTLY BEEN INCREASING OVER THE LAST SEVERAL YEARS.</p>",
+        "lengths": {},
+        "surveyID": "109931",
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_id": "109931",
+          "wb_alt_name": "",
+          "wb_name": "Alder",
+          "wb_id": "16011400",
+          "survey_type": "Re-Survey",
+          "id_date": "1984-08-27",
+          "county": "Cook"
+        },
+        "surveyDate": "1984-08-27"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "3.50",
+            "CPUE": "0.33",
+            "quartileWeight": "1.5-4.0",
+            "species": "LAT",
+            "gear": "Standard gill nets",
+            "totalWeight": 7,
+            "gearCount": 6,
+            "totalCatch": 2,
+            "quartileCount": "0.4-3.7"
+          },
+          {
+            "totalWeight": 5.75,
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "quartileCount": "0.6-2.4",
+            "totalCatch": 1,
+            "gearCount": 6,
+            "averageWeight": "5.75",
+            "quartileWeight": "2.1-4.9",
+            "CPUE": "0.17"
+          },
+          {
+            "species": "SMB",
+            "totalWeight": 6.38,
+            "gear": "Standard gill nets",
+            "totalCatch": 7,
+            "gearCount": 6,
+            "quartileCount": "0.3-1.4",
+            "averageWeight": "0.91",
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "1.17"
+          },
+          {
+            "CPUE": "3.17",
+            "quartileWeight": "1.0-2.0",
+            "averageWeight": "1.22",
+            "totalCatch": 19,
+            "gearCount": 6,
+            "quartileCount": "1.2-5.2",
+            "species": "WAE",
+            "totalWeight": 23.25,
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.1,
+            "gearCount": 6,
+            "totalCatch": 1,
+            "quartileCount": "0.4-3.7",
+            "averageWeight": "0.10",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "0.17"
+          },
+          {
+            "totalCatch": 5,
+            "gearCount": 6,
+            "quartileCount": "0.8-5.3",
+            "species": "WTS",
+            "totalWeight": 9.5,
+            "gear": "Standard gill nets",
+            "CPUE": "0.83",
+            "quartileWeight": "1.1-2.5",
+            "averageWeight": "1.90"
+          }
+        ],
+        "narrative": "<p>LAKE TROUT ABUNDANCE APPEARS TO BE LOW, HOWEVER, DEEP-WATER SAMPLING IN THIS ASSESSMENT WAS MINIMAL BECAUSE OF THE SMALL SAMPLE SIZE, VERY LITTLE CAN BE SAID ABOUT YEAR-CLASS STRENGTH. LAKE TROUT GROWTH APPEARS TO BE SLOW. WALLEYE ABUNDANCE IS FAIR AND SIZE IS GOOD. YEAR CLASS STRENGTH SEEMS TO BE FAIRLY CONSISTENT. GROWTH IS GOOD. SMALLMOUTH BASS ARE PRESENT IN GOOD NUMBERS. SIZE IS GOOD, BUT GROWTH IS SLOW. FORAGE APPEARS TO BE VERY LIMITED. YELLOW PERCH ARE PRESENT, BUT IN LOW NUMBERS.</p>",
+        "surveySubType": "Population Assessment",
+        "surveyID": "110093",
+        "lengths": {},
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "110093",
+          "wb_name": "Alder",
+          "wb_id": "16011400",
+          "survey_type": "Population Assessment",
+          "id_date": "1988-08-17",
+          "county": "Cook"
+        },
+        "surveyDate": "1988-08-17",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "narrative": "<p>The lake trout catch was within the normal range for this lake, but the fish were larger than usual.  The lake trout caught were six and nine years old, and all were naturally produced.  Lake trout were last stocked in 1984.  The growth rate of the lone six-year-old fish had been about average for the lake class.The number and size of walleye caught were typical for the lake historically.  Four year classes (ages 3-6) were identified in the sample, and all were naturally produced.  Walleye were last stocked in 1970.  Growth rates of walleye had been close to average for the lake class.Only one northern pike was caught, but this was not unusual for this lake.  The catch has always been low relative to the lake class.  The fish was four years old and had grown quickly.The smallmouth bass catch was the lake's third highest, but ranked below the middle for the lake class.  Average size of bass was near the middle of the range for both the lake and lake class.  Bass caught were four, six, or eight years old.  Some had grown quickly, others had grown slowly.One splake was caught.  It was four years old, had grown quickly, and could have been accidentally dropped into the lake when nearby Pierz L. was stocked by airplane in 2001.The number of yellow perch caught was the highest since 1969, but was low for the lake class.  Size of yellow perch matched the average for the lake, but was below average for the lake class.The 2005 catch of white sucker was among the lake's lower catches, and was low for the lake class.  The mean weight of white sucker was low for the lake, but in the usual range for the lake class.</p>",
+        "surveyID": "111506",
+        "lengths": {
+          "LAT": {
+            "minimum_length": 22,
+            "maximum_length": 29,
+            "fishCount": [
+              [
+                22,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                29,
+                1
+              ]
+            ]
+          },
+          "SPT": {
+            "minimum_length": 21,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                21,
+                1
+              ]
+            ]
+          },
+          "SMB": {
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                14,
+                1
+              ]
+            ],
+            "maximum_length": 14
+          },
+          "NOP": {
+            "maximum_length": 27,
+            "fishCount": [
+              [
+                27,
+                1
+              ]
+            ],
+            "minimum_length": 27
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "maximum_length": 19,
+            "minimum_length": 12
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2005-07-11",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_id": "111506",
+          "wb_alt_name": "",
+          "wb_name": "Alder",
+          "wb_id": "16011400",
+          "survey_type": "Population Assessment",
+          "id_date": "2005-07-11",
+          "county": "Cook"
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "0.42",
+            "quartileWeight": "1.5-4.0",
+            "averageWeight": "4.14",
+            "quartileCount": "0.4-3.7",
+            "gearCount": 12,
+            "totalCatch": 5,
+            "gear": "Standard gill nets",
+            "totalWeight": 9391,
+            "species": "LAT"
+          },
+          {
+            "CPUE": "0.08",
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "4.72",
+            "quartileCount": "0.6-2.4",
+            "gearCount": 12,
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "totalWeight": 2142,
+            "species": "NOP"
+          },
+          {
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "gearCount": 12,
+            "totalWeight": 1664,
+            "gear": "Standard gill nets",
+            "species": "SPT",
+            "CPUE": "0.08",
+            "quartileWeight": "N/A",
+            "averageWeight": "3.67"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 2231,
+            "species": "SMB",
+            "quartileCount": "0.3-1.4",
+            "gearCount": 12,
+            "totalCatch": 5,
+            "averageWeight": "0.98",
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "0.42"
+          },
+          {
+            "totalWeight": 10142,
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "quartileCount": "1.2-5.2",
+            "totalCatch": 16,
+            "gearCount": 12,
+            "averageWeight": "1.40",
+            "CPUE": "1.33",
+            "quartileWeight": "1.0-2.0"
+          },
+          {
+            "CPUE": "0.33",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.11",
+            "quartileCount": "0.4-3.7",
+            "gearCount": 12,
+            "totalCatch": 4,
+            "gear": "Standard gill nets",
+            "totalWeight": 205,
+            "species": "YEP"
+          },
+          {
+            "totalWeight": 6647,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "totalCatch": 7,
+            "gearCount": 12,
+            "averageWeight": "2.09",
+            "CPUE": "0.58",
+            "quartileWeight": "1.1-2.5"
+          }
+        ]
+      },
+      {
+        "surveyID": "21872425641515135",
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "surveyDate": "2024-08-06",
+        "headerInfo": {
+          "county": "Cook",
+          "id_date": "2024-08-06",
+          "survey_type": "Targeted Survey",
+          "wb_id": "16011400",
+          "wb_name": "Alder",
+          "wb_alt_name": "",
+          "survey_id": "21872425641515135",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Alder Lake on August 6th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 52.5 feet), the water temperature never decreased below 8.8 degrees C (47.8 degrees F) and the dissolved oxygen concentration decreased to 3.0 mg/L at 51.0 feet at the time of sampling. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 9.8 degrees C (49.6 degrees F). TDO3 values warmer than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were unsuitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 1988, 1992, and 2023 indicate suitable oxythermal habitat in most years when surveyed, with the least favorable conditions recorded in 2024. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.</p>",
+        "fishCatchSummaries": []
+      },
+      {
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_name": "Alder",
+          "survey_id": "-367",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "2025-08-13",
+          "survey_type": "Targeted Survey",
+          "wb_id": "16011400"
+        },
+        "surveyDate": "2025-08-13",
+        "lengths": {},
+        "surveyID": "-367",
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Alder Lake on August 13th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 52.5 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 29.2 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 50.9 feet at the time of sampling. The thickness of this layer of water in the water column was 21.7 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 7.3 degrees C (45.1 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 4 years, between 1988-2024, indicate suitable oxythermal habitat in most years when surveyed, with the least favorable conditions recorded in 2024 when adequate oxythermal habitat was unavailable. Reviewing recent data, Alder lake has TDO3 measurements ranging from 6.8 to 9.8 degrees C. When adequate oxythermal habitat is unavailable, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n <br> \n</p>"
+      }
+    ],
+    "county": "Cook",
+    "areaAcres": 528.93,
+    "officeCode": "F218",
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "07/12/2010",
+        "18.25"
+      ],
+      [
+        "07/16/1969",
+        "16"
+      ],
+      [
+        "08/18/1992",
+        "11.5"
+      ],
+      [
+        "06/15/2015",
+        "11.5"
+      ],
+      [
+        "08/27/1984",
+        "14"
+      ],
+      [
+        "08/17/1988",
+        "16"
+      ],
+      [
+        "08/06/2024",
+        "12.1"
+      ],
+      [
+        "08/13/2025",
+        "13.9"
+      ]
+    ],
+    "littoralAcres": 132,
+    "maxDepthFeet": 72,
+    "averageWaterClarity": "14.2",
+    "shoreLengthMiles": 9.97,
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "location": "",
+        "lakeAccessComments": " "
+      }
+    ]
+  },
+  "timestamp": 1790285903,
+  "message": "Normal execution."
+}

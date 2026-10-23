@@ -1,0 +1,189 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "shoreLengthMiles": 2.39,
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 8,
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "location": " ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "80 rod portage from Saca Lake."
+      },
+      {
+        "lakeAccessComments": "140 rod portage from Battle Lake.",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "CA",
+        "location": " "
+      },
+      {
+        "accessTypeId": "CA",
+        "location": " ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "280 rod portage from Lunetta Lake."
+      }
+    ],
+    "waterClarity": [
+      [
+        "07/11/2013",
+        "4"
+      ]
+    ],
+    "surveys": [
+      {
+        "surveyID": "6851334353468016",
+        "surveyDate": "2013-07-09",
+        "narrative": "<p>Hassel Lake is located approximately 13 miles NW of Ely and is entirely within the BWCAW. It has a surface area of 68.4 acres and a maximum depth of 8 feet. The present water level is nearly 3 feet higher compared to previous readings. The shoreline is forested up to the waters edge in most places with some areas of bog also. The lake bottom is mostly soft with detritus and an occasional boulder near shore. Aquatic vegetation is common throughout the lake. <br> \n <br> \nAccess is by portage from Battle Lake (140 rods), Lunetta Lake (280 rods) or Saca Lake (80 rods). There is one designated USFS campsite on the lake. <br> \n <br> \nHybrid sunfish (5.3/gill net) and one yellow perch were sampled in 3 gill nets during this initial investigation. The average sunfish sampled was 6.9 inches and the largest observed was 10.0 inches long. The parent species are likely bluegill and green sunfish. No other gamefish were sampled or observed. <br> \n <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "survey_id": "6851334353468016",
+          "wb_type": "Lake",
+          "id_date": "2013-07-09",
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "wb_name": "Hassel",
+          "wb_id": "69029900"
+        },
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 0,
+            "gear": "Minnow traps",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "species": "FND",
+            "totalCatch": 25,
+            "CPUE": "8.33",
+            "averageWeight": "0.00"
+          },
+          {
+            "totalWeight": 0,
+            "gear": "Minnow traps",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "species": "IOD",
+            "totalCatch": 2,
+            "CPUE": "0.67",
+            "averageWeight": "0.00"
+          },
+          {
+            "species": "HSF",
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "totalWeight": 2598,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.36",
+            "totalCatch": 16,
+            "CPUE": "5.33"
+          },
+          {
+            "averageWeight": "0.00",
+            "CPUE": "0.33",
+            "totalCatch": 1,
+            "species": "CNM",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "gear": "Minnow traps",
+            "totalWeight": 0
+          },
+          {
+            "averageWeight": "0.35",
+            "CPUE": "0.33",
+            "totalCatch": 1,
+            "quartileCount": "3.3-18.3",
+            "gearCount": 3,
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "totalWeight": 159,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "lengths": {
+          "HSF": {
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                4,
+                2
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "YEP": {
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9
+          }
+        }
+      }
+    ],
+    "littoralAcres": 85.92,
+    "DOWNumber": "69029900",
+    "lakeName": "Hassel",
+    "areaAcres": 85.92,
+    "sampledPlants": [
+      "Bladderwort Group (Utricularia sp.)",
+      "Blue Flag Iris (Iris versicolor)",
+      "Floating-leaf Burreed Group (Sparganium sp. )",
+      "Grass Group  (Gramineae/Poaceae Family)",
+      "Narrow-leaf Pondweed Group (Potamogeton sp. )",
+      "Quillwort Group  (Isoetes sp.)",
+      "Sedge Group (Carex sp.)",
+      "Sphagnum Moss Group (Sphagnum sp.)",
+      "Stonewort Group (Nitella sp.)",
+      "Water Horehound (Lycopus americanus)",
+      "Water Moss Group (Drepanocladus sp.)",
+      "White Waterlily Group (Nymphaea sp.)",
+      "Yellow Waterlily Group (Nuphar sp.)",
+      "bog rosemary (Andromeda glaucophylla)",
+      "buckbean (Menyanthes trifoliata)",
+      "coontail / Common hornwort (Ceratophyllum demersum)",
+      "floating pondweed (Potamogeton natans)",
+      "laborador tea (Rhododendron groenlandicum)",
+      "large-leaved pondweed (Potamogeton amplifolius)",
+      "leatherleaf (Chamaedaphne calyculata)",
+      "marsh St. John's wort (Triadenum fraseri)",
+      "pipewort (Eriocaulon aquaticum)",
+      "ribbon-leaved pondweed (Potamogeton epihydrus)",
+      "small cranberry (Vaccinium quadripetalus)",
+      "sweet gale (Myrica gale)",
+      "three-way sedge (Dulichium arundinaceum)",
+      "watershield (Brasenia schreberi)"
+    ],
+    "county": "St. Louis",
+    "officeCode": "F214",
+    "averageWaterClarity": "4.0"
+  },
+  "timestamp": 1790285564,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,112 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "averageWaterClarity": "7.5",
+    "lakeAltName": "Cache",
+    "areaAcres": 71.09,
+    "maxDepthFeet": 58,
+    "littoralAcres": 31,
+    "sampledPlants": [],
+    "lakeName": "Cash",
+    "county": "Cook",
+    "DOWNumber": "16043800",
+    "surveys": [
+      {
+        "surveyType": "Targeted Survey",
+        "surveyID": "-304",
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Cash Lake on August 12th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 42.6 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 19.5 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 13.1 feet at the time of sampling. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 17.9 degrees C (64.2 degrees F). TDO3 values warmer than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were unsuitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 indicated unsuitable oxythermal habitat. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "headerInfo": {
+          "wb_name": "Cash",
+          "wb_id": "16043800",
+          "county": "Cook",
+          "survey_id": "-304",
+          "survey_type": "Targeted Survey",
+          "id_date": "2025-08-12",
+          "wb_alt_name": "Cache",
+          "wb_type": "Lake"
+        },
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyDate": "2025-08-12"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveyID": "110148",
+        "narrative": "<p>LAKE TROUT ABUNDANCE WAS GOOD AND AVERAGE SIZE WAS EXCELLENT.  THE LAKE TROUT POPULATION APPEARS SENILE, EXPLOITATION AND LOW RECRUITMENT.  BASED ON BACK-CALCULATED LENGTHS, GROWTH WAS AVERAGE FOR COOK COUNTY.  YELLOW PERCH WERE ALSO COLLECTED BUT ABUNDANCE WAS VERY LOW.  YELLOW PERCH WERE FOUND IN SOME OF THE LAKE TROUT STOMACHS.</p>",
+        "headerInfo": {
+          "county": "Cook",
+          "wb_name": "Cash",
+          "wb_id": "16043800",
+          "wb_alt_name": "Cache",
+          "wb_type": "Lake",
+          "id_date": "1990-07-10",
+          "survey_type": "Initial Survey",
+          "survey_id": "110148"
+        },
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 26.75,
+            "quartileWeight": "4.0-9.3",
+            "CPUE": "1.67",
+            "averageWeight": "5.35",
+            "gear": "Standard gill nets",
+            "totalCatch": 5,
+            "quartileCount": "0.3-1.7",
+            "gearCount": 3,
+            "species": "LAT"
+          },
+          {
+            "quartileCount": "0.5-2.8",
+            "gear": "Standard gill nets",
+            "totalCatch": 2,
+            "species": "YEP",
+            "gearCount": 3,
+            "quartileWeight": "0.1-0.3",
+            "averageWeight": "0.03",
+            "CPUE": "0.67",
+            "totalWeight": 0.06
+          },
+          {
+            "quartileWeight": "1.7-2.4",
+            "averageWeight": "0.55",
+            "CPUE": "8.00",
+            "totalWeight": 13.13,
+            "species": "WTS",
+            "gearCount": 3,
+            "quartileCount": "2.6-11.7",
+            "totalCatch": 24,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyDate": "1990-07-10",
+        "lengths": {}
+      }
+    ],
+    "shoreLengthMiles": 3.32,
+    "accesses": [
+      {
+        "location": "PORTAGE TRAILS FROM TOWN AND GUNSTOCK LAKES. CASH LAKE IS ENTIRELY WITHIN THE BWCAW.",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O"
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/12/2025",
+        "9"
+      ],
+      [
+        "07/10/1990",
+        "6"
+      ]
+    ],
+    "officeCode": "F218",
+    "meanDepthFeet": 0
+  },
+  "timestamp": 1790285772
+}

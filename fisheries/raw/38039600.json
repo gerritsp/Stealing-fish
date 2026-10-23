@@ -1,0 +1,2100 @@
+{
+  "timestamp": 1790285541,
+  "result": {
+    "shoreLengthMiles": 17.08,
+    "meanDepthFeet": 8,
+    "surveys": [
+      {
+        "surveyDate": "1983-07-18",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Lake",
+          "id_date": "1983-07-18",
+          "wb_type": "Lake",
+          "wb_name": "Isabella",
+          "survey_type": "Population Assessment",
+          "survey_id": "112236",
+          "wb_id": "38039600"
+        },
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "2.17",
+            "totalCatch": 13,
+            "quartileCount": "1.2-3.6",
+            "quartileWeight": "1.9-3.6",
+            "species": "NOP",
+            "averageWeight": "2.58",
+            "gear": "Standard gill nets",
+            "totalWeight": 33.5,
+            "gearCount": 6
+          },
+          {
+            "averageWeight": "0.30",
+            "gear": "Standard gill nets",
+            "totalWeight": 6,
+            "gearCount": 6,
+            "totalCatch": 20,
+            "CPUE": "3.33",
+            "quartileWeight": "0.2-0.4",
+            "species": "RKB",
+            "quartileCount": "0.5-2.2"
+          },
+          {
+            "quartileCount": "3.1-9.8",
+            "quartileWeight": "0.7-1.3",
+            "species": "WAE",
+            "CPUE": "17.50",
+            "totalCatch": 105,
+            "totalWeight": 58.25,
+            "gearCount": 6,
+            "averageWeight": "0.55",
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "6.67",
+            "totalCatch": 40,
+            "quartileCount": "1.9-7.1",
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "averageWeight": "0.31",
+            "gear": "Standard gill nets",
+            "totalWeight": 12.25,
+            "gearCount": 6
+          },
+          {
+            "averageWeight": "0.62",
+            "gear": "Standard gill nets",
+            "totalWeight": 41.25,
+            "gearCount": 6,
+            "CPUE": "11.17",
+            "totalCatch": 67,
+            "quartileCount": "0.2-3.0",
+            "quartileWeight": "0.9-3.0",
+            "species": "LKW"
+          },
+          {
+            "averageWeight": "1.22",
+            "gear": "Standard gill nets",
+            "totalWeight": 66,
+            "gearCount": 6,
+            "CPUE": "9.00",
+            "totalCatch": 54,
+            "quartileCount": "2.8-6.7",
+            "quartileWeight": "1.3-2.0",
+            "species": "WTS"
+          }
+        ],
+        "narrative": "<p>Fish populations are good in Isabella Lake with adequate forage species populations. No stocking is necessary at the present time. Assessment netting is scheduled in five years to monitor gamefish populations.</p>",
+        "surveyID": "112236"
+      },
+      {
+        "surveyID": "112424",
+        "narrative": "<p>A high Walleye population is being maintained entirely through natural reproduction. Ages I and III comprised 67% of the total Walleye catch.      Northern Pike numbers remain stable with the 1989 catch of 3.3/gillnet lift within the historical range of 2.2 - 4.6/lift.     The number of Lake Whitefish caught in gillnets in 1989 was the lowest recorded in any of the previous nettings.     Yellow Perch catches in gillnets were 60% lower than the normal average for this lake.     White Sucker and Rock Bass were sampled in low numbers which were about equal to the previous catches.</p>",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 9,
+            "totalWeight": 109.4,
+            "gear": "Standard gill nets",
+            "averageWeight": "3.65",
+            "quartileCount": "1.2-3.6",
+            "species": "NOP",
+            "quartileWeight": "1.9-3.6",
+            "CPUE": "3.33",
+            "totalCatch": 30
+          },
+          {
+            "quartileWeight": "0.2-0.4",
+            "species": "RKB",
+            "quartileCount": "0.5-2.2",
+            "totalCatch": 13,
+            "CPUE": "1.44",
+            "totalWeight": 5.6,
+            "gearCount": 9,
+            "averageWeight": "0.43",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 9,
+            "totalWeight": 47.7,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.67",
+            "quartileCount": "3.1-9.8",
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "CPUE": "7.89",
+            "totalCatch": 71
+          },
+          {
+            "quartileCount": "1.9-7.1",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "CPUE": "1.67",
+            "totalCatch": 15,
+            "gearCount": 9,
+            "totalWeight": 3.8,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.25"
+          },
+          {
+            "species": "LKW",
+            "quartileWeight": "0.9-3.0",
+            "quartileCount": "0.2-3.0",
+            "totalCatch": 16,
+            "CPUE": "1.78",
+            "gearCount": 9,
+            "totalWeight": 8.9,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.56"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "1.93",
+            "gearCount": 9,
+            "totalWeight": 71.4,
+            "totalCatch": 37,
+            "CPUE": "4.11",
+            "species": "WTS",
+            "quartileWeight": "1.3-2.0",
+            "quartileCount": "2.8-6.7"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.10",
+            "gearCount": 9,
+            "totalWeight": 0.1,
+            "totalCatch": 1,
+            "CPUE": "0.11",
+            "species": "PMK",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          }
+        ],
+        "lengths": {},
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "id_date": "1989-09-14",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38039600",
+          "survey_type": "Population Assessment",
+          "wb_name": "Isabella",
+          "survey_id": "112424",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "1989-09-14",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "narrative": "<p>The Lake Whitefish catch was 50% of the local average. The White Sucker, Rock Bass and Yellow Perch were substantially below the area average. The Northern Pike population was near the area average.      The Walleye catch was 66% of the local average. The Walleye catch was low because the netting was done in September. Mid summer net catches indicate a higher Walleye population.</p>",
+        "surveyID": "112312",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "1.93",
+            "gearCount": 9,
+            "totalWeight": 59.7,
+            "CPUE": "3.44",
+            "totalCatch": 31,
+            "quartileCount": "1.2-3.6",
+            "species": "NOP",
+            "quartileWeight": "1.9-3.6"
+          },
+          {
+            "CPUE": "0.78",
+            "totalCatch": 7,
+            "quartileCount": "0.5-2.2",
+            "species": "RKB",
+            "quartileWeight": "0.2-0.4",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.49",
+            "gearCount": 9,
+            "totalWeight": 3.45
+          },
+          {
+            "averageWeight": "0.62",
+            "gear": "Standard gill nets",
+            "totalWeight": 27.9,
+            "gearCount": 9,
+            "CPUE": "5.00",
+            "totalCatch": 45,
+            "quartileCount": "3.1-9.8",
+            "quartileWeight": "0.7-1.3",
+            "species": "WAE"
+          },
+          {
+            "totalCatch": 17,
+            "CPUE": "1.89",
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "quartileCount": "1.9-7.1",
+            "averageWeight": "0.24",
+            "gear": "Standard gill nets",
+            "totalWeight": 4.1,
+            "gearCount": 9
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.57",
+            "gearCount": 9,
+            "totalWeight": 29.4,
+            "CPUE": "5.78",
+            "totalCatch": 52,
+            "quartileCount": "0.2-3.0",
+            "species": "LKW",
+            "quartileWeight": "0.9-3.0"
+          },
+          {
+            "gearCount": 9,
+            "totalWeight": 70,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.94",
+            "quartileCount": "2.8-6.7",
+            "species": "WTS",
+            "quartileWeight": "1.3-2.0",
+            "CPUE": "4.00",
+            "totalCatch": 36
+          }
+        ],
+        "headerInfo": {
+          "wb_id": "38039600",
+          "survey_type": "Population Assessment",
+          "wb_name": "Isabella",
+          "survey_id": "112312",
+          "wb_type": "Lake",
+          "id_date": "1986-09-08",
+          "wb_alt_name": "",
+          "county": "Lake"
+        },
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "surveyDate": "1986-09-08",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 49.2,
+            "gearCount": 12,
+            "averageWeight": "1.49",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.9-3.6",
+            "species": "NOP",
+            "quartileCount": "1.2-3.6",
+            "totalCatch": 33,
+            "CPUE": "2.75"
+          },
+          {
+            "quartileCount": "0.5-2.2",
+            "quartileWeight": "0.2-0.4",
+            "species": "RKB",
+            "CPUE": "1.50",
+            "totalCatch": 18,
+            "totalWeight": 8.4,
+            "gearCount": 12,
+            "averageWeight": "0.47",
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "11.25",
+            "totalCatch": 135,
+            "quartileCount": "3.1-9.8",
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.49",
+            "gearCount": 12,
+            "totalWeight": 66
+          },
+          {
+            "totalWeight": 7.2,
+            "gearCount": 12,
+            "averageWeight": "0.24",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.9-7.1",
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "CPUE": "2.50",
+            "totalCatch": 30
+          },
+          {
+            "gearCount": 12,
+            "totalWeight": 25.2,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.79",
+            "species": "LKW",
+            "quartileWeight": "0.9-3.0",
+            "quartileCount": "0.2-3.0",
+            "totalCatch": 32,
+            "CPUE": "2.67"
+          },
+          {
+            "gearCount": 12,
+            "totalWeight": 34.8,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.94",
+            "quartileCount": "2.8-6.7",
+            "species": "WTS",
+            "quartileWeight": "1.3-2.0",
+            "CPUE": "3.08",
+            "totalCatch": 37
+          }
+        ],
+        "narrative": "<p>The large Walleye population now present, coupled with the excellent spawning facilities, indicates that no stocking is necessary until these circumstances change.     Although no formal records are available, opinions of people connected with the Tomahawk Timber Company are that fishing has been good.     Isabella Lake provides an excellent opportunity to determine the effect of anglers upon a large Walleye population in a virtually unfished lake. Prior to the opening of Forest Center, Isabella Lake was lightly fished because of its isolated position. The lake is now open to the public, but will be closed when the logging operations are over in from 15 to 20 years. It is proposed that creel census information be gathered at intervals of not more than every three years so that the changes occurring in the fish population caused by angling can be determined. Many theories have been advanced regarding the effect anglers play upon fish populations, but little actual information has been gathered upon this most important subject. The gathering and compilation of such information would be tremendously helpful in the management of Walleye waters in Minnesota.</p>",
+        "surveyID": "112772",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1950-08-04",
+        "lengths": {},
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Lake",
+          "id_date": "1950-08-04",
+          "survey_id": "112772",
+          "wb_name": "Isabella",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "wb_id": "38039600"
+        },
+        "surveySubType": "Initial Survey"
+      },
+      {
+        "surveyID": "11951627330995000",
+        "narrative": "<p>Isabella Lake has an area of 1,257 acres and has a maximum depth of 19 feet.  It is located entirely with the Boundary Waters Canoe Area Wilderness (BWCAW) approximately 13 miles north of Isabella, MN off of USFS Road 377 (Tomahawk Road).  The lake has three different access points.  The main access to Isabella Lake is a 56 rod portage from the parking lot at BWCAW Entry Point 35, the second access is a 16 rod portage from Boga Lake on the eastern shore, and the third access is a 28 rod portage from the Isabella River on the western shore.  There are currently nine campsites open to public use on the lake with an additional campsite being classified as a resting site.  Isabella Lake gets a moderate to high use during the summer by visitors to the BWCAW. <br> \n <br> \nWater clarity is poor with visibility measured to 5.5 feet in brown bog-stained water.  The shoreline and watershed around the lake are recovering from the Pagami Creek Fire, which moved through the area in 2011.  A majority of the shoreline contains young plant growth as the forest regenerates.  The southeastern shore was the not affected by the fire and remains in a completely forested state.  The entire shoreline and watershed is under public ownership.  The aquatic and riparian plant community is diverse with 31 species present in the lake.  Boulder, ledge rock, and sand are the most common substrates.  Walleye, Northern Pike, Black Crappie, and Yellow Perch are the most common game fish in the lake.   <br> \n <br> \nThe 2016 standard survey was conducted to monitor abundance and size structure of the fish populations in Isabella Lake.  The survey also sought to determine the status of Black Crappie and Largemouth Bass populations in the lake, which were first found in 2006.   <br> \n <br> \nThe Walleye catch was above average relative to similar lakes in the Northeastern Minnesota with a total of 87 fish sampled in gill nets.  The average length of Walleye was 11.6 inches with an average weight of 0.7 pounds.  Even with the high number of Walleye sampled, only 5% of the catch was over 15 inches long.  The largest Walleye sampled was 21.2 inches long and weighed 2.8 pounds.  Eight year classes were represented in the 2016 survey indicating consistent recruitment to the population.  Walleye growth was slow for the Finland Area. <br> \n <br> \nThe 2016 Northern Pike catch was below average for lakes in the Finland Area with 19 fish sampled.  The average weight of the Northern Pike sampled was 5.2 pounds and average length was 27.1 inches.  Of the 19 Northern Pike sampled, five were over 35 inches long.  The largest Northern Pike caught was 39.4 inches long and weighed 14.6 pounds.  Nine year classes were present in the sample and growth of Northern Pike appears to be fast for the Finland Area.   <br> \n <br> \nBlack Crappie were sampled at average numbers for lakes with similar characteristics in the Finland Area with a total of 14 fish caught.  Black Crappie ranged from 4.4 to 11.9 inches, with approximately 40 % of the catch over 10 inches.  The average weight was just under 0.5 pounds.  Black Crappie lakes in the Finland Area tend to have small populations with fast growing fish that may have an occasional strong year class.  The spawning habitat in Isabella Lake appears to be good for Black Crappie, but the cool climate of northeastern Minnesota may be a limiting factor in successful reproduction for years with a late spring or cool summer.    <br> \n <br> \nThe Yellow Perch gill net catch was near average for similar lakes in the Northeastern Minnesota.  The average weight of Yellow Perch was 0.26 pounds with an average length of 8.3 inches.  The largest Yellow Perch caught was 11.8 inches long and weighed 0.8 pounds.  Yellow Perch over 9 inches long made up 34% of the total catch.  Growth was average for the Finland Area with seven year class present.   <br> \n <br> \nThe 2016 survey sampled seven Largemouth Bass with the largest being 6.9 inches long.  This was the second survey that sampled Largemouth Bass in Isabella Lake.  Largemouth Bass are difficult to sample with standard survey gill nets and the full scope of the bass population is not known.   <br> \n <br> \nA total of 72 Lake Whitefish were caught with gill nets, which was about average for comparable lakes in Northeastern Minnesota.  The average length of Lake Whitefish was 11.1 inches with an average weight of 0.6 pounds.  The largest whitefish caught was 17.3 inches and 2.0 pounds.  Nine year classes were represented in the survey and growth of Lake Whitefish appeared to be average for the area. <br> \n <br> \nWhite Sucker were sampled at average numbers when compared to similar lakes.  The average length of White Sucker was 15.1 inches and just over 1.6 pounds in weight.  The 2016 survey caught 19 Rock Bass with an average length of 7.2 inches and 0.3 pounds.  <br> \n <br> \nOther fish sampled included Pumpkinseed Sunfish, Blacknose Shiner, Spottail Shiner, Tadpole Madtom, Bluegill, and young of the year sunfish.  This was the first time Bluegill had been sampled in Isabella Lake.  <br> \n <br> \nIsabella Lake is a good Walleye lake that can produce numerous \"eater size\" Walleyes.  The lake can also produce some trophy size Northern Pike.  The Black Crappie population is still being established, but currently there are nice fish to be caught if anglers are able to locate them.  The Lake Whitefish population is healthy and the lake is open to whitefish sport gill netting in the fall; a whitefish netting license is required.  The netting season usually has a small number of individuals who participate.  Angling pressure on the lake is presumed to be moderate to high and all anglers and visitors to Isabella Lake must abide by the BWCAW regulations at all times; the lake is entirely non-motorized.  <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "gear": "Special trap nets",
+            "averageWeight": "0.00",
+            "gearCount": 4,
+            "totalWeight": 0,
+            "totalCatch": 101,
+            "CPUE": "25.25",
+            "species": "SUN",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "species": "BNS",
+            "CPUE": "24.50",
+            "totalCatch": 98,
+            "totalWeight": 0,
+            "gearCount": 4,
+            "averageWeight": "0.00",
+            "gear": "Special trap nets"
+          },
+          {
+            "species": "NOP",
+            "quartileWeight": "1.9-3.6",
+            "quartileCount": "1.2-3.6",
+            "totalCatch": 19,
+            "CPUE": "1.58",
+            "gearCount": 12,
+            "totalWeight": 44614,
+            "gear": "Standard gill nets",
+            "averageWeight": "5.18"
+          },
+          {
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "gear": "Special trap nets",
+            "averageWeight": "0.00",
+            "gearCount": 4,
+            "totalWeight": 0
+          },
+          {
+            "averageWeight": "0.33",
+            "gear": "Standard gill nets",
+            "totalWeight": 2810,
+            "gearCount": 12,
+            "totalCatch": 19,
+            "CPUE": "1.58",
+            "quartileWeight": "0.2-0.4",
+            "species": "RKB",
+            "quartileCount": "0.5-2.2"
+          },
+          {
+            "totalWeight": 0,
+            "gearCount": 4,
+            "averageWeight": "0.00",
+            "gear": "Special trap nets",
+            "quartileWeight": "N/A",
+            "species": "SPO",
+            "quartileCount": "N/A",
+            "totalCatch": 3,
+            "CPUE": "0.75"
+          },
+          {
+            "averageWeight": "0.00",
+            "gear": "Special trap nets",
+            "totalWeight": 0,
+            "gearCount": 4,
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "species": "RKB"
+          },
+          {
+            "gear": "Minnow traps",
+            "averageWeight": "0.00",
+            "gearCount": 11,
+            "totalWeight": 0,
+            "CPUE": "0.09",
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "species": "LMB",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 72,
+            "CPUE": "6.00",
+            "quartileWeight": "0.9-3.0",
+            "species": "LKW",
+            "quartileCount": "0.2-3.0",
+            "averageWeight": "0.63",
+            "gear": "Standard gill nets",
+            "totalWeight": 20613,
+            "gearCount": 12
+          },
+          {
+            "quartileWeight": "0.7-1.3",
+            "species": "WAE",
+            "quartileCount": "3.1-9.8",
+            "totalCatch": 87,
+            "CPUE": "7.25",
+            "totalWeight": 20193,
+            "gearCount": 12,
+            "averageWeight": "0.51",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "WAE",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "CPUE": "0.25",
+            "gearCount": 4,
+            "totalWeight": 0,
+            "gear": "Special trap nets",
+            "averageWeight": "0.00"
+          },
+          {
+            "quartileWeight": "N/A",
+            "species": "CSH",
+            "quartileCount": "N/A",
+            "totalCatch": 5,
+            "CPUE": "1.25",
+            "totalWeight": 0,
+            "gearCount": 4,
+            "averageWeight": "0.00",
+            "gear": "Special trap nets"
+          },
+          {
+            "CPUE": "0.27",
+            "totalCatch": 3,
+            "quartileCount": "N/A",
+            "species": "YEP",
+            "quartileWeight": "N/A",
+            "gear": "Minnow traps",
+            "averageWeight": "0.00",
+            "gearCount": 11,
+            "totalWeight": 0
+          },
+          {
+            "averageWeight": "0.08",
+            "gear": "Standard gill nets",
+            "totalWeight": 35,
+            "gearCount": 12,
+            "totalCatch": 1,
+            "CPUE": "0.08",
+            "quartileWeight": "N/A",
+            "species": "PMK",
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "1.75",
+            "totalCatch": 7,
+            "quartileCount": "N/A",
+            "species": "LMB",
+            "quartileWeight": "N/A",
+            "gear": "Special trap nets",
+            "averageWeight": "0.02",
+            "gearCount": 4,
+            "totalWeight": 73
+          },
+          {
+            "averageWeight": "0.00",
+            "gear": "Special trap nets",
+            "totalWeight": 71,
+            "gearCount": 4,
+            "totalCatch": 32,
+            "CPUE": "8.00",
+            "quartileWeight": "N/A",
+            "species": "BLG",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "species": "PMK",
+            "quartileCount": "N/A",
+            "totalCatch": 4,
+            "CPUE": "1.00",
+            "totalWeight": 0,
+            "gearCount": 4,
+            "averageWeight": "0.00",
+            "gear": "Special trap nets"
+          },
+          {
+            "quartileWeight": "1.3-2.0",
+            "species": "WTS",
+            "quartileCount": "2.8-6.7",
+            "totalCatch": 55,
+            "CPUE": "4.58",
+            "totalWeight": 40939,
+            "gearCount": 12,
+            "averageWeight": "1.64",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "BLC",
+            "quartileWeight": "0.2-0.5",
+            "quartileCount": "0.2-1.4",
+            "totalCatch": 14,
+            "CPUE": "1.17",
+            "gearCount": 12,
+            "totalWeight": 2744,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.43"
+          },
+          {
+            "species": "SUN",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalCatch": 4,
+            "CPUE": "0.36",
+            "gearCount": 11,
+            "totalWeight": 0,
+            "gear": "Minnow traps",
+            "averageWeight": "0.00"
+          },
+          {
+            "gear": "Special trap nets",
+            "averageWeight": "0.00",
+            "gearCount": 4,
+            "totalWeight": 0,
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "BLC",
+            "quartileWeight": "N/A",
+            "CPUE": "4.75",
+            "totalCatch": 19,
+            "gearCount": 4,
+            "totalWeight": 43,
+            "gear": "Special trap nets",
+            "averageWeight": "0.00"
+          },
+          {
+            "averageWeight": "0.26",
+            "gear": "Standard gill nets",
+            "totalWeight": 5623,
+            "gearCount": 12,
+            "totalCatch": 47,
+            "CPUE": "3.92",
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "quartileCount": "1.9-7.1"
+          },
+          {
+            "gear": "Special trap nets",
+            "averageWeight": "0.00",
+            "gearCount": 4,
+            "totalWeight": 0,
+            "CPUE": "14.00",
+            "totalCatch": 56,
+            "quartileCount": "N/A",
+            "species": "YEP",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 4,
+            "totalWeight": 0,
+            "gear": "Special trap nets",
+            "averageWeight": "0.00",
+            "species": "TPM",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalCatch": 2,
+            "CPUE": "0.50"
+          }
+        ],
+        "surveySubType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "38039600",
+          "wb_name": "Isabella",
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "survey_id": "11951627330995000",
+          "id_date": "2016-09-19",
+          "county": "Lake",
+          "wb_alt_name": ""
+        },
+        "lengths": {
+          "YEP": {
+            "minimum_length": 2,
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                2,
+                28
+              ],
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                5,
+                6
+              ],
+              [
+                6,
+                4
+              ],
+              [
+                7,
+                8
+              ],
+              [
+                8,
+                13
+              ],
+              [
+                9,
+                10
+              ]
+            ]
+          },
+          "NOP": {
+            "maximum_length": 39,
+            "minimum_length": 15,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                35,
+                1
+              ],
+              [
+                37,
+                2
+              ],
+              [
+                38,
+                1
+              ],
+              [
+                39,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                16,
+                11
+              ],
+              [
+                17,
+                8
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "BLG": {
+            "minimum_length": 1,
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                1,
+                23
+              ],
+              [
+                2,
+                6
+              ],
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                1
+              ]
+            ]
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                7
+              ],
+              [
+                7,
+                7
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 9
+          },
+          "BLC": {
+            "maximum_length": 11,
+            "minimum_length": 1,
+            "fishCount": [
+              [
+                1,
+                10
+              ],
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                2,
+                8
+              ],
+              [
+                4,
+                6
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                8
+              ],
+              [
+                11,
+                32
+              ],
+              [
+                12,
+                22
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                7
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 7
+          },
+          "LKW": {
+            "fishCount": [
+              [
+                10,
+                23
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                14
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                5,
+                12
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 17
+          },
+          "LMB": {
+            "fishCount": [
+              [
+                2,
+                7
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 6,
+            "minimum_length": 2
+          },
+          "PMK": {
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ],
+            "maximum_length": 4,
+            "minimum_length": 4
+          }
+        },
+        "surveyDate": "2016-09-19",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Lake",
+          "id_date": "1996-09-09",
+          "survey_type": "Re-Survey",
+          "wb_name": "Isabella",
+          "survey_id": "112767",
+          "wb_type": "Lake",
+          "wb_id": "38039600"
+        },
+        "surveySubType": "Re-Survey",
+        "lengths": {
+          "LKW": {
+            "maximum_length": 14,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                18
+              ],
+              [
+                11,
+                6
+              ],
+              [
+                12,
+                11
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                7,
+                6
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                23
+              ],
+              [
+                12,
+                23
+              ],
+              [
+                13,
+                12
+              ],
+              [
+                14,
+                8
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                27
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 8
+          },
+          "NOP": {
+            "minimum_length": 14,
+            "maximum_length": 27,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                7
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                6
+              ],
+              [
+                9,
+                15
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 11
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 8
+          },
+          "WTS": {
+            "maximum_length": 19,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                12,
+                8
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                10
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                12
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "1996-09-09",
+        "narrative": "<p>The fish population in Isabella Lake is comprised of walleye, northern pike, lake whitefish, yellow perch, rock bass and white sucker.     Test nets in 1996 found walleye abundance in Isabella Lake about average compared to similar lakes in this Lake Class (7). The walleye captured ranged in size from 8.5 inches to 22.8 inches (4.5 pounds) and overall are on the small side averaging 12.7 inches (0.6 pound). Only about 9% of the walleye were over 15.0 inches. This population is maintained entirely thru natural reproduction.     Isabella Lake historically has maintained an average abundance of northern pike and test net in 1996 again indicated this. Reports surface of an occasional large northern pike (over 10 pounds) taken by anglers however none were captured during test netting this year. The average size was 19.3 inches (1.5 pounds) with fish ranging from 14.9 - 27.7 inches (5.0 pounds) taken.     Lake whitefish abundance is above average for this Lake Class (7) and are utilized by licensed netters during the fall spawning season. The average size is small 11.3 inches (0.4 pound) and fish over 15.0 inches are uncommon.     Yellow perch are present in average numbers and fish are of sufficient size to be utilized by anglers. The average size of yellow perch captured was 8.9 inches with about 50% of the fish taken over 9.5 inches.</p>",
+        "surveyID": "112767",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.60",
+            "gear": "Standard gill nets",
+            "totalWeight": 12337,
+            "gearCount": 12,
+            "CPUE": "1.42",
+            "totalCatch": 17,
+            "quartileCount": "1.2-3.6",
+            "quartileWeight": "1.9-3.6",
+            "species": "NOP"
+          },
+          {
+            "quartileWeight": "0.2-0.4",
+            "species": "RKB",
+            "quartileCount": "0.5-2.2",
+            "totalCatch": 2,
+            "CPUE": "0.17",
+            "totalWeight": 312,
+            "gearCount": 12,
+            "averageWeight": "0.34",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "3.1-9.8",
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "CPUE": "8.92",
+            "totalCatch": 107,
+            "gearCount": 12,
+            "totalWeight": 30632,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.63"
+          },
+          {
+            "totalWeight": 5908,
+            "gearCount": 12,
+            "averageWeight": "0.35",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.9-7.1",
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "CPUE": "3.08",
+            "totalCatch": 37
+          },
+          {
+            "quartileCount": "0.2-3.0",
+            "species": "LKW",
+            "quartileWeight": "0.9-3.0",
+            "CPUE": "4.33",
+            "totalCatch": 52,
+            "gearCount": 12,
+            "totalWeight": 11616,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.49"
+          },
+          {
+            "quartileCount": "2.8-6.7",
+            "quartileWeight": "1.3-2.0",
+            "species": "WTS",
+            "CPUE": "5.17",
+            "totalCatch": 62,
+            "totalWeight": 37910,
+            "gearCount": 12,
+            "averageWeight": "1.35",
+            "gear": "Standard gill nets"
+          }
+        ]
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "2.72",
+            "gear": "Standard gill nets",
+            "totalWeight": 57.2,
+            "gearCount": 9,
+            "totalCatch": 21,
+            "CPUE": "2.33",
+            "quartileWeight": "1.9-3.6",
+            "species": "NOP",
+            "quartileCount": "1.2-3.6"
+          },
+          {
+            "quartileCount": "0.5-2.2",
+            "species": "RKB",
+            "quartileWeight": "0.2-0.4",
+            "CPUE": "2.00",
+            "totalCatch": 18,
+            "gearCount": 9,
+            "totalWeight": 16.5,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.92"
+          },
+          {
+            "averageWeight": "0.84",
+            "gear": "Standard gill nets",
+            "totalWeight": 80.5,
+            "gearCount": 9,
+            "CPUE": "10.67",
+            "totalCatch": 96,
+            "quartileCount": "3.1-9.8",
+            "quartileWeight": "0.7-1.3",
+            "species": "WAE"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.20",
+            "gearCount": 9,
+            "totalWeight": 4.3,
+            "CPUE": "2.33",
+            "totalCatch": 21,
+            "quartileCount": "1.9-7.1",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.65",
+            "gearCount": 9,
+            "totalWeight": 17.6,
+            "CPUE": "3.00",
+            "totalCatch": 27,
+            "quartileCount": "0.2-3.0",
+            "species": "LKW",
+            "quartileWeight": "0.9-3.0"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "1.98",
+            "gearCount": 9,
+            "totalWeight": 79.3,
+            "CPUE": "4.44",
+            "totalCatch": 40,
+            "quartileCount": "2.8-6.7",
+            "species": "WTS",
+            "quartileWeight": "1.3-2.0"
+          },
+          {
+            "CPUE": "0.11",
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "species": "PMK",
+            "averageWeight": "0.20",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.2,
+            "gearCount": 9
+          }
+        ],
+        "narrative": "<p>Standard netting dates were changed in 1986 from July and August to September to comply with requests from the U.S. forest Service to minimize disturbance to BWCAW visitors.       During this later netting period the Walleye gillnet catch increased from 5.0/lift in 1986 to 7.9/lift in 1989, and 10.7/lift in 1992. Average Walleye length during this assessment was 12.4 inches, which is the largest average recorded during all assessments. Strong year classes of Age I, II, III fish comprised 80% of the sample.     There has been little noticeable change in Northern Pike densities over a 10 year period. Average size of 2.8 pounds is smaller than in the 1989 assessment, but still larger than in earlier assessments.      Yellow Perch densities historically have been low and this was confirmed again in 1992 with gillnet catches of 2.3/lift.       Lake Whitefish are small in this lake averaging less than 3/4 pound, with few fish over 14 inches taken.</p>",
+        "surveyID": "112665",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1992-09-08",
+        "headerInfo": {
+          "wb_id": "38039600",
+          "wb_name": "Isabella",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "survey_id": "112665",
+          "id_date": "1992-09-08",
+          "county": "Lake",
+          "wb_alt_name": ""
+        },
+        "surveySubType": "Population Assessment",
+        "lengths": {}
+      },
+      {
+        "surveyID": "112133",
+        "narrative": "<p>Walleye and Northern Pike populations are both high for this area. No management is needed as natural reproduction is maintaining a high population of the desired species. The lake will be kept on the whitefish netting list to better utilize this species.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 28,
+            "CPUE": "4.67",
+            "species": "NOP",
+            "quartileWeight": "1.9-3.6",
+            "quartileCount": "1.2-3.6",
+            "gear": "Standard gill nets",
+            "averageWeight": "3.12",
+            "gearCount": 6,
+            "totalWeight": 87.25
+          },
+          {
+            "quartileCount": "2.8-6.7",
+            "quartileWeight": "1.3-2.0",
+            "species": "WTS",
+            "CPUE": "5.33",
+            "totalCatch": 32,
+            "totalWeight": 34.75,
+            "gearCount": 6,
+            "averageWeight": "1.09",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 7,
+            "CPUE": "0.35",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "quartileCount": "0.4-1.9",
+            "gear": "Standard trap nets",
+            "averageWeight": "0.18",
+            "gearCount": 20,
+            "totalWeight": 1.26
+          },
+          {
+            "gearCount": 20,
+            "totalWeight": 4.2,
+            "gear": "Standard trap nets",
+            "averageWeight": "0.32",
+            "species": "RKB",
+            "quartileWeight": "0.2-0.3",
+            "quartileCount": "0.3-1.0",
+            "totalCatch": 13,
+            "CPUE": "0.65"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.50",
+            "gearCount": 6,
+            "totalWeight": 24.55,
+            "totalCatch": 49,
+            "CPUE": "8.17",
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "quartileCount": "3.1-9.8"
+          },
+          {
+            "CPUE": "0.05",
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "gear": "Standard trap nets",
+            "averageWeight": "0.75",
+            "gearCount": 20,
+            "totalWeight": 0.75
+          },
+          {
+            "gear": "Standard trap nets",
+            "averageWeight": "1.81",
+            "gearCount": 20,
+            "totalWeight": 7.25,
+            "totalCatch": 4,
+            "CPUE": "0.20",
+            "species": "WTS",
+            "quartileWeight": "1.8-2.8",
+            "quartileCount": "0.3-3.0"
+          },
+          {
+            "CPUE": "3.33",
+            "totalCatch": 20,
+            "quartileCount": "0.2-3.0",
+            "species": "LKW",
+            "quartileWeight": "0.9-3.0",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.64",
+            "gearCount": 6,
+            "totalWeight": 12.74
+          },
+          {
+            "totalCatch": 1,
+            "CPUE": "0.05",
+            "quartileWeight": "0.5-1.4",
+            "species": "WAE",
+            "quartileCount": "0.3-1.3",
+            "averageWeight": "0.75",
+            "gear": "Standard trap nets",
+            "totalWeight": 0.75,
+            "gearCount": 20
+          },
+          {
+            "totalWeight": 5.3,
+            "gearCount": 6,
+            "averageWeight": "0.29",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "quartileCount": "1.9-7.1",
+            "totalCatch": 18,
+            "CPUE": "3.00"
+          },
+          {
+            "species": "RKB",
+            "quartileWeight": "0.2-0.4",
+            "quartileCount": "0.5-2.2",
+            "totalCatch": 6,
+            "CPUE": "1.00",
+            "gearCount": 6,
+            "totalWeight": 2.25,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.38"
+          }
+        ],
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_alt_name": "",
+          "id_date": "1976-08-12",
+          "wb_name": "Isabella",
+          "survey_id": "112133",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "wb_id": "38039600"
+        },
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyDate": "1976-08-12"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "3.39",
+            "gearCount": 15,
+            "totalWeight": 61426,
+            "totalCatch": 40,
+            "CPUE": "2.67",
+            "species": "NOP",
+            "quartileWeight": "1.9-3.6",
+            "quartileCount": "1.2-3.6"
+          },
+          {
+            "totalCatch": 4,
+            "CPUE": "0.27",
+            "quartileWeight": "0.2-0.5",
+            "species": "BLC",
+            "quartileCount": "0.2-1.4",
+            "averageWeight": "0.99",
+            "gear": "Standard gill nets",
+            "totalWeight": 1800,
+            "gearCount": 15
+          },
+          {
+            "totalCatch": 106,
+            "CPUE": "7.07",
+            "quartileWeight": "1.3-2.0",
+            "species": "WTS",
+            "quartileCount": "2.8-6.7",
+            "averageWeight": "1.35",
+            "gear": "Standard gill nets",
+            "totalWeight": 64950,
+            "gearCount": 15
+          },
+          {
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "quartileCount": "3.1-9.8",
+            "totalCatch": 143,
+            "CPUE": "9.53",
+            "gearCount": 15,
+            "totalWeight": 46960,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.72"
+          },
+          {
+            "gearCount": 15,
+            "totalWeight": 250,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.14",
+            "quartileCount": "N/A",
+            "species": "PMK",
+            "quartileWeight": "N/A",
+            "CPUE": "0.27",
+            "totalCatch": 4
+          },
+          {
+            "CPUE": "5.40",
+            "totalCatch": 81,
+            "quartileCount": "0.2-3.0",
+            "quartileWeight": "0.9-3.0",
+            "species": "LKW",
+            "averageWeight": "0.73",
+            "gear": "Standard gill nets",
+            "totalWeight": 26975,
+            "gearCount": 15
+          },
+          {
+            "gearCount": 15,
+            "totalWeight": 72,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.16",
+            "species": "LMB",
+            "quartileWeight": "0.9-1.3",
+            "quartileCount": "0.2-0.8",
+            "totalCatch": 1,
+            "CPUE": "0.07"
+          },
+          {
+            "totalCatch": 73,
+            "CPUE": "4.87",
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "quartileCount": "1.9-7.1",
+            "averageWeight": "0.20",
+            "gear": "Standard gill nets",
+            "totalWeight": 6471,
+            "gearCount": 15
+          },
+          {
+            "totalWeight": 1809,
+            "gearCount": 15,
+            "averageWeight": "0.27",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.5-2.2",
+            "quartileWeight": "0.2-0.4",
+            "species": "RKB",
+            "CPUE": "1.00",
+            "totalCatch": 15
+          }
+        ],
+        "surveyID": "350624830727000",
+        "narrative": "<p>Isabella Lake is in the Boundary Waters Canoe Wilderness Area approximately 13 miles north of Isabella. The lake has a maximum depth of 19 feet and a Secchi disc was visible in the brown-stained water to a depth of 9 feet.  A \ufffd mile U.S. Forest Service maintained trail from the parking lot leads to the southwest shore of the lake. There are numerous remote Forest Service campsites around the lake.   <br> \n <br> \nThe fish community in Isabella Lake is comprised of walleyes, northern pike, lake whitefish, yellow perch, black crappies, largemouth bass, rock bass, pumpkinseeds, white suckers and various species of minnows. <br> \n <br> \nIn 2006 walleyes were sampled in average numbers as they have been in most of the other assessments on this lake. Walleyes ranged from 7.1 to 26.8 inches, with approximately one third of the fish in the 12-15 inch range.  However, the overall size was fairly small, averaging 0.72 pounds/fish, which is normal for this lake.  <br> \n <br> \nNorthern pike were sampled in average numbers. The mean weight of northern pike collected in previous assessments has usually been in the normal range for the lake class, ranging between 1.6 and 3.6 pounds/fish; the mean weight in 2006 was in this range, with a mean weight of 3.4 pounds/fish. A few northern pike larger than 35 inches were collected in this assessment. Northern pike can grow large in this lake, likely utilizing the fairly sizable lake whitefish population to attain this growth. <br> \n <br> \nYellow perch were sampled in average numbers, which included a few fish in the 12-13 inch range. Approximately 12% of the yellow perch were larger than 9 inches.  <br> \n <br> \nLake whitefish were sampled in above average numbers in 2006; however, the mean size was fairly small, averaging 12.5 inches (0.73 pounds) per fish. All the lake whitefish collected in this assessment were smaller than 2 pounds. Isabella Lake is one of two lakes in the Finland Fisheries area that is open to whitefish netting in the fall of the year. The number of individuals who participate in this activity on this lake is usually very low.  <br> \n <br> \nLargemouth bass and black crappies were collected for the first time in this lake in 2006. These species may have migrated to Isabella Lake through a series of connecting waters where they are known to exist. Largemouth bass were sampled in below average numbers; however, this species is difficult to capture in netting gear and the catch results may not be indicative of largemouth bass density; only one largemouth bass (6.6 inches) was collected in this assessment.  Black crappies were collected in average numbers, with all the fish measuring between 11 and 12 inches. Since these appear to be fairly new species in Isabella Lake, it remains to be seen at what density their populations will stabilize. <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2006-09-05",
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                6
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                4
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                30,
+                2
+              ],
+              [
+                31,
+                2
+              ],
+              [
+                36,
+                4
+              ]
+            ],
+            "minimum_length": 13,
+            "maximum_length": 36
+          },
+          "YEP": {
+            "maximum_length": 12,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                5,
+                12
+              ],
+              [
+                6,
+                21
+              ],
+              [
+                7,
+                21
+              ],
+              [
+                8,
+                10
+              ],
+              [
+                9,
+                4
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                8
+              ],
+              [
+                12,
+                9
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                9
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                13
+              ],
+              [
+                17,
+                18
+              ],
+              [
+                18,
+                8
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                6,
+                7
+              ],
+              [
+                7,
+                8
+              ],
+              [
+                8,
+                5
+              ],
+              [
+                9,
+                4
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 6
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                9
+              ],
+              [
+                11,
+                10
+              ],
+              [
+                12,
+                21
+              ],
+              [
+                13,
+                20
+              ],
+              [
+                14,
+                14
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                8
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                7,
+                8
+              ],
+              [
+                8,
+                16
+              ],
+              [
+                9,
+                24
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 26
+          },
+          "LKW": {
+            "minimum_length": 8,
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                11,
+                15
+              ],
+              [
+                12,
+                25
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                10
+              ],
+              [
+                15,
+                12
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                9
+              ]
+            ]
+          },
+          "LMB": {
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 6
+          },
+          "PMK": {
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                3
+              ]
+            ],
+            "maximum_length": 5,
+            "minimum_length": 4
+          },
+          "RKB": {
+            "maximum_length": 8,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                7,
+                5
+              ],
+              [
+                8,
+                2
+              ]
+            ]
+          },
+          "BLC": {
+            "maximum_length": 11,
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                4
+              ]
+            ]
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_id": "38039600",
+          "survey_type": "Population Assessment",
+          "wb_name": "Isabella",
+          "wb_type": "Lake",
+          "survey_id": "350624830727000",
+          "id_date": "2006-09-05",
+          "wb_alt_name": "",
+          "county": "Lake"
+        }
+      }
+    ],
+    "officeCode": "F215",
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "09/21/2016",
+        "5.5"
+      ],
+      [
+        "09/05/2006",
+        "9"
+      ]
+    ],
+    "averageWaterClarity": "7.3",
+    "county": "Lake",
+    "DOWNumber": "38039600",
+    "areaAcres": 1257.23,
+    "maxDepthFeet": 19,
+    "lakeName": "Isabella",
+    "littoralAcres": 965.6,
+    "accesses": [
+      {
+        "accessTypeId": "PO",
+        "location": " ",
+        "lakeAccessComments": "56 rod portage from the parking lot at Entry Point #35. ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT"
+      },
+      {
+        "accessTypeId": "PO",
+        "location": " ",
+        "lakeAccessComments": "Portage trail from Boga Lake. Approximately 16 rods long.",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

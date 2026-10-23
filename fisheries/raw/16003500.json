@@ -1,0 +1,1155 @@
+{
+  "timestamp": 1790285927,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "lakeName": "John",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "id_date": "1991-07-01",
+          "wb_id": "16003500",
+          "wb_alt_name": "",
+          "survey_id": "110205",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_name": "John"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1991-07-01",
+        "surveyID": "110205",
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "quartileWeight": "1.3-2.4",
+            "quartileCount": "2.0-6.3",
+            "totalWeight": 44.25,
+            "gearCount": 3,
+            "averageWeight": "2.60",
+            "totalCatch": 17,
+            "gear": "Standard gill nets",
+            "CPUE": "5.67"
+          },
+          {
+            "species": "WAE",
+            "quartileWeight": "0.9-1.6",
+            "gear": "Standard gill nets",
+            "CPUE": "3.67",
+            "gearCount": 3,
+            "totalCatch": 11,
+            "averageWeight": "3.30",
+            "quartileCount": "3.0-9.8",
+            "totalWeight": 36.25
+          },
+          {
+            "CPUE": "33.67",
+            "gear": "Standard gill nets",
+            "totalWeight": 34,
+            "quartileCount": "2.2-14.6",
+            "gearCount": 3,
+            "totalCatch": 101,
+            "averageWeight": "0.34",
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP"
+          },
+          {
+            "quartileWeight": "1.5-2.4",
+            "species": "WTS",
+            "CPUE": "4.67",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "totalCatch": 14,
+            "averageWeight": "2.96",
+            "totalWeight": 41.5,
+            "quartileCount": "3.6-14.1"
+          }
+        ],
+        "lengths": {},
+        "narrative": "<p>WAE ABUNDANCE APPEARED TO BE LOW FOR LAKES OF THIS CLASS; HOWEVER, THE NUMBER OF GILL NETS SETS WAS ALSO LOW SO THE RELIABILITY OF THIS DETERMINATION MAY BE QUESTIONABLE.  WAE COLLECTED RANGED FROM 15 TO 24 IN.  THE 1989 AND 1988 YEAR CLASSES, WHICH WOULD NORMALLY BE SAMPLED IN GILL NETS, APPEARED TO BE WEAK OR MISSING.  WAE GROWTH WAS ABOUT AVERAGE FOR COOK COUNTY.  WAE STOCKING IN 1985, 1986, AND 1987 MAY HAVE CONTRIBUTED TO THE PRESENT WAE POPULATION, BUT IT IS LIKELY THAT THE POPULATION HAS BEEN MAINTAINED MAINLY BY NATURAL REPRODUCTION.  WAE WERE COLLECTED FROM EACH OF THE STOCKED YEAR CLASSES, WHILE UNSTOCKED YEAR CLASSES IN 1988 AND 1989 WERE WEAK OR MISSING.  NATURAL REPRODUCTION, HOWEVER, ACCOUNTED FOR WAE COLLECTED FROM YEAR CLASSES PRIOR TO 1985, AND IT IS POSSIBLE THAT NATURAL REPRODUCTION ALSO ACCOUNTED FOR AT LEAST SOME OF THE 1985-1987 YEAR CLASS FISH COLLECTED.  WAE POPULATIONS SAMPLED IN PAST ASSESSMENTS WERE PRODUCED ENTIRELY BY NATURAL REPRODUCTION.  NOP ABUNDANCE WAS GOOD.  MOST FISH RANGED FROM 16 TO 23 IN, BUT ONE 39 IN NOP WAS COLLECTED.  YEP ABUNDANCE WAS HIGH.  MOST FISH RANGED FROM 6 TO 8 IN, BUT A FEW UP TO 11.5 IN WERE COLLECTED.</p>"
+      },
+      {
+        "surveyDate": "1996-07-01",
+        "surveySubType": "Re-Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.3-2.4",
+            "species": "NOP",
+            "CPUE": "5.80",
+            "gear": "Standard gill nets",
+            "totalWeight": 39308,
+            "quartileCount": "2.0-6.3",
+            "gearCount": 5,
+            "averageWeight": "2.99",
+            "totalCatch": 29
+          },
+          {
+            "quartileWeight": "N/A",
+            "species": "BNS",
+            "totalCatch": 5,
+            "gearCount": 4,
+            "averageWeight": "0.00",
+            "quartileCount": "N/A",
+            "totalWeight": 0,
+            "gear": "Misc. fish",
+            "CPUE": "1.25"
+          },
+          {
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "gear": "Misc. fish",
+            "CPUE": "0.25",
+            "gearCount": 4,
+            "averageWeight": "0.00",
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "totalWeight": 2
+          },
+          {
+            "quartileCount": "3.0-9.8",
+            "totalWeight": 9862,
+            "averageWeight": "4.35",
+            "gearCount": 5,
+            "totalCatch": 5,
+            "gear": "Standard gill nets",
+            "CPUE": "1.00",
+            "species": "WAE",
+            "quartileWeight": "0.9-1.6"
+          },
+          {
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.31",
+            "gearCount": 5,
+            "totalCatch": 130,
+            "totalWeight": 18347,
+            "quartileCount": "2.2-14.6",
+            "CPUE": "26.00",
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "4.60",
+            "gear": "Standard gill nets",
+            "gearCount": 5,
+            "totalCatch": 23,
+            "averageWeight": "2.92",
+            "totalWeight": 30490,
+            "quartileCount": "3.6-14.1",
+            "quartileWeight": "1.5-2.4",
+            "species": "WTS"
+          }
+        ],
+        "surveyID": "110749",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "16003500",
+          "survey_type": "Re-Survey",
+          "id_date": "1996-07-01",
+          "survey_id": "110749",
+          "wb_type": "Lake",
+          "wb_name": "John",
+          "county": "Cook"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>The walleye catch in the 1996 survey was the lowest ever observed on this lake.  It appeared that walleye had not produced a strong natural year class since 1987, despite the presence of excellent spawning habitat.  Stocking in Little John Lake has not increased walleye abundance in John Lake.  Catches of northern pike, yellow perch, and white sucker were similar to past catches in this lake, but the northern pike and yellow perch catches were well above the normal ranges for lakes of this class.  Several large northern pike were observed, and northern pike growth was about average for the area.  Large yellow perch were also present.  No smallmouth bass were observed; however, they are probably present, since they have been collected in the past in this lake.</p>",
+        "lengths": {
+          "WTS": {
+            "minimum_length": 14,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                14,
+                2
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                7
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                3
+              ]
+            ]
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                27,
+                1
+              ]
+            ],
+            "minimum_length": 13,
+            "maximum_length": 27
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                10,
+                14
+              ],
+              [
+                11,
+                6
+              ],
+              [
+                5,
+                19
+              ],
+              [
+                6,
+                8
+              ],
+              [
+                7,
+                20
+              ],
+              [
+                8,
+                30
+              ],
+              [
+                9,
+                33
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 2,
+            "maximum_length": 33,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                23,
+                4
+              ],
+              [
+                24,
+                3
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                30,
+                2
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                33,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "surveyID": "111283",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.3-2.4",
+            "species": "NOP",
+            "totalWeight": 51778,
+            "quartileCount": "2.0-6.3",
+            "gearCount": 5,
+            "averageWeight": "2.43",
+            "totalCatch": 47,
+            "CPUE": "9.40",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "0.6-1.6",
+            "species": "SMB",
+            "gearCount": 5,
+            "averageWeight": "1.35",
+            "totalCatch": 2,
+            "totalWeight": 1223,
+            "quartileCount": "0.5-5.8",
+            "CPUE": "0.40",
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "3.00",
+            "gear": "Standard gill nets",
+            "gearCount": 5,
+            "totalCatch": 15,
+            "averageWeight": "2.08",
+            "totalWeight": 14139,
+            "quartileCount": "3.0-9.8",
+            "species": "WAE",
+            "quartileWeight": "0.9-1.6"
+          },
+          {
+            "totalCatch": 257,
+            "gearCount": 5,
+            "averageWeight": "0.29",
+            "totalWeight": 34055,
+            "quartileCount": "2.2-14.6",
+            "CPUE": "51.40",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "quartileCount": "3.6-14.1",
+            "totalWeight": 16905,
+            "totalCatch": 12,
+            "gearCount": 5,
+            "averageWeight": "3.11",
+            "gear": "Standard gill nets",
+            "CPUE": "2.40",
+            "species": "WTS",
+            "quartileWeight": "1.5-2.4"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyDate": "2001-06-13",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_id": "111283",
+          "wb_id": "16003500",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "id_date": "2001-06-13",
+          "county": "Cook",
+          "wb_name": "John",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>John Lake supported high quality walleye, northern pike, and yellow perch populations in 2001, as well as some good-sized smallmouth bass.  All fish populations appeared to have been supported entirely by natural reproduction.  Northern pike and yellow perch abundance was exceptionally high for a lake of this class, while walleye and smallmouth bass catches were lower.</p>",
+        "lengths": {
+          "NOP": {
+            "minimum_length": 8,
+            "maximum_length": 33,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                22,
+                5
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                4
+              ],
+              [
+                27,
+                2
+              ],
+              [
+                28,
+                2
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                31,
+                3
+              ],
+              [
+                33,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "SMB": {
+            "maximum_length": 15,
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "maximum_length": 12,
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                10,
+                22
+              ],
+              [
+                11,
+                8
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                27
+              ],
+              [
+                6,
+                29
+              ],
+              [
+                7,
+                65
+              ],
+              [
+                8,
+                54
+              ],
+              [
+                9,
+                50
+              ]
+            ]
+          },
+          "WAE": {
+            "maximum_length": 22,
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 15
+          }
+        }
+      },
+      {
+        "narrative": "<p>Walleye numbers were low in this lake in 2006, but those fish that were found were good-sized (18.6-inch average length).  Northern pike were fairly abundant, and were above average in size, with fish as large as 32 inches taken.  Yellow perch were also abundant, with many larger fish present.  Two-thirds of the yellow perch taken were eight inches in length or larger (up to 12 inches).  Although none were taken in 2006, smallmouth bass were also almost certainly present, since they have been found in this lake in the past. <br> \n <br> \n</p>",
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                26,
+                3
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                32,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 32,
+            "minimum_length": 9
+          },
+          "WAE": {
+            "minimum_length": 14,
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                23,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                18
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                12
+              ],
+              [
+                6,
+                22
+              ],
+              [
+                7,
+                15
+              ],
+              [
+                8,
+                48
+              ],
+              [
+                9,
+                31
+              ]
+            ],
+            "maximum_length": 12,
+            "minimum_length": 4
+          }
+        },
+        "surveyID": "220623055439000",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "4.20",
+            "gear": "Standard gill nets",
+            "totalWeight": 26848,
+            "quartileCount": "2.0-6.3",
+            "gearCount": 5,
+            "totalCatch": 21,
+            "averageWeight": "2.82",
+            "species": "NOP",
+            "quartileWeight": "1.3-2.4"
+          },
+          {
+            "totalWeight": 9373,
+            "quartileCount": "3.0-9.8",
+            "gearCount": 5,
+            "averageWeight": "2.30",
+            "totalCatch": 9,
+            "CPUE": "1.80",
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "quartileWeight": "0.9-1.6"
+          },
+          {
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 5,
+            "averageWeight": "0.31",
+            "totalCatch": 151,
+            "totalWeight": 21537,
+            "quartileCount": "2.2-14.6",
+            "CPUE": "30.20",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "WTS",
+            "quartileWeight": "1.5-2.4",
+            "quartileCount": "3.6-14.1",
+            "totalWeight": 5001,
+            "gearCount": 5,
+            "totalCatch": 4,
+            "averageWeight": "2.76",
+            "gear": "Standard gill nets",
+            "CPUE": "0.80"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyDate": "2006-06-12",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "16003500",
+          "survey_type": "Population Assessment",
+          "id_date": "2006-06-12",
+          "survey_id": "220623055439000",
+          "wb_name": "John",
+          "wb_type": "Lake",
+          "county": "Cook"
+        }
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.3-2.4",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "CPUE": "6.83",
+            "quartileCount": "2.0-6.3",
+            "totalWeight": 54154,
+            "averageWeight": "2.91",
+            "gearCount": 6,
+            "totalCatch": 41
+          },
+          {
+            "quartileWeight": "1.5-2.4",
+            "species": "WTS",
+            "totalWeight": 2815,
+            "quartileCount": "3.6-14.1",
+            "totalCatch": 3,
+            "gearCount": 6,
+            "averageWeight": "2.07",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "WAE",
+            "quartileWeight": "0.9-1.6",
+            "averageWeight": "2.08",
+            "gearCount": 6,
+            "totalCatch": 7,
+            "quartileCount": "3.0-9.8",
+            "totalWeight": 6608,
+            "gear": "Standard gill nets",
+            "CPUE": "1.17"
+          },
+          {
+            "gearCount": 6,
+            "averageWeight": "2.64",
+            "totalCatch": 3,
+            "quartileCount": "0.5-5.8",
+            "totalWeight": 3595,
+            "gear": "Standard gill nets",
+            "CPUE": "0.50",
+            "quartileWeight": "0.6-1.6",
+            "species": "SMB"
+          },
+          {
+            "quartileWeight": "N/A",
+            "species": "BNS",
+            "CPUE": "0.88",
+            "gear": "15-ft beach seine",
+            "totalCatch": 7,
+            "gearCount": 8,
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "quartileCount": "N/A"
+          },
+          {
+            "gearCount": 8,
+            "totalCatch": 1,
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "CPUE": "0.12",
+            "gear": "15-ft beach seine",
+            "quartileWeight": "N/A",
+            "species": "BST"
+          },
+          {
+            "species": "BNM",
+            "quartileWeight": "N/A",
+            "CPUE": "19.38",
+            "gear": "15-ft beach seine",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "gearCount": 8,
+            "averageWeight": "0.00",
+            "totalCatch": 155
+          },
+          {
+            "averageWeight": "0.00",
+            "gearCount": 8,
+            "totalCatch": 2,
+            "quartileCount": "N/A",
+            "totalWeight": 1,
+            "gear": "15-ft beach seine",
+            "CPUE": "0.25",
+            "quartileWeight": "N/A",
+            "species": "NOP"
+          },
+          {
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "CPUE": "16.17",
+            "totalCatch": 97,
+            "gearCount": 6,
+            "averageWeight": "0.17",
+            "quartileCount": "2.2-14.6",
+            "totalWeight": 7536
+          }
+        ],
+        "surveyID": "15281618331110000",
+        "surveyDate": "2016-06-20",
+        "surveySubType": "Standard Survey",
+        "headerInfo": {
+          "county": "Cook",
+          "wb_name": "John",
+          "wb_type": "Lake",
+          "wb_id": "16003500",
+          "wb_alt_name": "",
+          "survey_type": "Standard Survey",
+          "id_date": "2016-06-20",
+          "survey_id": "15281618331110000"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>John Lake is located completely within the BWCA wilderness near the end of the Arrowhead Trail.  The lake can be accessed via a short portage from Little John Lake (BWCA entry point 69). John Lake is an Ecological Class 12 lake, which is characterized by a shallow maximum depth, complete littoral coverage, and very soft bog-stained water. The lake was last stocked with Walleye fry in 1987, and is currently managed for Northern Pike and Yellow Perch. <br> \n <br> \nThe 2016 survey of John Lake was the first of two scheduled in the 2008 lake management plan to determine if long-range goals for the Northern Pike and Yellow Perch populations could be met with no further management intervention. The goal for the Northern Pike population is to maintain a gill net catch of 4.0 fish/net, with a minimum mean weight of 2.5 lb/fish. The Yellow Perch goal is to maintain a gill net catch of 6.0 fish/set with a minimum mean weight of 0.2 lb/fish.  <br> \n <br> \nNorthern Pike were abundant in John lake in 2016, and some larger fish were present.  The 2016 gill net catch of Northern Pike met the long-range catch goal for John Lake, and was considered above average compared to similar lakes in the area. Although the catch was high, it was similar to catches observed in past surveys of John Lake. The size goal for the population was also met in 2016. Northern Pike were sampled in a wide range of sizes, including several fish over 30 inches. Natural reproduction by Northern Pike appeared very consistent in recent years. The sample included one- through seven-year-old Northern Pike, although three- and four-year-old fish comprised a majority of the catch. Growth rates of Northern Pike had been about average; fish reached a mean of 20.6 inches at the end of their fourth year, compared to an area average of  21.1 inches.  <br> \n <br> \nYellow Perch were also abundant in 2016, although there did not appear to have been as many larger fish present as have been seen in this lake in the past.  The 2016 gill net catch was lower than in prior surveys, but the catch still remained above average for the lake class, and easily met the long-range catch goal for Yellow Perch. Yellow Perch sampled in 2016 were also smaller than those observed in previous surveys. About 19 percent of the Yellow Perch sampled in 2016 were longer than eight inches. While angling opportunities for large perch appeared less abundant in 2016, high numbers of small-medium size Yellow Perch present in this survey suggested an excellent forage base remained for the Northern Pike and Walleye populations. <br> \n <br> \nWalleye gill net catches have typically been low in John Lake since 1996, although the mean weight of Walleye has routinely been above average in these surveys. Similar results were seen in 2016; the gill net catch fell below the normal range for Class 12 lakes, but the mean weight was well above average. Natural reproduction by Walleye in John Lake may be limited, or the population may be reliant on immigration of Walleye from connected waterbodies such as McFarland and Pine Lake. The 2016 sample included four year classes of Walleye (three to six years of age), none of which appeared strong. Growth of Walleye had been fairly fast; their mean length at the end their third year was 12.2 inches, compared to 11.1 inches for similar lakes in the Grand Marais area. <br> \n <br> \nSince 1969, Smallmouth Bass have been sampled occasionally in John Lake. This population may also be reliant on immigration of fish from adjacent waterbodies with more robust populations. Although the density may be low, John Lake has shown the ability produce some large Smallmouth Bass. <br> \n <br> \nLow numbers of White Sucker were sampled in 2016, continuing a trend of declining gill net catches since 1979. Seine hauls were conducted at eight locations in 2016 to examine the near shore fish community in John Lake. Species sampled in these efforts included Blacknose Shiner, Bluntnose Minnow, Brook Stickleback, and Northern Pike. <br> \n <br> \nJohn, Little John, McFarland, and Pine Lake are all infested with Spiny Waterflea, a prohibited aquatic invasive species. Anglers and boaters are reminded to review the recommended actions for cleaning watercraft and gear before and after accessing any waterbody, and to adhere to all Minnesota aquatic invasive species laws to protect Minnesota lakes and rivers from additional infestations. <br> \n</p>",
+        "lengths": {
+          "SMB": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 13
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                2,
+                1
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                6
+              ],
+              [
+                22,
+                6
+              ],
+              [
+                23,
+                3
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                26,
+                3
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                29,
+                2
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                34,
+                1
+              ]
+            ],
+            "minimum_length": 2,
+            "maximum_length": 34
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                17,
+                2
+              ]
+            ],
+            "maximum_length": 17,
+            "minimum_length": 12
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ]
+            ],
+            "minimum_length": 13,
+            "maximum_length": 21
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                5,
+                14
+              ],
+              [
+                6,
+                31
+              ],
+              [
+                7,
+                34
+              ],
+              [
+                8,
+                12
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 10
+          }
+        }
+      }
+    ],
+    "areaAcres": 190.88,
+    "shoreLengthMiles": 3.88,
+    "maxDepthFeet": 20,
+    "littoralAcres": 168,
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "07/01/1991",
+        "7.5"
+      ],
+      [
+        "06/12/2006",
+        "8"
+      ]
+    ],
+    "averageWaterClarity": "7.8",
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "location": "Beaver dam on creek.",
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "CA",
+        "lakeAccessComments": "Lake is entirely inside the BWCAW.  Access by short portage trail or paddle down river from Little John Lake."
+      }
+    ],
+    "DOWNumber": "16003500",
+    "county": "Cook",
+    "officeCode": "F218",
+    "meanDepthFeet": 0
+  }
+}

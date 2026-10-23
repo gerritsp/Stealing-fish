@@ -1,0 +1,73 @@
+{
+  "result": {
+    "areaAcres": 42.8,
+    "waterClarity": [],
+    "maxDepthFeet": 0,
+    "averageWaterClarity": "N/A",
+    "shoreLengthMiles": 1.89,
+    "lakeName": "Little Beartrack",
+    "lakeAltName": "Contentment",
+    "sampledPlants": [],
+    "county": "St. Louis",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "location": "None designated-portage from Thumb.  This is a",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " "
+      }
+    ],
+    "meanDepthFeet": 0,
+    "littoralAcres": 0,
+    "surveys": [
+      {
+        "narrative": "<p>Composed of relatively low populations of N Pike and Sucker.</p>",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "id_date": "1980-07-11",
+          "wb_name": "Little Beartrack",
+          "wb_alt_name": "Contentment",
+          "wb_type": "Lake",
+          "survey_id": "111828",
+          "county": "St. Louis",
+          "wb_id": "69038600"
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "1980-07-11",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "totalCatch": 9,
+            "totalWeight": 23.5,
+            "averageWeight": "2.61",
+            "CPUE": "2.25",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 5,
+            "gearCount": 4,
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "CPUE": "1.25",
+            "quartileCount": "N/A",
+            "totalWeight": 9,
+            "averageWeight": "1.80",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyID": "111828"
+      }
+    ],
+    "officeCode": "F217",
+    "DOWNumber": "69038600"
+  },
+  "timestamp": 1790286068,
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

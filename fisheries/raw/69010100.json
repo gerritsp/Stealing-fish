@@ -1,0 +1,180 @@
+{
+  "timestamp": 1790285930,
+  "result": {
+    "accesses": [
+      {
+        "location": " ",
+        "lakeAccessComments": "User maintained portage from Holy Lake.",
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO"
+      }
+    ],
+    "areaAcres": 17.77,
+    "county": "St. Louis",
+    "sampledPlants": [],
+    "lakeName": "Hopkins",
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "5.0",
+    "maxDepthFeet": 11,
+    "DOWNumber": "69010100",
+    "surveys": [
+      {
+        "surveyDate": "2015-08-03",
+        "headerInfo": {
+          "id_date": "2015-08-03",
+          "county": "St. Louis",
+          "wb_type": "Lake",
+          "survey_id": "12631533626292000",
+          "wb_alt_name": "",
+          "survey_type": "Standard Survey",
+          "wb_id": "69010100",
+          "wb_name": "Hopkins"
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "16.00",
+            "totalWeight": 17898,
+            "gearCount": 2,
+            "quartileWeight": "1.2-2.4",
+            "averageWeight": "1.23",
+            "quartileCount": "3.9-9.4",
+            "species": "NOP",
+            "totalCatch": 32,
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "6.00",
+            "totalWeight": 4,
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00",
+            "species": "YEP",
+            "totalCatch": 12,
+            "gear": "Minnow traps",
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "0.50",
+            "totalWeight": 0,
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "averageWeight": "0.00",
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "species": "BLG",
+            "gear": "Minnow traps"
+          },
+          {
+            "CPUE": "0.50",
+            "totalWeight": 788,
+            "averageWeight": "1.74",
+            "quartileWeight": "0.5-1.2",
+            "gearCount": 2,
+            "quartileCount": "0.6-4.3",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "species": "LMB"
+          }
+        ],
+        "surveyID": "12631533626292000",
+        "narrative": "<p>Hopkins Lake is located approximately 13 miles N of Ely in the BWCAW. This remote lake is characterized by it's densely forested shorelines of black spruce and other conifers. Small outcrops of ledgerock can be found and a prominent ledgerock bluff is located on the west side.  <br> \n <br> \nHopkins Lake appears to have very little use. A primitive, poorly maintained portage from Holy Lake was used to gain access. There are no designated USFS campsites. <br> \n <br> \nSmall northern pike were found in good numbers in 2015. Pike abundance (16.0/gill net) was well above average compared to other similar lakes in the area. The average pike sampled was 18.6 inches long and the largest pike sampled was only 22.0 inches long. <br> \n <br> \nOne 14.8 inch largemouth bass was sampled in the gill nets. There is a connection from the outlet to Little Bass Lake where largemouth bass have been established for some time. <br> \n <br> \nSmall yellow perch and bluegill were sampled in baited minnow traps. Perch were also observed in northern pike stomach samples. <br> \n <br> \n</p>",
+        "lengths": {
+          "BLG": {
+            "minimum_length": 0,
+            "fishCount": [
+              [
+                0,
+                1
+              ]
+            ],
+            "maximum_length": 0
+          },
+          "YEP": {
+            "maximum_length": 2,
+            "fishCount": [
+              [
+                1,
+                9
+              ],
+              [
+                2,
+                2
+              ],
+              [
+                2,
+                1
+              ]
+            ],
+            "minimum_length": 1
+          },
+          "NOP": {
+            "minimum_length": 14,
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                12
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ]
+          },
+          "LMB": {
+            "minimum_length": 14,
+            "fishCount": [
+              [
+                14,
+                1
+              ]
+            ],
+            "maximum_length": 14
+          }
+        }
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/03/2015",
+        "5"
+      ]
+    ],
+    "officeCode": "F214",
+    "shoreLengthMiles": 0.85,
+    "littoralAcres": 17.77
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

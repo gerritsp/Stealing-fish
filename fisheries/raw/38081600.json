@@ -1,0 +1,116 @@
+{
+  "result": {
+    "averageWaterClarity": "N/A",
+    "shoreLengthMiles": 3.89,
+    "DOWNumber": "38081600",
+    "county": "Lake",
+    "areaAcres": 170.98,
+    "meanDepthFeet": 0,
+    "waterClarity": [],
+    "littoralAcres": 170.98,
+    "lakeName": "Moosecamp",
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "narrative": "<p>Walleyes, rock bass, northern pike and suckers are present in about average numbers.  Bluegills are present in good numbers and size for lakes in this area. Cisco are present in below average numbers, but large size.</p>",
+        "surveyDate": "1974-09-08",
+        "headerInfo": {
+          "wb_name": "Moosecamp",
+          "survey_type": "Initial Survey",
+          "id_date": "1974-09-08",
+          "survey_id": "108075",
+          "wb_id": "38081600",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "wb_alt_name": ""
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 24.5,
+            "averageWeight": "1.53",
+            "quartileCount": "2.0-6.3",
+            "totalCatch": 16,
+            "quartileWeight": "1.3-2.4",
+            "gearCount": 4,
+            "CPUE": "4.00",
+            "species": "NOP",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 4,
+            "totalCatch": 5,
+            "quartileWeight": "0.2-0.4",
+            "gear": "Standard gill nets",
+            "CPUE": "1.25",
+            "species": "RKB",
+            "averageWeight": "0.20",
+            "totalWeight": 1,
+            "quartileCount": "0.3-2.0"
+          },
+          {
+            "quartileCount": "3.0-9.8",
+            "averageWeight": "1.07",
+            "totalWeight": 15,
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "CPUE": "3.50",
+            "gearCount": 4,
+            "quartileWeight": "0.9-1.6",
+            "totalCatch": 14
+          },
+          {
+            "quartileCount": "3.6-14.1",
+            "averageWeight": "2.33",
+            "totalWeight": 28,
+            "gear": "Standard gill nets",
+            "CPUE": "3.00",
+            "species": "WTS",
+            "gearCount": 4,
+            "quartileWeight": "1.5-2.4",
+            "totalCatch": 12
+          },
+          {
+            "quartileWeight": "1.0",
+            "totalCatch": 5,
+            "gearCount": 4,
+            "species": "TLC",
+            "CPUE": "1.25",
+            "gear": "Standard gill nets",
+            "totalWeight": 4.9,
+            "averageWeight": "0.98",
+            "quartileCount": "1.6"
+          },
+          {
+            "CPUE": "2.25",
+            "species": "BLG",
+            "gear": "Standard gill nets",
+            "totalCatch": 9,
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalWeight": 6.5,
+            "averageWeight": "0.72"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyID": "108075"
+      }
+    ],
+    "officeCode": "F214",
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "location": "USFS portage from Bullet Lake or Fourtown Lake on river from Fourtown  BWCA  paddle only."
+      }
+    ],
+    "maxDepthFeet": 16
+  },
+  "timestamp": 1790285938,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

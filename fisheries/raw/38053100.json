@@ -1,0 +1,399 @@
+{
+  "result": {
+    "lakeAltName": "Little Iron",
+    "areaAcres": 91.98,
+    "surveys": [
+      {
+        "surveyID": "12641436434865000",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "BLG": {
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                2
+              ]
+            ],
+            "maximum_length": 6,
+            "minimum_length": 3
+          },
+          "LMB": {
+            "maximum_length": 16,
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                3
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                29,
+                2
+              ],
+              [
+                30,
+                2
+              ],
+              [
+                32,
+                2
+              ],
+              [
+                37,
+                1
+              ]
+            ],
+            "minimum_length": 13,
+            "maximum_length": 37
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "maximum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                5,
+                16
+              ],
+              [
+                6,
+                10
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "WAE": {
+            "maximum_length": 18,
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                18,
+                1
+              ]
+            ]
+          },
+          "RKB": {
+            "maximum_length": 6,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "TLC": {
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                12
+              ],
+              [
+                13,
+                11
+              ],
+              [
+                14,
+                8
+              ]
+            ],
+            "maximum_length": 14,
+            "minimum_length": 11
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                8
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 22
+          }
+        },
+        "narrative": "<p>Splash Lake is located approximately 19 miles northeast of Ely in the BWCAW. This lake is on a popular canoe route for visitors travelling off the Moose Lake chain of lakes. A historic winter travel route also crosses Splash Lake accessing areas to the east. There is one designated USFS campsite located on the lake. <br> \n <br> \nAccess is commonly by a short portage (35 rods) from Newfound Lake along the north side of the outlet. Visitors accessing the lake from Ensign Lake will find a short portage (5 rods) along the south side of the inlet. During periods of high water levels this portage can be eliminated by floating through. <br> \n <br> \nNorthern pike numbers in 2014 (11.8/gill net) were slightly higher than the long term average for all assessments on this lake. Pike sizes averaged 21.1 inches which is similar past assessments on this lake. The largest pike sampled was 37.3 inches long. <br> \n <br> \nWalleye numbers in 2014 (2.8/gill net) were similar to past assessments on this lake. The average walleye sampled was 14.7 inches long and about 4 years old. The largest walleye sampled was 18.2 inches long. <br> \n <br> \nYellow perch numbers in 2014 (8.0/gill net) were higher than in past surveys. Perch sizes averaged 6.6 inches which is average size for Splash. The largest perch sampled was 10.5 inches long. <br> \n <br> \nCisco abundance in 2014 (8.3/gill net) was lower than the long term average but average size at 13.3 inches was typical. The largest cisco sampled was 14.7 inches long. <br> \n <br> \nRelatively low numbers of largemouth bass, bluegill and rock bass were sampled in 2014. White sucker (6.0/gill net) were also sampled. Smallmouth bass are present, however none were sampled.</p>",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.0-8.5",
+            "species": "NOP",
+            "averageWeight": "2.49",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.4-2.7",
+            "totalCatch": 47,
+            "CPUE": "11.75",
+            "gearCount": 4,
+            "totalWeight": 53146
+          },
+          {
+            "totalWeight": 92,
+            "gearCount": 4,
+            "averageWeight": "0.20",
+            "species": "RKB",
+            "quartileCount": "0.3-1.2",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "quartileWeight": "0.2-0.3",
+            "CPUE": "0.25"
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "averageWeight": "1.06",
+            "quartileCount": "2.2-10.5",
+            "CPUE": "2.75",
+            "totalCatch": 11,
+            "quartileWeight": "1.1-1.9",
+            "totalWeight": 5272,
+            "gearCount": 4
+          },
+          {
+            "gearCount": 4,
+            "totalWeight": 1768,
+            "gear": "Standard gill nets",
+            "quartileCount": "2.5-14.3",
+            "averageWeight": "0.12",
+            "species": "YEP",
+            "CPUE": "8.00",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 32
+          },
+          {
+            "quartileCount": "1.6-8.4",
+            "species": "WTS",
+            "averageWeight": "2.70",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.9-2.3",
+            "totalCatch": 24,
+            "CPUE": "6.00",
+            "gearCount": 4,
+            "totalWeight": 29358
+          },
+          {
+            "totalCatch": 33,
+            "quartileWeight": "0.1-0.9",
+            "CPUE": "8.25",
+            "averageWeight": "0.95",
+            "species": "TLC",
+            "quartileCount": "0.3-17.8",
+            "gear": "Standard gill nets",
+            "totalWeight": 14226,
+            "gearCount": 4
+          },
+          {
+            "CPUE": "0.50",
+            "quartileWeight": "0.3-1.8",
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-2.3",
+            "averageWeight": "1.90",
+            "species": "LMB",
+            "gearCount": 4,
+            "totalWeight": 1722
+          },
+          {
+            "gearCount": 4,
+            "totalWeight": 344,
+            "quartileCount": "N/A",
+            "averageWeight": "0.15",
+            "species": "BLG",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 5,
+            "CPUE": "1.25"
+          }
+        ],
+        "surveyDate": "2014-06-16",
+        "headerInfo": {
+          "wb_id": "38053100",
+          "wb_type": "Lake",
+          "wb_name": "Splash",
+          "id_date": "2014-06-16",
+          "survey_type": "Population Assessment",
+          "county": "Lake",
+          "survey_id": "12641436434865000",
+          "wb_alt_name": "Little Iron"
+        }
+      }
+    ],
+    "sampledPlants": [],
+    "lakeName": "Splash",
+    "county": "Lake",
+    "shoreLengthMiles": 3.31,
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 18,
+    "accesses": [
+      {
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "30 rod portage from Newfound Lake."
+      },
+      {
+        "location": "The main water channel could be canoeable depending on water levels or during low levels you can walk your canoe through the secondary channel south of the main channel.",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "5 rod portage from Ensign Lake.     ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO"
+      },
+      {
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN",
+        "location": "This access is all on high ground and is used in the winter by sled dog mushers to avoid the rapids at AC1.",
+        "lakeAccessComments": "0.37 mile winter portage from Newfound Lake to Splash Lake."
+      }
+    ],
+    "waterClarity": [
+      [
+        "06/16/2014",
+        "13"
+      ]
+    ],
+    "littoralAcres": 81,
+    "DOWNumber": "38053100",
+    "officeCode": "F214",
+    "averageWaterClarity": "13.0"
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285833,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,159 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "surveys": [
+      {
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1972-07-15",
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "totalWeight": 1,
+            "gearCount": 6,
+            "quartileCount": "0.2-1.0",
+            "totalCatch": 1,
+            "CPUE": "0.17",
+            "averageWeight": "1.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-1.5"
+          },
+          {
+            "species": "NOP",
+            "totalCatch": 6,
+            "CPUE": "1.00",
+            "quartileCount": "0.6-2.4",
+            "totalWeight": 18.5,
+            "gearCount": 6,
+            "averageWeight": "3.08",
+            "quartileWeight": "2.1-4.9",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "1.0-2.0",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.00",
+            "totalCatch": 7,
+            "quartileCount": "1.2-5.2",
+            "CPUE": "1.17",
+            "totalWeight": 14,
+            "gearCount": 6,
+            "species": "WAE"
+          },
+          {
+            "averageWeight": "0.15",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "gearCount": 6,
+            "totalWeight": 0.3,
+            "totalCatch": 2,
+            "CPUE": "0.33",
+            "quartileCount": "0.4-3.7"
+          },
+          {
+            "totalCatch": 14,
+            "quartileCount": "0.8-5.3",
+            "CPUE": "2.33",
+            "gearCount": 6,
+            "totalWeight": 45.5,
+            "species": "WTS",
+            "quartileWeight": "1.1-2.5",
+            "gear": "Standard gill nets",
+            "averageWeight": "3.25"
+          },
+          {
+            "gearCount": 6,
+            "totalWeight": 0.7,
+            "totalCatch": 6,
+            "CPUE": "1.00",
+            "quartileCount": "3.2-20.2",
+            "species": "TLC",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-1.0",
+            "averageWeight": "0.12"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_id": "38051100",
+          "id_date": "1972-07-15",
+          "survey_id": "108017",
+          "wb_type": "Lake",
+          "wb_name": "Jordan"
+        },
+        "narrative": "<p>All fish population are low and year class strengths of all species are eratic.</p>",
+        "surveyID": "108017"
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_id": "38051100",
+          "id_date": "2025-08-19",
+          "wb_type": "Lake",
+          "survey_id": "-357",
+          "wb_name": "Jordan"
+        },
+        "surveyID": "-357",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Jordan Lake on August 19th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 64.0 feet), the water temperature was below 21.2 degrees C (70.2 degrees F) for the entire water column and the dissolved oxygen concentration decreased to 3.0 mg/L at 45.3 feet at the time of sampling. The thickness of this layer of water in the water column was 45.3 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.9 degrees C (40.8 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates suitable oxythermal habitat, with 40.9 feet of suitable oxythermal habitat. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "surveyDate": "2025-08-19",
+        "fishCatchSummaries": []
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_id": "38051100",
+          "id_date": "2024-07-29",
+          "survey_id": "21872427032451028",
+          "wb_type": "Lake",
+          "wb_name": "Jordan",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "county": "Lake"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Jordan Lake on July 29, 2024 to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased to below 21.2 degrees C (70.2 degrees F) at 12.2 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 53.1 feet at the time of sampling. The thickness of this layer of water in the water column was 40.9 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.5 degrees C (43.7 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey.  <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey on Jordan Lake during the late summer period of maximum oxythermal stress. If inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. </p>",
+        "surveyID": "21872427032451028",
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2024-07-29",
+        "fishCatchSummaries": []
+      }
+    ],
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "location": "Access by canoe and portage  BWCAW - no motors allowed."
+      }
+    ],
+    "meanDepthFeet": 0,
+    "DOWNumber": "38051100",
+    "littoralAcres": 60,
+    "waterClarity": [
+      [
+        "08/19/2025",
+        "8.2"
+      ]
+    ],
+    "areaAcres": 142.45,
+    "shoreLengthMiles": 6.23,
+    "maxDepthFeet": 66,
+    "lakeName": "Jordan",
+    "officeCode": "F214",
+    "county": "Lake",
+    "averageWaterClarity": "8.2"
+  },
+  "timestamp": 1790285804,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,83 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285578,
+  "result": {
+    "waterClarity": [],
+    "county": "St. Louis",
+    "littoralAcres": 30,
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "Lake is within BWCA on a non-motorized route.  Access-by 70 rod portage trail from Cummings lake and by inlet-Little Crab Lake."
+      }
+    ],
+    "areaAcres": 54.1,
+    "officeCode": "F214",
+    "shoreLengthMiles": 1.97,
+    "maxDepthFeet": 27,
+    "DOWNumber": "69031500",
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "Korb",
+          "wb_id": "69031500",
+          "survey_id": "108147",
+          "id_date": "1978-06-29",
+          "county": "St. Louis"
+        },
+        "surveyDate": "1978-06-29",
+        "surveyID": "108147",
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>Consists of low populations of northern pike, perch, and suckers.  Apparently smallmouth bass and bluegills are present also.</p>",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.67",
+            "averageWeight": "2.60",
+            "gearCount": 3,
+            "totalWeight": 13,
+            "quartileCount": "1.3-5.3",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-3.1",
+            "totalCatch": 5,
+            "species": "NOP"
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "totalCatch": 1,
+            "gearCount": 3,
+            "averageWeight": "0.10",
+            "CPUE": "0.33",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.1,
+            "quartileCount": "0.5-7.0"
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "totalCatch": 9,
+            "species": "WTS",
+            "CPUE": "3.00",
+            "averageWeight": "2.14",
+            "gearCount": 3,
+            "totalWeight": 19.25,
+            "quartileCount": "1.2-4.9",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "lengths": {}
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "lakeName": "Korb",
+    "meanDepthFeet": 0
+  },
+  "message": "Normal execution."
+}

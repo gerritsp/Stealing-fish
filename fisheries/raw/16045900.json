@@ -1,0 +1,99 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "areaAcres": 67.64,
+    "county": "Cook",
+    "officeCode": "F218",
+    "maxDepthFeet": 19,
+    "meanDepthFeet": 10,
+    "waterClarity": [
+      [
+        "07/02/1979",
+        "4.7"
+      ]
+    ],
+    "averageWaterClarity": "4.7",
+    "surveys": [
+      {
+        "headerInfo": {
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "wb_name": "Dawkins",
+          "id_date": "1979-07-02",
+          "wb_id": "16045900",
+          "survey_id": "109759"
+        },
+        "surveyID": "109759",
+        "surveyDate": "1979-07-02",
+        "narrative": "<p>The population of Walleye is fair but below the local average.  N Pike and Perch populations appear quite low.  The Sucker population consists of mostly large individuals and Pumpkinseeds are present.</p>",
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "1.1-5.8",
+            "totalCatch": 3,
+            "quartileWeight": "0.8-3.0",
+            "CPUE": "1.50",
+            "averageWeight": "0.60",
+            "gearCount": 2,
+            "species": "NOP",
+            "totalWeight": 1.8,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "2.4-16.0",
+            "quartileWeight": "0.4-1.9",
+            "totalCatch": 8,
+            "CPUE": "4.00",
+            "gearCount": 2,
+            "averageWeight": "0.51",
+            "species": "WAE",
+            "totalWeight": 4.1,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 1,
+            "CPUE": "0.50",
+            "quartileCount": "1.1-12.4",
+            "species": "YEP",
+            "totalWeight": 0.25,
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "averageWeight": "0.25"
+          },
+          {
+            "averageWeight": "1.84",
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "totalWeight": 18.4,
+            "quartileCount": "1.0-8.9",
+            "CPUE": "5.00",
+            "quartileWeight": "0.4-1.7",
+            "totalCatch": 10
+          }
+        ]
+      }
+    ],
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "location": "Rib Lake Trail ~foot path~ from Gunflint Trail.",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "littoralAcres": 54,
+    "sampledPlants": [],
+    "lakeName": "Dawkins",
+    "DOWNumber": "16045900",
+    "shoreLengthMiles": 2.81
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285890
+}

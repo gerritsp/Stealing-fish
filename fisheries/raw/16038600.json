@@ -1,0 +1,285 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "sampledPlants": [],
+    "maxDepthFeet": 12,
+    "accesses": [
+      {
+        "location": "",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": " "
+      }
+    ],
+    "DOWNumber": "16038600",
+    "areaAcres": 105.03,
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "06/16/1975",
+        "5"
+      ],
+      [
+        "06/25/2007",
+        "4"
+      ]
+    ],
+    "littoralAcres": 105.03,
+    "averageWaterClarity": "4.5",
+    "officeCode": "F218",
+    "county": "Cook",
+    "shoreLengthMiles": 3.49,
+    "lakeName": "East Pipe",
+    "surveys": [
+      {
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "quartileCount": "2.0-6.3",
+            "totalWeight": 17,
+            "CPUE": "5.00",
+            "totalCatch": 15,
+            "quartileWeight": "1.3-2.4",
+            "averageWeight": "1.13"
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "quartileCount": "3.0-9.8",
+            "totalWeight": 0.5,
+            "CPUE": "0.33",
+            "gearCount": 3,
+            "quartileWeight": "0.9-1.6",
+            "totalCatch": 1,
+            "averageWeight": "0.50"
+          },
+          {
+            "gearCount": 3,
+            "quartileCount": "3.6-14.1",
+            "totalWeight": 63,
+            "CPUE": "9.67",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.17",
+            "totalCatch": 29,
+            "quartileWeight": "1.5-2.4"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_name": "East Pipe",
+          "survey_type": "Initial Survey",
+          "survey_id": "109734",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_id": "16038600",
+          "id_date": "1975-06-16"
+        },
+        "surveyID": "109734",
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>East Pipe Lake contains mostly N Pike and Suckers with very few Walleyes present.</p>",
+        "surveyDate": "1975-06-16"
+      },
+      {
+        "headerInfo": {
+          "id_date": "2007-06-25",
+          "wb_id": "16038600",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "survey_id": "220712046931047",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_name": "East Pipe"
+        },
+        "lengths": {
+          "WTS": {
+            "maximum_length": 21,
+            "minimum_length": 16,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                18,
+                13
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                21,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "maximum_length": 18,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "maximum_length": 28,
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                28,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 6
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 15,
+            "quartileWeight": "1.3-2.4",
+            "averageWeight": "1.74",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "CPUE": "2.50",
+            "totalWeight": 11819,
+            "quartileCount": "2.0-6.3"
+          },
+          {
+            "species": "WAE",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileCount": "3.0-9.8",
+            "totalWeight": 9656,
+            "CPUE": "3.67",
+            "totalCatch": 22,
+            "quartileWeight": "0.9-1.6",
+            "averageWeight": "0.97"
+          },
+          {
+            "totalCatch": 1,
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.06",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "CPUE": "0.17",
+            "quartileCount": "2.2-14.6",
+            "totalWeight": 25
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "3.6-14.1",
+            "totalWeight": 41457,
+            "CPUE": "5.33",
+            "gearCount": 6,
+            "quartileWeight": "1.5-2.4",
+            "totalCatch": 32,
+            "averageWeight": "2.86"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyDate": "2007-06-25",
+        "narrative": "<p>Walleye and northern pike were present in fairly good numbers in 2007.  Most of the northern pike collected were small (under 20 inches), although the lake has the potential to produce an occasional fish over 25 inches.  No walleye larger than 18.4 inches in length were collected, but fair numbers of 12 to 18-inch fish were present.  Walleye and northern pike populations were entirely self-sustained.  Walleye growth had been slow, probably due to the lack of yellow perch in the lake.  Growth of northern pike had been faster, perhaps because they had the option of preying on walleye and smaller white sucker. <br> \n <br> \nThere are reportedly no barriers to fish movement between East Pipe Lake and the Vern River (flowing from Homer Lake).  With smallmouth bass now well-established in Homer Lake, it would not be surprising to find some in East Pipe Lake soon, if they are not already there. <br> \n <br> \n</p>",
+        "surveySubType": "Population Assessment",
+        "surveyID": "220712046931047"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285640
+}

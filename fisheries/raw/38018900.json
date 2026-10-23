@@ -1,0 +1,94 @@
+{
+  "result": {
+    "lakeName": "Spice",
+    "averageWaterClarity": "N/A",
+    "county": "Lake",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Composed of an above average population of sucker, average populations of northern pike and pumpkinseed sunfish, and a low population of yellow perch.</p>",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "3.12",
+            "quartileWeight": "0.8-3.0",
+            "gear": "Standard gill nets",
+            "totalCatch": 8,
+            "species": "NOP",
+            "CPUE": "2.67",
+            "quartileCount": "1.1-5.8",
+            "gearCount": 3,
+            "totalWeight": 25
+          },
+          {
+            "totalCatch": 1,
+            "species": "YEP",
+            "averageWeight": "0.20",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 0.2,
+            "CPUE": "0.33",
+            "quartileCount": "1.1-12.4",
+            "gearCount": 3
+          },
+          {
+            "CPUE": "8.67",
+            "quartileCount": "1.0-8.9",
+            "gearCount": 3,
+            "totalWeight": 21.2,
+            "averageWeight": "0.82",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.4-1.7",
+            "totalCatch": 26,
+            "species": "WTS"
+          },
+          {
+            "totalCatch": 4,
+            "species": "PMK",
+            "averageWeight": "0.10",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 0.4,
+            "quartileCount": "N/A",
+            "CPUE": "1.33",
+            "gearCount": 3
+          }
+        ],
+        "surveyID": "107957",
+        "surveyDate": "1980-08-17",
+        "headerInfo": {
+          "wb_name": "Spice",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_id": "38018900",
+          "id_date": "1980-08-17",
+          "survey_id": "107957",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey"
+        },
+        "lengths": {}
+      }
+    ],
+    "DOWNumber": "38018900",
+    "officeCode": "F214",
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "location": "15 rod portage from Ogishkemuncie Lake in BWCAW on paddle-only route."
+      }
+    ],
+    "areaAcres": 24.79,
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 27,
+    "littoralAcres": 17,
+    "shoreLengthMiles": 1.12,
+    "waterClarity": [],
+    "sampledPlants": []
+  },
+  "timestamp": 1790285980,
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

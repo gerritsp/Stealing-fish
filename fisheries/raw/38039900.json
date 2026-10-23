@@ -1,0 +1,130 @@
+{
+  "result": {
+    "sampledPlants": [],
+    "county": "Lake",
+    "littoralAcres": 14,
+    "waterClarity": [
+      [
+        "07/30/2024",
+        "19.7"
+      ],
+      [
+        "08/19/2025",
+        "16.9"
+      ]
+    ],
+    "averageWaterClarity": "18.3",
+    "shoreLengthMiles": 1.38,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "location": "Accessible by canoe and portage only.",
+        "accessTypeId": "O",
+        "lakeAccessComments": " "
+      }
+    ],
+    "maxDepthFeet": 75,
+    "officeCode": "F214",
+    "lakeName": "Explorer",
+    "DOWNumber": "38039900",
+    "areaAcres": 52.07,
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveyDate": "2024-07-30",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Explorer Lake on July 30th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 52.5 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 30.7 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 44.5 feet at the time of sampling. The thickness of this layer of water in the water column was 13.8 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.4 degrees C (43.5 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Explorer Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.</p>",
+        "lengths": {},
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "survey_id": "21872426131206000",
+          "wb_id": "38039900",
+          "id_date": "2024-07-30",
+          "county": "Lake",
+          "wb_name": "Explorer"
+        },
+        "surveyID": "21872426131206000",
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "narrative": "<p>All Trout appear to be very well fed.  Heads are small in relation to body size.  Not many Minnows present in shallows.  Lake Trout population high, but composed of many smaller fish.  However, reproduction seems to be successful in most years.</p>",
+        "surveyDate": "1972-07-01",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "1.0-4.5",
+            "totalCatch": 25,
+            "species": "LAT",
+            "totalWeight": 22.8,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.91",
+            "CPUE": "8.33",
+            "gearCount": 3,
+            "quartileWeight": "0.9-4.3"
+          },
+          {
+            "averageWeight": "0.15",
+            "CPUE": "2.00",
+            "gearCount": 3,
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "quartileCount": "1.0-8.0",
+            "totalCatch": 6,
+            "totalWeight": 0.9,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 4.4,
+            "quartileCount": "1.5-10.4",
+            "totalCatch": 5,
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.88",
+            "gearCount": 3,
+            "CPUE": "1.67",
+            "quartileWeight": "0.6-2.0"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "id_date": "1972-07-01",
+          "wb_id": "38039900",
+          "survey_type": "Initial Survey",
+          "survey_id": "107998",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Explorer"
+        },
+        "surveyID": "107998"
+      },
+      {
+        "surveyDate": "2025-08-19",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Explorer Lake on August 19th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 55.8 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 30.9 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 42.1 feet at the time of sampling. The thickness of this layer of water in the water column was 11.2 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.1 degrees C (43.0 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) also indicated suitable oxythermal habitat in 2024, with a similar layer thickness and TDO3 (13.8 and 6.4 respectively). When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "lengths": {},
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "surveyID": "-383",
+        "headerInfo": {
+          "wb_name": "Explorer",
+          "id_date": "2025-08-19",
+          "wb_id": "38039900",
+          "wb_alt_name": "",
+          "survey_id": "-383",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "county": "Lake"
+        },
+        "surveySubType": "Targeted Survey"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285875,
+  "message": "Normal execution."
+}

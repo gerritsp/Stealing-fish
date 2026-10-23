@@ -1,0 +1,88 @@
+{
+  "timestamp": 1790285702,
+  "status": "SUCCESS",
+  "result": {
+    "DOWNumber": "16027000",
+    "littoralAcres": 45,
+    "areaAcres": 53.18,
+    "waterClarity": [
+      [
+        "07/23/1974",
+        "14"
+      ]
+    ],
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "location": "A 0.2-mile portage trail from the SE corner of a bay on Brule Lake accesses the N shore of Bull Lake."
+      }
+    ],
+    "averageWaterClarity": "14.0",
+    "shoreLengthMiles": 2.12,
+    "lakeName": "Bull",
+    "county": "Cook",
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_name": "Bull",
+          "county": "Cook",
+          "survey_id": "111081",
+          "wb_type": "Lake",
+          "wb_id": "16027000",
+          "wb_alt_name": "",
+          "id_date": "1974-07-22"
+        },
+        "surveyDate": "1974-07-22",
+        "narrative": "<p>Bull Lake has a high population of N Pike, about 5x the state average, which apparently has reduced their forage fish populations of Suckers and Perch to a very low level.</p>",
+        "surveyID": "111081",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "quartileCount": "2.3-5.1",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "CPUE": "10.00",
+            "totalWeight": 53,
+            "totalCatch": 30,
+            "quartileWeight": "1.4-2.2",
+            "averageWeight": "1.77"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "quartileCount": "1.3-10.3",
+            "totalCatch": 2,
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.10",
+            "CPUE": "0.67",
+            "species": "YEP",
+            "totalWeight": 0.2
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-12.5",
+            "gearCount": 3,
+            "averageWeight": "1.30",
+            "totalCatch": 5,
+            "quartileWeight": "0.7-2.3",
+            "totalWeight": 6.5,
+            "CPUE": "1.67",
+            "species": "WTS"
+          }
+        ],
+        "lengths": {}
+      }
+    ],
+    "meanDepthFeet": 9,
+    "maxDepthFeet": 33
+  },
+  "message": "Normal execution."
+}

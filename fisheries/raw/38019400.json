@@ -1,0 +1,94 @@
+{
+  "timestamp": 1790285974,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "maxDepthFeet": 93,
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "location": "30 rod portage from Eddy Lake in BWCAW on a non-motor route.",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "lakeAccessComments": " "
+      }
+    ],
+    "lakeName": "Jenny",
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 4.42,
+    "sampledPlants": [],
+    "averageWaterClarity": "N/A",
+    "DOWNumber": "38019400",
+    "county": "Lake",
+    "officeCode": "F214",
+    "areaAcres": 102.31,
+    "waterClarity": [],
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "2.1-4.9",
+            "species": "NOP",
+            "averageWeight": "7.80",
+            "gearCount": 4,
+            "totalWeight": 39,
+            "totalCatch": 5,
+            "CPUE": "1.25",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.6-2.4"
+          },
+          {
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 0.1,
+            "gearCount": 4,
+            "totalCatch": 1,
+            "CPUE": "0.25",
+            "averageWeight": "0.10"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "1.6-15.5",
+            "quartileWeight": "1.0-2.1",
+            "species": "LKW",
+            "gearCount": 4,
+            "totalWeight": 69.3,
+            "CPUE": "15.75",
+            "totalCatch": 63,
+            "averageWeight": "1.10"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "species": "WTS",
+            "gearCount": 4,
+            "averageWeight": "1.69",
+            "totalWeight": 15.2,
+            "totalCatch": 9,
+            "CPUE": "2.25"
+          }
+        ],
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_name": "Jenny",
+          "wb_id": "38019400",
+          "id_date": "1980-08-14",
+          "survey_id": "107960",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "wb_alt_name": ""
+        },
+        "narrative": "<p>Jenny Lake contains an above average population of whitefish and low population of northern pike, perch, & sucker.</p>",
+        "lengths": {},
+        "surveyID": "107960",
+        "surveyDate": "1980-08-14"
+      }
+    ],
+    "littoralAcres": 53
+  }
+}

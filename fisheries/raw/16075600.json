@@ -1,0 +1,146 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285906,
+  "result": {
+    "maxDepthFeet": 75,
+    "officeCode": "F218",
+    "meanDepthFeet": 0,
+    "DOWNumber": "16075600",
+    "lakeName": "Powell",
+    "littoralAcres": 21.6,
+    "shoreLengthMiles": 1.94,
+    "sampledPlants": [],
+    "areaAcres": 51.15,
+    "surveys": [
+      {
+        "narrative": "<p>The size of the Lake Trout pop. appears small and is comprised of mostly large fish.  Their growth rate appears good, but young fish were absent in the sample.  The Sucker population is large with sizes represented.</p>",
+        "lengths": {},
+        "surveyDate": "1980-07-28",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 4,
+            "averageWeight": "4.88",
+            "CPUE": "1.00",
+            "quartileCount": "0.4-3.7",
+            "totalWeight": 19.5,
+            "gearCount": 4,
+            "species": "LAT",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-4.0"
+          },
+          {
+            "totalCatch": 39,
+            "averageWeight": "0.41",
+            "CPUE": "9.75",
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 16.05,
+            "gearCount": 4,
+            "species": "WTS",
+            "quartileWeight": "1.1-2.5",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "1980-07-28",
+          "wb_type": "Lake",
+          "survey_id": "109817",
+          "wb_id": "16075600",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "wb_name": "Powell"
+        },
+        "surveyID": "109817",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Powell Lake on August 7, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 26.5 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 59.0 feet at the time of sampling. The thickness of this layer in the water column was 32.5 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.3 degrees C (41.5 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 1980 during the late summer thermal stress period indicated suitable oxythermal habitat that year. Data were also collected outside the thermal maximum period in 1992 also confirmed suitable conditions. The least favorable oxythermal habitat conditions were recorded in 1980, during the peak summer stress period, when the suitable habitat layer thickness was 2.5 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "lengths": {},
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_id": "21872425631180020",
+          "id_date": "2024-08-07",
+          "wb_type": "Lake",
+          "wb_id": "16075600",
+          "wb_name": "Powell",
+          "survey_type": "Targeted Survey",
+          "county": "Cook"
+        },
+        "surveyID": "21872425631180020",
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2024-08-07",
+        "surveyType": "Targeted Survey"
+      },
+      {
+        "lengths": {},
+        "narrative": "<p>The lake trout catch in this assessment was within the normal range for lakes of this ecological class, and some large individual fish were taken.  Several year classes were represented in the catch, but none strongly.  It appeared that lake trout growth was about average for Cook County.  The lake trout catch in this assessment was similar in numbers and size of fish to the catch in the 1980 initial survey.  Forage for lake trout was probably provided mostly by invertebrates; however, most of the white sucker collected were small enough to provide some forage for the larger lake trout.</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1992-07-15",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "species": "LAT",
+            "quartileWeight": "1.5-4.0",
+            "gear": "Standard gill nets",
+            "totalCatch": 5,
+            "averageWeight": "5.30",
+            "CPUE": "1.25",
+            "quartileCount": "0.4-3.7",
+            "totalWeight": 26.5
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 4,
+            "species": "WTS",
+            "CPUE": "5.25",
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 12.44,
+            "totalCatch": 21,
+            "averageWeight": "0.59"
+          }
+        ],
+        "headerInfo": {
+          "wb_id": "16075600",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_name": "Powell",
+          "wb_alt_name": "",
+          "id_date": "1992-07-15",
+          "wb_type": "Lake",
+          "survey_id": "110687"
+        },
+        "surveyID": "110687",
+        "surveySubType": "Population Assessment"
+      }
+    ],
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "Entirely inside the BWCAW.  Access by portage from French and West Fern Lakes.",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "waterClarity": [
+      [
+        "07/28/1980",
+        "17.5"
+      ],
+      [
+        "08/07/2024",
+        "14.8"
+      ],
+      [
+        "07/16/1992",
+        "14"
+      ]
+    ],
+    "averageWaterClarity": "15.4",
+    "county": "Cook"
+  },
+  "message": "Normal execution."
+}

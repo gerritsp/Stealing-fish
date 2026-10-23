@@ -1,0 +1,255 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "DOWNumber": "16006300",
+    "county": "Cook",
+    "littoralAcres": 23.8,
+    "waterClarity": [
+      [
+        "06/14/1990",
+        "10.5"
+      ],
+      [
+        "08/21/1975",
+        "7.5"
+      ]
+    ],
+    "surveys": [
+      {
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "survey_id": "110541",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_name": "Bench",
+          "survey_type": "Population Assessment",
+          "id_date": "1995-06-07",
+          "wb_id": "16006300",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "1995-06-07",
+        "surveyID": "110541",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Bench Lake supports a small, but excellent brook trout fishery.  The relatively remote location (deep within the Boundary Waters Canoe Area Wilderness) and resulting low fishing pressure may allow this fishery to reach nearly its full potential.  Forty percent of brook trout sampled were age-4 fish indicating good survival and low to moderate harvest.  No undesirable species were sampled.</p>",
+        "lengths": {
+          "BKT": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                6
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                3
+              ]
+            ],
+            "minimum_length": 12
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "species": "BKT",
+            "averageWeight": "2.68",
+            "CPUE": "10.00",
+            "gear": "Standard gill nets",
+            "totalCatch": 20,
+            "totalWeight": 24314,
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          }
+        ]
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "id_date": "1990-06-14",
+          "wb_id": "16006300",
+          "wb_type": "Lake",
+          "wb_name": "Bench",
+          "survey_type": "Population Assessment",
+          "survey_id": "110142",
+          "county": "Cook",
+          "wb_alt_name": ""
+        },
+        "surveyID": "110142",
+        "surveyDate": "1990-06-14",
+        "fishCatchSummaries": [
+          {
+            "species": "BKT",
+            "CPUE": "20.00",
+            "averageWeight": "0.32",
+            "totalCatch": 40,
+            "gear": "Standard gill nets",
+            "totalWeight": 12.75,
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "lengths": {},
+        "narrative": "<p>BROOK TROUT STOCKED IN 1989 SHOWED GOOD SURVIVAL, BUT OTHER CLASSES WERE ALMOST ABSENT.  ONE 19 IN BROOK TROUT FROM THE 1987 OR 1985 STOCKING WAS COLLECTED.  BROOK TROUT GROWTH APPEARED TO BE GOOD.</p>"
+      },
+      {
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "narrative": "<p>Bench Lake contains no fish at present.  With further investigation and if future fishing needs warrant Stream Trout management appears feasible.</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_id": "16006300",
+          "id_date": "1975-08-20",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_id": "109600",
+          "wb_alt_name": "",
+          "wb_name": "Bench",
+          "survey_type": "Initial Survey"
+        },
+        "surveyID": "109600",
+        "surveyDate": "1975-08-20"
+      },
+      {
+        "narrative": "<p>BECAUSE OF AN UNINTENTIONAL TWO YEAR GAP IN STOCKING, THE POPULATION CURRENTLY CONSISTS OF LARGE, 3 AND 4 YEAR OLD FISH EXCLUSIVELY. STOCKING DONE IN 1985 WILL PROVIDE FISH IN THE SMALLER SIZES , BUT THERE WILL PROBABLY BE A SHORT PERIOD (1-2 YEARS) DURING WHICH THE OLDER FISH ARE DYING OUT AND FISHING WILL BE POOR.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 26,
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "totalCatch": 7,
+            "gear": "Standard gill nets",
+            "CPUE": "3.50",
+            "averageWeight": "3.71",
+            "species": "BKT"
+          }
+        ],
+        "surveyID": "109836",
+        "surveyDate": "1985-07-17",
+        "headerInfo": {
+          "county": "Cook",
+          "survey_id": "109836",
+          "wb_alt_name": "",
+          "wb_name": "Bench",
+          "survey_type": "Population Assessment",
+          "wb_id": "16006300",
+          "id_date": "1985-07-17",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyID": "111400",
+        "surveyDate": "2003-06-05",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_id": "16006300",
+          "id_date": "2003-06-05",
+          "wb_type": "Lake",
+          "survey_id": "111400",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_name": "Bench",
+          "survey_type": "Population Assessment"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>The number of brook trout taken in the 2003 assessment was about average, compared to other stream trout lakes in the Grand Marais area, but fish taken were above-average in size.  It appeared that the 2001 stocking had failed completely, but good numbers of fish were present from successful 2002 and 2000 stockings.  Because of the failure of the 2001 stocking, fish were present in two size ranges in 2003 - 6 to 8-inch fish from the 2002 stocking, and 13 to 15-inch fish from the 2000 and 1999 stockings.  Growth rates for brook trout had been about average for the area.  No undesirable fish species were found in 2003.</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gearCount": 2,
+            "totalWeight": 7202,
+            "totalCatch": 17,
+            "gear": "Standard gill nets",
+            "CPUE": "8.50",
+            "averageWeight": "0.93",
+            "species": "BKT"
+          }
+        ],
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                6,
+                4
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 15,
+            "minimum_length": 6
+          }
+        }
+      }
+    ],
+    "areaAcres": 28.67,
+    "shoreLengthMiles": 1.11,
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "averageWaterClarity": "9.0",
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "location": "Accessible via 0.3 miles portage from Crystal Lake.  Bench Lake is entirely inside the BWCAW.",
+        "lakeAccessComments": "Accessible via 0.3 mile portage from Crystal Lake.  Trail begins 100 yd E of a beaver lodge E of a small rounded point midway down Crystal.  Bench Lake is entirely inside the BWCAW."
+      },
+      {
+        "ownerTypeId": "USF",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "location": "Accessible via portage from Spaulding Lake."
+      }
+    ],
+    "maxDepthFeet": 16,
+    "lakeName": "Bench"
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285910
+}

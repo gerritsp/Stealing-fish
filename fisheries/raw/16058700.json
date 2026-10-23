@@ -1,0 +1,100 @@
+{
+  "timestamp": 1790286012,
+  "result": {
+    "DOWNumber": "16058700",
+    "officeCode": "F218",
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "CPUE": "31.00",
+            "totalCatch": 62,
+            "totalWeight": 150,
+            "quartileWeight": "0.8-2.3",
+            "gear": "Standard gill nets",
+            "quartileCount": "2.6-17.5",
+            "species": "WTS",
+            "averageWeight": "2.42"
+          },
+          {
+            "totalCatch": 7,
+            "CPUE": "3.50",
+            "totalWeight": 0.7,
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "averageWeight": "0.10",
+            "gear": "Standard gill nets",
+            "species": "PMK",
+            "quartileCount": "N/A"
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "LMB",
+            "quartileCount": "0.6-4.3",
+            "averageWeight": "0.60",
+            "gearCount": 2,
+            "totalWeight": 9,
+            "totalCatch": 15,
+            "CPUE": "7.50",
+            "quartileWeight": "0.5-1.2"
+          },
+          {
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "totalWeight": 6.25,
+            "totalCatch": 68,
+            "CPUE": "34.00",
+            "quartileCount": "N/A",
+            "species": "BLG",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.09"
+          }
+        ],
+        "narrative": "<p>West Kerfoot has good populations of LM Bass, Bluegills and Suckers with some Pumpkinseed Sunfsh also.</p>",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyID": "109786",
+        "headerInfo": {
+          "survey_id": "109786",
+          "wb_alt_name": "Kerfoot",
+          "wb_type": "Lake",
+          "wb_name": "West Kerfoot",
+          "wb_id": "16058700",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "id_date": "1978-09-11"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1978-09-11"
+      }
+    ],
+    "sampledPlants": [],
+    "averageWaterClarity": "7.5",
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 15,
+    "areaAcres": 23.02,
+    "lakeName": "West Kerfoot",
+    "lakeAltName": "Kerfoot",
+    "waterClarity": [
+      [
+        "09/11/1978",
+        "7.5"
+      ]
+    ],
+    "accesses": [
+      {
+        "location": "Accessible via very difficult 1/4 mile portage from East Kerfoot Lake.",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O"
+      }
+    ],
+    "county": "Cook",
+    "shoreLengthMiles": 0.98,
+    "littoralAcres": 23.02
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

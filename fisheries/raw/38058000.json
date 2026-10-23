@@ -1,0 +1,77 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285628,
+  "result": {
+    "surveys": [
+      {
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Horseshoe Lake on August 1st, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 39.4 feet), the water temperature decreased below 17.2 degrees C (63.0 degrees F) at 14.4 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 28.7 feet at the time of sampling. The thickness of this layer of water in the water column was 14.3 feet, indicating that oxythermal habitat was present for Lake Whitefish. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 9.5 degrees C (49.1 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Horseshoe Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.</p>",
+        "surveyID": "20042429546278000",
+        "surveyType": "Targeted Survey",
+        "surveyDate": "2024-08-01",
+        "headerInfo": {
+          "wb_id": "38058000",
+          "survey_type": "Targeted Survey",
+          "survey_id": "20042429546278000",
+          "id_date": "2024-08-01",
+          "county": "Lake",
+          "wb_name": "Horseshoe",
+          "wb_type": "Lake",
+          "wb_alt_name": ""
+        }
+      },
+      {
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Horseshoe Lake on August 18th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 39.4 feet), the water temperature decreased below 17.2 degrees C (63.0 degrees F) at 14.3 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 14.3 feet at the time of sampling. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Lake Whitefish. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 17.3 degrees C (63.1 degrees F). TDO3 values warmer than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were unsuitable for Lake Whitefish at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) indicated suitable oxythermal habitat in 2024, with a TDO3 of 9.5 and a 14.3-foot layer of water with sufficient temperature and dissolved oxygen for Lake Whitefish. When inadequate oxythermal habitat is available, such as was the case in 2025, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyID": "-295",
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "wb_id": "38058000",
+          "survey_id": "-295",
+          "id_date": "2025-08-18",
+          "county": "Lake",
+          "wb_name": "Horseshoe",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Targeted Survey",
+        "surveyDate": "2025-08-18"
+      }
+    ],
+    "officeCode": "F214",
+    "meanDepthFeet": 12,
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "location": "Within Superior National Forest roadless area - accessible by 10 rod portage from Lake Three.",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "lakeName": "Horseshoe",
+    "DOWNumber": "38058000",
+    "areaAcres": 205.33,
+    "maxDepthFeet": 40,
+    "averageWaterClarity": "4.2",
+    "littoralAcres": 130,
+    "sampledPlants": [],
+    "shoreLengthMiles": 5.89,
+    "waterClarity": [
+      [
+        "08/01/2024",
+        "4.3"
+      ],
+      [
+        "08/18/2025",
+        "4.1"
+      ]
+    ],
+    "county": "Lake"
+  }
+}

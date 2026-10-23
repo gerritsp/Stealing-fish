@@ -1,0 +1,163 @@
+{
+  "result": {
+    "maxDepthFeet": 15,
+    "averageWaterClarity": "3.5",
+    "areaAcres": 63.64,
+    "meanDepthFeet": 7,
+    "littoralAcres": 63.64,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "location": "NONE",
+        "accessTypeId": "O",
+        "lakeAccessComments": " "
+      }
+    ],
+    "officeCode": "F218",
+    "lakeName": "East Dawkins",
+    "waterClarity": [
+      [
+        "08/29/1972",
+        "3.5"
+      ]
+    ],
+    "county": "Cook",
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_type": "Lake",
+          "id_date": "1972-08-29",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "survey_id": "109752",
+          "wb_id": "16041800",
+          "wb_name": "East Dawkins",
+          "survey_type": "Initial Survey"
+        },
+        "narrative": "<p>N Pike are present in small numbers and Perch are also low in number.  There appears to be a fair Walleye population of small fish for angling but not much evidence of fingerling or yearling size Walleyes present.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 2,
+            "totalWeight": 2.3,
+            "averageWeight": "1.15",
+            "quartileWeight": "1.1-2.0",
+            "species": "NOP",
+            "CPUE": "0.67",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "2.8-8.5"
+          },
+          {
+            "totalWeight": 17.2,
+            "averageWeight": "1.43",
+            "quartileWeight": "1.1-2.0",
+            "totalCatch": 12,
+            "species": "WAE",
+            "CPUE": "4.00",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.3-5.0"
+          },
+          {
+            "species": "YEP",
+            "CPUE": "3.00",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "2.0-16.0",
+            "averageWeight": "0.76",
+            "totalWeight": 6.8,
+            "quartileWeight": "0.1-0.3",
+            "totalCatch": 9
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "4.0-14.5",
+            "species": "WTS",
+            "CPUE": "7.00",
+            "gearCount": 3,
+            "totalCatch": 21,
+            "quartileWeight": "1.4-2.5",
+            "totalWeight": 48.4,
+            "averageWeight": "2.30"
+          }
+        ],
+        "surveyID": "109752",
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyDate": "1972-08-29"
+      },
+      {
+        "surveyID": "109966",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 2,
+            "quartileWeight": "1.1-2.0",
+            "totalWeight": 2.25,
+            "averageWeight": "1.12",
+            "gear": "Standard gill nets",
+            "quartileCount": "2.8-8.5",
+            "species": "NOP",
+            "gearCount": 3,
+            "CPUE": "0.67"
+          },
+          {
+            "CPUE": "2.33",
+            "gearCount": 3,
+            "species": "WAE",
+            "quartileCount": "1.3-5.0",
+            "gear": "Standard gill nets",
+            "totalCatch": 7,
+            "averageWeight": "0.79",
+            "totalWeight": 5.51,
+            "quartileWeight": "1.1-2.0"
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "totalWeight": 8.75,
+            "averageWeight": "0.55",
+            "totalCatch": 16,
+            "quartileCount": "2.0-16.0",
+            "gear": "Standard gill nets",
+            "CPUE": "5.33",
+            "gearCount": 3,
+            "species": "YEP"
+          },
+          {
+            "quartileWeight": "1.4-2.5",
+            "averageWeight": "2.08",
+            "totalWeight": 20.75,
+            "totalCatch": 10,
+            "quartileCount": "4.0-14.5",
+            "gear": "Standard gill nets",
+            "CPUE": "3.33",
+            "gearCount": 3,
+            "species": "WTS"
+          }
+        ],
+        "narrative": "<p>THIS WALLEYE POPULATION IS SUPPORTED THROUGH (POSSIBLY) NATURAL REPRODUCTION, AND (POSSIBLY) MOVEMENT INTO THE LAKE FROM TUCKER LAKE, WHICH IS STOCKED WITH WALLEYE FRY REGULARLY. GROWTH IS SLOW, AND WALLLEYE NUMBERS ARE LOW. THERE IS A FAIRLY GOOD YELLOW PERCH POPULATION PRESENT, AND RELATIVELY LOW NUMBERS OF NORTHERN PIKE AND SUCKERS.</p>",
+        "headerInfo": {
+          "wb_name": "East Dawkins",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "id_date": "1986-08-07",
+          "survey_id": "109966",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_id": "16041800"
+        },
+        "surveyDate": "1986-08-07",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveySubType": "Population Assessment"
+      }
+    ],
+    "DOWNumber": "16041800",
+    "shoreLengthMiles": 3.15
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285904,
+  "status": "SUCCESS"
+}

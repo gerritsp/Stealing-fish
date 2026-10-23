@@ -1,0 +1,54 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "surveys": [
+      {
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "surveyID": "22122522052349023",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_type": "Lake",
+          "county": "Lake",
+          "wb_id": "38014000",
+          "wb_alt_name": "",
+          "survey_id": "22122522052349023",
+          "id_date": "2025-08-03",
+          "survey_type": "Targeted Survey",
+          "wb_name": "Boulder"
+        },
+        "surveyDate": "2025-08-03",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Boulder Lake on August 3, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species that could survive in this lake. Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 50.0 feet), the water temperature decreased to 21.2 degrees C (70.2 degrees F) at 13.3 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 19.3 feet at the time of sampling. This layer in the water column was 6.0 feet, indicating oxythermal habitat for Cisco was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 14.2 degrees C (57.6 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. Boulder Lake was surveyed for fish once, in 1964, and no coldwater species were caught. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>"
+      }
+    ],
+    "shoreLengthMiles": 6.11,
+    "meanDepthFeet": 14,
+    "county": "Lake",
+    "littoralAcres": 109,
+    "lakeName": "Boulder",
+    "maxDepthFeet": 54,
+    "DOWNumber": "38014000",
+    "waterClarity": [
+      [
+        "08/03/2025",
+        "9"
+      ]
+    ],
+    "sampledPlants": [],
+    "averageWaterClarity": "9.0",
+    "areaAcres": 259.2,
+    "officeCode": "F214",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "location": "Access by canoe.",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ]
+  },
+  "timestamp": 1790285806,
+  "status": "SUCCESS"
+}

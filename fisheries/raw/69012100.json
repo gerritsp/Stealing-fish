@@ -1,0 +1,658 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285967,
+  "result": {
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "ACCESS GAINED BY USFS PORTAGES; 1/2 MI FROM CROOKED LAKE  1/2 MI FROM DARK LAKE 1/8 MI BEART TRAP",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "maxDepthFeet": 64,
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "areaAcres": 1961.99,
+    "waterClarity": [
+      [
+        "06/25/2018",
+        "8"
+      ],
+      [
+        "08/14/2024",
+        "4.9"
+      ],
+      [
+        "08/01/2025",
+        "9.8"
+      ],
+      [
+        "08/01/2025",
+        "8.2"
+      ]
+    ],
+    "county": "St. Louis",
+    "meanDepthFeet": 0,
+    "littoralAcres": 0,
+    "shoreLengthMiles": 53.54,
+    "averageWaterClarity": "7.7",
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.9-3.6",
+            "quartileCount": "1.2-3.6",
+            "averageWeight": "4.14",
+            "totalWeight": 65692,
+            "totalCatch": 35,
+            "gear": "Standard gill nets",
+            "CPUE": "2.92",
+            "gearCount": 12,
+            "species": "NOP"
+          },
+          {
+            "CPUE": "0.33",
+            "gearCount": 12,
+            "species": "BLC",
+            "quartileCount": "0.2-1.4",
+            "quartileWeight": "0.2-0.5",
+            "averageWeight": "0.80",
+            "totalWeight": 1448,
+            "totalCatch": 4,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "1.3-2.0",
+            "quartileCount": "2.8-6.7",
+            "averageWeight": "2.63",
+            "gear": "Standard gill nets",
+            "totalCatch": 40,
+            "totalWeight": 47704,
+            "CPUE": "3.33",
+            "species": "WTS",
+            "gearCount": 12
+          },
+          {
+            "species": "WAE",
+            "gearCount": 12,
+            "CPUE": "7.25",
+            "totalCatch": 87,
+            "gear": "Standard gill nets",
+            "totalWeight": 33957,
+            "quartileWeight": "0.7-1.3",
+            "averageWeight": "0.86",
+            "quartileCount": "3.1-9.8"
+          },
+          {
+            "CPUE": "9.50",
+            "gearCount": 12,
+            "species": "CIS",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "averageWeight": "0.25",
+            "totalWeight": 13055,
+            "gear": "Standard gill nets",
+            "totalCatch": 114
+          },
+          {
+            "averageWeight": "1.90",
+            "quartileWeight": "0.9-3.0",
+            "quartileCount": "0.2-3.0",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "totalWeight": 860,
+            "CPUE": "0.08",
+            "species": "LKW",
+            "gearCount": 12
+          },
+          {
+            "totalWeight": 2256,
+            "totalCatch": 8,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.4-0.6",
+            "quartileCount": "0.9-3.0",
+            "averageWeight": "0.62",
+            "gearCount": 12,
+            "species": "SAR",
+            "CPUE": "0.67"
+          },
+          {
+            "quartileCount": "1.9-7.1",
+            "quartileWeight": "0.1-0.3",
+            "averageWeight": "0.20",
+            "totalCatch": 11,
+            "gear": "Standard gill nets",
+            "totalWeight": 1002,
+            "CPUE": "0.92",
+            "species": "YEP",
+            "gearCount": 12
+          },
+          {
+            "CPUE": "0.33",
+            "species": "RKB",
+            "gearCount": 12,
+            "quartileCount": "0.5-2.2",
+            "quartileWeight": "0.2-0.4",
+            "averageWeight": "0.31",
+            "totalCatch": 4,
+            "gear": "Standard gill nets",
+            "totalWeight": 570
+          }
+        ],
+        "lengths": {
+          "SAR": {
+            "minimum_length": 10,
+            "maximum_length": 14,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                4
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 16,
+            "maximum_length": 39,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                31,
+                2
+              ],
+              [
+                33,
+                1
+              ],
+              [
+                34,
+                1
+              ],
+              [
+                35,
+                1
+              ],
+              [
+                36,
+                2
+              ],
+              [
+                37,
+                1
+              ],
+              [
+                39,
+                1
+              ]
+            ]
+          },
+          "BLC": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                2
+              ]
+            ],
+            "maximum_length": 11,
+            "minimum_length": 10
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 8
+          },
+          "LKW": {
+            "maximum_length": 17,
+            "minimum_length": 17,
+            "fishCount": [
+              [
+                17,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 8,
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                13
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "minimum_length": 6,
+            "maximum_length": 24,
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                12,
+                9
+              ],
+              [
+                13,
+                22
+              ],
+              [
+                14,
+                17
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                5
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 10
+          },
+          "CIS": {
+            "maximum_length": 12,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                12
+              ],
+              [
+                12,
+                12
+              ],
+              [
+                6,
+                28
+              ],
+              [
+                7,
+                36
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                21
+              ]
+            ]
+          }
+        },
+        "headerInfo": {
+          "survey_id": "16011817342378000",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "2018-06-25",
+          "survey_type": "Standard Survey",
+          "county": "St. Louis",
+          "wb_id": "69012100",
+          "wb_name": "Iron"
+        },
+        "narrative": "<p>Iron Lake is located within the Boundary Waters Canoe Area Wilderness (BWCAW) within the Superior National Forest and is a non-motorized lake.  It is approximately 22 miles north of Ely.  There are four accesses, three of which are portages and one is a water route.  Accesses consist of the outlet to Bottle Lake in the northwest corner, a 320 rod portage to Lac la Croix to the west, a 72 rod portage to Dark Lake to the south, and a 140 rod portage to Crooked Lake to the east.  \n\nIron has two major inlets and two major outlets.  Curtain Falls flows in along the portage from Crooked Lake to the east while the Beartrap River flows in from the south.  One outlet flows through Bottle Lake before ending at Bottle Rapids and draining into Lac la Croix to the west.  The other outlet flows north through Rebecca Falls to the Namakan River and McAree Lake.  Rebecca Falls, as well as the northern 1/4 of Iron Lake and the largest island, are located in Ontario Canada's Quetico Provincial Park.  Iron is a 1,962 acre (1,531 acres in Minnesota) lake with a maximum depth of 64 feet and brown colored water.  BWCAW permits are required to visit Iron through an official entry point and there are ten U. S. Forest Service maintained campsites on the lake.  \n\nOn June 25, 2018 Iron was weakly thermally stratified with a surface temperature of 69 F and a bottom temperature of 46 F.  Oxygen levels were adequate for gamefish throughout the water column.  The lake has such a strong current influence that it likely remains somewhat mixed throughout the summer.  Lake bottom substrates along the shoreline of Iron are dominated by boulder and ledgerock. Aquatic plants are sparse and only grow in some of the shallow bays.  \n\nThere was no record of stocking in Iron Lake.\n\nThe overall gillnet catch rate for all fish combined was 25.3 fish/net.  Fish species sampled were walleye, sauger, northern pike, black crappie, yellow perch, rock bass, lake whitefish, cisco, and white sucker.  \n\nEighty-seven walleye were sampled for a catch rate of 7.3 fish/gill net, which was slightly better than average compared to other similar lakes in the state and good compared to other walleye lakes in the area.  Sizes were decent with an average length of 14 inches and the largest fish sampled measuring just over 24 inches.  The average weight was nearly a pound, however growth rates were extremely slow with the average walleye taking 7 years to reach 15 inches.  Fish up to 16 years old were sampled with the 2011, 2012, and 2013 year classes appearing strong.  \n\nIron is one of only a handful of lakes in the Tower area to have sauger.  A catch rate of 0.7 fish/net indicates the population is relatively low but comparable to other lakes with sauger in the area.  Sizes ranged from 10 to 15 inches with an average of 13 inches.  Growth rates were similar to other sauger populations with the average fish growing to 12 inches in five years.  \n\nThe northern pike gillnet catch rate was 2.9 fish/net which was better than average compared to other similar lakes in the state.  Sizes were impressive with the average fish weighing just over four pounds.  The average length was just over 25 inches and fish over 39 inches were sampled.  \n\nThe cisco gillnet catch rate was 9.5 fish/net which was quite high compared to other surveys in the Tower area.  Sizes ranged from 6 to 13 inches with an average of nearly 9 inches.  \n\nNo smallmouth bass were sampled in gill nets however, several were caught while angling.  Angler reports suggest smallmouth are relatively abundant in the lake with a number of decent sized fish present.  Smallmouth do not always sample well in gill nets so it is not surprising none were caught.\n\nAdditional species sampled were one 17 inch lake whitefish as well as small numbers of black crappie, rock bass, yellow perch, and white sucker.\n</p>",
+        "surveyID": "16011817342378000",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2018-06-25",
+        "surveySubType": "Standard Survey"
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected on August 14, 2024 in two locations in Iron Lake: the deepest basin, WQ1, just downstream of curtain falls, and in a deep hole on the west side of the lake, WQ2, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Because the lake was not strongly stratified at WQ1, a second location was sampled to best ascertain oxythermal habitat. Based on the profiles at WQ1 and WQ2 respectively, the water decreased to below 17.2 degrees C (63.0 degrees F) at 13.9 feet and 5.5 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 61.6 feet and 30.1 feet at the time of sampling. The thickness of this layer of water in the water column was 14.5 and 7.5 feet at WQ1 and WQ2, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 18.9 degrees C (66.0 degrees F) at WQ1 and 17.5 degrees C (63.5 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey.  <br> \n <br> \nThis is the first survey completed on Iron Lake during the late summer period of maximum oxythermal stress. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_id": "21872427034356065",
+          "wb_name": "Iron",
+          "county": "St. Louis",
+          "wb_id": "69012100",
+          "id_date": "2024-08-14",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": ""
+        },
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2024-08-14",
+        "surveyType": "Targeted Survey",
+        "surveyID": "21872427034356065"
+      },
+      {
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected on August 14, 2024 in two locations in Iron Lake: the deepest basin, WQ1, just downstream of curtain falls, and in a deep hole on the west side of the lake, WQ2, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profiles at WQ1 and WQ2 respectively, the water temperature decreased to 21.2 degrees C (70.2 degrees F) at 30.6 feet and 14.2 feet, the DO concentration decreased to 3.0 mg/L at 40.3 feet and 18.0 feet, and the habitat thickness was 9.7 feet and 3.8 feet, at the time of sampling. The thickness of the layer of water in the water column indicates that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 13.3 degrees C (55.9 degrees F) and 18.1 degrees C (64.6 degrees F), at WQ1 and WQ2 respectively. TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicate suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 2025 when the suitable oxythermal habitat layer was 3.8 feet thick. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "headerInfo": {
+          "survey_id": "-324",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "id_date": "2025-08-01",
+          "county": "St. Louis",
+          "wb_id": "69012100",
+          "wb_name": "Iron"
+        },
+        "surveyType": "Targeted Survey",
+        "surveyID": "-324",
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-08-01"
+      },
+      {
+        "surveyDate": "1984-08-27",
+        "surveySubType": "Population Assessment",
+        "surveyID": "108258",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "69012100",
+          "county": "St. Louis",
+          "wb_name": "Iron",
+          "wb_alt_name": "",
+          "id_date": "1984-08-27",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "survey_id": "108258"
+        },
+        "narrative": "<p>Walleye and sauger are present in above average numbers. Northern pike and yellow perch in average numbers; cisco, white sucker and rock bass in below average numbers; smallmouth bass and black crappie are also present. Walleye are very slow growing and small for a lake with little fishing pressure. Good natural reproduction is evident.</p>",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.33",
+            "species": "TLC",
+            "gearCount": 6,
+            "quartileWeight": "0.2-0.5",
+            "quartileCount": "1.8-12.4",
+            "averageWeight": "0.28",
+            "gear": "Standard gill nets",
+            "totalCatch": 8,
+            "totalWeight": 2.2
+          },
+          {
+            "averageWeight": "2.34",
+            "quartileWeight": "1.9-3.6",
+            "quartileCount": "1.2-3.6",
+            "totalWeight": 39.8,
+            "totalCatch": 17,
+            "gear": "Standard gill nets",
+            "CPUE": "2.83",
+            "gearCount": 6,
+            "species": "NOP"
+          },
+          {
+            "quartileWeight": "0.2-0.5",
+            "averageWeight": "0.80",
+            "quartileCount": "0.2-1.4",
+            "totalWeight": 0.8,
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.17",
+            "gearCount": 6,
+            "species": "BLC"
+          },
+          {
+            "species": "WTS",
+            "gearCount": 6,
+            "CPUE": "1.50",
+            "totalCatch": 9,
+            "gear": "Standard gill nets",
+            "totalWeight": 14.2,
+            "quartileCount": "2.8-6.7",
+            "quartileWeight": "1.3-2.0",
+            "averageWeight": "1.58"
+          },
+          {
+            "CPUE": "10.00",
+            "gearCount": 6,
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "quartileCount": "3.1-9.8",
+            "averageWeight": "0.68",
+            "totalWeight": 40.9,
+            "gear": "Standard gill nets",
+            "totalCatch": 60
+          },
+          {
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "totalWeight": 2.1,
+            "averageWeight": "1.05",
+            "quartileWeight": "0.5-1.3",
+            "quartileCount": "0.3-0.7",
+            "species": "SMB",
+            "gearCount": 6,
+            "CPUE": "0.33"
+          },
+          {
+            "quartileWeight": "0.4-0.6",
+            "averageWeight": "0.48",
+            "quartileCount": "0.9-3.0",
+            "totalCatch": 13,
+            "gear": "Standard gill nets",
+            "totalWeight": 6.2,
+            "CPUE": "2.17",
+            "species": "SAR",
+            "gearCount": 6
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "quartileCount": "1.9-7.1",
+            "averageWeight": "0.11",
+            "totalCatch": 13,
+            "gear": "Standard gill nets",
+            "totalWeight": 1.4,
+            "CPUE": "2.17",
+            "species": "YEP",
+            "gearCount": 6
+          },
+          {
+            "totalWeight": 4,
+            "totalCatch": 17,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-0.4",
+            "quartileCount": "0.5-2.2",
+            "averageWeight": "0.24",
+            "gearCount": 6,
+            "species": "RKB",
+            "CPUE": "2.83"
+          }
+        ],
+        "lengths": {}
+      }
+    ],
+    "DOWNumber": "69012100",
+    "lakeName": "Iron"
+  },
+  "status": "SUCCESS"
+}

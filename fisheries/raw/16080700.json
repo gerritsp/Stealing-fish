@@ -1,0 +1,83 @@
+{
+  "result": {
+    "officeCode": "F215",
+    "county": "Cook",
+    "averageWaterClarity": "N/A",
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "location": "BWCAW access via canoe route; no motorized travel allowed."
+      }
+    ],
+    "DOWNumber": "16080700",
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 5,
+            "CPUE": "6.80",
+            "totalWeight": 0,
+            "quartileCount": "2.8-8.5",
+            "totalCatch": 34,
+            "averageWeight": "0.00",
+            "quartileWeight": "1.1-2.0",
+            "species": "NOP"
+          },
+          {
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "averageWeight": "0.00",
+            "totalCatch": 19,
+            "totalWeight": 0,
+            "quartileCount": "2.0-16.0",
+            "CPUE": "3.80",
+            "gearCount": 5,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "20.20",
+            "gearCount": 5,
+            "averageWeight": "0.00",
+            "quartileWeight": "1.4-2.5",
+            "species": "WTS",
+            "totalWeight": 0,
+            "quartileCount": "4.0-14.5",
+            "totalCatch": 101
+          }
+        ],
+        "lengths": {},
+        "surveyDate": "1963-08-12",
+        "narrative": "<p>Knight Lake is a 99 acre, very soft-water lake in the Phoebe River system of the Kawishiwi Watershed. The lake lies in the roadless area and airspace reservation zone of the Superior National Forest and is accessible by navigation of rivers and lakes, with portaging. The maximum depth of Knight Lake is six feet, and there are three inlets and one outlet. Shoal soils are mostly muck, ledgerock, and boulder. Some rubble is also present. The lake is completely surrounded by federal forest land, and about one-half of the shoreline is marsh.     At the time of the survey, water levels were about normal, and appeared to be fairly stable. Submerged and floating-leaved vegetation was found in about two-thirds of the surface area of the lake; emergent vegetation was confined to about 1% of the total area.     Test netting indicated that White Sucker and Northern Pike were abundant, and that Yellow Perch were present in lesser amounts. Pumpkinseed sunfish, Yellow Perch, White Sucker, darters, shiners, minnows, and unidentifed panfish fry were taken in shoreline seining.     Spawning facilities are rated \"good\" for Northern Pike, \"poor to fair\" for Walleye and Smallmouth Bass, and \"poor\" for most other gamefish.     Knight Lake appears to get little use; no campsites were present. The lake is probably used more as a water route than for fishing.     The short channel between Knight and Phoebe Lakes has an average depth of six feet, permitting fish movement between the two lakes.</p>",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "survey_id": "112814",
+          "wb_name": "Knight",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "1963-08-12",
+          "wb_id": "16080700"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyID": "112814",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "littoralAcres": 94.13,
+    "sampledPlants": [],
+    "maxDepthFeet": 6,
+    "shoreLengthMiles": 3.43,
+    "waterClarity": [],
+    "lakeName": "Knight",
+    "areaAcres": 94.13
+  },
+  "timestamp": 1790285611,
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

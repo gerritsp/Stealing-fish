@@ -1,0 +1,77 @@
+{
+  "timestamp": 1790285905,
+  "status": "SUCCESS",
+  "result": {
+    "sampledPlants": [],
+    "areaAcres": 254.2,
+    "officeCode": "F218",
+    "averageWaterClarity": "6.0",
+    "meanDepthFeet": 24,
+    "county": "Cook",
+    "maxDepthFeet": 54,
+    "waterClarity": [
+      [
+        "08/21/1972",
+        "6"
+      ]
+    ],
+    "DOWNumber": "16003900",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "surveyID": "109588",
+        "narrative": "<p>There is a good population of small N Pike and Suckers.  No other fish were taken.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "2.1-4.9",
+            "gearCount": 4,
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.19",
+            "totalCatch": 27,
+            "CPUE": "6.75",
+            "totalWeight": 32.2,
+            "quartileCount": "0.6-2.4"
+          },
+          {
+            "totalWeight": 36.1,
+            "CPUE": "5.50",
+            "quartileCount": "0.8-5.3",
+            "totalCatch": 22,
+            "averageWeight": "1.64",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileWeight": "1.1-2.5"
+          }
+        ],
+        "surveyDate": "1972-08-21",
+        "headerInfo": {
+          "wb_name": "Stump",
+          "survey_type": "Initial Survey",
+          "wb_id": "16003900",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_id": "109588",
+          "id_date": "1972-08-21"
+        }
+      }
+    ],
+    "littoralAcres": 59,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "The lake is accessible via a 0.5 mile portage from Pine Lake.",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "shoreLengthMiles": 6.31,
+    "lakeName": "Stump"
+  },
+  "message": "Normal execution."
+}

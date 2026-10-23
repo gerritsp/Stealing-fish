@@ -1,0 +1,68 @@
+{
+  "result": {
+    "averageWaterClarity": "N/A",
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 1.01,
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>No fish taken in gillnets or minnow traps. </p>",
+        "surveyDate": "1983-09-12",
+        "surveySubType": "Re-Survey",
+        "lengths": {},
+        "headerInfo": {
+          "county": "Lake",
+          "id_date": "1983-09-12",
+          "wb_alt_name": "",
+          "wb_name": "Uranus",
+          "survey_id": "108228",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "wb_id": "38071900"
+        },
+        "surveyID": "108228",
+        "fishCatchSummaries": []
+      },
+      {
+        "surveyID": "108388",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "county": "Lake",
+          "id_date": "1988-06-02",
+          "wb_alt_name": "",
+          "wb_name": "Uranus",
+          "survey_id": "108388",
+          "survey_type": "Population Assessment",
+          "wb_id": "38071900",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>No fish are present. Uranus Lake was reclaimed in 1984 along with Conchu Lake. This assessment was completed in conjunction with an assessment of Conchu Lake. The assessment was done to determine whether any undesirable fish were present that could potentially contaminate Conchu Lake which is downstream and is managed for brook trout.</p>",
+        "surveyDate": "1988-06-02",
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "littoralAcres": 21,
+    "county": "Lake",
+    "maxDepthFeet": 21,
+    "areaAcres": 22.66,
+    "lakeName": "Uranus",
+    "waterClarity": [],
+    "DOWNumber": "38071900",
+    "officeCode": "F214",
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "location": "NO DESIGNATED PUBLIC ACCESS.",
+        "accessTypeId": "O",
+        "lakeAccessComments": " "
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285636
+}

@@ -1,0 +1,66 @@
+{
+  "timestamp": 1790285699,
+  "result": {
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "location": "Accessible via 0.1 mile blazed trail from Cow Lake"
+      }
+    ],
+    "DOWNumber": "16027400",
+    "sampledPlants": [],
+    "averageWaterClarity": "6.0",
+    "lakeName": "Calf",
+    "waterClarity": [
+      [
+        "07/25/1974",
+        "6"
+      ]
+    ],
+    "maxDepthFeet": 18,
+    "meanDepthFeet": 7,
+    "officeCode": "F218",
+    "littoralAcres": 14,
+    "shoreLengthMiles": 1.13,
+    "surveys": [
+      {
+        "narrative": "<p>Calf Lake appears to have a high population of sml sized Yel Perch.  Two large Minnow traps failed to take any Minnows.</p>",
+        "headerInfo": {
+          "id_date": "1974-07-24",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "wb_name": "Calf",
+          "wb_id": "16027400",
+          "survey_id": "109697",
+          "wb_type": "Lake",
+          "county": "Cook"
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.0-23.0",
+            "totalWeight": 2.4,
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "totalCatch": 24,
+            "CPUE": "12.00",
+            "averageWeight": "0.10"
+          }
+        ],
+        "surveyDate": "1974-07-24",
+        "surveyID": "109697"
+      }
+    ],
+    "county": "Cook",
+    "areaAcres": 14.15
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

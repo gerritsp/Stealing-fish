@@ -1,0 +1,162 @@
+{
+  "result": {
+    "areaAcres": 1469,
+    "county": "Lake",
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "waterClarity": [
+      [
+        "08/04/2025",
+        "6"
+      ]
+    ],
+    "averageWaterClarity": "6.0",
+    "lakeName": "Alice",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "location": "In BWCA.  Non-motor route.  Accessible via Kawishiwi R.  portage from Cacabic Lake.",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "littoralAcres": 438,
+    "shoreLengthMiles": 27.59,
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 53,
+    "DOWNumber": "38033000",
+    "surveys": [
+      {
+        "surveyID": "107980",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Re-Survey",
+        "narrative": "<p>Composed of above-average populations of walleye, sucker, rock bass, and ciscoes.  Northern pike are present in average numbers.  Whitefish, perch and bluegill appear to be present in below-average numbers. Natural reproduction appears excellent for walleyes.</p>",
+        "surveyDate": "1979-07-18",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "CPUE": "3.00",
+            "totalCatch": 15,
+            "gearCount": 5,
+            "averageWeight": "3.53",
+            "quartileCount": "1.2-3.6",
+            "species": "NOP",
+            "quartileWeight": "1.9-3.6",
+            "gear": "Standard gill nets",
+            "totalWeight": 53
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 4.35,
+            "averageWeight": "0.20",
+            "gearCount": 5,
+            "quartileCount": "0.5-2.2",
+            "species": "RKB",
+            "quartileWeight": "0.2-0.4",
+            "CPUE": "4.40",
+            "totalCatch": 22
+          },
+          {
+            "totalWeight": 28.8,
+            "gear": "Standard gill nets",
+            "CPUE": "8.20",
+            "totalCatch": 41,
+            "species": "WAE",
+            "quartileWeight": "0.7-1.3",
+            "gearCount": 5,
+            "averageWeight": "0.70",
+            "quartileCount": "3.1-9.8"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 1.9,
+            "totalCatch": 10,
+            "CPUE": "2.00",
+            "quartileCount": "1.9-7.1",
+            "averageWeight": "0.19",
+            "gearCount": 5,
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 2,
+            "quartileCount": "0.2-3.0",
+            "averageWeight": "1.00",
+            "gearCount": 5,
+            "quartileWeight": "0.9-3.0",
+            "species": "LKW",
+            "totalCatch": 2,
+            "CPUE": "0.40"
+          },
+          {
+            "CPUE": "9.20",
+            "totalCatch": 46,
+            "gearCount": 5,
+            "averageWeight": "1.03",
+            "quartileCount": "2.8-6.7",
+            "species": "WTS",
+            "quartileWeight": "1.3-2.0",
+            "gear": "Standard gill nets",
+            "totalWeight": 47.25
+          },
+          {
+            "CPUE": "17.60",
+            "totalCatch": 88,
+            "species": "TLC",
+            "quartileWeight": "0.2-0.5",
+            "averageWeight": "0.21",
+            "gearCount": 5,
+            "quartileCount": "1.8-12.4",
+            "totalWeight": 18.25,
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "0.13",
+            "gearCount": 5,
+            "quartileCount": "N/A",
+            "species": "BLG",
+            "quartileWeight": "N/A",
+            "CPUE": "0.60",
+            "totalCatch": 3,
+            "gear": "Standard gill nets",
+            "totalWeight": 0.4
+          }
+        ],
+        "headerInfo": {
+          "id_date": "1979-07-18",
+          "county": "Lake",
+          "survey_id": "107980",
+          "wb_id": "38033000",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Alice",
+          "survey_type": "Re-Survey"
+        }
+      },
+      {
+        "lengths": {},
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Alice Lake on August 4th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 55.1 feet), the water temperature decreased to 21.2 degrees C (70.2 degrees F) at 14.2 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 44.9 feet at the time of sampling. This layer in the water column was 30.7 feet, indicating oxythermal habitat for Cisco was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 11.1 degrees C (52.0 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyDate": "2025-08-04",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Alice",
+          "survey_type": "Targeted Survey",
+          "survey_id": "22122521951422000",
+          "wb_id": "38033000",
+          "id_date": "2025-08-04",
+          "county": "Lake"
+        },
+        "surveyID": "22122521951422000",
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285691,
+  "message": "Normal execution."
+}

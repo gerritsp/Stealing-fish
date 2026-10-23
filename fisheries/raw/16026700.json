@@ -1,0 +1,423 @@
+{
+  "timestamp": 1790285706,
+  "message": "Normal execution.",
+  "result": {
+    "maxDepthFeet": 101,
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "lakeName": "Vernon",
+    "surveys": [
+      {
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "survey_id": "110930",
+          "wb_id": "16026700",
+          "id_date": "1998-09-02",
+          "county": "Cook",
+          "wb_name": "Vernon",
+          "wb_alt_name": ""
+        },
+        "lengths": {
+          "WAE": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 20
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                15,
+                1
+              ]
+            ],
+            "minimum_length": 12,
+            "maximum_length": 15
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ]
+            ],
+            "minimum_length": 11,
+            "maximum_length": 12
+          },
+          "NOP": {
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                2
+              ]
+            ],
+            "minimum_length": 15
+          },
+          "WTS": {
+            "minimum_length": 14,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                1
+              ]
+            ],
+            "maximum_length": 17
+          },
+          "LKW": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                8
+              ],
+              [
+                13,
+                7
+              ],
+              [
+                14,
+                19
+              ],
+              [
+                15,
+                23
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 10
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1998-09-02",
+        "surveyID": "110930",
+        "narrative": "<p>The 1998 assessment used a combination of deep and shallow gill net sets.  By themselves, neither would be comparable to historic catches in this lake, or to catches in other lakes in this class; however, the combined catch in deep and shallow nets is comparible.  The catch in six gill net sets (deep and shallow combined) in 1998 was:Lake trout   0.33 fish/net  mean weight 0.58 lbLake whitefish   11.00 fish/net  mean weight 0.95 lbNorthern pike   1.50 fish/net   mean weight 1.44 lbSmallmouth bass   0.83 fish/net  mean weight 1.43 lbWalleye   0.17 fish/net  mean weight 3.08 lbWhite sucker   0.33 fish/net  mean weight 2.11 lbCompared to lakes in this class (Class 3), combined catches for lake trout, walleye, and white sucker were lower than normal.  Only one walleye was collected, an 8-year-old, 20 inch fish.  Walleye catches in this lake have never been high, but the 1998 catch was the lowest observed to date.The presence of lake trout meant that the attempt to reintroduce lake trout by stocking in the 1990's had met with at least some success, although survival of stocked fish appeared to have been low.  The two lake trout collected were both from the 1995 yearling stocking, and were about 12 inches in length.  Lake trout growth was slow, probably due to intense competition for invertebrate forage from the dense lake whitefish population.Combined catches for lake whitefish, northern pike, and smallmouth bass were within normal ranges for lakes of this class.  All the northern pike collected were less than 23 inches in length, while all the smallmouth bass collected were 12 inches or longer.</p>",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "21.00",
+            "averageWeight": "0.95",
+            "species": "LKW",
+            "gearCount": 3,
+            "gear": "Deep gill nets",
+            "totalCatch": 63,
+            "totalWeight": 27225,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 5900,
+            "totalCatch": 9,
+            "gear": "Shallow gill nets",
+            "gearCount": 3,
+            "averageWeight": "1.45",
+            "species": "NOP",
+            "CPUE": "3.00"
+          },
+          {
+            "gearCount": 3,
+            "CPUE": "1.67",
+            "species": "SMB",
+            "averageWeight": "1.44",
+            "totalWeight": 3255,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "totalCatch": 5
+          },
+          {
+            "gearCount": 3,
+            "CPUE": "0.33",
+            "averageWeight": "3.08",
+            "species": "WAE",
+            "totalWeight": 1399,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "totalCatch": 1
+          },
+          {
+            "totalWeight": 520,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "totalCatch": 2,
+            "gearCount": 3,
+            "CPUE": "0.67",
+            "averageWeight": "0.57",
+            "species": "LAT"
+          },
+          {
+            "totalWeight": 1346,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "totalCatch": 3,
+            "gearCount": 3,
+            "CPUE": "1.00",
+            "species": "LKW",
+            "averageWeight": "0.99"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "totalCatch": 2,
+            "totalWeight": 1910,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "0.67",
+            "species": "WTS",
+            "averageWeight": "2.11",
+            "gearCount": 3
+          }
+        ]
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyID": "110000",
+        "surveyDate": "1986-09-02",
+        "narrative": "<p>THIS LAKE IS DOMINATED BY A VERY LARGE WHITEFISH POPULATION. WALLEYE ARE FEW IN NUMBERS, AS ARE OTHER GAMEFISH.</p>",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "averageWeight": "1.17",
+            "species": "BUB",
+            "CPUE": "1.00",
+            "quartileWeight": "0.6-1.5",
+            "quartileCount": "0.2-1.0",
+            "totalWeight": 3.5,
+            "totalCatch": 3,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "totalWeight": 4,
+            "quartileWeight": "2.1-4.9",
+            "quartileCount": "0.6-2.4",
+            "CPUE": "1.33",
+            "averageWeight": "1.00",
+            "species": "NOP",
+            "gearCount": 3
+          },
+          {
+            "quartileWeight": "1.0-2.0",
+            "quartileCount": "1.2-5.2",
+            "totalWeight": 7,
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "averageWeight": "3.50",
+            "species": "WAE",
+            "CPUE": "0.67"
+          },
+          {
+            "CPUE": "25.00",
+            "species": "LKW",
+            "averageWeight": "0.73",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "totalCatch": 75,
+            "totalWeight": 55,
+            "quartileCount": "1.6-15.5",
+            "quartileWeight": "1.0-2.1"
+          }
+        ],
+        "headerInfo": {
+          "survey_id": "110000",
+          "wb_id": "16026700",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_name": "Vernon",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "id_date": "1986-09-02"
+        },
+        "lengths": {}
+      },
+      {
+        "headerInfo": {
+          "id_date": "2024-08-20",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_name": "Vernon",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_id": "16026700",
+          "survey_id": "21872426834955061"
+        },
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Vernon Lake, on August 20, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 17.2 degrees C (63.0 degrees F) at 16.6 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 91.2 feet at the time of sampling. The thickness of this layer in the water column was 74.6 feet, indicating that oxythermal habitat was present for Lake Whitefish.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.3 degrees C (37.4 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 2023 during the late summer thermal stress period indicated suitable oxythermal habitat in the year surveyed. Data were also collected outside the thermal maximum period in 1970 and 1990, this data indicated suitable oxythermal habitat during those sampling periods. The least favorable oxythermal habitat conditions were recorded in 1970, during the peak summer stress period, when the suitable habitat layer thickness was 59.0 feet. When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "surveyID": "21872426834955061",
+        "surveyDate": "2024-08-20"
+      },
+      {
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "survey_id": "110160",
+          "wb_id": "16026700",
+          "id_date": "1990-09-17",
+          "wb_name": "Vernon",
+          "wb_alt_name": "",
+          "county": "Cook"
+        },
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyID": "110160",
+        "surveyDate": "1990-09-17",
+        "narrative": "<p>WAE ABUNDANCE IN VERNON LAKE WAS LOW; HOWEVER, SEVERAL WAE OVER 25 IN WERE COLLECTED, INDICATING THE LAKE HAD SOME TROPHY POTENTIAL.  THE 1985 AND 1987 YEAR CLASSES WERE RELATIVELY STRONG, BUT THE CONTRIBUTION MADE BY STOCKING IN THOSE YEARS CAN- NOT BE DETERMINED.  NATURAL REPRODUCTION OR RECRUITMENT APPEARED TO BE IRREGULAR, AS EVIDENCED BY SEVERAL MISSING YEAR CLASSES.  GROWTH WAS FAST BY COOK COUNTY STANDARDS.  SMB GILL NET CATCHES WERE ABOVE AVERAGE AND SMB GROWTH WAS AVERAGE FOR COOK COUNTY.  OF THE FEW FISH COLLECTED, THE 1988 YEAR CLASS WAS THE MOST STRONGLY REPRESENTED.  LKW APPEARED TO DOMINATE THE FISH COMMUNITY IN VERNON LAKE.  THEIR ABUNDANCE WAS VERY HIGH, WITH MOST OF THE FISH CAPTURED IN THE 13 TO 15 IN RANGE.</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.2-1.0",
+            "quartileWeight": "0.6-1.5",
+            "totalWeight": 2.5,
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "species": "BUB",
+            "averageWeight": "2.50",
+            "CPUE": "0.17"
+          },
+          {
+            "totalCatch": 7,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-1.5",
+            "quartileCount": "0.3-1.4",
+            "totalWeight": 6,
+            "averageWeight": "0.86",
+            "species": "SMB",
+            "CPUE": "1.17",
+            "gearCount": 6
+          },
+          {
+            "quartileCount": "1.2-5.2",
+            "quartileWeight": "1.0-2.0",
+            "totalWeight": 38.81,
+            "totalCatch": 9,
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "species": "WAE",
+            "averageWeight": "4.31",
+            "CPUE": "1.50"
+          },
+          {
+            "averageWeight": "1.02",
+            "species": "LKW",
+            "CPUE": "35.50",
+            "gearCount": 6,
+            "totalCatch": 213,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.0-2.1",
+            "quartileCount": "1.6-15.5",
+            "totalWeight": 216.2
+          },
+          {
+            "gearCount": 6,
+            "species": "WTS",
+            "averageWeight": "4.88",
+            "CPUE": "0.33",
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "totalWeight": 9.75,
+            "totalCatch": 2,
+            "gear": "Standard gill nets"
+          }
+        ]
+      }
+    ],
+    "shoreLengthMiles": 6.89,
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "location": "Portage trails from Brule and Swan Lakes.  Vernon Lake is entirely inside the BWCAW.",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "littoralAcres": 70,
+    "DOWNumber": "16026700",
+    "meanDepthFeet": 0,
+    "county": "Cook",
+    "averageWaterClarity": "14.9",
+    "waterClarity": [
+      [
+        "08/20/2024",
+        "13.9"
+      ],
+      [
+        "09/19/1990",
+        "14"
+      ],
+      [
+        "08/25/1970",
+        "16.7"
+      ]
+    ],
+    "areaAcres": 239.59
+  },
+  "status": "SUCCESS"
+}

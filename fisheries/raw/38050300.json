@@ -1,0 +1,603 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285826,
+  "result": {
+    "averageWaterClarity": "14.2",
+    "lakeName": "Boot",
+    "officeCode": "F214",
+    "county": "Lake",
+    "shoreLengthMiles": 4.64,
+    "areaAcres": 197.07,
+    "maxDepthFeet": 83,
+    "littoralAcres": 134,
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "lakeAccessComments": "Portage from pond near Snowbank Lake outlet.",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "location": " "
+      },
+      {
+        "ownerTypeId": "USF",
+        "location": " ",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO",
+        "lakeAccessComments": "Portage from Haven Lake."
+      },
+      {
+        "lakeAccessComments": "Portage from Ensign Lake.",
+        "location": " ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO"
+      }
+    ],
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "07/30/2024",
+        "9.8"
+      ],
+      [
+        "07/27/2015",
+        "18.5"
+      ]
+    ],
+    "DOWNumber": "38050300",
+    "surveys": [
+      {
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Boot Lake on July 30th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 82.0 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 14.4 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 69.1 feet at the time of sampling. The thickness of this layer of water in the water column was 54.6 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.4 degrees C (41.7 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2015 also indicates suitable oxythermal habitat, with the least favorable conditions recorded in 2015. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.</p>",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_id": "38050300",
+          "wb_alt_name": "",
+          "survey_id": "21872425656491359",
+          "wb_name": "Boot",
+          "county": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "id_date": "2024-07-30"
+        },
+        "lengths": {},
+        "surveyID": "21872425656491359",
+        "surveyDate": "2024-07-30",
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "surveyID": "108009",
+        "lengths": {},
+        "surveyDate": "1974-07-28",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Composed of average populations of N Cisco, Sucker, Redhorse, Northern Pike, Smallmouth Bass and Rock Bass. Walleyes are present in low numbers.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 3,
+            "species": "SHR",
+            "totalWeight": 7.5,
+            "CPUE": "1.00",
+            "quartileWeight": "3.6",
+            "averageWeight": "2.50",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4"
+          },
+          {
+            "averageWeight": "3.60",
+            "quartileWeight": "2.1-4.9",
+            "CPUE": "1.67",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "quartileCount": "0.6-2.4",
+            "totalCatch": 5,
+            "species": "NOP",
+            "totalWeight": 18
+          },
+          {
+            "quartileCount": "0.4-1.2",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "averageWeight": "0.13",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "5.00",
+            "species": "RKB",
+            "totalWeight": 2,
+            "totalCatch": 15
+          },
+          {
+            "totalWeight": 12.5,
+            "species": "WAE",
+            "totalCatch": 6,
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.2-5.2",
+            "averageWeight": "2.08",
+            "quartileWeight": "1.0-2.0",
+            "CPUE": "2.00"
+          },
+          {
+            "quartileCount": "0.8-5.3",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "averageWeight": "3.00",
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "0.33",
+            "totalWeight": 3,
+            "species": "WTS",
+            "totalCatch": 1
+          },
+          {
+            "quartileWeight": "0.2-1.0",
+            "averageWeight": "0.50",
+            "CPUE": "2.00",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "3.2-20.2",
+            "totalCatch": 6,
+            "totalWeight": 3,
+            "species": "TLC"
+          }
+        ],
+        "headerInfo": {
+          "county": "Lake",
+          "wb_name": "Boot",
+          "wb_alt_name": "",
+          "wb_id": "38050300",
+          "survey_id": "108009",
+          "id_date": "1974-07-28",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment"
+        }
+      },
+      {
+        "surveyDate": "2015-07-27",
+        "lengths": {
+          "RKB": {
+            "minimum_length": 3,
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                14
+              ],
+              [
+                5,
+                10
+              ],
+              [
+                6,
+                2
+              ]
+            ]
+          },
+          "LMB": {
+            "minimum_length": 13,
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ]
+          },
+          "PMK": {
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "SMB": {
+            "minimum_length": 5,
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 17,
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                7
+              ],
+              [
+                20,
+                2
+              ]
+            ],
+            "maximum_length": 20
+          },
+          "NOP": {
+            "maximum_length": 35,
+            "fishCount": [
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                27,
+                2
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                29,
+                3
+              ],
+              [
+                33,
+                1
+              ],
+              [
+                35,
+                1
+              ]
+            ],
+            "minimum_length": 21
+          },
+          "CIS": {
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                12
+              ]
+            ],
+            "maximum_length": 11
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ]
+            ],
+            "maximum_length": 25,
+            "minimum_length": 14
+          }
+        },
+        "surveyID": "12631529527533000",
+        "surveySubType": "Standard Survey",
+        "narrative": "<p>Boot Lake is located approximately 26 miles NE of Ely in the BWCAW. This lake is surrounded by relatively high hills of rocky terrain with jack pine and other conifers. The north side of the west basin has newer forest growth from the result of a prescribed burn. <br> \n <br> \nThe most common access is from Snowbank Lake. Boot Lake is on a popular travel route for summer visitors with most people passing through. There are two designated USFS campsites located on the lake.      <br> \n <br> \nWalleye numbers in 2015 (3.0/gill net) were slightly higher than the long term average on this lake. The average walleye sampled was 18.6 inches long and about 5 years old. The largest walleye sampled was 25.6 inches long.  <br> \n <br> \nSmallmouth bass numbers in 2015 (3.2/gill net) were higher than the long term average (0.3/gill net) on this lake. The average smallmouth sampled was 13.3 inches long and about 7 years old. The largest smallmouth sampled was 18.5 inches long. <br> \n <br> \nNorthern pike abundance in 2015 (2.0/gill net) was identical to the long term average on this lake. The average pike sampled was a respectable 28.2 inches and the largest pike sampled was 35.4 inches long. <br> \n <br> \nLargemouth bass were observed in the gill nets for the first time in 2015. Seven largemouth (1.2/gill net) from 13.8 inches to 18.7 inches were sampled. Relatively low numbers of pumpkinseed and white sucker were sampled. Rock bass (4.7/gill net) were sampled in similar numbers to past surveys. <br> \n <br> \nCisco abundance in 2015 (3.3/gill net) was nearly identical to the long term average on this lake. The average cisco sampled was 9.6 inches and the largest cisco sampled was 11.1 inches long.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 12,
+            "totalWeight": 30679,
+            "species": "NOP",
+            "CPUE": "2.00",
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "5.64",
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets",
+            "gearCount": 6
+          },
+          {
+            "totalCatch": 28,
+            "totalWeight": 1427,
+            "species": "RKB",
+            "CPUE": "4.67",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.11",
+            "quartileCount": "0.4-1.2",
+            "gear": "Standard gill nets",
+            "gearCount": 6
+          },
+          {
+            "totalWeight": 13067,
+            "species": "SMB",
+            "totalCatch": 19,
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.4",
+            "quartileWeight": "0.6-1.5",
+            "averageWeight": "1.52",
+            "CPUE": "3.17"
+          },
+          {
+            "CPUE": "3.00",
+            "quartileWeight": "1.0-2.0",
+            "averageWeight": "2.61",
+            "quartileCount": "1.2-5.2",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalCatch": 18,
+            "totalWeight": 21302,
+            "species": "WAE"
+          },
+          {
+            "averageWeight": "3.20",
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "1.67",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileCount": "0.8-5.3",
+            "totalCatch": 10,
+            "species": "WTS",
+            "totalWeight": 14500
+          },
+          {
+            "averageWeight": "0.12",
+            "quartileWeight": "N/A",
+            "CPUE": "0.17",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "totalWeight": 55,
+            "species": "PMK"
+          },
+          {
+            "quartileWeight": "N/A",
+            "averageWeight": "0.28",
+            "CPUE": "3.33",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalCatch": 20,
+            "species": "CIS",
+            "totalWeight": 2542
+          },
+          {
+            "CPUE": "1.17",
+            "quartileWeight": "0.3-1.4",
+            "averageWeight": "2.24",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.1",
+            "totalCatch": 7,
+            "totalWeight": 7122,
+            "species": "LMB"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_type": "Standard Survey",
+          "id_date": "2015-07-27",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38050300",
+          "survey_id": "12631529527533000",
+          "county": "Lake",
+          "wb_name": "Boot"
+        }
+      },
+      {
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileCount": "0.4",
+            "quartileWeight": "3.6",
+            "averageWeight": "3.12",
+            "CPUE": "0.67",
+            "species": "SHR",
+            "totalWeight": 12.5,
+            "totalCatch": 4
+          },
+          {
+            "CPUE": "2.33",
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "3.54",
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalCatch": 14,
+            "totalWeight": 49.5,
+            "species": "NOP"
+          },
+          {
+            "quartileCount": "0.4-1.2",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "CPUE": "0.67",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.17",
+            "totalWeight": 0.7,
+            "species": "RKB",
+            "totalCatch": 4
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileCount": "0.3-1.4",
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "0.33",
+            "averageWeight": "0.40",
+            "species": "SMB",
+            "totalWeight": 0.8,
+            "totalCatch": 2
+          },
+          {
+            "quartileCount": "1.2-5.2",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "CPUE": "0.67",
+            "quartileWeight": "1.0-2.0",
+            "averageWeight": "2.62",
+            "totalWeight": 10.5,
+            "species": "WAE",
+            "totalCatch": 4
+          },
+          {
+            "totalCatch": 20,
+            "totalWeight": 55,
+            "species": "WTS",
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "3.33",
+            "averageWeight": "2.75",
+            "quartileCount": "0.8-5.3",
+            "gearCount": 6,
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "TLC",
+            "totalWeight": 3.6,
+            "totalCatch": 19,
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileCount": "3.2-20.2",
+            "quartileWeight": "0.2-1.0",
+            "averageWeight": "0.19",
+            "CPUE": "3.17"
+          }
+        ],
+        "narrative": "<p>Composed of average populations of northern cisco, sucker, redhorse, northern pike, smallmouth bass, and rock bass. Walleyes are present in low numbers.</p>",
+        "headerInfo": {
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "id_date": "1980-07-29",
+          "wb_alt_name": "",
+          "wb_id": "38050300",
+          "survey_id": "14891915127446000",
+          "wb_name": "Boot",
+          "county": "Lake"
+        },
+        "lengths": {},
+        "surveyID": "14891915127446000",
+        "surveyDate": "1980-07-29",
+        "surveySubType": "Standard Survey"
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Boot Lake on July 31st, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L, which can be limited during the summer. Based on the profile from the deepest basin (maximum sampled depth 82.0 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 13.7 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 60.7 feet at the time of sampling. The thickness of this layer of water in the water column was 47.0 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.0 degrees C (41.0 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2015 and 2024 also indicate suitable oxythermal habitat in all years surveyed. When adequate oxythermal habitat is unavailable, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_name": "Boot",
+          "wb_alt_name": "",
+          "wb_id": "38050300",
+          "survey_id": "-356",
+          "id_date": "2025-07-31",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey"
+        },
+        "lengths": {},
+        "surveyID": "-356",
+        "surveyDate": "2025-07-31",
+        "surveySubType": "Targeted Survey"
+      }
+    ]
+  }
+}

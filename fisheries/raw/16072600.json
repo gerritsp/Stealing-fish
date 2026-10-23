@@ -1,0 +1,266 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285865,
+  "result": {
+    "shoreLengthMiles": 2.64,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "Lake is entirely inside the BWCA; with portages from Crooked and Tuscarora Lakes.",
+        "accessTypeId": "CA"
+      }
+    ],
+    "surveys": [
+      {
+        "lengths": {},
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Owl Lake on August 5, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 27.8 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 52.7 feet at the time of sampling. The thickness of this layer in the water column was 25.0 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.7 degrees C (42.3 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nThis is the first survey completed on Owl Lake during the late summer thermal stress period, however, data collected outside the thermal maximum period in 1980 indicated suitable oxythermal habitat during that sampling period, where the layer thickness was 23.7 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Owl",
+          "wb_id": "16072600",
+          "county": "Cook",
+          "survey_type": "Targeted Survey",
+          "id_date": "2024-08-05",
+          "survey_id": "21872425451528248",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "2024-08-05",
+        "surveyID": "21872425451528248"
+      },
+      {
+        "surveyID": "110245",
+        "surveyDate": "1993-06-30",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "id_date": "1993-06-30",
+          "survey_id": "110245",
+          "wb_id": "16072600",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_name": "Owl"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.5-4.0",
+            "totalCatch": 1,
+            "totalWeight": 2900,
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "averageWeight": "6.39",
+            "species": "LAT",
+            "CPUE": "0.17",
+            "quartileCount": "0.4-3.7"
+          },
+          {
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 30,
+            "totalWeight": 1251,
+            "averageWeight": "0.09",
+            "species": "YEP",
+            "CPUE": "5.00",
+            "quartileCount": "0.4-3.7"
+          },
+          {
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalCatch": 85,
+            "quartileWeight": "1.1-2.5",
+            "totalWeight": 44137,
+            "averageWeight": "1.14",
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "CPUE": "14.17"
+          }
+        ],
+        "narrative": "<p>Lake trout abundance in Owl Lake was very low.  Reproduction appeared to be limited, and growth appeared to be slow.  Large numbers of yellow perch and white sucker were also present.</p>",
+        "lengths": {
+          "WTS": {
+            "maximum_length": 20,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                13
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                16
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                7,
+                13
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                12
+              ]
+            ]
+          },
+          "YEP": {
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                27
+              ],
+              [
+                7,
+                2
+              ]
+            ],
+            "minimum_length": 5
+          },
+          "LAT": {
+            "minimum_length": 25,
+            "fishCount": [
+              [
+                25,
+                1
+              ]
+            ],
+            "maximum_length": 25
+          }
+        }
+      },
+      {
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "id_date": "1980-07-21",
+          "survey_id": "109813",
+          "wb_id": "16072600",
+          "county": "Cook",
+          "wb_name": "Owl",
+          "wb_alt_name": ""
+        },
+        "surveyID": "109813",
+        "surveyDate": "1980-07-21",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "averageWeight": "1.80",
+            "quartileCount": "0.2-1.0",
+            "CPUE": "1.00",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "quartileWeight": "0.6-1.5",
+            "totalWeight": 7.2
+          },
+          {
+            "CPUE": "0.50",
+            "quartileCount": "0.4-3.7",
+            "species": "LAT",
+            "averageWeight": "7.25",
+            "totalWeight": 14.5,
+            "quartileWeight": "1.5-4.0",
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "gearCount": 4
+          },
+          {
+            "totalWeight": 1.3,
+            "totalCatch": 15,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "0.4-3.7",
+            "CPUE": "3.75",
+            "species": "YEP",
+            "averageWeight": "0.09"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "totalWeight": 64.5,
+            "quartileWeight": "1.1-2.5",
+            "totalCatch": 46,
+            "CPUE": "11.50",
+            "quartileCount": "0.8-5.3",
+            "species": "WTS",
+            "averageWeight": "1.40"
+          }
+        ],
+        "narrative": "<p>Owl L has -self rprdcng pop-Lk Trt.  No sml Trout were netted but they could have been missed.  His. Owl Lk has had a slf rprdcng Lk Trt pop.  The test nttng did not confirm the presence of any smlr fsh so it is rcmnd'd that lk be lkd at in more dpth to dtrmn Trt pop. is in trbl.  This could be done by frthr tst nttng, or by cntctng people known to fsh the lk and seeing if they are ctchng any smlr fish</p>"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "littoralAcres": 30,
+    "maxDepthFeet": 70,
+    "waterClarity": [
+      [
+        "08/05/2024",
+        "14.8"
+      ],
+      [
+        "07/22/1980",
+        "19"
+      ]
+    ],
+    "areaAcres": 76.82,
+    "averageWaterClarity": "16.9",
+    "lakeName": "Owl",
+    "DOWNumber": "16072600",
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "county": "Cook"
+  },
+  "status": "SUCCESS"
+}

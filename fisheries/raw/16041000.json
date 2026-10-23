@@ -1,0 +1,77 @@
+{
+  "timestamp": 1790285652,
+  "result": {
+    "waterClarity": [
+      [
+        "06/29/1974",
+        "2"
+      ]
+    ],
+    "county": "Cook",
+    "DOWNumber": "16041000",
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "1.1-5.8",
+            "totalWeight": 15,
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "quartileWeight": "0.8-3.0",
+            "totalCatch": 19,
+            "averageWeight": "0.79",
+            "CPUE": "9.50",
+            "species": "NOP"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 20,
+            "quartileCount": "N/A",
+            "gear": "Standard trap nets",
+            "totalWeight": 20,
+            "gearCount": 4,
+            "species": "NOP",
+            "averageWeight": "1.00",
+            "CPUE": "5.00"
+          }
+        ],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "id_date": "1974-06-28",
+          "survey_type": "Initial Survey",
+          "survey_id": "109749",
+          "wb_id": "16041000",
+          "wb_name": "Whack"
+        },
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyID": "109749",
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>Whack Lake has a good population of small sized N Pike.  No other fish were found.</p>",
+        "surveyDate": "1974-06-28"
+      }
+    ],
+    "officeCode": "F218",
+    "lakeName": "Whack",
+    "maxDepthFeet": 27,
+    "littoralAcres": 26,
+    "averageWaterClarity": "2.0",
+    "meanDepthFeet": 8,
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": " ",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "location": ""
+      }
+    ],
+    "sampledPlants": [],
+    "shoreLengthMiles": 1.8,
+    "areaAcres": 29.86
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

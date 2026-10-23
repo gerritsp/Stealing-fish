@@ -1,0 +1,758 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285832,
+  "status": "SUCCESS",
+  "result": {
+    "areaAcres": 59.92,
+    "shoreLengthMiles": 1.47,
+    "accesses": [
+      {
+        "location": " ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "30-rod portage from Newfound Lake. Found Lake is entirely within the BWCAW on a no-motor route."
+      }
+    ],
+    "averageWaterClarity": "16.1",
+    "officeCode": "F214",
+    "DOWNumber": "38062000",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "BKT": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                16
+              ],
+              [
+                15,
+                11
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 13
+          }
+        },
+        "surveyID": "109318",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "gearCount": 2,
+            "totalCatch": 32,
+            "CPUE": "16.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 25128,
+            "averageWeight": "1.73",
+            "quartileCount": "N/A"
+          }
+        ],
+        "narrative": "<p>Found Lake is in Ecological Lake Class 4, which consists of 47 lakes in northeast Minnesota that are small, deep, and clear. Found Lake is shallower (38 ft maximum) than the average maximum depth of 61 ft for this lake class.Found Lake was thermally stratified on 06/01/99 and retained good oxygen (more than 5 ppm) to a depth of 26 ft, where the temperature was 44 F. Late summer oxygen levels are lower; on 09/02/83, 5 ppm oxygen was retained only to a depth of 16 ft, where the temperature was 69 F. Found Lake has no inlets; the outlet has obstacles (beaver dams, marshes, drops) which prevent fish immigration. Shallow water bottom substrates are mostly rubble, gravel, and ledgerock. Aquatic plants are sparse and grow to a depth of 13 ft. Brook trout and rainbow trout fingerlings have been stocked in alternate years in Found Lake since 1990 at the average rate of 71 fingerlings/acre. No species other than trout have been captured since the lake was last poisoned in 1970, except that one large white sucker was caught in 1993.The number of brook trout captured in the 1999 assessment (16.0/gillnet) was similar to the average brook trout catch (14.0/gillnet) in previous assessments, and was higher than the average catch of 9.0 trout/gillnet (all species) in all 11 previous trout assessments on Found Lake. Since brook trout were not stocked in 1998, all brook trout captured in 1999 were age two or older. These brook trout averaged 15.1\" and 1.7 lb. The largest trout was 20.8\" and 4.3 lb. The trout were in good condition and had been eating minnows, sticklebacks, and chironomid larvae.By weight, the catch of brook trout in 1999 (27.7 lb/gillnet) was higher than the average catch of 17.6 lb trout/gillnet (all trout species) in all 11 previous trout assessments in this lake and was also higher than the median catch of 5.4 lb trout/gillnet (all trout species) in recent assessments of 25 stream trout lakes (excluding mine pit lakes) in the Ely Management Area.No rainbow trout were caught in this assessment, nor have any been caught in the six most recent assessments, dating back to 1984, despite annual or biennial stocking of this species. Rainbow trout were regularly caught in assessments (an average of 4.4/gillnet) during the years (1964-1979) when they were the only species stocked in the lake. A few rainbow trout have reportedly been caught by winter anglers in recent years, but they do not appear to be present in numbers relative to their numbers stocked, or relative to brook trout numbers. We have observed diminished abundance or absence of rainbow trout in some other area stream trout lakes stocked with other trout species (brook trout or splake).</p>",
+        "surveyDate": "1999-06-01",
+        "headerInfo": {
+          "id_date": "1999-06-01",
+          "wb_id": "38062000",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "wb_name": "Found",
+          "survey_type": "Population Assessment",
+          "survey_id": "109318"
+        }
+      },
+      {
+        "surveyDate": "1993-05-25",
+        "headerInfo": {
+          "survey_id": "108514",
+          "survey_type": "Population Assessment",
+          "wb_name": "Found",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38062000",
+          "id_date": "1993-05-25"
+        },
+        "narrative": "<p>Fish populations are dominated by brook trout stocked as fingerlings in 1991.  These trout grew from 4\" at stocking in the fall of 1991 to an average of 14.8\" in the spring of 1993 - very good growth.  A large brook trout (23\") was also identified - it must have been mixed in with some prior stocking of other trout species.Also present were two very large splake (25\" and 27\") from the period 1982-1988 in which splake were stocked.One very large white sucker (22.8\") was also captured - the first sucker ever captured in this lake.</p>",
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                22,
+                1
+              ]
+            ],
+            "minimum_length": 22,
+            "maximum_length": 22
+          },
+          "SPT": {
+            "minimum_length": 25,
+            "fishCount": [
+              [
+                25,
+                1
+              ],
+              [
+                27,
+                1
+              ]
+            ],
+            "maximum_length": 27
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                23,
+                1
+              ]
+            ],
+            "minimum_length": 13,
+            "maximum_length": 23
+          }
+        },
+        "surveyID": "108514",
+        "fishCatchSummaries": [
+          {
+            "species": "SPT",
+            "gearCount": 1,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "averageWeight": "7.02",
+            "totalWeight": 6370,
+            "gear": "Standard gill nets",
+            "CPUE": "2.00",
+            "totalCatch": 2
+          },
+          {
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "gearCount": 1,
+            "totalCatch": 10,
+            "CPUE": "10.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 8267,
+            "quartileCount": "N/A",
+            "averageWeight": "1.82"
+          },
+          {
+            "quartileWeight": "0.6-2.0",
+            "species": "WTS",
+            "gearCount": 1,
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "CPUE": "1.00",
+            "averageWeight": "4.45",
+            "quartileCount": "1.5-10.4",
+            "totalWeight": 2020
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "headerInfo": {
+          "wb_name": "Found",
+          "survey_type": "Population Assessment",
+          "survey_id": "109490",
+          "id_date": "2003-05-27",
+          "wb_id": "38062000",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "Lake"
+        },
+        "surveyDate": "2003-05-27",
+        "narrative": "<p>Found Lake is in Ecological Lake Class 4, which consists of 47 lakes in northeast Minnesota that are small, deep, and clear.  Found Lake is shallower than most of the lakes in this lake class.Found Lake was thermally stratified on 05/27/2003 and retained good oxygen for trout (more than 5 ppm) to a depth of 33 ft, where the temperature was 43 F.  Late summer oxygen levels are lower; on 09/02/83, 5 ppm oxygen was retained only to a depth of 16 ft, where the temperature was 69 F.  Found Lake has no inlets and the outlet has obstacles (beaver dams, marshes, drops) which prevent fish immigration.  Shoal water substrates on Found Lake are mostly rubble, gravel, and ledgerock.  Aquatic plants are sparse and grow to a depth of 13 ft.The 1958 investigation captured northern pike, yellow perch, pumpkinseed sunfish, rock bass, and several minnow species.  Found Lake was poisoned in 1963 to remove the indigenous fish and stream trout stocking began in 1964.  Found Lake was again poisoned in 1970 to remove high numbers of yellow perch.  In recent years, brook trout have been stocked in alternate years.  Splake stocking was discontinued after 1988 in all lakes in the Boundary Waters Canoe Area Wilderness at the request of the U.S. Forest Service, and rainbow trout stocking was discontinued after 1997 due to poor survival of this species in this lake.This assessment for stream trout consisted of two gillnet sets.  Thirteen previous investigations dating back to 1958 consisted of 1-4 gillnet sets.  Trapnets were only used during the initial investigation in 1958.Six brook trout averaging 14.9\" (2.0 lb) and ranging in size from 13.5\" to 17.3\" were captured in the 2003 assessment.  All of these trout were likely from the 2001 fingerling stocking, although the largest trout could have been from the 1999 fingerling stocking.  The trout were in good condition and their stomachs contained sticklebacks and other fish remains; only one stomach was empty.The total catch of trout by weight in this assessment of 5.9 lb/gillnet was lower than the median catch of 13.9 lbs/gillnet in all investigations on this lake and was higher than the median catch of 4.6 lb/gillnet in recent investigations of 25 stream trout lakes (excluding mine pit lakes) in the Tower Fisheries Management Area.  The highest trout catches on this lake consisted of splake or brook trout.</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "1.96",
+            "totalWeight": 5326,
+            "gear": "Standard gill nets",
+            "CPUE": "3.00",
+            "totalCatch": 6,
+            "species": "BKT",
+            "gearCount": 2,
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyID": "109490",
+        "lengths": {
+          "BKT": {
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ]
+            ],
+            "minimum_length": 13
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "narrative": "<p>Found Lake is 18 miles northeast of Ely in the Boundary Waters Canoe Area Wilderness. The lake can be accessed by a 30-rod portage from Newfound Lake. There is one campsite on the lake, and summer visitors are reminded to obtain the proper day use or overnight permits from the US Forest Service in advance. Self-issued day use permits are also available at the public access on Moose Lake. No permits are required during the winter. This 59-acre lake is a designated stream trout lake that is stocked with brook trout in odd years. The lake has a maximum depth of 38 feet and clear water.  <br> \n <br> \nBrook trout were sampled at a rate of 2.5 fish/net, which was below average for the lake. However, fish sizes were above average, with an average length of nearly 18 inches and average weights of almost 2.5 pounds. Additionally, 60% of the captured fish were longer than 18 inches. Multiple year classes were present in the sample, and brook trout were feeding on a variety of small fish, crayfish, and invertebrates. <br> \n</p>",
+        "surveyDate": "2023-05-10",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38062000",
+          "id_date": "2023-05-10",
+          "survey_id": "18912327834856000",
+          "survey_type": "Standard Survey",
+          "wb_name": "Found"
+        },
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "surveyID": "18912327834856000",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 5507,
+            "averageWeight": "2.43",
+            "quartileCount": "N/A",
+            "totalCatch": 5,
+            "CPUE": "2.50",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "species": "BKT",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ]
+            ],
+            "minimum_length": 14,
+            "maximum_length": 19
+          }
+        }
+      },
+      {
+        "narrative": "<p>Only Splake were captured during this assessment, no rainbow were observed despite continued stocking. Several of the splake were quite large. It is likely that the largest splake were from the 1982 or 1984 stocking. Consecutive stockings in 1987 and 1988 make evaluations of age and growth of smaller splake difficult. There are no stream trout medians for lake class 4. </p>",
+        "surveyDate": "1990-06-05",
+        "headerInfo": {
+          "wb_name": "Found",
+          "survey_type": "Population Assessment",
+          "survey_id": "108469",
+          "id_date": "1990-06-05",
+          "wb_id": "38062000",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "county": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "13.00",
+            "totalCatch": 13,
+            "averageWeight": "2.69",
+            "quartileCount": "N/A",
+            "totalWeight": 35,
+            "quartileWeight": "N/A",
+            "gearCount": 1,
+            "species": "SPT"
+          }
+        ],
+        "surveyID": "108469"
+      },
+      {
+        "narrative": "<p>(were accidentally put in Found Lake due to a mix-up during fly-in planting).  This theory (is partially supported since no fish between (10 This assessment shows a rather low populations of average size rainbow trout and a very high population of large brook trout.</p>",
+        "surveyDate": "1981-07-14",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "id_date": "1981-07-14",
+          "wb_id": "38062000",
+          "survey_id": "108032",
+          "wb_name": "Found",
+          "survey_type": "Population Assessment"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "1.00",
+            "totalWeight": 3,
+            "gear": "Standard gill nets",
+            "CPUE": "1.50",
+            "totalCatch": 3,
+            "species": "RBT",
+            "gearCount": 2,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "gearCount": 2,
+            "CPUE": "11.00",
+            "totalCatch": 22,
+            "gear": "Standard gill nets",
+            "totalWeight": 48.5,
+            "averageWeight": "2.20",
+            "quartileCount": "N/A"
+          }
+        ],
+        "surveyID": "108032",
+        "lengths": {}
+      },
+      {
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "11.00",
+            "totalCatch": 22,
+            "averageWeight": "1.20",
+            "quartileCount": "N/A",
+            "totalWeight": 12016,
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "gearCount": 2
+          }
+        ],
+        "surveyID": "12641532828612000",
+        "lengths": {
+          "BKT": {
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                10
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ]
+            ],
+            "maximum_length": 17
+          }
+        },
+        "narrative": "<p>Found Lake is a designated stream trout lake located approximately 18 miles NE of Ely in the BWCAW. The landscape is covered by abundant birch and balsam fir with a rolling terrain of rock with other coarse soils. <br> \n <br> \nThere is a short 30 rod portage from Newfound Lake and one designated USFS campsite is located near the portage. Found Lake is popular with anglers in summer and winter seasons. Brook trout fingerlings are stocked on an alternate year basis (odd numbered years). <br> \n <br> \nBrook trout numbers in 2015 (11.0/gill net) were similar to the long term average for all surveys on this lake. The average brook trout sampled was 13.5 inches long and about 1.3 lbs in weight which is also similar to the historic average. The largest brook trout sampled was 17.7 inches long. Stomach samples indicated that brook trout were feeding on minnows and a variety of aquatic insects. <br> \n <br> \n</p>",
+        "headerInfo": {
+          "id_date": "2015-06-01",
+          "wb_id": "38062000",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "wb_name": "Found",
+          "survey_type": "Standard Survey",
+          "survey_id": "12641532828612000"
+        },
+        "surveyDate": "2015-06-01"
+      },
+      {
+        "narrative": "<p>Found Lake is in Ecological Lake Class 4, which consists of 47 northeast Minnesota lakes that are small, deep, and clear.  Found Lake is shallower (38' maximum) than the average depth of 61' for this lake class.Brook trout and rainbow trout have been stocked in alternate years in Found Lake since 1990; however only brook trout were caught in the 1996 assessment.  No fish species other than minnows and trout have been caught since the lake was reclaimed (all fish were killed with chemicals) in 1970, except that one large white sucker was caught in 1993.The number of brook trout caught in the 1996 assessment was higher than usual for this lake.  However the average size of these trout (10.8\") was much smaller than the long term average of 15.5\" for this lake.  The total catch by weight in 1996 of 13.9 lb/gillnet was lower than the long term average of 17.6 lb/gillnet for this lake, and was higher than the average catch of 10.6 lb/gillnet for 24 stream trout lakes in the Ely Management Area.In 1996, 28 of the 38 brook trout captured were stocked as fingerlings the previous fall at an average length of 4.5\" and grew to an average length of 8.6\" when recaptured nine months later.  Ten of the 38 trout were stocked as fingerlings in the fall of 1993, also at an average length of 4.5\", and grew to an average length of 16.8\" after three full years of growth (including the first summer of hatchery growth).  This growth is satisfactory, and is similar to growth in other good stream trout lakes.  Brook trout stomachs in 1996 contained sticklebacks, leeches, insect larvae, and zooplankton.</p>",
+        "headerInfo": {
+          "wb_id": "38062000",
+          "id_date": "1996-06-03",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "wb_name": "Found",
+          "survey_id": "109114"
+        },
+        "surveyDate": "1996-06-03",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 12627,
+            "quartileCount": "N/A",
+            "averageWeight": "0.73",
+            "totalCatch": 38,
+            "CPUE": "19.00",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "species": "BKT",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyID": "109114",
+        "lengths": {
+          "BKT": {
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                18
+              ],
+              [
+                9,
+                7
+              ]
+            ],
+            "minimum_length": 6
+          }
+        }
+      },
+      {
+        "headerInfo": {
+          "wb_id": "38062000",
+          "id_date": "1984-06-18",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Re-Survey",
+          "wb_name": "Found",
+          "survey_id": "108282"
+        },
+        "surveyDate": "1984-06-18",
+        "narrative": "<p>Found lake has a large population of splake averaging 15. Growth rates have not been calculated, but appear to be quite good. </p>",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 30,
+            "CPUE": "15.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 48,
+            "averageWeight": "1.60",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "species": "SPT",
+            "gearCount": 2
+          }
+        ],
+        "surveyID": "108282",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Re-Survey"
+      },
+      {
+        "lengths": {
+          "BKT": {
+            "maximum_length": 19,
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                19,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "species": "BKT",
+            "totalCatch": 8,
+            "CPUE": "4.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 5448,
+            "quartileCount": "N/A",
+            "averageWeight": "1.50"
+          }
+        ],
+        "surveyID": "12641917053114000",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Standard Survey",
+        "surveyDate": "2019-05-29",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "38062000",
+          "id_date": "2019-05-29",
+          "survey_id": "12641917053114000",
+          "survey_type": "Standard Survey",
+          "wb_name": "Found"
+        },
+        "narrative": "<p>Found is a 59 acre designated stream trout lake located 18 miles northeast of Ely in the Boundary Waters Canoe Area Wilderness. The surrounding landscape is a mix of birch and balsam fir with one USFS maintained campsite near the portage. The lake has a max depth of 38 feet, clear water with a secchi disk visibility of 19.5 feet, and a predominately rocky shoreline. Access is by a 30 rod portage from Newfound Lake. Typically brook trout fingerlings are aerially stocked on alternate years, but adult fish weighing a bit shy of 1 pound were carried in during 2019 due to brood stock availability. This survey was conducted before the lake was stocked and does not reflect the addition of eater sized trout.  <br> \n <br> \nBrook trout numbers were 4/net which is below the long term average for this lake of 8/net, but fish sizes were similar to past surveys. The average brook trout in Found weighed 1.5 pounds and was 14.7 inches long, compared to the long term average of 13.8inches. All fish were from the same year class except for one large trout weighing 4 lbs and measuring 19.5 inches long. Stomach samples indicated trout were feeding entirely on chironomid midge larvae at the time of the survey. <br> \n</p>"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 21,
+            "CPUE": "10.50",
+            "gear": "Standard gill nets",
+            "totalWeight": 14317,
+            "quartileCount": "N/A",
+            "averageWeight": "1.50",
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "gearCount": 2
+          }
+        ],
+        "surveyID": "6851213540754000",
+        "lengths": {
+          "BKT": {
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 6
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2012-05-15",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "38062000",
+          "id_date": "2012-05-15",
+          "survey_id": "6851213540754000",
+          "survey_type": "Population Assessment",
+          "wb_name": "Found"
+        },
+        "narrative": "<p>Found is a 58 acre lake located one portage off the Moose Lake Chain, a heavily used motorized entry point into the Boundary Waters Canoe Area Wilderness. The portage is 30 rods long and there is one Forest Service maintained campsite on the lake. Approximately 41% of Found Lake is less than 15 feet deep and the maximum depth is 38 feet.  The water is clear (secchi disk visibility = 23.0 feet) but productive, especially compared to other stream trout lakes in the area.  Found is managed as a designated stream trout lake and is stocked with brook trout fingerlings every other year in odd numbered years. 2011 was the first year in which Minnesota Wild strain brook trout were stocked in Found Lake.\n\nThe gill-net catch consisted exclusively of brook trout (10.5 fish/net).  The total weight was 31.6 pounds (15.8 lbs/net) and the average individual weight was 1.5 pounds.  Three different size groups were present in the catch.  One group was 6 to 7 inches in length, another was 8 to 9 inches in length and the largest group was 15 to 18 inches in length.  These larger fish were between two and three pounds each.  Smaller trout were feeding on larval insects and small crayfish while larger trout were feeding on other fish.  Rusty crayfish, a non-native species of crayfish, was present in Found Lake.\n\nFive of the last six population assements have achieved DNR management goals.  The stocking strategy appears to be successful at the present level of angling effort.   \n\n </p>"
+      },
+      {
+        "headerInfo": {
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "38062000",
+          "id_date": "1987-05-21",
+          "survey_id": "108348",
+          "survey_type": "Population Assessment",
+          "wb_name": "Found"
+        },
+        "surveyDate": "1987-05-21",
+        "narrative": "<p>Average numbers of vary large splake are present. These fish range in size from 20 to 26 inches, and are probably the remnants of the 1982 fingerling stocking that showed up strongly in 1984. It is possible, but unlikely that they are from the 1984 stocking. </p>",
+        "surveyID": "108348",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "species": "SPT",
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "CPUE": "6.00",
+            "totalCatch": 12,
+            "quartileCount": "N/A",
+            "averageWeight": "5.29",
+            "totalWeight": 63.5
+          }
+        ],
+        "lengths": {},
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 12053,
+            "averageWeight": "1.77",
+            "quartileCount": "N/A",
+            "totalCatch": 15,
+            "CPUE": "7.50",
+            "gear": "Standard gill nets",
+            "species": "BKT",
+            "gearCount": 2,
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyID": "1100629825117001",
+        "lengths": {
+          "BKT": {
+            "maximum_length": 20,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                6,
+                4
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                2
+              ]
+            ]
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2006-05-30",
+        "headerInfo": {
+          "wb_name": "Found",
+          "survey_type": "Population Assessment",
+          "survey_id": "1100629825117001",
+          "id_date": "2006-05-30",
+          "wb_id": "38062000",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "county": "Lake"
+        },
+        "narrative": "<p>Found Lake is in Ecological Lake Class 4, which consists of 47 lakes in northeast Minnesota that are small, deep, and have clear water.  Found Lake is shallower than most of the lakes in this lake class. <br> \n <br> \nFound Lake was thermally stratified on 05/30/2006 with a surface temperature of 72 F and a bottom temperature of 43 F, and good levels of oxygen (10 ppm) were present to the bottom.  Late summer oxygen levels are lower: on 09/02/1983, adequate oxygen for trout (more than 5 ppm) was retained only to a depth of 16 feet, where the temperature was 69 F.  Found Lake has no inlets.  The outlet has barriers (beaver dams, marshes, drops) that prevent fish immigration.  Lake bottom substrates along the shoreline are mostly rubble, gravel, and ledgerock.  Aquatic plants are sparse and grow to a depth of 13 feet. <br> \n <br> \nThe initial fisheries investigation on Found Lake (1958) captured northern pike, yellow perch, pumpkinseed sunfish, rock bass, and several minnow species.  Found Lake was poisoned in 1963 to remove indigenous fish and stream trout stocking began in 1964.  Found Lake was again poisoned in 1970 to remove high numbers of yellow perch.  The stocking of splake in Found Lake (and all other BWCAW lakes) was discontinued after 1988 at the request of the USFS because it was not a native species.  Rainbow trout stocking was discontinued after 1997 due to poor survival of this species in this lake.  In recent years brook trout have been stocked in Found Lake in alternate years. <br> \n <br> \nThe 2006 stream trout assessment used two gillnet sets.  Fourteen previous investigations dating back to 1958 used 1-4 gillnet sets.  Trapnets have not been used in Found Lake (except for the initial investigation in 1958) due to the difficult portage access. <br> \n <br> \nFifteen brook trout were caught in the 2006 assessment.  The catch of 7.5 trout/gillnet (13.3 lb/gillnet) was similar to the median catch of 13.6 lb/gillnet of trout in all investigations on this lake and was much higher than the median catch of 4.2 lb/gillnet of trout (all species) in recent investigations of 25 stream trout lakes in the Tower Fisheries Management Area.  <br> \n <br> \nNine of fifteen trout (60 percent) captured in 2006 had been stocked in the fall of 2005 and ranged in size from 6.2 to 8.5 inches when recaptured eight months later.  Six of fifteen trout (40 percent) had been stocked in the fall of 2003 and ranged in size from 17.5 to 20.9 inches when recaptured 32 months later.  Eight of 14 trout stomachs were empty, five of 14 contained sticklebacks, and one contained chironomid larvae.</p>"
+      }
+    ],
+    "lakeName": "Found",
+    "county": "Lake",
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "maxDepthFeet": 38,
+    "waterClarity": [
+      [
+        "06/01/2015",
+        "18"
+      ],
+      [
+        "05/29/2019",
+        "19.5"
+      ],
+      [
+        "05/16/2012",
+        "14"
+      ],
+      [
+        "05/30/2006",
+        "13"
+      ]
+    ],
+    "littoralAcres": 24
+  }
+}

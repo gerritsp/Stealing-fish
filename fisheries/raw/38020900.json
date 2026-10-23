@@ -1,0 +1,131 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "lakeName": "Gijikiki",
+    "shoreLengthMiles": 3.2,
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "07/30/2025",
+        "14"
+      ],
+      [
+        "08/13/2024",
+        "16.4"
+      ]
+    ],
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "Portage from Cypress Lake.  BWCA Lake  non motorized route.",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "county": "Lake",
+    "DOWNumber": "38020900",
+    "sampledPlants": [],
+    "areaAcres": 113.05,
+    "officeCode": "F214",
+    "littoralAcres": 24.6,
+    "lakeAltName": "Cedar",
+    "maxDepthFeet": 70,
+    "surveys": [
+      {
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "surveyDate": "2025-07-30",
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Gijikiki Lake on July 30th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 85.3 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 23.0 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 33.0 feet at the time of sampling. This layer in the water column was 10.1 feet, indicating oxythermal habitat for Lake Trout was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.7 degrees C (42.3 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "headerInfo": {
+          "wb_id": "38020900",
+          "survey_type": "Targeted Survey",
+          "county": "Lake",
+          "wb_name": "Gijikiki",
+          "survey_id": "22122523852883067",
+          "wb_alt_name": "Cedar",
+          "id_date": "2025-07-30",
+          "wb_type": "Lake"
+        },
+        "lengths": {},
+        "surveyID": "22122523852883067"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Composed of above average populations of perch, sucker and rock bass.  Lake trout are present in average numbers.</p>",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "0.9-4.3",
+            "totalCatch": 6,
+            "averageWeight": "2.00",
+            "quartileCount": "1.0-4.5",
+            "totalWeight": 12,
+            "species": "LAT",
+            "CPUE": "1.00",
+            "gearCount": 6,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "1.0-8.0",
+            "averageWeight": "0.13",
+            "totalCatch": 115,
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "19.17",
+            "species": "YEP",
+            "totalWeight": 15.2,
+            "gearCount": 6,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "CPUE": "7.17",
+            "totalWeight": 108.5,
+            "species": "WTS",
+            "averageWeight": "2.52",
+            "quartileCount": "1.5-10.4",
+            "quartileWeight": "0.6-2.0",
+            "totalCatch": 43
+          }
+        ],
+        "surveyDate": "1976-07-24",
+        "lengths": {},
+        "surveyID": "107966",
+        "headerInfo": {
+          "wb_name": "Gijikiki",
+          "survey_id": "107966",
+          "wb_id": "38020900",
+          "survey_type": "Population Assessment",
+          "county": "Lake",
+          "id_date": "1976-07-24",
+          "wb_type": "Lake",
+          "wb_alt_name": "Cedar"
+        }
+      },
+      {
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Gijikiki Lake on August 13th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 82.0 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 24.3 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 31.3 feet at the time of sampling. The thickness of this layer of water in the water column was 7.1 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.9 degrees C (44.4 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Gijikiki Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyDate": "2024-08-13",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_type": "Lake",
+          "id_date": "2024-08-13",
+          "wb_alt_name": "Cedar",
+          "wb_name": "Gijikiki",
+          "survey_id": "21572422850122001",
+          "county": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_id": "38020900"
+        },
+        "lengths": {},
+        "surveyID": "21572422850122001",
+        "surveyType": "Targeted Survey"
+      }
+    ],
+    "averageWaterClarity": "15.2"
+  },
+  "timestamp": 1790286026,
+  "status": "SUCCESS"
+}

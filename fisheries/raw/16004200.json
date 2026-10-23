@@ -1,0 +1,849 @@
+{
+  "timestamp": 1790285989,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "averageWaterClarity": "16.6",
+    "officeCode": "F218",
+    "shoreLengthMiles": 9.39,
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "maxDepthFeet": 40,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 8,
+            "quartileWeight": "2.1-4.9",
+            "quartileCount": "0.6-2.4",
+            "averageWeight": "4.96",
+            "totalWeight": 58482,
+            "CPUE": "3.25",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "totalCatch": 26
+          },
+          {
+            "quartileWeight": "0.6-1.5",
+            "gearCount": 8,
+            "averageWeight": "1.19",
+            "quartileCount": "0.3-1.4",
+            "totalWeight": 31181,
+            "gear": "Standard gill nets",
+            "totalCatch": 58,
+            "species": "SMB",
+            "CPUE": "7.25"
+          },
+          {
+            "totalWeight": 30,
+            "CPUE": "0.12",
+            "species": "YEP",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 8,
+            "quartileCount": "0.4-3.7",
+            "averageWeight": "0.07"
+          },
+          {
+            "CPUE": "14.38",
+            "species": "LKW",
+            "totalCatch": 115,
+            "gear": "Standard gill nets",
+            "totalWeight": 55567,
+            "quartileCount": "1.6-15.5",
+            "averageWeight": "1.07",
+            "gearCount": 8,
+            "quartileWeight": "1.0-2.1"
+          },
+          {
+            "totalCatch": 13,
+            "gear": "Standard gill nets",
+            "CPUE": "1.62",
+            "species": "WTS",
+            "totalWeight": 7833,
+            "quartileCount": "0.8-5.3",
+            "averageWeight": "1.33",
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 8
+          },
+          {
+            "averageWeight": "23.26",
+            "quartileCount": "0.2",
+            "quartileWeight": "5.0",
+            "gearCount": 8,
+            "species": "MUE",
+            "CPUE": "0.12",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "totalWeight": 10550
+          },
+          {
+            "quartileWeight": "0.2-1.0",
+            "gearCount": 8,
+            "quartileCount": "3.2-20.2",
+            "averageWeight": "0.08",
+            "totalWeight": 73,
+            "gear": "Standard gill nets",
+            "totalCatch": 2,
+            "CPUE": "0.25",
+            "species": "TLC"
+          }
+        ],
+        "headerInfo": {
+          "wb_id": "16004200",
+          "survey_type": "Population Assessment",
+          "wb_name": "East Pike",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "survey_id": "111346",
+          "id_date": "2002-09-09"
+        },
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Smallmouth bass were very abundant, and their size was above average.  Smallmouth bass growth rates had been about average for the area; five-year-old fish had a mean length of 11.5 inches at the end of their fifth year.Northern pike were also abundant and above-average in size.  Northern pike had been rare in this lake prior to 1999, but the species now appears to have become well-established.  Several year classes were present in 2002, indicating reproductive success had been good.  Northern pike growth had been fast, thanks to forage provided by a dense population of small lake whitefish.  Northern pike as large as 44 inches were collected, but most were between 22 and 30 inches in length.One muskellunge was taken in 2002 (42 inches, 23.3 lb).  Muskellunge have only rarely been taken in assessments in this lake.  They were last stocked in 1977, and it appeared that the fish taken in 2002 had been produced naturally.</p>",
+        "surveyType": "Standard Survey",
+        "surveyID": "111346",
+        "lengths": {
+          "MUE": {
+            "maximum_length": 42,
+            "minimum_length": 42,
+            "fishCount": [
+              [
+                42,
+                1
+              ]
+            ]
+          },
+          "SMB": {
+            "maximum_length": 19,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                10,
+                12
+              ],
+              [
+                11,
+                6
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                13
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                5,
+                4
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                1
+              ]
+            ],
+            "maximum_length": 5,
+            "minimum_length": 5
+          },
+          "WTS": {
+            "maximum_length": 21,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                11,
+                7
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                7,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                22,
+                4
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                3
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                27,
+                2
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                29,
+                2
+              ],
+              [
+                30,
+                3
+              ],
+              [
+                34,
+                1
+              ],
+              [
+                36,
+                1
+              ],
+              [
+                44,
+                1
+              ]
+            ],
+            "maximum_length": 44,
+            "minimum_length": 19
+          },
+          "LKW": {
+            "maximum_length": 20,
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                7
+              ],
+              [
+                11,
+                13
+              ],
+              [
+                12,
+                13
+              ],
+              [
+                13,
+                10
+              ],
+              [
+                14,
+                21
+              ],
+              [
+                15,
+                9
+              ],
+              [
+                16,
+                8
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                13
+              ],
+              [
+                20,
+                5
+              ],
+              [
+                9,
+                6
+              ]
+            ]
+          },
+          "TLC": {
+            "fishCount": [
+              [
+                7,
+                2
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 7
+          }
+        },
+        "surveyDate": "2002-09-09"
+      },
+      {
+        "surveyID": "111148",
+        "lengths": {},
+        "surveyDate": "1989-09-05",
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "CPUE": "0.17",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "totalWeight": 3,
+            "averageWeight": "3.00",
+            "quartileCount": "0.6-2.4",
+            "gearCount": 6,
+            "quartileWeight": "2.1-4.9"
+          },
+          {
+            "quartileCount": "0.3-1.4",
+            "averageWeight": "1.24",
+            "gearCount": 6,
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "6.00",
+            "species": "SMB",
+            "totalCatch": 36,
+            "gear": "Standard gill nets",
+            "totalWeight": 44.5
+          },
+          {
+            "quartileCount": "0.4-3.7",
+            "averageWeight": "0.30",
+            "gearCount": 6,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "totalCatch": 32,
+            "CPUE": "5.33",
+            "species": "YEP",
+            "totalWeight": 9.75
+          },
+          {
+            "averageWeight": "2.40",
+            "quartileCount": "1.6-15.5",
+            "quartileWeight": "1.0-2.1",
+            "gearCount": 6,
+            "species": "LKW",
+            "CPUE": "14.67",
+            "gear": "Standard gill nets",
+            "totalCatch": 88,
+            "totalWeight": 211
+          },
+          {
+            "quartileCount": "0.8-5.3",
+            "averageWeight": "1.73",
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 6,
+            "CPUE": "1.67",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalCatch": 10,
+            "totalWeight": 17.25
+          },
+          {
+            "averageWeight": "0.14",
+            "quartileCount": "3.2-20.2",
+            "gearCount": 6,
+            "quartileWeight": "0.2-1.0",
+            "gear": "Standard gill nets",
+            "totalCatch": 230,
+            "species": "TLC",
+            "CPUE": "38.33",
+            "totalWeight": 31.2
+          }
+        ],
+        "headerInfo": {
+          "id_date": "1989-09-05",
+          "survey_id": "111148",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_id": "16004200",
+          "wb_type": "Lake",
+          "wb_name": "East Pike",
+          "survey_type": "Population Assessment"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>SMALLMOUTH BASS WERE FAIRLY ABUNDANT WITH A WIDE RANGE OF AGES PRESENT. AGE IV AND V SMALLMOUTH BASS WERE ABSENT FROM THE SAMPLE. SMALLMOUTH BASS GROWTH WAS AVERAGE FOR COOK COUNTY LAKES. NORTHERN CISCO AND LAKE WHITEFISH WERE BOTH ABUNDANT. NORTHERN CISCO WERE THE RANGING FROM 5.5 TO 10.4 IN. THERE APPEARED TO BE SEVERAL AGE CLASSES OF LAKE WHITEFISH WHICH RANGED FROM 8.5 TO 21.9 IN. YELLOW PERCH WERE PRESENT WITH SOME FISH LARGE ENOUGH TO INTEREST ANGLERS. WHITE SUCKER WERE PRESENT BUT NOT ABUNDANT. A SINGLE NORTHERN PIKE WAS SAMPLED FOR THE FIRST TIME. MUSKY WERE STOCKED IN 1977 AND SAMPLED IN 1980, BUT WERE NOT TAKEN IN THIS ASSESSMENT.</p>"
+      },
+      {
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on East Pike Lake on August 7th, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish and Cisco, also known as Tullibee. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 13 feet. Dissolved oxygen decreased to below 3.0 mg/L at 30.1 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 8.3\u00b0C (46.9\u00b0F). <br> \n <br> \nTDO3 values cooler than 17.2\u00b0C for Lake Whitefish or 21.5\u00b0C for Cisco indicate that oxythermal conditions are favorable for both species. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for Lake Whitefish and Cisco was available across a range of depths at the time of sampling during the summer of 2023. Data collected in 1969 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is available, Lake Whitefish or Cisco are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "survey_id": "20042323346736148",
+          "id_date": "2023-08-07",
+          "wb_id": "16004200",
+          "wb_type": "Lake",
+          "wb_name": "East Pike",
+          "survey_type": "Targeted Survey",
+          "county": "Cook",
+          "wb_alt_name": ""
+        },
+        "surveyDate": "2023-08-07",
+        "lengths": {},
+        "surveyID": "20042323346736148"
+      },
+      {
+        "surveyID": "-327",
+        "surveyDate": "2025-08-08",
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_id": "16004200",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "wb_name": "East Pike",
+          "id_date": "2025-08-08",
+          "survey_id": "-327"
+        },
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in East Pike Lake on August 8th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased below 17.2 degrees C (63.0 degrees F) at 19.1 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 30.3 feet at the time of sampling. The thickness of this layer of water in the water column was 11.2 feet, indicating that oxythermal habitat was present for Lake Whitefish. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 9.5 degrees C (49.1 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 1969 and 2023 also indicate suitable oxythermal habitat in all years surveyed. When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>"
+      },
+      {
+        "surveyID": "111218",
+        "surveyDate": "1999-09-07",
+        "lengths": {
+          "LKW": {
+            "maximum_length": 21,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                16
+              ],
+              [
+                11,
+                25
+              ],
+              [
+                12,
+                9
+              ],
+              [
+                14,
+                9
+              ],
+              [
+                15,
+                13
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                12
+              ],
+              [
+                18,
+                11
+              ],
+              [
+                19,
+                9
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                7,
+                5
+              ],
+              [
+                8,
+                7
+              ],
+              [
+                9,
+                15
+              ]
+            ]
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                15,
+                1
+              ]
+            ],
+            "maximum_length": 15,
+            "minimum_length": 15
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 13
+          },
+          "NOP": {
+            "minimum_length": 14,
+            "maximum_length": 35,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                2
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                29,
+                3
+              ],
+              [
+                30,
+                2
+              ],
+              [
+                35,
+                1
+              ]
+            ]
+          },
+          "TLC": {
+            "maximum_length": 8,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                3
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                4
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                2
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 8
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                10,
+                9
+              ],
+              [
+                11,
+                8
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 17,
+            "minimum_length": 5
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.2-1.0",
+            "averageWeight": "0.68",
+            "quartileWeight": "0.6-1.5",
+            "gearCount": 8,
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.12",
+            "species": "BUB",
+            "totalWeight": 307
+          },
+          {
+            "gearCount": 8,
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "4.33",
+            "quartileCount": "0.6-2.4",
+            "totalWeight": 45180,
+            "gear": "Standard gill nets",
+            "totalCatch": 23,
+            "species": "NOP",
+            "CPUE": "2.88"
+          },
+          {
+            "totalWeight": 17351,
+            "totalCatch": 35,
+            "gear": "Standard gill nets",
+            "species": "SMB",
+            "CPUE": "4.38",
+            "quartileWeight": "0.6-1.5",
+            "gearCount": 8,
+            "averageWeight": "1.09",
+            "quartileCount": "0.3-1.4"
+          },
+          {
+            "totalWeight": 623,
+            "gear": "Standard gill nets",
+            "totalCatch": 9,
+            "species": "YEP",
+            "CPUE": "1.12",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 8,
+            "averageWeight": "0.15",
+            "quartileCount": "0.4-3.7"
+          },
+          {
+            "quartileCount": "1.6-15.5",
+            "averageWeight": "0.96",
+            "gearCount": 8,
+            "quartileWeight": "1.0-2.1",
+            "CPUE": "17.75",
+            "species": "LKW",
+            "gear": "Standard gill nets",
+            "totalCatch": 142,
+            "totalWeight": 61736
+          },
+          {
+            "species": "WTS",
+            "CPUE": "1.62",
+            "gear": "Standard gill nets",
+            "totalCatch": 13,
+            "totalWeight": 15653,
+            "averageWeight": "2.65",
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 8
+          },
+          {
+            "averageWeight": "0.13",
+            "quartileCount": "3.2-20.2",
+            "gearCount": 8,
+            "quartileWeight": "0.2-1.0",
+            "species": "TLC",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "totalWeight": 242
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "survey_id": "111218",
+          "id_date": "1999-09-07",
+          "wb_id": "16004200",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_name": "East Pike",
+          "county": "Cook",
+          "wb_alt_name": ""
+        },
+        "narrative": "<p>East Pike Lake supports good numbers of fast-growing northern pike and smallmouth bass, with some large individuals present.  The northern pike population is apparently a \"booming\" population, as only one fish captured during any other DNR assessment of this lake has been identified as a northern pike (1989).Anglers report catching muskellunge as recently as 1998, and muskellunge fry were stocked in 1977, but only one fish captured during any DNR assessment has been identified as a muskellunge.    East Pike Lake is within the Boundary Waters Canoe Area Wilderness, and angling pressure is probably fairly light.</p>",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "areaAcres": 554.06,
+    "lakeName": "East Pike",
+    "county": "Cook",
+    "littoralAcres": 124,
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "location": "Portage trail from John Lake.  Lake is entirely inside the BWCAW."
+      },
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "USF",
+        "location": "Portage trail from McFarland Lake.",
+        "publicUseAuthCode": "UNK"
+      },
+      {
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "location": "Portage trail from West Pike Lake."
+      }
+    ],
+    "waterClarity": [
+      [
+        "09/05/1989",
+        "16"
+      ],
+      [
+        "08/11/1969",
+        "20"
+      ],
+      [
+        "08/08/2025",
+        "13.8"
+      ]
+    ],
+    "DOWNumber": "16004200"
+  }
+}

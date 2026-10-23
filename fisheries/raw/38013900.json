@@ -1,0 +1,72 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285810,
+  "result": {
+    "DOWNumber": "38013900",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "Portages from Sagus and Fraser lakes in BWCA on a non-motor route.",
+        "accessTypeId": "O"
+      }
+    ],
+    "sampledPlants": [],
+    "shoreLengthMiles": 2.46,
+    "waterClarity": [],
+    "areaAcres": 66.32,
+    "maxDepthFeet": 7,
+    "officeCode": "F214",
+    "county": "Lake",
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "surveyDate": "1975-07-08",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "CPUE": "3.00",
+            "averageWeight": "0.08",
+            "totalCatch": 3,
+            "gear": "Standard gill nets",
+            "totalWeight": 0.25,
+            "gearCount": 1,
+            "quartileCount": "8.8",
+            "species": "GSF"
+          },
+          {
+            "quartileWeight": "1.4-2.5",
+            "CPUE": "26.00",
+            "totalCatch": 26,
+            "averageWeight": "0.33",
+            "gear": "Standard gill nets",
+            "gearCount": 1,
+            "totalWeight": 8.5,
+            "species": "WTS",
+            "quartileCount": "4.0-14.5"
+          }
+        ],
+        "lengths": {},
+        "narrative": "<p>(around the gills, with a faint reddish tip on the gill cover).  As specimens were not bright - it is impossible to determin for certain.  They are believed to be green sunfish, as smallmouth bass are not known in near by lakes. Contains a large populations of suckers & green sunfish.</p>",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_name": "Roe",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "survey_id": "107929",
+          "id_date": "1975-07-08",
+          "wb_alt_name": "",
+          "wb_id": "38013900"
+        },
+        "surveyID": "107929"
+      }
+    ],
+    "littoralAcres": 66.32,
+    "lakeName": "Roe",
+    "averageWaterClarity": "N/A"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "timestamp": 1790285584,
+  "result": {
+    "areaAcres": 104.69,
+    "littoralAcres": 104.69,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 18,
+            "averageWeight": "2.78",
+            "quartileCount": "3.0-9.0",
+            "CPUE": "6.00",
+            "species": "NOP",
+            "totalWeight": 50,
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "quartileWeight": "1.2-2.5"
+          },
+          {
+            "CPUE": "8.67",
+            "quartileCount": "3.3-18.3",
+            "averageWeight": "0.15",
+            "totalCatch": 26,
+            "totalWeight": 3.8,
+            "species": "YEP",
+            "gearCount": 3,
+            "quartileWeight": "0.1-0.3",
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "1.52",
+            "quartileCount": "5.3-22.1",
+            "CPUE": "13.33",
+            "totalCatch": 40,
+            "totalWeight": 61,
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.3-2.3",
+            "gearCount": 3
+          }
+        ],
+        "surveyDate": "1983-08-01",
+        "narrative": "<p>Nismi Lake contains above average populations of northern pike, sucker, and yellow perch. </p>",
+        "headerInfo": {
+          "survey_id": "108248",
+          "wb_type": "Lake",
+          "id_date": "1983-08-01",
+          "wb_name": "Niswi",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "wb_id": "69032200",
+          "county": "St. Louis"
+        },
+        "lengths": {},
+        "surveyID": "108248",
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "USF",
+        "location": "USFS PORTAGE FROM NEEWIN LAKE ~1 MILE~ AND NEESH LAKE ~1/8 MILE~. PORTAGE FROM NEESH NOT MAINTAINED"
+      }
+    ],
+    "shoreLengthMiles": 3.47,
+    "county": "St. Louis",
+    "officeCode": "F214",
+    "maxDepthFeet": 8,
+    "averageWaterClarity": "N/A",
+    "waterClarity": [],
+    "DOWNumber": "69032200",
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "lakeName": "Niswi"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

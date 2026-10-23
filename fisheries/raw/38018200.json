@@ -1,0 +1,61 @@
+{
+  "timestamp": 1790286002,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "shoreLengthMiles": 1.47,
+    "lakeName": "Nabek",
+    "areaAcres": 40.8,
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "WTS",
+            "CPUE": "1.50",
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "averageWeight": "0.17",
+            "totalWeight": 0.5
+          }
+        ],
+        "surveyID": "107955",
+        "narrative": "<p>Composed of a very small population of white suckers.</p>",
+        "headerInfo": {
+          "wb_id": "38018200",
+          "id_date": "1979-07-02",
+          "wb_alt_name": "",
+          "survey_id": "107955",
+          "wb_name": "Nabek",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "county": "Lake"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1979-07-02",
+        "lengths": {}
+      }
+    ],
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "location": "In BWCA.  Portages from Knife Lake at SW end  and from Holt Lake at NE end.",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "officeCode": "F214",
+    "meanDepthFeet": 0,
+    "DOWNumber": "38018200",
+    "maxDepthFeet": 65,
+    "averageWaterClarity": "N/A",
+    "county": "Lake",
+    "waterClarity": [],
+    "littoralAcres": 0
+  }
+}

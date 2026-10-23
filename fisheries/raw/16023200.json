@@ -1,0 +1,1436 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "lakeName": "Duncan",
+    "shoreLengthMiles": 7.61,
+    "DOWNumber": "16023200",
+    "waterClarity": [
+      [
+        "08/12/2013",
+        "17"
+      ],
+      [
+        "09/10/2018",
+        "20"
+      ],
+      [
+        "07/23/1970",
+        "13.5"
+      ],
+      [
+        "08/11/2025",
+        "20.5"
+      ]
+    ],
+    "sampledPlants": [],
+    "maxDepthFeet": 130,
+    "averageWaterClarity": "17.8",
+    "meanDepthFeet": 46.8,
+    "accesses": [
+      {
+        "lakeAccessComments": "Lake is entirely inside the BWCAW.  Most commonly used access is a 78-rod portage from the extreme NW bay of West Bearskin Lake.",
+        "location": " ",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF"
+      },
+      {
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "Portage trails from Rose; Partridge; and Moss Lakes.  Lake is entirely within the BWCAW."
+      }
+    ],
+    "officeCode": "F218",
+    "county": "Cook",
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_id": "16023200",
+          "wb_type": "Lake",
+          "id_date": "1996-08-13",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "survey_id": "110728",
+          "wb_name": "Duncan"
+        },
+        "narrative": "<p>Fair numbers of lake trout were present, with fish as large as 24 inches taken.  Half the lake trout collected had been produced naturally; the rest had been stocked as yearlings in 1987.  Lake trout growth had been about average for a Cook County lake trout lake.  Smallmouth bass were fairly abundant, with good growth.  Rainbow smelt were still present in the lake, but probably not in sufficient numbers to be an important source of forage for lake trout.  Northern cisco were abundant, and provided forage for large lake trout, but may have competed with small lake trout for invertebrate forage.  No other gamefish were collected, which has been typical of Duncan Lake.</p>",
+        "lengths": {
+          "LAT": {
+            "minimum_length": 12,
+            "maximum_length": 24,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                24,
+                1
+              ]
+            ]
+          },
+          "TLC": {
+            "minimum_length": 8,
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                10,
+                9
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                13,
+                63
+              ],
+              [
+                14,
+                16
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "SMB": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 14
+          },
+          "WTS": {
+            "minimum_length": 11,
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                11,
+                7
+              ],
+              [
+                12,
+                24
+              ],
+              [
+                13,
+                25
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                17,
+                2
+              ]
+            ]
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                5,
+                14
+              ],
+              [
+                6,
+                10
+              ]
+            ],
+            "maximum_length": 10
+          },
+          "GSF": {
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 5
+          }
+        },
+        "surveyID": "110728",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "TLC",
+            "quartileCount": "N/A",
+            "CPUE": "17.17",
+            "averageWeight": "0.60",
+            "totalWeight": 28096,
+            "totalCatch": 103,
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "gearCount": 6
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 6,
+            "gearCount": 3,
+            "gear": "Shallow gill nets",
+            "averageWeight": "0.75",
+            "species": "SMB",
+            "quartileCount": "N/A",
+            "CPUE": "2.00",
+            "totalWeight": 2034
+          },
+          {
+            "averageWeight": "0.14",
+            "species": "GSF",
+            "CPUE": "0.67",
+            "quartileCount": "N/A",
+            "totalWeight": 127,
+            "quartileWeight": "N/A",
+            "totalCatch": 2,
+            "gearCount": 3,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "totalCatch": 25,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "gearCount": 3,
+            "CPUE": "8.33",
+            "quartileCount": "N/A",
+            "species": "YEP",
+            "averageWeight": "0.11",
+            "totalWeight": 1217
+          },
+          {
+            "totalWeight": 8416,
+            "averageWeight": "2.32",
+            "quartileCount": "N/A",
+            "CPUE": "1.33",
+            "species": "LAT",
+            "gearCount": 6,
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 8
+          },
+          {
+            "averageWeight": "1.07",
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "CPUE": "21.00",
+            "totalWeight": 30579,
+            "quartileWeight": "N/A",
+            "totalCatch": 63,
+            "gearCount": 3,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "averageWeight": "0.70",
+            "species": "TLC",
+            "quartileCount": "N/A",
+            "CPUE": "2.00",
+            "totalWeight": 1915,
+            "quartileWeight": "N/A",
+            "totalCatch": 6,
+            "gearCount": 3,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 1,
+            "gearCount": 6,
+            "gear": "Deep gill nets",
+            "averageWeight": "1.44",
+            "species": "SMB",
+            "CPUE": "0.17",
+            "quartileCount": "N/A",
+            "totalWeight": 651
+          }
+        ],
+        "surveyDate": "1996-08-13"
+      },
+      {
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_type": "Targeted Survey",
+          "survey_id": "20042323339797033",
+          "wb_name": "Duncan",
+          "wb_id": "16023200",
+          "wb_type": "Lake",
+          "id_date": "2023-08-10"
+        },
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Duncan Lake on August 10th, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout and Cisco, also known as Tullibee. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 17 feet. Dissolved oxygen decreased to below 3.0 mg/L at 100.0 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.7\u00b0C (40.5\u00b0F). <br> \n <br> \nTDO3 values cooler than 8.8\u00b0C for Lake Trout or 21.5\u00b0C for Cisco indicate that oxythermal conditions are favorable for these species. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for these species was available across a range of depths at the time of sampling. Data collected in 1993-2013 further indicate suitable oxythermal habitat across years. When adequate oxythermal habitat is available, Lake Trout or Cisco are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "surveyID": "20042323339797033",
+        "surveyType": "Targeted Survey",
+        "lengths": {},
+        "surveyDate": "2023-08-10",
+        "fishCatchSummaries": []
+      },
+      {
+        "narrative": "<p>Lake trout were abundant but small, and were mostly survivors from 1988 and 1987 yearling stockings.  Lake trout natural reproduction seemed to be limited.  A few smallmouth bass were collected, and their abundance appeared to be within the normal range for lakes of this type.  Smallmouth bass growth was slow, and no fish over 15 inches were collected.  No other gamefish species were collected; however, walleye and northern pike may be present in low numbers - both species were found in the lake in the 1970's.</p>",
+        "headerInfo": {
+          "id_date": "1993-08-09",
+          "wb_id": "16023200",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "survey_id": "110219",
+          "wb_name": "Duncan",
+          "wb_alt_name": "",
+          "county": "Cook"
+        },
+        "surveyDate": "1993-08-09",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 2,
+            "gearCount": 3,
+            "gear": "Shallow gill nets",
+            "averageWeight": "1.43",
+            "species": "LAT",
+            "CPUE": "0.67",
+            "quartileCount": "N/A",
+            "totalWeight": 1293
+          },
+          {
+            "totalWeight": 14543,
+            "averageWeight": "0.67",
+            "quartileCount": "N/A",
+            "CPUE": "9.60",
+            "species": "TLC",
+            "gearCount": 5,
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 48
+          },
+          {
+            "totalWeight": 1308,
+            "CPUE": "1.33",
+            "quartileCount": "N/A",
+            "species": "SMB",
+            "averageWeight": "0.72",
+            "gear": "Shallow gill nets",
+            "gearCount": 3,
+            "totalCatch": 4,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 15,
+            "gearCount": 3,
+            "gear": "Shallow gill nets",
+            "averageWeight": "0.15",
+            "species": "GSF",
+            "quartileCount": "N/A",
+            "CPUE": "5.00",
+            "totalWeight": 1042
+          },
+          {
+            "totalCatch": 3,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "gearCount": 3,
+            "species": "YEP",
+            "CPUE": "1.00",
+            "quartileCount": "N/A",
+            "averageWeight": "0.53",
+            "totalWeight": 716
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "3.80",
+            "species": "LAT",
+            "averageWeight": "1.81",
+            "totalWeight": 15622,
+            "totalCatch": 19,
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "gearCount": 5
+          },
+          {
+            "totalWeight": 1675,
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "CPUE": "0.67",
+            "averageWeight": "1.85",
+            "gear": "Shallow gill nets",
+            "gearCount": 3,
+            "totalCatch": 2,
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalWeight": 19690,
+            "averageWeight": "0.76",
+            "species": "TLC",
+            "quartileCount": "N/A",
+            "CPUE": "19.00",
+            "gearCount": 3,
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 57
+          }
+        ],
+        "lengths": {
+          "SMB": {
+            "minimum_length": 9,
+            "maximum_length": 14,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ],
+            "maximum_length": 18
+          },
+          "TLC": {
+            "minimum_length": 10,
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                18
+              ],
+              [
+                13,
+                59
+              ],
+              [
+                14,
+                21
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                3
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                5,
+                1
+              ]
+            ],
+            "maximum_length": 11,
+            "minimum_length": 5
+          },
+          "GSF": {
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                12
+              ],
+              [
+                6,
+                2
+              ]
+            ],
+            "maximum_length": 6
+          },
+          "LAT": {
+            "minimum_length": 12,
+            "maximum_length": 34,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                34,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyID": "110219"
+      },
+      {
+        "narrative": "<p>Lake trout appeared to have been moderately abundant in Duncan Lake in 2013.  Although most of the lake trout taken in this assessment were small, a few larger fish were present.  Natural reproduction alone appeared to have been capable of supporting a good lake trout population in this lake, since the lake had not been stocked since 1988.  The 2013 lake trout gill net catch was similar to past catches observed in this lake.  The mean weight was low, mainly due to the presence of fairly high numbers of smaller fish from a strong 2010 year class.  A total of six year classes, all naturally produced, contributed to the 2013 lake trout catch.  Growth of young lake trout had been about average for a lake in this area; fish reached a mean length of 10.0 inches by the end of their third year. <br> \n <br> \nForage for lake trout was provided by fairly high numbers of cisco.  The cisco gill net catch was within the normal range for a lake of this type, and was similar to past catches seen in this lake.  Although no cisco were aged, their size distribution suggested that at least two strong year classes were present.  Additional forage was probably provided by rainbow smelt, which have been present in Duncan Lake for many years, but which have not always been taken in standard assessment gear. <br> \n <br> \nOnly a single smallmouth bass was taken in the 2013 assessment; however, similarly low catches have been observed in the past in this lake.  Gill net catches are usually not a good indicator of smallmouth bass abundance.  White sucker abundance seemed to have been low, yellow perch were present in average numbers for a lake of this class, and small green sunfish seemed to have been abundant in 2013. <br> \n</p>",
+        "headerInfo": {
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_name": "Duncan",
+          "survey_id": "4311322859538034",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_id": "16023200",
+          "id_date": "2013-08-12"
+        },
+        "surveyDate": "2013-08-12",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.94",
+            "species": "LAT",
+            "quartileCount": "N/A",
+            "CPUE": "1.50",
+            "totalWeight": 7909,
+            "quartileWeight": "N/A",
+            "totalCatch": 9,
+            "gearCount": 6,
+            "gear": "Deep gill nets"
+          },
+          {
+            "gearCount": 3,
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 5,
+            "totalWeight": 590,
+            "averageWeight": "0.26",
+            "species": "YEP",
+            "CPUE": "1.67",
+            "quartileCount": "N/A"
+          },
+          {
+            "averageWeight": "0.63",
+            "species": "CIS",
+            "CPUE": "13.33",
+            "quartileCount": "N/A",
+            "totalWeight": 22745,
+            "quartileWeight": "N/A",
+            "totalCatch": 80,
+            "gearCount": 6,
+            "gear": "Deep gill nets"
+          },
+          {
+            "averageWeight": "2.38",
+            "CPUE": "0.67",
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "totalWeight": 2159,
+            "quartileWeight": "N/A",
+            "totalCatch": 2,
+            "gearCount": 3,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "gearCount": 3,
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 6,
+            "totalWeight": 4255,
+            "averageWeight": "1.56",
+            "species": "LAT",
+            "quartileCount": "N/A",
+            "CPUE": "2.00"
+          },
+          {
+            "gearCount": 3,
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 1,
+            "totalWeight": 166,
+            "averageWeight": "0.37",
+            "species": "SMB",
+            "CPUE": "0.33",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 2,
+            "gearCount": 6,
+            "gear": "Deep gill nets",
+            "averageWeight": "4.05",
+            "quartileCount": "N/A",
+            "CPUE": "0.33",
+            "species": "WTS",
+            "totalWeight": 3672
+          },
+          {
+            "averageWeight": "0.08",
+            "species": "GSF",
+            "CPUE": "9.00",
+            "quartileCount": "N/A",
+            "totalWeight": 980,
+            "quartileWeight": "N/A",
+            "totalCatch": 27,
+            "gearCount": 3,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "averageWeight": "0.73",
+            "quartileCount": "N/A",
+            "CPUE": "7.33",
+            "species": "CIS",
+            "totalWeight": 7311,
+            "quartileWeight": "N/A",
+            "totalCatch": 22,
+            "gearCount": 3,
+            "gear": "Shallow gill nets"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyID": "4311322859538034",
+        "lengths": {
+          "GSF": {
+            "fishCount": [
+              [
+                3,
+                5
+              ],
+              [
+                4,
+                17
+              ],
+              [
+                5,
+                4
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 6,
+            "minimum_length": 3
+          },
+          "CIS": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                13
+              ],
+              [
+                13,
+                45
+              ],
+              [
+                14,
+                21
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                12
+              ]
+            ],
+            "maximum_length": 15
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 10
+          },
+          "SMB": {
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9
+          },
+          "WTS": {
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "minimum_length": 15
+          },
+          "LAT": {
+            "minimum_length": 7,
+            "maximum_length": 24,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "headerInfo": {
+          "survey_id": "17311827136179024",
+          "wb_name": "Duncan",
+          "survey_type": "Standard Survey",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "id_date": "2018-09-10",
+          "wb_type": "Lake",
+          "wb_id": "16023200"
+        },
+        "narrative": "<p>Duncan Lake is a classic Lake Trout lake (Ecological Class 1) located approximately 23 miles north of the City of Grand Marais. The lake is entirely within the BWCAW, and is most commonly accessed via a 0.25-mi portage trail from West Bearskin Lake (entry point #60). Duncan Lake is considered a native Lake Trout lake, although it was stocked on numerous occasions up until 1988. The 2018 survey of Duncan Lake was the first of two scheduled in the 2015 lake management plan to monitor the status of the Lake Trout population. The current long-range goal for the lake is to maintain a Lake Trout population with a minimum gill net catch of 1.0 fish/set (deep and shallow sets combined), with a minimum mean weight of 3.0 lb/fish. <br> \n <br> \nPast survey results for Duncan Lake have generally indicated moderate Lake Trout abundance, compared to similar lakes in the Grand Marais area. Results from the 2018 survey confirmed a healthy, self-sustained Lake Trout population remained present in Duncan Lake. The combined gill net catch (3.44 fish/set) was the highest observed to date for the lake, and was slightly above the median catch rate for this class of lake. The mean weight of Lake Trout sampled in 2018 was also slightly above average compared to other lakes; it was similar to past results from the lake, but fell short of the long-term size goal. Lake Trout natural reproduction appeared very consistent in recent years; 11 year classes were represented in the sample (age-2 through age-20), and there were no missing year classes between age-2 and age-9. The 2012 year class (age-6) appeared strongest, accounting for approximately 32 percent of the total Lake Trout catch. Growth rates of those fish appeared somewhat slow; mean length at age-6 was 14.2 inches, compared to a mean of 16.1 inches at that age for populations in similar lakes. Slower growth of younger Lake Trout was likely due to competition from an abundant Cisco population. Although Cisco may be a source of competition for Lake Trout at younger ages, the species provides a high quality forage base for larger Lake Trout, and as observed in 2018, that can result in the occasional trophy sized fish. <br> \n <br> \nPersistence of a healthy Lake Trout population within a lake requires pristine water quality, and abundant cold, well-oxygenated habitat. A temperature-dissolved oxygen profile completed in early September 2018 in Duncan Lake confirmed such conditions; optimal Lake Trout habitat (temperature <55 F, dissolved oxygen >5 ppm) was present from 28 to 90 ft deep. <br> \n <br> \nDuncan Lake continued to support an abundant Cisco population in 2018. Similar to most past surveys, the 2018 combined gill net catch of Cisco was well above average compared to similar lakes in the area. Cisco sampled in 2018 appeared larger than in past surveys (0.84 lb/fish), and could provide some angling opportunity for interested parties. Rainbow Smelt have long been established in Duncan Lake, and likely still provided additional forage for Lake Trout despite their absence in the 2018 catch. In most lakes, Rainbow Smelt are generally too small to be sampled effectively in standard gill nets. <br> \n <br> \nAdditional species sampled in Duncan Lake in 2018 included Smallmouth Bass, Green Sunfish, and White Sucker. Smallmouth Bass and Green Sunfish may be more prevalent within the lake than these results indicate; gill nets are not considered an effective gear for determining abundance of either species. White Sucker abundance appeared low compared to similar lakes in the area, but was considered normal based on past results from Duncan Lake. <br> \n</p>",
+        "surveyID": "17311827136179024",
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "LAT": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                35,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 35
+          },
+          "GSF": {
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ]
+            ],
+            "minimum_length": 5
+          },
+          "CIS": {
+            "fishCount": [
+              [
+                10,
+                11
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                21
+              ],
+              [
+                13,
+                73
+              ],
+              [
+                14,
+                29
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "maximum_length": 15,
+            "minimum_length": 8
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 14
+          },
+          "SMB": {
+            "minimum_length": 7,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                7,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 12,
+            "totalWeight": 5099,
+            "averageWeight": "0.94",
+            "quartileCount": "N/A",
+            "CPUE": "4.00",
+            "species": "CIS"
+          },
+          {
+            "totalWeight": 4239,
+            "averageWeight": "3.12",
+            "quartileCount": "N/A",
+            "CPUE": "0.50",
+            "species": "WTS",
+            "gearCount": 6,
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 3
+          },
+          {
+            "averageWeight": "4.68",
+            "species": "LAT",
+            "quartileCount": "N/A",
+            "CPUE": "2.00",
+            "totalWeight": 12734,
+            "quartileWeight": "N/A",
+            "totalCatch": 6,
+            "gearCount": 3,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "gearCount": 6,
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 134,
+            "totalWeight": 50290,
+            "averageWeight": "0.83",
+            "quartileCount": "N/A",
+            "CPUE": "22.33",
+            "species": "CIS"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 1,
+            "gearCount": 3,
+            "gear": "Shallow gill nets",
+            "averageWeight": "0.21",
+            "species": "SMB",
+            "CPUE": "0.33",
+            "quartileCount": "N/A",
+            "totalWeight": 97
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 1,
+            "gearCount": 3,
+            "gear": "Shallow gill nets",
+            "averageWeight": "0.09",
+            "species": "GSF",
+            "CPUE": "0.33",
+            "quartileCount": "N/A",
+            "totalWeight": 42
+          },
+          {
+            "gear": "Deep gill nets",
+            "gearCount": 6,
+            "totalCatch": 25,
+            "quartileWeight": "N/A",
+            "totalWeight": 19011,
+            "species": "LAT",
+            "CPUE": "4.17",
+            "quartileCount": "N/A",
+            "averageWeight": "1.68"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 6,
+            "gearCount": 3,
+            "gear": "Shallow gill nets",
+            "averageWeight": "2.85",
+            "quartileCount": "N/A",
+            "CPUE": "2.00",
+            "species": "WTS",
+            "totalWeight": 7749
+          }
+        ],
+        "surveyDate": "2018-09-10"
+      },
+      {
+        "headerInfo": {
+          "wb_id": "16023200",
+          "wb_type": "Lake",
+          "id_date": "2001-08-06",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "survey_id": "111289",
+          "wb_name": "Duncan"
+        },
+        "narrative": "<p>It appears, on the basis of this assessment, that Duncan Lake will be able to maintain a satisfactory lake trout population  without any further stocking.  The combined catch in deep and shallow gill net sets in 2001 was near the median for the lake class, and the average size of fish collected was excellent.  Based on fin clips observed, and on aging results, all but two of the lake trout collected in 2001 had been produced naturally, since the lake was last stocked in 1988.  Growth rate for lake trout had been about average for the area.  On average fish attained a length of 14 inches at five years of age.The catch of smallmouth bass in shallow gill net sets was higher than catches observed in this gear in the past, in this lake.  The difference; however, may not have been significant, given the low number of sets, and the usual variability in smallmouth bass catches.  Several year classes were included in the catch, but no fish less than five years old were taken.  Smallmouth bass growth had been slow; six-year-old fish averaged 11.4 inches in length when collected in early August.Northern cisco were abundant, and provided an excellent forage base for lake trout in the lake.  No other game fish, and no panfish, were collected in 2001, as has usually been the case in this lake.</p>",
+        "lengths": {
+          "SMB": {
+            "minimum_length": 9,
+            "maximum_length": 12,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "TLC": {
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                34
+              ],
+              [
+                13,
+                42
+              ],
+              [
+                14,
+                20
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 8
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "maximum_length": 19,
+            "minimum_length": 12
+          },
+          "YEP": {
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "GSF": {
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "LAT": {
+            "minimum_length": 16,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                30,
+                2
+              ]
+            ],
+            "maximum_length": 30
+          }
+        },
+        "surveyID": "111289",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2001-08-06",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "2.00",
+            "quartileCount": "N/A",
+            "species": "LAT",
+            "averageWeight": "5.89",
+            "totalWeight": 21390,
+            "totalCatch": 8,
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "gearCount": 4
+          },
+          {
+            "totalWeight": 610,
+            "quartileCount": "N/A",
+            "CPUE": "1.00",
+            "species": "LAT",
+            "averageWeight": "1.34",
+            "gear": "Special gill nets",
+            "gearCount": 1,
+            "totalCatch": 1,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 2,
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 4,
+            "totalWeight": 637,
+            "averageWeight": "0.35",
+            "quartileCount": "N/A",
+            "CPUE": "2.00",
+            "species": "YEP"
+          },
+          {
+            "averageWeight": "0.83",
+            "CPUE": "1.50",
+            "quartileCount": "N/A",
+            "species": "TLC",
+            "totalWeight": 1127,
+            "quartileWeight": "N/A",
+            "totalCatch": 3,
+            "gearCount": 2,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "totalCatch": 2,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "gearCount": 2,
+            "species": "WTS",
+            "CPUE": "1.00",
+            "quartileCount": "N/A",
+            "averageWeight": "1.17",
+            "totalWeight": 1062
+          },
+          {
+            "species": "TLC",
+            "quartileCount": "N/A",
+            "CPUE": "24.00",
+            "averageWeight": "0.79",
+            "totalWeight": 34349,
+            "totalCatch": 96,
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "gearCount": 4
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 11,
+            "gearCount": 1,
+            "gear": "Special gill nets",
+            "averageWeight": "0.82",
+            "species": "TLC",
+            "quartileCount": "N/A",
+            "CPUE": "11.00",
+            "totalWeight": 4102
+          },
+          {
+            "totalCatch": 7,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "gearCount": 2,
+            "species": "SMB",
+            "quartileCount": "N/A",
+            "CPUE": "3.50",
+            "averageWeight": "0.69",
+            "totalWeight": 2189
+          },
+          {
+            "gearCount": 4,
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 2,
+            "totalWeight": 2505,
+            "averageWeight": "2.76",
+            "CPUE": "0.50",
+            "quartileCount": "N/A",
+            "species": "WTS"
+          },
+          {
+            "gearCount": 2,
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 4,
+            "totalWeight": 156,
+            "averageWeight": "0.09",
+            "species": "GSF",
+            "CPUE": "2.00",
+            "quartileCount": "N/A"
+          }
+        ]
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Duncan Lake on August 11th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 31.4 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 103.1 feet at the time of sampling. The thickness of this layer of water in the water column was 72.1 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.7 degrees C (40.5 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2013 and 2023 also indicate suitable oxythermal habitat in all years surveyed When adequate oxythermal habitat is unavailable, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "headerInfo": {
+          "wb_id": "16023200",
+          "wb_type": "Lake",
+          "id_date": "2025-08-11",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_type": "Targeted Survey",
+          "survey_id": "-337",
+          "wb_name": "Duncan"
+        },
+        "surveyDate": "2025-08-11",
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "surveyID": "-337",
+        "lengths": {}
+      }
+    ],
+    "littoralAcres": 148,
+    "areaAcres": 476.95
+  },
+  "timestamp": 1790285982
+}

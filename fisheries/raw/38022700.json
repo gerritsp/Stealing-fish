@@ -1,0 +1,442 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "areaAcres": 409.8,
+    "county": "Lake",
+    "averageWaterClarity": "20.5",
+    "maxDepthFeet": 110,
+    "lakeAltName": "Bearskin",
+    "DOWNumber": "38022700",
+    "lakeName": "Amoeber",
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "location": " ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "75 rod portage to Knife Lake",
+        "accessTypeId": "PO"
+      },
+      {
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "20 rod portage to Little Knife Lake.",
+        "location": " "
+      },
+      {
+        "location": " ",
+        "lakeAccessComments": "20 rod portage to Topaz Lake.",
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO"
+      }
+    ],
+    "waterClarity": [
+      [
+        "09/11/2018",
+        "25"
+      ],
+      [
+        "08/01/2025",
+        "16"
+      ]
+    ],
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Composed of above average population of ciscoes and burbot.  Lake trout, walleye and suckers were present in low numbers.  It should be noted that the 1973 survey showed good populations of walleye and smallmouth bass.</p>",
+        "surveyDate": "1980-08-18",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "38022700",
+          "wb_name": "Amoeber",
+          "wb_alt_name": "Bearskin",
+          "survey_id": "107973",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "county": "Lake",
+          "id_date": "1980-08-18"
+        },
+        "surveyID": "107973",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 21,
+            "quartileCount": "0.2-1.0",
+            "averageWeight": "0.52",
+            "totalWeight": 11,
+            "gear": "Standard gill nets",
+            "CPUE": "3.50",
+            "species": "BUB",
+            "gearCount": 6,
+            "quartileWeight": "0.6-1.5"
+          },
+          {
+            "totalCatch": 4,
+            "totalWeight": 14.6,
+            "quartileCount": "0.4-3.7",
+            "averageWeight": "3.65",
+            "species": "LAT",
+            "CPUE": "0.67",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-4.0",
+            "gearCount": 6
+          },
+          {
+            "totalCatch": 4,
+            "quartileCount": "1.2-5.2",
+            "averageWeight": "2.38",
+            "totalWeight": 9.5,
+            "gear": "Standard gill nets",
+            "CPUE": "0.67",
+            "species": "WAE",
+            "gearCount": 6,
+            "quartileWeight": "1.0-2.0"
+          },
+          {
+            "totalCatch": 4,
+            "averageWeight": "1.94",
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 7.75,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "CPUE": "0.67",
+            "gearCount": 6,
+            "quartileWeight": "1.1-2.5"
+          },
+          {
+            "averageWeight": "0.33",
+            "quartileCount": "3.2-20.2",
+            "totalWeight": 72,
+            "totalCatch": 221,
+            "gearCount": 6,
+            "quartileWeight": "0.2-1.0",
+            "gear": "Standard gill nets",
+            "CPUE": "36.83",
+            "species": "TLC"
+          }
+        ]
+      },
+      {
+        "surveySubType": "Standard Survey",
+        "surveyDate": "2018-09-10",
+        "narrative": "<p>Amoeber Lake is located within the Boundary Waters Canoe Area Wilderness (BWCAW) within the Superior National Forest and is a non-motorized lake.  It is approximately 36 miles northeast of Ely.  Accesses consist of a 75 rod portage from Knife Lake on the southwest corner, a 20 rod portage to Little Knife to the northwest, and a 20 rod portage to Topaz on the east side.  BWCAW permits are required to visit Amoeber through an official entry point and there are two U. S. Forest Service maintained campsites on the lake.   <br> \n <br> \nAmoeber has three small inlets and one outlet which flows northwest to Little Knife Lake.  It is 410 acres, has a maximum depth of 110 feet, and clear water.   <br> \n <br> \nOn September 11, 2018 Amoeber was thermally stratified with a surface temperature of 66 F and a bottom temperature of 39 F.  Oxygen levels were adequate for trout and other gamefish to a depth of 80 feet.  Lake bottom substrates along the shoreline are dominated by boulder and ledgerock.  Aquatic plants are very sparse.   <br> \n <br> \nThe overall deep water gillnet catch rate for all fish combined was 30 fish/net which was above average compared to past surveys on the lake.  Fish species sampled were cisco, lake trout, and burbot.  The overall shallow water gillnet catch rate for all fish combined was 41.2 fish/net which was the highest catch rate on record for the lake.  Species sampled included the same three caught in the deep nets plus smallmouth bass.   <br> \n <br> \nThe deep water gillnet catch rate for lake trout was 2.4 fish/net which was good compared to past surveys on the lake and compared to other lake trout surveys in the area.  Lengths ranged from 17 to 33 inches with an average of 24 inches which was quite good compared to past surveys on the lake.  The average weight was over 5 pounds which was very good compared to other area lake trout lakes.  Not all fish were aged, but of those that were, ages ranged from 6 to 18 years and growth rates were slightly faster than average compared to other lake trout populations in the area.  At 10 years old, fish averaged 20 inches long.   <br> \n <br> \nThe deep water gill net cisco catch rate was 26.4 fish/net.  This was above average compared to past surveys on Amoeber and quite high compared to other cisco lakes in the Tower area.  Sizes were 7 to 14 inches with an average of over 10 inches.  Sizes have remained very consistent through all the surveys on the lake.  <br> \n <br> \nThe deep water gillnet catch for burbot was 1.2 fish/net which was below average compared to past surveys on Amoeber but better than average compared to other burbot lakes in the area.  Lengths ranged from 15 to 28 inches with an average of 18 inches.  Ages ranged from 6 to 12 years. <br> \n <br> \nFour smallmouth were sampled in shallow gill nets for a catch rate of 0.8 fish/net.  This catch rate was low compared to past surveys on the lake but above average compared to other smallmouth lakes in the area.  Lengths ranged from 5.5 to just over 10 inches.  <br> \n</p>",
+        "lengths": {
+          "CIS": {
+            "fishCount": [
+              [
+                10,
+                102
+              ],
+              [
+                11,
+                41
+              ],
+              [
+                12,
+                13
+              ],
+              [
+                13,
+                15
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                86
+              ],
+              [
+                8,
+                27
+              ],
+              [
+                9,
+                39
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 14
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                5,
+                3
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 10
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                29,
+                3
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                32,
+                1
+              ]
+            ],
+            "minimum_length": 16,
+            "maximum_length": 32
+          },
+          "BUB": {
+            "minimum_length": 14,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                28,
+                1
+              ]
+            ],
+            "maximum_length": 28
+          }
+        },
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_alt_name": "Bearskin",
+          "survey_id": "16011826135471002",
+          "wb_id": "38022700",
+          "wb_name": "Amoeber",
+          "id_date": "2018-09-10",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "survey_type": "Standard Survey"
+        },
+        "surveyID": "16011826135471002",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "gearCount": 5,
+            "CPUE": "39.00",
+            "species": "CIS",
+            "gear": "Shallow gill nets",
+            "totalWeight": 23255,
+            "averageWeight": "0.26",
+            "quartileCount": "N/A",
+            "totalCatch": 195
+          },
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "1.80",
+            "totalWeight": 816,
+            "totalCatch": 1,
+            "gearCount": 5,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "species": "BUB",
+            "CPUE": "0.20"
+          },
+          {
+            "totalWeight": 17984,
+            "quartileCount": "N/A",
+            "averageWeight": "6.61",
+            "totalCatch": 6,
+            "quartileWeight": "N/A",
+            "gearCount": 5,
+            "species": "LAT",
+            "CPUE": "1.20",
+            "gear": "Shallow gill nets"
+          },
+          {
+            "totalWeight": 16633,
+            "averageWeight": "0.28",
+            "quartileCount": "N/A",
+            "totalCatch": 132,
+            "quartileWeight": "N/A",
+            "gearCount": 5,
+            "species": "CIS",
+            "CPUE": "26.40",
+            "gear": "Deep gill nets"
+          },
+          {
+            "gearCount": 5,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "CPUE": "0.80",
+            "species": "SMB",
+            "averageWeight": "0.21",
+            "quartileCount": "N/A",
+            "totalWeight": 374,
+            "totalCatch": 4
+          },
+          {
+            "totalCatch": 6,
+            "totalWeight": 5091,
+            "averageWeight": "1.87",
+            "quartileCount": "N/A",
+            "species": "BUB",
+            "CPUE": "1.20",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "gearCount": 5
+          },
+          {
+            "quartileWeight": "N/A",
+            "gearCount": 5,
+            "CPUE": "2.40",
+            "species": "LAT",
+            "gear": "Deep gill nets",
+            "totalWeight": 28774,
+            "quartileCount": "N/A",
+            "averageWeight": "5.29",
+            "totalCatch": 12
+          }
+        ]
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 5,
+            "quartileWeight": "0.6-1.5",
+            "gear": "Standard gill nets",
+            "CPUE": "5.80",
+            "species": "BUB",
+            "quartileCount": "0.2-1.0",
+            "averageWeight": "0.64",
+            "totalWeight": 18.5,
+            "totalCatch": 29
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "LAT",
+            "CPUE": "0.80",
+            "gearCount": 5,
+            "quartileWeight": "1.5-4.0",
+            "totalCatch": 4,
+            "quartileCount": "0.4-3.7",
+            "averageWeight": "8.62",
+            "totalWeight": 34.5
+          },
+          {
+            "averageWeight": "2.83",
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 8.5,
+            "totalCatch": 3,
+            "gearCount": 5,
+            "quartileWeight": "1.1-2.5",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "CPUE": "0.60"
+          },
+          {
+            "totalCatch": 191,
+            "totalWeight": 59.5,
+            "quartileCount": "3.2-20.2",
+            "averageWeight": "0.31",
+            "species": "TLC",
+            "CPUE": "38.20",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-1.0",
+            "gearCount": 5
+          }
+        ],
+        "surveyID": "108221",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "id_date": "1983-07-25",
+          "survey_id": "108221",
+          "wb_alt_name": "Bearskin",
+          "wb_name": "Amoeber",
+          "wb_id": "38022700"
+        },
+        "lengths": {},
+        "surveySubType": "Re-Survey",
+        "surveyDate": "1983-07-25",
+        "narrative": "<p>This survey indicated that the lake trout population is composed of relatively few immature fish (see above #37). Survival and recruitment of young lake trout appears poor, probably due to either: (1) A very high population of Burbot and moderately high population of walleye and smallmouth bass; or (2) high competition with cisco for food. Recruitment of walleyes and smallmouth bass also appears poor. Northern cisco are present in very high numbers, while suckers are present in quite low numbers. </p>"
+      },
+      {
+        "lengths": {},
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Amoeber Lake on August 1st, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 100.0 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 30.8 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 97.1 feet at the time of sampling. This layer in the water column was 66.3 feet, indicating oxythermal habitat for Lake Trout was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.3 degrees C (39.7 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyDate": "2025-08-01",
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "id_date": "2025-08-01",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "county": "Lake",
+          "wb_alt_name": "Bearskin",
+          "survey_id": "22122522742688027",
+          "wb_id": "38022700",
+          "wb_name": "Amoeber"
+        },
+        "surveyType": "Targeted Survey",
+        "surveyID": "22122522742688027",
+        "fishCatchSummaries": []
+      }
+    ],
+    "shoreLengthMiles": 10.12,
+    "littoralAcres": 108
+  },
+  "timestamp": 1790286015
+}

@@ -1,0 +1,83 @@
+{
+  "result": {
+    "shoreLengthMiles": 1.02,
+    "officeCode": "F214",
+    "littoralAcres": 36.02,
+    "averageWaterClarity": "N/A",
+    "county": "St. Louis",
+    "waterClarity": [],
+    "areaAcres": 36.02,
+    "DOWNumber": "69032100",
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "surveyID": "108247",
+        "surveyDate": "1983-08-01",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "county": "St. Louis",
+          "wb_type": "Lake",
+          "wb_id": "69032100",
+          "wb_name": "Neesh",
+          "id_date": "1983-08-01",
+          "survey_id": "108247",
+          "wb_alt_name": ""
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 6,
+            "averageWeight": "4.83",
+            "species": "NOP",
+            "gearCount": 2,
+            "totalWeight": 29,
+            "CPUE": "3.00",
+            "quartileWeight": "1.2-2.5",
+            "quartileCount": "3.0-9.0",
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "0.17",
+            "totalCatch": 6,
+            "gearCount": 2,
+            "species": "YEP",
+            "CPUE": "3.00",
+            "totalWeight": 1,
+            "gear": "Standard gill nets",
+            "quartileCount": "3.3-18.3",
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "averageWeight": "0.58",
+            "totalCatch": 19,
+            "gearCount": 2,
+            "species": "WTS",
+            "totalWeight": 11,
+            "CPUE": "9.50",
+            "gear": "Standard gill nets",
+            "quartileCount": "5.3-22.1",
+            "quartileWeight": "1.3-2.3"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "narrative": "<p>Neesh Lake has an above average population of suckers and average populations of northern pike and yellow perch. </p>"
+      }
+    ],
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "location": "PORTAGE FROM NISWI LAKE ~1/8 MILE~. DOES NOT APPEAR MAINTAINED.",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "maxDepthFeet": 6,
+    "lakeName": "Neesh",
+    "meanDepthFeet": 0
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285585,
+  "status": "SUCCESS"
+}

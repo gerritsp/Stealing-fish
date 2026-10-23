@@ -1,0 +1,74 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "shoreLengthMiles": 2.09,
+    "areaAcres": 42.78,
+    "maxDepthFeet": 36,
+    "averageWaterClarity": "10.5",
+    "sampledPlants": [],
+    "DOWNumber": "16006200",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "location": "Lake is entirely within the BWCAW; with a portage trail from Crystal Lake."
+      }
+    ],
+    "lakeAltName": "Spalding",
+    "lakeName": "Spaulding",
+    "county": "Cook",
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "08/19/1975",
+        "10.5"
+      ]
+    ],
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_alt_name": "Spalding",
+          "survey_type": "Initial Survey",
+          "wb_name": "Spaulding",
+          "wb_type": "Lake",
+          "survey_id": "110100",
+          "wb_id": "16006200",
+          "id_date": "1975-08-18",
+          "county": "Cook"
+        },
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyID": "110100",
+        "surveyDate": "1975-08-18",
+        "fishCatchSummaries": [],
+        "narrative": "<p>APPARENTLY NO FISH POPULATION IN SPAULDING LAKE. NO FISH TAKEN IN FOUR OVERNIGHT SETS.</p>"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "16006200",
+          "county": "Cook",
+          "id_date": "1993-06-28",
+          "survey_id": "110234",
+          "wb_name": "Spaulding",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_alt_name": "Spalding"
+        },
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "surveyID": "110234",
+        "narrative": "<p>Spaulding Lake supports no fishery at present.</p>",
+        "fishCatchSummaries": [],
+        "surveyDate": "1993-06-28"
+      }
+    ],
+    "officeCode": "F218",
+    "littoralAcres": 36
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285910
+}

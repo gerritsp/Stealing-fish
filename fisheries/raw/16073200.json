@@ -1,0 +1,77 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "Entirely inside the BWCAW.  Access by portage trails from Tarry; Little Saganaga; and Whipped Lakes.",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "shoreLengthMiles": 9.86,
+    "maxDepthFeet": 40,
+    "lakeName": "Mora",
+    "littoralAcres": 0,
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "3.25",
+            "totalCatch": 13,
+            "totalWeight": 42.3,
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "CPUE": "2.17"
+          },
+          {
+            "averageWeight": "1.15",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "totalWeight": 48.3,
+            "quartileWeight": "N/A",
+            "totalCatch": 42,
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "CPUE": "7.00"
+          }
+        ],
+        "lengths": {},
+        "headerInfo": {
+          "id_date": "1987-09-23",
+          "wb_id": "16073200",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "survey_id": "110046",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Mora"
+        },
+        "surveyID": "110046",
+        "narrative": "<p>NORTHERN PIKE ARE PRESENT IN FAIR NUMBERS. GROWTH RATES ARE SLIGHTLY BELOW THE STATE AVERAGE. THERE APPEARS TO BE SOME MISSING NORTHERN PIKE YEAR CLASSES, AND NO LARGER FISH WERE TAKEN. WHITE SUCKER ARE PRESENT IN ABOVE AVERAGE NUMBERS, WITH A LARGE RANGE OF SIZES. YELLOW PERCH ARE PRESENT, PROBABLY IN LOW NUMBERS. NO LAKE TROUT WERE TAKEN, DESPITE THEIR REPORTED PRESENCE. THE FORAGE BASE FOR GAMEFISH CONSISTS OF MINNOW SPP. YELLOW PERCH AND SMALL WHITE SUCKER.</p>",
+        "surveyDate": "1987-09-23"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "areaAcres": 210.32,
+    "county": "Cook",
+    "DOWNumber": "16073200",
+    "waterClarity": [
+      [
+        "09/23/1987",
+        "8.5"
+      ]
+    ],
+    "averageWaterClarity": "8.5"
+  },
+  "timestamp": 1790285838,
+  "status": "SUCCESS"
+}

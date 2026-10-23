@@ -1,0 +1,77 @@
+{
+  "result": {
+    "waterClarity": [
+      [
+        "08/28/1978",
+        "4.5"
+      ]
+    ],
+    "averageWaterClarity": "4.5",
+    "maxDepthFeet": 19,
+    "DOWNumber": "16061500",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "location": "Poor-No marked portage trail."
+      }
+    ],
+    "officeCode": "F218",
+    "shoreLengthMiles": 1.87,
+    "surveys": [
+      {
+        "surveyDate": "1978-08-28",
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_name": "Prayer",
+          "county": "Cook",
+          "id_date": "1978-08-28",
+          "survey_id": "109797",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "16061500"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 1,
+            "averageWeight": "1.42",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "species": "NOP",
+            "CPUE": "10.00",
+            "totalCatch": 10,
+            "totalWeight": 14.2,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "3.00",
+            "gearCount": 1,
+            "CPUE": "2.00",
+            "quartileWeight": "N/A",
+            "species": "WTS",
+            "totalWeight": 6,
+            "totalCatch": 2,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>There is a fair population of small N Pike with some Suckers for forage.</p>",
+        "surveyID": "109797",
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "county": "Cook",
+    "areaAcres": 42.29,
+    "lakeName": "Prayer",
+    "meanDepthFeet": 0,
+    "littoralAcres": 0,
+    "sampledPlants": []
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790286036,
+  "message": "Normal execution."
+}

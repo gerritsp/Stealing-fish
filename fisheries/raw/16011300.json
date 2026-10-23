@@ -1,0 +1,110 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285909,
+  "result": {
+    "DOWNumber": "16011300",
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "littoralAcres": 16,
+    "surveys": [
+      {
+        "surveyID": "109624",
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "totalCatch": 15,
+            "gearCount": 2,
+            "CPUE": "7.50",
+            "averageWeight": "0.87",
+            "quartileCount": "3.9-9.4",
+            "gear": "Standard gill nets",
+            "totalWeight": 13,
+            "quartileWeight": "1.2-2.4"
+          },
+          {
+            "quartileWeight": "0.4-2.0",
+            "quartileCount": "0.4-1.7",
+            "averageWeight": "1.50",
+            "totalWeight": 1.5,
+            "gear": "Standard gill nets",
+            "CPUE": "0.50",
+            "totalCatch": 1,
+            "species": "SMB",
+            "gearCount": 2
+          },
+          {
+            "quartileWeight": "0.8-2.4",
+            "gear": "Standard gill nets",
+            "totalWeight": 33,
+            "averageWeight": "0.97",
+            "quartileCount": "1.0-7.2",
+            "CPUE": "17.00",
+            "gearCount": 2,
+            "species": "WAE",
+            "totalCatch": 34
+          },
+          {
+            "averageWeight": "0.17",
+            "quartileCount": "2.0-23.0",
+            "gear": "Standard gill nets",
+            "totalWeight": 7,
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "totalCatch": 42,
+            "gearCount": 2,
+            "CPUE": "21.00"
+          },
+          {
+            "gearCount": 2,
+            "totalCatch": 20,
+            "species": "WTS",
+            "CPUE": "10.00",
+            "totalWeight": 35,
+            "gear": "Standard gill nets",
+            "quartileCount": "2.6-17.5",
+            "averageWeight": "1.75",
+            "quartileWeight": "0.8-2.3"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1974-08-13",
+        "lengths": {},
+        "narrative": "<p>Paddle Lake contains good populations of Walleyes, N Pike, Perch and Suckers.  SM Bass appear to be sparse.</p>",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_name": "Paddle",
+          "survey_type": "Initial Survey",
+          "wb_id": "16011300",
+          "survey_id": "109624",
+          "wb_alt_name": "",
+          "id_date": "1974-08-13",
+          "county": "Cook"
+        }
+      }
+    ],
+    "areaAcres": 17.05,
+    "officeCode": "F218",
+    "lakeName": "Paddle",
+    "shoreLengthMiles": 0.9,
+    "maxDepthFeet": 16,
+    "averageWaterClarity": "7.0",
+    "county": "Cook",
+    "waterClarity": [
+      [
+        "08/14/1974",
+        "7"
+      ]
+    ],
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "location": "Accessible via 0.1 mile inlet channel from Canoe Lake.",
+        "ownerTypeId": "UKN"
+      }
+    ]
+  },
+  "message": "Normal execution."
+}

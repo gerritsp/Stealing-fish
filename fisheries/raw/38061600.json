@@ -1,0 +1,393 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285835,
+  "message": "Normal execution.",
+  "result": {
+    "littoralAcres": 403,
+    "areaAcres": 409.05,
+    "accesses": [
+      {
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "location": " ",
+        "lakeAccessComments": "Portage from Basswood Lake."
+      },
+      {
+        "location": " ",
+        "lakeAccessComments": "Winter trail from Found Lake.",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "waterClarity": [
+      [
+        "06/16/2015",
+        "2.5"
+      ]
+    ],
+    "DOWNumber": "38061600",
+    "averageWaterClarity": "2.5",
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "county": "Lake",
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "lengths": {
+          "GOS": {
+            "minimum_length": 5,
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                4,
+                5
+              ],
+              [
+                5,
+                6
+              ],
+              [
+                6,
+                9
+              ],
+              [
+                7,
+                28
+              ],
+              [
+                8,
+                26
+              ],
+              [
+                9,
+                17
+              ]
+            ],
+            "maximum_length": 10,
+            "minimum_length": 4
+          },
+          "WTS": {
+            "maximum_length": 18,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                10,
+                7
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                16,
+                8
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                17
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                5
+              ]
+            ]
+          },
+          "LMB": {
+            "maximum_length": 6,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "PMK": {
+            "fishCount": [
+              [
+                5,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 5
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                3
+              ]
+            ],
+            "maximum_length": 18,
+            "minimum_length": 15
+          }
+        },
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "surveyID": "12631532945035000",
+        "surveyDate": "2015-06-15",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "38061600",
+          "county": "Lake",
+          "survey_id": "12631532945035000",
+          "id_date": "2015-06-15",
+          "wb_alt_name": "",
+          "survey_type": "Standard Survey",
+          "wb_name": "Manomin"
+        },
+        "narrative": "<p>Manomin Lake is located approximately 16 miles NE of Ely in the BWCAW. This shallow lake has shorelines that are covered with dense conifers growing near the water's edge. The rocky shoreline quickly changes to a muck bottom and aquatic plants are common. There are two designated  USFS campsites present and they appear to have little use. Manomin has a history of periodic partial winterkills which can affect the present fish community. <br> \n <br> \nYellow perch numbers in 2015 (16.0/gill net) were identical to the long term average on this lake. The average perch sampled was 7.8 inches long and the largest perch was 10.2 inches. <br> \n <br> \nWhite sucker numbers in 2015 (13.0/gill net) were identical to the long term average on this lake. The average sucker sampled was 12.6 inches long and the largest sucker was 18.9 inches. <br> \n <br> \nNorthern pike were sampled in low numbers (0.7/gill net) and their lengths ranged from 15.9 to 18.4 inches long. <br> \n <br> \nOne golden shiner and one pumpkinseed were sampled. One 6.9 inch largemouth bass was also sampled. This is the first report of largemouth in this lake. <br> \n <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 1979,
+            "quartileCount": "2.0-6.3",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "quartileWeight": "1.3-2.4",
+            "averageWeight": "1.09",
+            "gearCount": 6,
+            "CPUE": "0.67"
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "16.00",
+            "averageWeight": "0.25",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 96,
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "quartileCount": "2.2-14.6",
+            "totalWeight": 10879
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 32,
+            "species": "GOS",
+            "quartileCount": "0.5-15.8",
+            "CPUE": "0.17",
+            "gearCount": 6,
+            "quartileWeight": "0.1-0.1",
+            "totalCatch": 1,
+            "averageWeight": "0.07"
+          },
+          {
+            "CPUE": "13.00",
+            "gearCount": 6,
+            "averageWeight": "0.98",
+            "totalCatch": 78,
+            "quartileWeight": "1.5-2.4",
+            "gear": "Standard gill nets",
+            "quartileCount": "3.6-14.1",
+            "species": "WTS",
+            "totalWeight": 34823
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "PMK",
+            "totalWeight": 62,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.14",
+            "totalCatch": 1,
+            "quartileWeight": "N/A",
+            "gearCount": 6,
+            "CPUE": "0.17"
+          },
+          {
+            "totalCatch": 1,
+            "quartileWeight": "0.4-1.5",
+            "averageWeight": "0.16",
+            "gearCount": 6,
+            "CPUE": "0.17",
+            "totalWeight": 73,
+            "quartileCount": "0.3-1.9",
+            "species": "LMB",
+            "gear": "Standard gill nets"
+          }
+        ]
+      },
+      {
+        "surveyDate": "1986-06-03",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_name": "Manomin",
+          "id_date": "1986-06-03",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "survey_id": "108316",
+          "wb_type": "Lake",
+          "wb_id": "38061600"
+        },
+        "narrative": "<p>White sucker and yellow perch are present in above average numbers; golden shiner, pumpkinseed, and tadpole madtom are also present. The white sucker are very small. Some large yellow perch are present. </p>",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "2.2-14.6",
+            "species": "YEP",
+            "totalWeight": 24,
+            "CPUE": "32.33",
+            "gearCount": 3,
+            "averageWeight": "0.25",
+            "totalCatch": 97,
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "GOS",
+            "quartileCount": "0.5-15.8",
+            "totalWeight": 0.2,
+            "gearCount": 3,
+            "CPUE": "0.67",
+            "averageWeight": "0.10",
+            "quartileWeight": "0.1-0.1",
+            "totalCatch": 2
+          },
+          {
+            "species": "WTS",
+            "quartileCount": "3.6-14.1",
+            "totalWeight": 34.9,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.56",
+            "totalCatch": 62,
+            "quartileWeight": "1.5-2.4",
+            "CPUE": "20.67",
+            "gearCount": 3
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "PMK",
+            "quartileCount": "N/A",
+            "totalWeight": 0.1,
+            "CPUE": "0.33",
+            "gearCount": 3,
+            "averageWeight": "0.10",
+            "totalCatch": 1,
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyID": "108316",
+        "surveyType": "Standard Survey",
+        "lengths": {}
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyID": "108465",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyDate": "1990-07-17",
+        "headerInfo": {
+          "id_date": "1990-07-17",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "wb_name": "Manomin",
+          "wb_type": "Lake",
+          "wb_id": "38061600",
+          "county": "Lake",
+          "survey_id": "108465"
+        },
+        "narrative": "<p>Northern pike dominate the fish population, followed by white sucker and yellow perch. Pumpkinseed sunfish are also present. Some large norther pike are present. Most yellow perch were from the 1987 year class. Yellow perch growth is slow for the area. No walleye were collected for the '87 or '88 fry stockings. </p>",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 60.3,
+            "quartileCount": "2.0-6.3",
+            "species": "NOP",
+            "CPUE": "5.00",
+            "gearCount": 4,
+            "quartileWeight": "1.3-2.4",
+            "totalCatch": 20,
+            "averageWeight": "3.01"
+          },
+          {
+            "CPUE": "7.75",
+            "gearCount": 4,
+            "averageWeight": "0.14",
+            "totalCatch": 31,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "quartileCount": "2.2-14.6",
+            "species": "YEP",
+            "totalWeight": 4.3
+          },
+          {
+            "CPUE": "6.75",
+            "gearCount": 4,
+            "averageWeight": "1.06",
+            "quartileWeight": "1.5-2.4",
+            "totalCatch": 27,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "3.6-14.1",
+            "totalWeight": 28.5
+          },
+          {
+            "averageWeight": "0.10",
+            "quartileWeight": "N/A",
+            "totalCatch": 4,
+            "CPUE": "1.00",
+            "gearCount": 4,
+            "species": "PMK",
+            "quartileCount": "N/A",
+            "totalWeight": 0.4,
+            "gear": "Standard gill nets"
+          }
+        ]
+      }
+    ],
+    "lakeName": "Manomin",
+    "maxDepthFeet": 18,
+    "shoreLengthMiles": 6.71
+  }
+}

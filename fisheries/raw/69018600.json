@@ -1,0 +1,128 @@
+{
+  "timestamp": 1790285582,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "sampledPlants": [],
+    "waterClarity": [],
+    "officeCode": "F214",
+    "county": "St. Louis",
+    "maxDepthFeet": 14,
+    "surveys": [
+      {
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "species": "HSF",
+            "totalCatch": 18,
+            "gearCount": 6,
+            "totalWeight": 2.9,
+            "averageWeight": "0.16",
+            "quartileWeight": "N/A",
+            "CPUE": "3.00"
+          },
+          {
+            "averageWeight": "5.75",
+            "CPUE": "0.17",
+            "quartileWeight": "1.3-2.4",
+            "totalWeight": 5.75,
+            "gearCount": 6,
+            "totalCatch": 1,
+            "species": "NOP",
+            "quartileCount": "2.0-6.3",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.5-5.8",
+            "species": "SMB",
+            "totalCatch": 47,
+            "gearCount": 6,
+            "totalWeight": 40.75,
+            "CPUE": "7.83",
+            "quartileWeight": "0.6-1.6",
+            "averageWeight": "0.87"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "2.2-14.6",
+            "species": "YEP",
+            "totalCatch": 1,
+            "gearCount": 6,
+            "totalWeight": 0.1,
+            "CPUE": "0.17",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.10"
+          },
+          {
+            "totalCatch": 52,
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "quartileCount": "3.6-14.1",
+            "averageWeight": "1.86",
+            "CPUE": "8.67",
+            "quartileWeight": "1.5-2.4",
+            "totalWeight": 96.5,
+            "gearCount": 6
+          },
+          {
+            "totalCatch": 5,
+            "species": "LMB",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.9",
+            "quartileWeight": "0.4-1.5",
+            "CPUE": "0.83",
+            "averageWeight": "0.50",
+            "totalWeight": 2.5,
+            "gearCount": 6
+          },
+          {
+            "totalCatch": 5,
+            "species": "BLG",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "averageWeight": "0.32",
+            "CPUE": "0.83",
+            "quartileWeight": "N/A",
+            "totalWeight": 1.6,
+            "gearCount": 6
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "id_date": "1978-07-23",
+          "survey_id": "108120",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "wb_alt_name": "Carey",
+          "survey_type": "Initial Survey",
+          "wb_name": "Coxey Pond",
+          "wb_id": "69018600"
+        },
+        "narrative": "<p>Consists of above average population of smallmouth bass, largemouth bass, hybrid sunfish, and white sucker.  Northern pike, perch and bluegills are present in below average numbers.</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1978-07-23",
+        "surveyID": "108120"
+      }
+    ],
+    "accesses": [
+      {
+        "location": "Lies within BWCAW on a non-motorized route.  Access is by portaging on USFS trail #163 or by 45 rod portage.",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "shoreLengthMiles": 5.18,
+    "DOWNumber": "69018600",
+    "lakeName": "Coxey Pond",
+    "areaAcres": 191.82,
+    "littoralAcres": 184.99,
+    "meanDepthFeet": 0,
+    "lakeAltName": "Carey"
+  }
+}

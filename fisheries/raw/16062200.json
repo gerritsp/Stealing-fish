@@ -1,0 +1,2201 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "waterClarity": [
+      [
+        "08/14/2008",
+        "14.5"
+      ],
+      [
+        "06/09/2008",
+        "15"
+      ],
+      [
+        "08/03/2023",
+        "20"
+      ],
+      [
+        "08/04/2025",
+        "9.8"
+      ],
+      [
+        "09/10/2018",
+        "12.5"
+      ],
+      [
+        "08/20/2024",
+        "13.1"
+      ]
+    ],
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 72,
+    "accesses": [
+      {
+        "lakeAccessComments": "A 30 rod portage from Sawbill Lake.  This is the main access route and is used as an entry point to other lakes in the BWCA.",
+        "accessTypeId": "PO",
+        "location": "30 rod portage from Sawbill Lake",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF"
+      },
+      {
+        "lakeAccessComments": "The Kelso Lake portage is approximately 10 rods; found on the north end of Alton Lake.",
+        "location": "10 rod portage from Kelso Lake",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT"
+      },
+      {
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT",
+        "location": "120 rod portage from Beth Lake",
+        "accessTypeId": "PO",
+        "lakeAccessComments": "The Beth Lake portage is approximately 120 rods; on the southwest end of Alton Lake."
+      },
+      {
+        "accessTypeId": "PO",
+        "location": "220 rod portage from Wonder Lake",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "Portage trail to Wonder Lake on the southeast shore of the southern most bay.  The portage trail is approximately 220 rods and leads to the northeast corner of Wonder Lake."
+      }
+    ],
+    "lakeName": "Alton",
+    "DOWNumber": "16062200",
+    "surveys": [
+      {
+        "lengths": {},
+        "headerInfo": {
+          "wb_name": "Alton",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "1980-07-21",
+          "survey_id": "112075",
+          "survey_type": "Re-Survey",
+          "wb_id": "16062200"
+        },
+        "narrative": "<p>Although no lake trout were caught during the survey there is a fair sized population of large lake trout in the lake. Alton has a stocking quota of 8,000 yearling lake trout per year, and since 1976 34,352 lake trout have been stocked. In late July or August of 1981 a crew will be on Alton with a graph locator and gillnets, netting specifically for lake trout. If no small lake trout are found serious consideration will be given to dropping the lake trout program and probably goiing to walleye management.     Good lake trout spawning habitat is present in the lake, but no trace of natural reproduction has ever been found. Back aging of lake trout caught by anglers, and in nets, indicates that only lake trout stocked as yearlings survive. The trout plants since 1976 have been made by float plane, releasing the yearling lake trout over what appears to be suitable spawning sites. It is hoped that this may cause homing to these sites when fish mature, and result in some successful spawning.</p>",
+        "surveyDate": "1980-07-21",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "1.4-17.4",
+            "totalCatch": 145,
+            "CPUE": "18.12",
+            "averageWeight": "0.71",
+            "gear": "Standard gill nets",
+            "totalWeight": 102.8,
+            "gearCount": 8,
+            "species": "TLC",
+            "quartileWeight": "0.1-0.7"
+          },
+          {
+            "CPUE": "1.62",
+            "totalCatch": 13,
+            "totalWeight": 38.7,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.98",
+            "quartileCount": "0.3-1.3",
+            "species": "BUB",
+            "quartileWeight": "0.7-1.9",
+            "gearCount": 8
+          },
+          {
+            "species": "NOP",
+            "quartileWeight": "2.7-5.3",
+            "gearCount": 8,
+            "CPUE": "0.88",
+            "totalCatch": 7,
+            "totalWeight": 31.3,
+            "averageWeight": "4.47",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.0"
+          },
+          {
+            "gearCount": 8,
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.7-5.0",
+            "totalCatch": 38,
+            "CPUE": "4.75",
+            "averageWeight": "3.24",
+            "gear": "Standard gill nets",
+            "totalWeight": 123.1
+          },
+          {
+            "gearCount": 8,
+            "species": "WAE",
+            "quartileWeight": "1.1-3.3",
+            "quartileCount": "0.6-9.7",
+            "CPUE": "2.50",
+            "totalCatch": 20,
+            "gear": "Standard gill nets",
+            "averageWeight": "4.45",
+            "totalWeight": 89
+          },
+          {
+            "CPUE": "0.30",
+            "totalCatch": 6,
+            "totalWeight": 23.3,
+            "averageWeight": "3.88",
+            "gear": "Standard trap nets",
+            "quartileCount": "N/A",
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "gearCount": 20
+          },
+          {
+            "quartileWeight": "0.7-1.4",
+            "species": "SMB",
+            "gearCount": 8,
+            "totalWeight": 46,
+            "averageWeight": "0.78",
+            "gear": "Standard gill nets",
+            "CPUE": "7.38",
+            "totalCatch": 59,
+            "quartileCount": "0.3-2.2"
+          },
+          {
+            "quartileCount": "0.5-3.4",
+            "totalWeight": 29.5,
+            "averageWeight": "3.69",
+            "gear": "Standard trap nets",
+            "totalCatch": 8,
+            "CPUE": "0.40",
+            "gearCount": 20,
+            "quartileWeight": "1.1-2.0",
+            "species": "WTS"
+          },
+          {
+            "gearCount": 20,
+            "species": "SMB",
+            "quartileWeight": "0.2-0.6",
+            "quartileCount": "0.6-3.5",
+            "totalCatch": 3,
+            "CPUE": "0.15",
+            "totalWeight": 0.8,
+            "averageWeight": "0.27",
+            "gear": "Standard trap nets"
+          }
+        ],
+        "surveySubType": "Re-Survey",
+        "surveyID": "112075",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "CPUE": "0.08",
+            "totalCatch": 1,
+            "totalWeight": 1780,
+            "gear": "Standard gill nets",
+            "averageWeight": "3.92",
+            "quartileCount": "0.3-1.0",
+            "species": "NOP",
+            "quartileWeight": "2.7-5.3",
+            "gearCount": 12
+          },
+          {
+            "gearCount": 12,
+            "species": "RKB",
+            "quartileWeight": "0.2-0.4",
+            "quartileCount": "0.4-5.1",
+            "totalCatch": 21,
+            "CPUE": "1.75",
+            "totalWeight": 2218,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.23"
+          },
+          {
+            "quartileCount": "0.3-2.2",
+            "totalWeight": 6578,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.07",
+            "CPUE": "0.58",
+            "totalCatch": 7,
+            "gearCount": 12,
+            "quartileWeight": "0.7-1.4",
+            "species": "SMB"
+          },
+          {
+            "species": "WAE",
+            "quartileWeight": "1.1-3.3",
+            "gearCount": 12,
+            "totalCatch": 72,
+            "CPUE": "6.00",
+            "averageWeight": "1.04",
+            "gear": "Standard gill nets",
+            "totalWeight": 33870,
+            "quartileCount": "0.6-9.7"
+          },
+          {
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "gearCount": 12,
+            "totalWeight": 1250,
+            "averageWeight": "2.76",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.08",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "gearCount": 12,
+            "totalWeight": 58490,
+            "averageWeight": "1.52",
+            "gear": "Standard gill nets",
+            "CPUE": "7.08",
+            "totalCatch": 85,
+            "quartileCount": "1.7-5.0"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.52",
+            "totalWeight": 50145,
+            "totalCatch": 214,
+            "CPUE": "17.83",
+            "quartileCount": "1.4-17.4",
+            "quartileWeight": "0.1-0.7",
+            "species": "TLC",
+            "gearCount": 12
+          }
+        ],
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_id": "16062200",
+          "survey_id": "113003",
+          "id_date": "2003-06-02",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_name": "Alton"
+        },
+        "narrative": "<p>Alton Lake is a 1039 acre lake, one portage inside of the Boundary Waters Canoe Area Wilderness.  The BWCAW is managed as a non-motorized recreation area.  A fish population assessment was conducted in the spring of 2003 to monitor fish populations and evaluate the introduction of rainbow trout a few years earlier.  Species sampled in the 2003 assessment were: walleye, northern pike, smallmouth bass, rock bass, brook trout, tullibee and white sucker.Walleye were sampled in average numbers for this type of lake.  The walleye numbers were higher than in the previous population assessments on Alton Lake.  The fish ranged from 13.8 inches to 27.9 inches (8.4 pounds).  About 5% of the walleye were larger than 20.0 inches; however, nearly 26% of the fish sampled were between 14.0 inches and 16.9 inches.  Results of the 2003 assessment indicate that there are several relatively strong year classes of young walleye present.  This should enable the walleye population to maintain current, if not higher, levels for some time.  The walleye population in Alton Lake is maintained entirely through natural reproduction.Alton Lake has a history of producing average numbers of northern pike, with some large fish in the sample.  This was not the case in the 2003 assessment when a below average number of northern pike were collected, the largest 3.9 pounds.Smallmouth bass were sampled in average numbers, which is normal for Alton Lake.  The smallmouth bass in the sample were fairly uniform in size, ranging from 13.9 inches to 16.5 inches (2.4 pounds), and averaging 2.0 pounds.  This was greater than the average weight in previous assessments, and larger than the average smallmouth bass sampled in this lake class.Alton Lake normally supports a large population of tullibee.  In the 2003 population assessment tullibee were again sampled in above average numbers.One brook trout was collected in the 2003 population assessment.  This was not expected, since brook trout have not been stocked into Alton Lake.  This was a large fish, measuring 17.9 inches and weighing 2.7 pounds.Rainbow trout were first stocked in Alton Lake in 1999, and stocked again in 2001.  There appear to be few, if any, of these fish remaining in the lake.  No rainbow trout were sampled in the 2003 assessment and reports of anglers catching them are scant.  Rainbow trout are no longer stocked in Alton Lake.</p>",
+        "surveyDate": "2003-06-02",
+        "lengths": {
+          "SMB": {
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ]
+            ],
+            "maximum_length": 16
+          },
+          "TLC": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                15,
+                33
+              ],
+              [
+                16,
+                105
+              ],
+              [
+                17,
+                62
+              ],
+              [
+                18,
+                14
+              ]
+            ],
+            "minimum_length": 15
+          },
+          "RKB": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                16
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                25,
+                1
+              ]
+            ],
+            "minimum_length": 25,
+            "maximum_length": 25
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                17,
+                1
+              ]
+            ],
+            "minimum_length": 17,
+            "maximum_length": 17
+          },
+          "WAE": {
+            "maximum_length": 27,
+            "fishCount": [
+              [
+                10,
+                11
+              ],
+              [
+                11,
+                6
+              ],
+              [
+                12,
+                11
+              ],
+              [
+                13,
+                10
+              ],
+              [
+                14,
+                9
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                11
+              ],
+              [
+                14,
+                15
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                9
+              ]
+            ],
+            "minimum_length": 8
+          }
+        },
+        "surveyID": "113003",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveyID": "112444",
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1990-05-25",
+        "narrative": "<p>The results of the 1990 assessment are consistant with the findings of previous assessments in that despite numerous stockings of lake trout fingerlings and yearlings, lake trout numbers have failed to increase.      Sporadic natural reproduction appears to be a limiting factor in walleye densities, as Age I - V comprised only 10% of the gillnet catch. The 1990 assessment and historical data indicate the lake maintains low densities of walleye, but of large average size.     The gillnet catch of northern pike, smallmouth bass and yellow perch decreased from the previous catch, however densities for these species appear to be near historical levels. Tullibee continue to flourish and are probably a prefered forage species.</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Alton",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_id": "16062200",
+          "id_date": "1990-05-25",
+          "survey_id": "112444"
+        },
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "quartileWeight": "0.7-1.9",
+            "gearCount": 12,
+            "CPUE": "0.25",
+            "totalCatch": 3,
+            "averageWeight": "1.93",
+            "gear": "Standard gill nets",
+            "totalWeight": 5.8,
+            "quartileCount": "0.3-1.3"
+          },
+          {
+            "gearCount": 12,
+            "quartileWeight": "1.2-3.1",
+            "species": "LAT",
+            "quartileCount": "0.8-4.3",
+            "totalWeight": 15.5,
+            "averageWeight": "15.50",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.08"
+          },
+          {
+            "gearCount": 12,
+            "quartileWeight": "2.7-5.3",
+            "species": "NOP",
+            "quartileCount": "0.3-1.0",
+            "gear": "Standard gill nets",
+            "averageWeight": "6.25",
+            "totalWeight": 12.5,
+            "totalCatch": 2,
+            "CPUE": "0.17"
+          },
+          {
+            "quartileCount": "0.3-2.2",
+            "totalCatch": 10,
+            "CPUE": "0.83",
+            "averageWeight": "1.13",
+            "gear": "Standard gill nets",
+            "totalWeight": 11.3,
+            "gearCount": 12,
+            "species": "SMB",
+            "quartileWeight": "0.7-1.4"
+          },
+          {
+            "quartileWeight": "1.1-3.3",
+            "species": "WAE",
+            "gearCount": 12,
+            "totalWeight": 53.2,
+            "averageWeight": "4.43",
+            "gear": "Standard gill nets",
+            "CPUE": "1.00",
+            "totalCatch": 12,
+            "quartileCount": "0.6-9.7"
+          },
+          {
+            "gearCount": 12,
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "quartileCount": "0.3-2.8",
+            "totalWeight": 0.1,
+            "averageWeight": "0.10",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.08"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "2.61",
+            "totalWeight": 70.5,
+            "CPUE": "2.25",
+            "totalCatch": 27,
+            "quartileCount": "1.7-5.0",
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "gearCount": 12
+          },
+          {
+            "gearCount": 12,
+            "species": "TLC",
+            "quartileWeight": "0.1-0.7",
+            "quartileCount": "1.4-17.4",
+            "CPUE": "21.83",
+            "totalCatch": 262,
+            "totalWeight": 243.4,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.93"
+          }
+        ]
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "quartileWeight": "0.7-1.9",
+            "gearCount": 12,
+            "CPUE": "1.42",
+            "totalCatch": 17,
+            "totalWeight": 9332,
+            "averageWeight": "1.21",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.3"
+          },
+          {
+            "gearCount": 12,
+            "quartileWeight": "2.7-5.3",
+            "species": "NOP",
+            "quartileCount": "0.3-1.0",
+            "totalWeight": 57948,
+            "averageWeight": "3.45",
+            "gear": "Standard gill nets",
+            "CPUE": "3.08",
+            "totalCatch": 37
+          },
+          {
+            "quartileCount": "0.4-5.1",
+            "averageWeight": "0.32",
+            "gear": "Standard gill nets",
+            "totalWeight": 582,
+            "totalCatch": 4,
+            "CPUE": "0.33",
+            "gearCount": 12,
+            "quartileWeight": "0.2-0.4",
+            "species": "RKB"
+          },
+          {
+            "totalCatch": 9,
+            "CPUE": "0.75",
+            "averageWeight": "1.44",
+            "gear": "Standard gill nets",
+            "totalWeight": 5892,
+            "quartileCount": "0.3-2.2",
+            "species": "SMB",
+            "quartileWeight": "0.7-1.4",
+            "gearCount": 12
+          },
+          {
+            "quartileWeight": "1.1-3.3",
+            "species": "WAE",
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.86",
+            "totalWeight": 32392,
+            "CPUE": "2.08",
+            "totalCatch": 25,
+            "quartileCount": "0.6-9.7"
+          },
+          {
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 12,
+            "totalCatch": 5,
+            "CPUE": "0.42",
+            "totalWeight": 393,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.17",
+            "quartileCount": "0.3-2.8"
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.26",
+            "totalWeight": 25111,
+            "totalCatch": 44,
+            "CPUE": "3.67",
+            "quartileCount": "1.7-5.0"
+          },
+          {
+            "quartileCount": "1.4-17.4",
+            "totalWeight": 94764,
+            "averageWeight": "1.01",
+            "gear": "Standard gill nets",
+            "CPUE": "17.25",
+            "totalCatch": 207,
+            "gearCount": 12,
+            "quartileWeight": "0.1-0.7",
+            "species": "TLC"
+          }
+        ],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Alton",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_id": "16062200",
+          "id_date": "1996-05-20",
+          "survey_id": "112758"
+        },
+        "surveyDate": "1996-05-20",
+        "narrative": "<p>The gamefish population in Alton Lake is comprised of walleye, northern pike and smallmouth bass. It has a reputation of being a lake where the fish are known for quality and not quantity. The 1996 test netting results indicate this still seems to be true.     Walleye abundance is lower than in most other area walleye lakes but the fish are of a nicer size. Fish from 10 inches up to 28.5 inches (7 pounds) were sampled with almost one half exceeding 20 inches. The average walleye weighed 2.9 pounds. The population is maintained thru natural reproduction.     The northern pike population is also lower than in most area lakes but was somewhat higher than in previous surveys on Alton Lake. Northern pike up to 31 inches (9 pounds) were recorded with 40% of the fish over 25 inches. The average weight of all northern pike was 3.5 pounds.     Smallmouth bass populations are difficult to estimate with test nets but the 1996 survey found numbers and average size (1.4 pounds) to be comparable to past surveys and with angler reports.     Lake trout were stocked for many years in Alton Lake. Test nets and angler reports showed little success for lake trout management so stocking was discontinued after 1986. No lake trout were caught in this years survey but it is possible a low population may still be present.</p>",
+        "lengths": {
+          "BUB": {
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "minimum_length": 13
+          },
+          "TLC": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                11,
+                6
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                12
+              ],
+              [
+                14,
+                37
+              ],
+              [
+                15,
+                105
+              ],
+              [
+                16,
+                29
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 8
+          },
+          "SMB": {
+            "maximum_length": 14,
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                4
+              ]
+            ],
+            "minimum_length": 12
+          },
+          "WAE": {
+            "maximum_length": 28,
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                28,
+                2
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                25,
+                5
+              ],
+              [
+                26,
+                4
+              ],
+              [
+                27,
+                4
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                29,
+                2
+              ],
+              [
+                31,
+                1
+              ]
+            ],
+            "minimum_length": 10,
+            "maximum_length": 31
+          },
+          "RKB": {
+            "maximum_length": 8,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 17,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                12
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                6
+              ],
+              [
+                16,
+                10
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 9
+          }
+        },
+        "surveyID": "112758",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveySubType": "Re-Survey",
+        "surveyID": "350815548130000",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 109913,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.76",
+            "totalCatch": 138,
+            "CPUE": "11.50",
+            "quartileCount": "1.4-17.4",
+            "quartileWeight": "0.1-0.7",
+            "species": "TLC",
+            "gearCount": 12
+          },
+          {
+            "gearCount": 12,
+            "species": "BUB",
+            "quartileWeight": "0.7-1.9",
+            "quartileCount": "0.3-1.3",
+            "totalCatch": 1,
+            "CPUE": "0.08",
+            "totalWeight": 535,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.18"
+          },
+          {
+            "CPUE": "0.17",
+            "totalCatch": 2,
+            "averageWeight": "0.91",
+            "gear": "Standard gill nets",
+            "totalWeight": 830,
+            "quartileCount": "0.3-1.0",
+            "species": "NOP",
+            "quartileWeight": "2.7-5.3",
+            "gearCount": 12
+          },
+          {
+            "gearCount": 12,
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.7-5.0",
+            "totalCatch": 127,
+            "CPUE": "10.58",
+            "totalWeight": 138100,
+            "averageWeight": "2.40",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 12,
+            "species": "WAE",
+            "quartileWeight": "1.1-3.3",
+            "quartileCount": "0.6-9.7",
+            "totalCatch": 54,
+            "CPUE": "4.50",
+            "averageWeight": "1.11",
+            "gear": "Standard gill nets",
+            "totalWeight": 27139
+          },
+          {
+            "quartileCount": "0.3-2.2",
+            "totalCatch": 7,
+            "CPUE": "0.58",
+            "totalWeight": 3610,
+            "averageWeight": "1.14",
+            "gear": "Standard gill nets",
+            "gearCount": 12,
+            "species": "SMB",
+            "quartileWeight": "0.7-1.4"
+          },
+          {
+            "gearCount": 12,
+            "species": "BKT",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "0.08",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.43",
+            "totalWeight": 1100
+          },
+          {
+            "gearCount": 12,
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "quartileCount": "0.3-2.8",
+            "totalWeight": 140,
+            "averageWeight": "0.31",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.08"
+          },
+          {
+            "gearCount": 12,
+            "quartileWeight": "0.2-0.4",
+            "species": "RKB",
+            "quartileCount": "0.4-5.1",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.42",
+            "totalWeight": 10082,
+            "CPUE": "4.42",
+            "totalCatch": 53
+          }
+        ],
+        "lengths": {
+          "RKB": {
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                9
+              ],
+              [
+                7,
+                26
+              ],
+              [
+                8,
+                14
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 8
+          },
+          "WTS": {
+            "maximum_length": 24,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                8
+              ],
+              [
+                14,
+                17
+              ],
+              [
+                15,
+                13
+              ],
+              [
+                16,
+                20
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                18,
+                18
+              ],
+              [
+                19,
+                12
+              ],
+              [
+                20,
+                11
+              ],
+              [
+                21,
+                5
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 8
+          },
+          "BKT": {
+            "maximum_length": 17,
+            "minimum_length": 17,
+            "fishCount": [
+              [
+                17,
+                1
+              ]
+            ]
+          },
+          "TLC": {
+            "maximum_length": 19,
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                10
+              ],
+              [
+                16,
+                31
+              ],
+              [
+                17,
+                67
+              ],
+              [
+                18,
+                20
+              ],
+              [
+                19,
+                4
+              ]
+            ]
+          },
+          "SMB": {
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ],
+            "maximum_length": 15
+          },
+          "BUB": {
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                16,
+                1
+              ]
+            ],
+            "minimum_length": 16
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                9
+              ],
+              [
+                11,
+                7
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                12
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 30
+          },
+          "NOP": {
+            "maximum_length": 15,
+            "minimum_length": 14,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ]
+          }
+        },
+        "headerInfo": {
+          "wb_name": "Alton",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "id_date": "2008-06-09",
+          "survey_id": "350815548130000",
+          "wb_id": "16062200",
+          "survey_type": "Re-Survey"
+        },
+        "surveyDate": "2008-06-09",
+        "narrative": "<p>The walleye population in Alton Lake was above average for the lake class and should provide good walleye angling.  The walleye size (about 1.1 pounds) was smaller than average for this type of lake; however, 35% of the walleye sampled were greater than 14 inches.  Large walleye (greater than 5 pounds) were sampled in 2008 and anglers should not be surprised to have a trophy walleye on their line.  Northern pike are present in below average numbers although there is a history of quality, greater than 30 inches, sized northern pike in Alton Lake.  Smallmouth bass were sampled in below average numbers with the average size of 12 inches and the largest fish measured 15.5 inches.  Tullibees were present in above average numbers in 2008; the average weight was 1.8 pounds.  Other species an angler might encounter include:  brook trout, yellow perch and white sucker. <br> \n <br> \nAlton Lake is completely within the Boundary Waters Canoe Area Wilderness (BWCAW) and is accessible on portage trails from other area lakes.   The U.S. Forest Service administers the BWCAW and the sixteen campsites on Alton Lake.  There is a fee charged for over-night use and a day-use permit is required for shorter trips. <br> \n</p>"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "quartileWeight": "0.7-1.9",
+            "gearCount": 12,
+            "CPUE": "0.92",
+            "totalCatch": 11,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.65",
+            "totalWeight": 29.2,
+            "quartileCount": "0.3-1.3"
+          },
+          {
+            "totalCatch": 23,
+            "CPUE": "1.92",
+            "gear": "Standard gill nets",
+            "averageWeight": "6.37",
+            "totalWeight": 146.5,
+            "quartileCount": "0.3-1.0",
+            "species": "NOP",
+            "quartileWeight": "2.7-5.3",
+            "gearCount": 12
+          },
+          {
+            "species": "SMB",
+            "quartileWeight": "0.7-1.4",
+            "gearCount": 12,
+            "CPUE": "1.50",
+            "totalCatch": 18,
+            "totalWeight": 19.8,
+            "averageWeight": "1.10",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-2.2"
+          },
+          {
+            "totalWeight": 76,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.24",
+            "CPUE": "2.83",
+            "totalCatch": 34,
+            "quartileCount": "0.6-9.7",
+            "quartileWeight": "1.1-3.3",
+            "species": "WAE",
+            "gearCount": 12
+          },
+          {
+            "totalCatch": 17,
+            "CPUE": "1.42",
+            "totalWeight": 2.7,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.16",
+            "quartileCount": "0.3-2.8",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 12
+          },
+          {
+            "gearCount": 12,
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "quartileCount": "1.7-5.0",
+            "totalWeight": 219.6,
+            "averageWeight": "3.05",
+            "gear": "Standard gill nets",
+            "CPUE": "6.00",
+            "totalCatch": 72
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.72",
+            "totalWeight": 168.6,
+            "CPUE": "19.58",
+            "totalCatch": 235,
+            "quartileCount": "1.4-17.4",
+            "quartileWeight": "0.1-0.7",
+            "species": "TLC",
+            "gearCount": 12
+          }
+        ],
+        "narrative": "<p>The walleye catch was considerably lower then the area average. However there is ample natural reproduction to maintain a fair population. Mean walleye length was 16.2 inches.      Smallmouth bass numbers were about 33% of the area average. Northern pike, white sucker and yellow perch catches were substantially lower then the area average. A dense herring population exists with an average weight of 0.71 lbs/fish.</p>",
+        "surveyDate": "1986-05-19",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_id": "16062200",
+          "survey_id": "112301",
+          "id_date": "1986-05-19",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_name": "Alton"
+        },
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyID": "112301",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "surveyID": "112773",
+        "lengths": {},
+        "surveyDate": "1956-07-24",
+        "narrative": "<p>Alton Lake is a soft-water lake of low fertility. At the present time the only fish caught is the northern pike which appears to be maintaining a population. A few lake trout were caught in the past, and management for this species appears advisable.</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_name": "Alton",
+          "survey_type": "Initial Survey",
+          "wb_id": "16062200",
+          "survey_id": "112773",
+          "id_date": "1956-07-24"
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 12,
+            "quartileWeight": "2.7-5.3",
+            "species": "NOP",
+            "quartileCount": "0.3-1.0",
+            "gear": "Standard gill nets",
+            "averageWeight": "3.36",
+            "totalWeight": 36.96,
+            "CPUE": "0.92",
+            "totalCatch": 11
+          },
+          {
+            "quartileWeight": "1.1-3.3",
+            "species": "WAE",
+            "gearCount": 12,
+            "averageWeight": "4.14",
+            "gear": "Standard gill nets",
+            "totalWeight": 8.28,
+            "CPUE": "0.17",
+            "totalCatch": 2,
+            "quartileCount": "0.6-9.7"
+          },
+          {
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 12,
+            "totalCatch": 16,
+            "CPUE": "1.33",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.19",
+            "totalWeight": 3,
+            "quartileCount": "0.3-2.8"
+          },
+          {
+            "averageWeight": "1.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 163.44,
+            "CPUE": "13.58",
+            "totalCatch": 163,
+            "quartileCount": "1.7-5.0",
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "gearCount": 12
+          },
+          {
+            "quartileCount": "1.4-17.4",
+            "totalCatch": 13,
+            "CPUE": "1.08",
+            "totalWeight": 11.16,
+            "averageWeight": "0.86",
+            "gear": "Standard gill nets",
+            "gearCount": 12,
+            "species": "TLC",
+            "quartileWeight": "0.1-0.7"
+          }
+        ]
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "surveyID": "17072321548781000",
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>A temperature and dissolved oxygen profile was collected to monitor the habitat available for cold water fish species. Data from this survey will be used in the MPCA assessment of surface waters in the Lake Superior (North) watershed. The TDO3 value from the survey was determined to be 8 degrees Celsius, which indicates good oxythermal habitat for cold water species. This value also meets the water quality standard proposed by MPCA to assess lakes that support Northern Cisco (Tullibee) populations.</p>",
+        "surveyDate": "2023-08-03",
+        "headerInfo": {
+          "survey_id": "17072321548781000",
+          "id_date": "2023-08-03",
+          "survey_type": "Targeted Survey",
+          "wb_id": "16062200",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_name": "Alton",
+          "wb_alt_name": ""
+        },
+        "lengths": {},
+        "fishCatchSummaries": []
+      },
+      {
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "surveyID": "-316",
+        "lengths": {},
+        "surveyDate": "2025-08-04",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Alton Lake on August 4th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 55.8 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 23.0 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 39.8 feet at the time of sampling. The thickness of this layer of water in the water column was 16.9 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 9.7 degrees C (49.5 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2008, 2023, and 2024 also indicate suitable oxythermal habitat in all years surveyed. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "headerInfo": {
+          "survey_id": "-316",
+          "id_date": "2025-08-04",
+          "survey_type": "Targeted Survey",
+          "wb_id": "16062200",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_name": "Alton",
+          "wb_alt_name": ""
+        },
+        "fishCatchSummaries": []
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "CPUE": "0.64",
+            "totalCatch": 9,
+            "totalWeight": 14.2,
+            "averageWeight": "1.58",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.3",
+            "species": "BUB",
+            "quartileWeight": "0.7-1.9",
+            "gearCount": 14
+          },
+          {
+            "species": "LAT",
+            "quartileWeight": "1.2-3.1",
+            "gearCount": 14,
+            "CPUE": "0.14",
+            "totalCatch": 2,
+            "totalWeight": 29,
+            "averageWeight": "14.50",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-4.3"
+          },
+          {
+            "totalCatch": 14,
+            "CPUE": "1.00",
+            "averageWeight": "4.63",
+            "gear": "Standard gill nets",
+            "totalWeight": 64.8,
+            "quartileCount": "0.3-1.0",
+            "species": "NOP",
+            "quartileWeight": "2.7-5.3",
+            "gearCount": 14
+          },
+          {
+            "species": "SMB",
+            "quartileWeight": "0.7-1.4",
+            "gearCount": 14,
+            "totalCatch": 10,
+            "CPUE": "0.71",
+            "averageWeight": "1.38",
+            "gear": "Standard gill nets",
+            "totalWeight": 13.75,
+            "quartileCount": "0.3-2.2"
+          },
+          {
+            "quartileCount": "0.6-9.7",
+            "totalWeight": 47.25,
+            "averageWeight": "3.94",
+            "gear": "Standard gill nets",
+            "CPUE": "0.86",
+            "totalCatch": 12,
+            "gearCount": 14,
+            "quartileWeight": "1.1-3.3",
+            "species": "WAE"
+          },
+          {
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 14,
+            "CPUE": "1.43",
+            "totalCatch": 20,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.11",
+            "totalWeight": 2.2,
+            "quartileCount": "0.3-2.8"
+          },
+          {
+            "quartileCount": "1.7-5.0",
+            "CPUE": "3.00",
+            "totalCatch": 42,
+            "gear": "Standard gill nets",
+            "averageWeight": "3.11",
+            "totalWeight": 130.5,
+            "gearCount": 14,
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4"
+          },
+          {
+            "gearCount": 14,
+            "species": "TLC",
+            "quartileWeight": "0.1-0.7",
+            "quartileCount": "1.4-17.4",
+            "totalCatch": 854,
+            "CPUE": "61.00",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.56",
+            "totalWeight": 476.75
+          }
+        ],
+        "narrative": "<p>Lake trout stocking will be discontinued until future assessment netting or angling indicates that there has been survival from the past five years of lake trout stocking (1977-1982). Assessment netting twice this fall failed to catch any lake trout from recent stockings.</p>",
+        "surveyDate": "1982-10-11",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Alton",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_id": "16062200",
+          "id_date": "1982-10-11",
+          "survey_id": "112074"
+        },
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyID": "112074",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveyID": "17101827546625200",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 12,
+            "quartileWeight": "0.1-0.7",
+            "species": "TLC",
+            "quartileCount": "1.4-17.4",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.81",
+            "totalWeight": 820,
+            "CPUE": "0.08",
+            "totalCatch": 1
+          },
+          {
+            "species": "YEP",
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "CPUE": "1.00",
+            "totalCatch": 4,
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "gear": "Special trap nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "0.50",
+            "totalCatch": 2,
+            "totalWeight": 63,
+            "gear": "Special trap nets",
+            "averageWeight": "0.07",
+            "gearCount": 4,
+            "species": "RKB",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "2.7-5.3",
+            "species": "NOP",
+            "gearCount": 12,
+            "totalWeight": 7175,
+            "averageWeight": "2.26",
+            "gear": "Standard gill nets",
+            "totalCatch": 7,
+            "CPUE": "0.58",
+            "quartileCount": "0.3-1.0"
+          },
+          {
+            "quartileWeight": "N/A",
+            "species": "JND",
+            "gearCount": 4,
+            "gear": "Special trap nets",
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "quartileCount": "N/A"
+          },
+          {
+            "gearCount": 12,
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.7-5.0",
+            "totalCatch": 149,
+            "CPUE": "12.42",
+            "totalWeight": 167058,
+            "averageWeight": "2.47",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "averageWeight": "0.34",
+            "gear": "Special trap nets",
+            "totalWeight": 153,
+            "gearCount": 4,
+            "species": "NOP",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 4,
+            "quartileWeight": "N/A",
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "gear": "Special trap nets",
+            "totalWeight": 0,
+            "totalCatch": 1,
+            "CPUE": "0.25"
+          },
+          {
+            "totalCatch": 43,
+            "CPUE": "3.58",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.33",
+            "totalWeight": 25908,
+            "quartileCount": "0.6-9.7",
+            "species": "WAE",
+            "quartileWeight": "1.1-3.3",
+            "gearCount": 12
+          },
+          {
+            "quartileCount": "0.3-2.2",
+            "totalCatch": 45,
+            "CPUE": "3.75",
+            "totalWeight": 35016,
+            "averageWeight": "1.72",
+            "gear": "Standard gill nets",
+            "gearCount": 12,
+            "species": "SMB",
+            "quartileWeight": "0.7-1.4"
+          },
+          {
+            "totalCatch": 25,
+            "CPUE": "6.25",
+            "averageWeight": "0.00",
+            "gear": "Special trap nets",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "species": "SMB",
+            "quartileWeight": "N/A",
+            "gearCount": 4
+          },
+          {
+            "quartileCount": "0.3-2.8",
+            "CPUE": "0.42",
+            "totalCatch": 5,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.10",
+            "totalWeight": 234,
+            "gearCount": 12,
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "gearCount": 12,
+            "quartileWeight": "0.2-0.4",
+            "species": "RKB",
+            "quartileCount": "0.4-5.1",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.32",
+            "totalWeight": 3440,
+            "CPUE": "2.00",
+            "totalCatch": 24
+          }
+        ],
+        "headerInfo": {
+          "wb_id": "16062200",
+          "survey_type": "Standard Survey",
+          "survey_id": "17101827546625200",
+          "id_date": "2018-09-10",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_name": "Alton"
+        },
+        "narrative": "<p>Alton Lake has a surface area of 969 acres and a maximum depth of 72 feet.  The lake is located in western Cook County and is entirely within the Boundary Waters Canoe Area Wilderness (BWCAW).  There are 15 designated campsites around the lake maintained by the US Forest Service.  There are no direct access points to Alton Lake; one of four portages can be used to access the lake.  The primary portage to the lake is a 29 rod portage from Sawbill Lake to the east shore of Alton Lake.  There is a 169 rod portage from the south shore of Alton Lake to Wonder Lake.  A 151 rod portage connects the west shore of Alton Lake to Beth Lake and a 13 rod portage connects the north end of Alton Lake to Kelso Lake. <br> \n <br> \nThe purpose of the 2018 survey was to monitor the status of the fish community in Alton Lake.  The fish community consists of Walleye, Northern Pike, Smallmouth Bass, Yellow Perch, and Tullibee.  The fish community is maintained through natural reproduction.  Alton Lake is known for its Smallmouth Bass angling but also offers good opportunities for eater sized Walleye.  Anglers may also catch occasional Northern Pike, Yellow Perch, and Rock Bass. <br> \n <br> \nWalleye catch was average when compared to similar lakes.  The average weight of Walleye sampled was 1 1/3 pounds.  Average length was approximately 16 inches with the longest fish measuring 25 inches.  Nine different ages of Walleye were identified in the sample with fish ranging from age-2 to age-13.  Walleye were well distributed within this age range with no year classes dramatically larger than others.  Walleye growth was average when compared to similar lakes in the area. <br> \n <br> \nNorthern Pike catch was near average when compared to similar lakes.  Pike averaged 2 1/4 pounds with an average length of 22 inches.  Five ages of Northern Pike were represented in the sample ranging from two to six.   <br> \n <br> \nSmallmouth Bass catch was well above average compared to similar lakes.  Average size was 14 inches and 1 3/4 pounds. The largest Smallmouth Bass weighed 3 3/4 pounds and was 18 inches long.  Smallmouth Bass ranged in age from zero to 15 with age-3 fish making up the largest portion of the sample.  These fish averaged 13 inches at the time of sampling.  Smallmouth Bass growth was fast when compared to other area lakes. <br> \n <br> \nYellow Perch catch was average compared to similar lakes in the area.  The average length was 6 1/2 inches with fish up to 8 inches long sampled.  These fish ranged in age from zero to four.  A single Tullibee was sample, it measured 18 1/2 inches and was estimated to be 17 years old.  Other species sampled were White Sucker, Rock Bass, and Johnny Darter. <br> \n</p>",
+        "surveyDate": "2018-09-10",
+        "lengths": {
+          "RKB": {
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                4,
+                2
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                7
+              ],
+              [
+                7,
+                8
+              ],
+              [
+                8,
+                7
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "SMB": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                2,
+                23
+              ],
+              [
+                3,
+                2
+              ],
+              [
+                10,
+                3
+              ],
+              [
+                12,
+                7
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                7
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "minimum_length": 2
+          },
+          "TLC": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                18,
+                1
+              ]
+            ],
+            "minimum_length": 18
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                9
+              ],
+              [
+                16,
+                24
+              ],
+              [
+                17,
+                31
+              ],
+              [
+                18,
+                30
+              ],
+              [
+                19,
+                11
+              ],
+              [
+                20,
+                14
+              ],
+              [
+                21,
+                8
+              ],
+              [
+                22,
+                4
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 25
+          },
+          "NOP": {
+            "maximum_length": 23,
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                23,
+                3
+              ]
+            ]
+          },
+          "WAE": {
+            "maximum_length": 24,
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                6
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                2,
+                2
+              ],
+              [
+                3,
+                2
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 2
+          }
+        }
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Alton Lake on August 20, 2024 to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature was below 21.2 degrees C (70.2 degrees F) at the surface of the water and the dissolved oxygen concentration decreased to 3.0 mg/L at 36.8 feet at the time of sampling. The thickness of this layer of water in the water column was 36.8 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 10.4 degrees C (50.7 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress in 2023 and 2008 also indicate suitable oxythermal habitat. If inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. </p>",
+        "surveyDate": "2024-08-20",
+        "headerInfo": {
+          "id_date": "2024-08-20",
+          "survey_id": "21872426841809269",
+          "wb_id": "16062200",
+          "survey_type": "Targeted Survey",
+          "wb_name": "Alton",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_alt_name": ""
+        },
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "surveyID": "21872426841809269",
+        "surveySubType": "Targeted Survey"
+      }
+    ],
+    "county": "Cook",
+    "officeCode": "F215",
+    "littoralAcres": 320,
+    "averageWaterClarity": "14.2",
+    "shoreLengthMiles": 15.41,
+    "areaAcres": 968.63
+  },
+  "timestamp": 1790285620
+}

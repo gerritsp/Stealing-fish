@@ -1,0 +1,116 @@
+{
+  "result": {
+    "averageWaterClarity": "N/A",
+    "littoralAcres": 114.58,
+    "maxDepthFeet": 10,
+    "shoreLengthMiles": 2.81,
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "lengths": {},
+        "narrative": "<p>Rush Lake has average populations of white sucker, northern pike, yellow perch, walleye, smallmouth bass and rock bass. White suckers are smaller than average (mean length=13'). Walleye growth is slow (11.5' at annulus IV) and year class strengths appear fairly evenly distributed.</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1984-08-28",
+        "headerInfo": {
+          "survey_id": "108259",
+          "survey_type": "Initial Survey",
+          "wb_id": "69020300",
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "wb_type": "Lake",
+          "wb_name": "Rush",
+          "id_date": "1984-08-28"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyID": "108259",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "3.0-9.0",
+            "species": "NOP",
+            "CPUE": "4.00",
+            "quartileWeight": "1.2-2.5",
+            "totalCatch": 16,
+            "gearCount": 4,
+            "totalWeight": 26,
+            "averageWeight": "1.62",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "0.1-0.4",
+            "totalCatch": 1,
+            "species": "RKB",
+            "CPUE": "0.25",
+            "quartileCount": "0.4-2.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.1,
+            "averageWeight": "0.10",
+            "gearCount": 4
+          },
+          {
+            "quartileCount": "0.3-1.5",
+            "quartileWeight": "0.6-1.6",
+            "totalCatch": 1,
+            "species": "SMB",
+            "CPUE": "0.25",
+            "averageWeight": "1.50",
+            "totalWeight": 1.5,
+            "gearCount": 4,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "2.3-9.6",
+            "species": "WAE",
+            "CPUE": "4.00",
+            "quartileWeight": "0.7-1.8",
+            "totalCatch": 16,
+            "gearCount": 4,
+            "totalWeight": 20.6,
+            "averageWeight": "1.29",
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "3.75",
+            "species": "YEP",
+            "totalCatch": 15,
+            "quartileWeight": "0.1-0.3",
+            "quartileCount": "3.3-18.3",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "totalWeight": 4.4,
+            "averageWeight": "0.29"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "totalWeight": 32.5,
+            "averageWeight": "1.35",
+            "CPUE": "6.00",
+            "species": "WTS",
+            "totalCatch": 24,
+            "quartileWeight": "1.3-2.3",
+            "quartileCount": "5.3-22.1"
+          }
+        ]
+      }
+    ],
+    "officeCode": "F214",
+    "areaAcres": 114.58,
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "location": "ACCESS GAINED BY 2 USFS PORTAGES; 1/4 MI FROM DRK LAKE OR 1/4 MI FROM FOX LAKE.",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O"
+      }
+    ],
+    "county": "St. Louis",
+    "meanDepthFeet": 0,
+    "lakeName": "Rush",
+    "waterClarity": [],
+    "DOWNumber": "69020300"
+  },
+  "timestamp": 1790285965,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

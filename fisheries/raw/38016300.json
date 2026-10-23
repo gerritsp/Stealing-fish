@@ -1,0 +1,130 @@
+{
+  "result": {
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "By portage only-in BWCA.",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O"
+      }
+    ],
+    "county": "Lake",
+    "officeCode": "F214",
+    "areaAcres": 38.1,
+    "lakeName": "Link",
+    "maxDepthFeet": 34,
+    "waterClarity": [
+      [
+        "07/31/2025",
+        "9"
+      ],
+      [
+        "08/13/2024",
+        "11.5"
+      ]
+    ],
+    "shoreLengthMiles": 1.77,
+    "surveys": [
+      {
+        "headerInfo": {
+          "survey_id": "107943",
+          "id_date": "1973-08-07",
+          "wb_id": "38016300",
+          "county": "Lake",
+          "wb_name": "Link",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey"
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.3-5.1",
+            "gearCount": 3,
+            "totalCatch": 6,
+            "totalWeight": 6.8,
+            "species": "NOP",
+            "CPUE": "2.00",
+            "averageWeight": "1.13",
+            "quartileWeight": "1.4-2.2",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "0.8-30.9",
+            "gearCount": 3,
+            "totalCatch": 14,
+            "totalWeight": 8.1,
+            "averageWeight": "0.58",
+            "quartileWeight": "0.6-5.4",
+            "gear": "Standard gill nets",
+            "species": "LKW",
+            "CPUE": "4.67"
+          },
+          {
+            "totalWeight": 14.2,
+            "gearCount": 3,
+            "quartileCount": "1.7-12.5",
+            "totalCatch": 5,
+            "quartileWeight": "0.7-2.3",
+            "averageWeight": "2.84",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "CPUE": "1.67"
+          }
+        ],
+        "narrative": "<p>The northern pike population is below average in size and numbers.  The whitefish population is above average in number but below average in size. The white sucker population is about average.</p>",
+        "surveyDate": "1973-08-07",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyID": "107943",
+        "surveySubType": "Initial Survey"
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Link Lake on July 31st, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 26.2 feet), the water temperature decreased to 17.2 degrees C (63.0 degrees F) at 12.5 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 20.0 feet at the time of sampling. This layer in the water column was 7.5 feet, indicating oxythermal habitat for Lake Whitefish was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 7.6 degrees C (45.7 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat.One fisheries was conducted on Lake of the Clouds, in 1973, and Lake Whitefish were caught in that survey. When adequate oxythermal habitat is not available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyDate": "2025-07-31",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "county": "Lake",
+          "wb_id": "38016300",
+          "wb_alt_name": "",
+          "wb_name": "Link",
+          "id_date": "2025-07-31",
+          "survey_id": "22122522746740122"
+        },
+        "surveyID": "22122522746740122",
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "lengths": {}
+      },
+      {
+        "surveyID": "21872427039853066",
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "lengths": {},
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Link Lake on August 13th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 27.9 feet), the water temperature decreased below 17.2 degrees C (63.0 degrees F) at 11.4 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 14.1 feet at the time of sampling. The thickness of this layer of water in the water column was 2.7 feet, indicating that oxythermal habitat was present but marginal for Lake Whitefish. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 12.8 degrees C (55.0 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were good for Lake Whitefish at the time of the survey as the layer was confined to less than 3 feet of suitable habitat at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Link Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyDate": "2024-08-13",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "id_date": "2024-08-13",
+          "survey_id": "21872427039853066",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Link",
+          "county": "Lake",
+          "wb_id": "38016300"
+        }
+      }
+    ],
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "DOWNumber": "38016300",
+    "averageWaterClarity": "10.3",
+    "littoralAcres": 17
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790286024
+}

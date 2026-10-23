@@ -1,0 +1,83 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790286021,
+  "message": "Normal execution.",
+  "result": {
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "headerInfo": {
+          "county": "Lake",
+          "survey_id": "107945",
+          "wb_id": "38016500",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "id_date": "1973-08-07",
+          "wb_name": "Bullfrog"
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1973-08-07",
+        "narrative": "<p>This is a lake containing a northern pike population of average numbers and sizes.  White suckers are present in above average numbers and sizes.  Yellow perch are below average in both numbers and size.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "1.2-5.7",
+            "CPUE": "12.67",
+            "totalCatch": 38,
+            "totalWeight": 97.8,
+            "quartileWeight": "1.6-3.3",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "averageWeight": "2.57",
+            "species": "NOP"
+          },
+          {
+            "totalWeight": 1.15,
+            "totalCatch": 9,
+            "quartileCount": "2.0-16.5",
+            "CPUE": "3.00",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.13",
+            "gearCount": 3,
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "CPUE": "4.00",
+            "quartileCount": "1.6-7.6",
+            "totalWeight": 27.1,
+            "totalCatch": 12,
+            "averageWeight": "2.26",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.2-2.1",
+            "species": "WTS"
+          }
+        ],
+        "surveyID": "107945"
+      }
+    ],
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "location": "By portage only-in BWCA on USFS land.",
+        "accessTypeId": "O"
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "DOWNumber": "38016500",
+    "littoralAcres": 43,
+    "lakeName": "Bullfrog",
+    "county": "Lake",
+    "meanDepthFeet": 0,
+    "areaAcres": 64.64,
+    "shoreLengthMiles": 2.02,
+    "maxDepthFeet": 26,
+    "waterClarity": []
+  }
+}

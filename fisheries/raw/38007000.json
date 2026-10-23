@@ -1,0 +1,382 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285611,
+  "result": {
+    "meanDepthFeet": 4,
+    "surveys": [
+      {
+        "narrative": "<p>Kawasachong Lake is a 161.5 acre lake located approximately 22 miles northeast of Isabella, Minnesota. The lake lies completely within the Boundary Waters Canoe Area Wilderness (BWCAW) and is accessible via 2 different routes.  The first route is a series of paddles and portages from the Kawishiwi Lake access through Square then along the Kawishiwi River.  The second route is a 189 rod portage from Townline Lake to the northwest bay of the lake.  Townline Lake is along the portage route from Polly Lake.  The shoreline and watershed around the lake are recovering from the Pagami Creek fire, which moved through the area in 2011.  A majority of the shoreline contains young plant growth as the forest regenerates.  The southeastern shore was the only part of the lake that was untouched by the fire and remains in its completely forested state.  Four US Forest Service campsites are located on the lake, and in 2015, 3 sites were open for public use.  Two campsites were not burnt over by the 2011 fire.  The maximum depth of Kawasachong Lake is 11.0 feet.  Water clarity was 5.0 feet in brown water.  There are five inlets on the lake with the main inlet being the Kawishiwi River, which enters on the western shore.  One outlet (Kawishiwi River) exits from the western shore of a western bay.  Twenty-one aquatic plant species were observed in the survey with sweet gale, sedge, and watershield being the most common.  Boulder and muck were the most abundant substrates.   <br> \n <br> \nThe 2015 Walleye catch was above average for the northeastern Minnesota lakes with similar characteristics.  The average weight of Walleye was 0.93 pounds and average length was 13.8 inches.  The largest Walleye sampled was 20.5 inches long and weighed 2.6 pounds.  Seven year classes were represented in the sample with 45percent of the catch composed of age-4 fish.  Growth was average when compared to similar lakes in the Finland Fisheries Area.  <br> \n <br> \nThe Northern Pike catch was average for northeastern Minnesota lakes with similar characteristics.  The average weight was 1.9 pounds with an average length of 18.0 inches.  The largest Northern Pike was 37.1 inches long and weighed 19.6 pounds.  Six year classes were present in the sample and growth of Northern Pike was above average for the Finland Area. <br> \n <br> \nThe Yellow Perch catch was near average for northeastern Minnesota lakes with similar characteristics.  The average weight was 0.25 pounds with the average length of 7.4 inches.  The largest Yellow Perch was 12.5 inches and 0.9 pounds.  Nine year classes were represented in the sample.  Growth was faster than average for the Finland Area.    <br> \n <br> \nA high number of White Suckers were caught in gill nets. The average weight of White Sucker was 2.2 pounds with an average length being 17.5 inches.   <br> \n <br> \nTwo Rock Bass were sampled in the gill nets.  They were 6.4 inches (0.2 pounds) and 8.8 inches (0.5 pounds) in length.   <br> \n <br> \nA single Smallmouth Bass was caught in a gill net.  It measured 14.6 inches long and weighed 1.7 pounds.  This was the first time Smallmouth Bass had been sampled in Kawasachong Lake.  Smallmouth Bass have been sampled both above and below Kawasachong Lake in the Kawishiwi River system.   <br> \n <br> \nKawasachong Lake is mainly a paddle-through lake for canoers heading to Polly Lake and the Lady Chain of lakes canoe route.  Angling pressure on the lake is presumed to be light.  All anglers on Kawasachong Lake must abide by the BWCAW regulations at all times; the lake is entirely non-motorized.   <br> \n</p>",
+        "headerInfo": {
+          "wb_name": "Kawasachong",
+          "survey_id": "11951519539519016",
+          "wb_id": "38007000",
+          "survey_type": "Standard Survey",
+          "id_date": "2015-07-06",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_alt_name": ""
+        },
+        "surveySubType": "Standard Survey",
+        "surveyID": "11951519539519016",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.0-6.3",
+            "CPUE": "4.00",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "totalWeight": 20094,
+            "quartileWeight": "1.3-2.4",
+            "gearCount": 6,
+            "totalCatch": 24,
+            "averageWeight": "1.85"
+          },
+          {
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00",
+            "totalCatch": 1,
+            "gearCount": 6,
+            "gear": "Minnow traps",
+            "CPUE": "0.17",
+            "quartileCount": "N/A",
+            "totalWeight": 0,
+            "species": "YEP"
+          },
+          {
+            "averageWeight": "0.37",
+            "totalCatch": 2,
+            "gearCount": 6,
+            "quartileWeight": "0.2-0.4",
+            "totalWeight": 339,
+            "species": "RKB",
+            "gear": "Standard gill nets",
+            "CPUE": "0.33",
+            "quartileCount": "0.3-2.0"
+          },
+          {
+            "gearCount": 6,
+            "totalCatch": 1,
+            "averageWeight": "1.74",
+            "quartileWeight": "0.6-1.6",
+            "species": "SMB",
+            "totalWeight": 788,
+            "CPUE": "0.17",
+            "quartileCount": "0.5-5.8",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "3.0-9.8",
+            "CPUE": "8.00",
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "totalWeight": 19232,
+            "quartileWeight": "0.9-1.6",
+            "gearCount": 6,
+            "averageWeight": "0.88",
+            "totalCatch": 48
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 39,
+            "averageWeight": "0.25",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileCount": "2.2-14.6",
+            "CPUE": "6.50",
+            "totalWeight": 4398,
+            "species": "YEP"
+          },
+          {
+            "species": "WTS",
+            "totalWeight": 67213,
+            "CPUE": "12.50",
+            "quartileCount": "3.6-14.1",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalCatch": 75,
+            "averageWeight": "1.98",
+            "quartileWeight": "1.5-2.4"
+          }
+        ],
+        "surveyDate": "2015-07-06",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "SMB": {
+            "fishCount": [
+              [
+                14,
+                1
+              ]
+            ],
+            "minimum_length": 14,
+            "maximum_length": 14
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                16
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 8
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                37,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 37,
+            "minimum_length": 9
+          },
+          "YEP": {
+            "minimum_length": 4,
+            "maximum_length": 12,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                17
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                5
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 6
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                13
+              ],
+              [
+                18,
+                12
+              ],
+              [
+                19,
+                19
+              ],
+              [
+                20,
+                7
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 20
+          }
+        }
+      }
+    ],
+    "waterClarity": [
+      [
+        "07/10/2015",
+        "5"
+      ]
+    ],
+    "DOWNumber": "38007000",
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": "Canoe and Portage on Kawishiwi River from Square Lake.",
+        "location": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "USF"
+      },
+      {
+        "location": " ",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": "Portage (189 rods) from Townline Lake. "
+      }
+    ],
+    "areaAcres": 161.53,
+    "shoreLengthMiles": 5.49,
+    "averageWaterClarity": "5.0",
+    "sampledPlants": [
+      "Arrowhead Group (Sagittaria sp.)",
+      "Burreed Group (Sparganium sp.)",
+      "Common White Waterlily  (Nymphaea odorata)",
+      "Common Yellow Waterlily (Nuphar variegata)",
+      "Grass Group  (Gramineae/Poaceae Family)",
+      "Narrow-leaf Pondweed Group (Potamogeton sp. )",
+      "Northern Milfoil (Myriophyllum sibiricum)",
+      "Sedge Group (Carex sp.)",
+      "Swamp Fivefinger (Potentilla palustris)",
+      "Water Bulrush (Schoenoplectus subterminalis)",
+      "common bladderwort (Utricularia vulgaris)",
+      "floating bur-reed (Sparganium fluctuans)",
+      "floating pondweed (Potamogeton natans)",
+      "large-leaved pondweed (Potamogeton amplifolius)",
+      "leatherleaf (Chamaedaphne calyculata)",
+      "ribbon-leaved pondweed (Potamogeton epihydrus)",
+      "sweet gale (Myrica gale)",
+      "three-way sedge (Dulichium arundinaceum)",
+      "water lobelia (Lobelia dortmanna)",
+      "water smartweed (Persicaria amphibia)",
+      "watershield (Brasenia schreberi)"
+    ],
+    "county": "Lake",
+    "maxDepthFeet": 11,
+    "lakeName": "Kawasachong",
+    "littoralAcres": 161.53,
+    "officeCode": "F215"
+  }
+}

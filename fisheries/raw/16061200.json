@@ -1,0 +1,77 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790286038,
+  "result": {
+    "littoralAcres": 19.41,
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_id": "16061200",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "survey_id": "109795",
+          "wb_alt_name": "",
+          "wb_name": "Reward",
+          "county": "Cook",
+          "id_date": "1978-08-29"
+        },
+        "surveyDate": "1978-08-29",
+        "narrative": "<p>There is a good population of small sized N Pike with some Perch for forage.</p>",
+        "surveyType": "Standard Survey",
+        "surveyID": "109795",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 18,
+            "gearCount": 1,
+            "gear": "Standard gill nets",
+            "CPUE": "13.00",
+            "totalCatch": 13,
+            "quartileWeight": "1.2-2.4",
+            "quartileCount": "3.9-9.4",
+            "species": "NOP",
+            "averageWeight": "1.38"
+          },
+          {
+            "totalWeight": 0.25,
+            "gear": "Standard gill nets",
+            "gearCount": 1,
+            "totalCatch": 2,
+            "CPUE": "2.00",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.12",
+            "species": "YEP",
+            "quartileCount": "2.0-23.0"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "lengths": {}
+      }
+    ],
+    "meanDepthFeet": 0,
+    "lakeName": "Reward",
+    "county": "Cook",
+    "waterClarity": [
+      [
+        "08/30/1978",
+        "8"
+      ]
+    ],
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "location": "Poor-No marked portage trails.",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "averageWaterClarity": "8.0",
+    "shoreLengthMiles": 1.07,
+    "maxDepthFeet": 14,
+    "areaAcres": 19.41,
+    "DOWNumber": "16061200",
+    "sampledPlants": []
+  }
+}

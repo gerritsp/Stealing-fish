@@ -1,0 +1,61 @@
+{
+  "timestamp": 1790285629,
+  "status": "SUCCESS",
+  "result": {
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "county": "Lake",
+    "maxDepthFeet": 38,
+    "accesses": [
+      {
+        "location": "NONE",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " "
+      }
+    ],
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "species": "LMB",
+            "totalWeight": 0.5,
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "0.08",
+            "averageWeight": "0.50",
+            "gearCount": 12,
+            "quartileWeight": "N/A"
+          }
+        ],
+        "narrative": "<p>Composed of a low population of largemouth bass. </p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "1985-07-18",
+          "wb_id": "38060100",
+          "wb_type": "Lake",
+          "survey_id": "108202",
+          "county": "Lake",
+          "wb_name": "Unnamed",
+          "survey_type": "Population Assessment"
+        },
+        "surveyDate": "1985-07-18",
+        "surveyID": "108202"
+      }
+    ],
+    "lakeName": "Unnamed",
+    "littoralAcres": 8,
+    "DOWNumber": "38060100",
+    "shoreLengthMiles": 0.59,
+    "averageWaterClarity": "N/A",
+    "areaAcres": 10.72,
+    "waterClarity": []
+  },
+  "message": "Normal execution."
+}

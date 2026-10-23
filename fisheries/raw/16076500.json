@@ -1,0 +1,657 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "DOWNumber": "16076500",
+    "officeCode": "F218",
+    "averageWaterClarity": "13.8",
+    "shoreLengthMiles": 1.55,
+    "areaAcres": 53.73,
+    "waterClarity": [
+      [
+        "09/19/1988",
+        "15"
+      ],
+      [
+        "09/16/2013",
+        "13"
+      ],
+      [
+        "07/31/1972",
+        "14"
+      ],
+      [
+        "09/23/1991",
+        "13"
+      ]
+    ],
+    "accesses": [
+      {
+        "location": " ",
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO",
+        "ownerTypeId": "DNR",
+        "lakeAccessComments": "20-rod portage trail from Sea Gull Lake across State land.  Lake is entirely inside the BWCAW."
+      }
+    ],
+    "maxDepthFeet": 40,
+    "littoralAcres": 21,
+    "meanDepthFeet": 20.6,
+    "sampledPlants": [],
+    "lakeName": "Rog",
+    "surveys": [
+      {
+        "surveyDate": "1988-09-19",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "id_date": "1988-09-19",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_name": "Rog",
+          "wb_id": "16076500",
+          "survey_id": "110072",
+          "wb_type": "Lake"
+        },
+        "surveyID": "110072",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "narrative": "<p>BROOK TROUT ABUNDANCE IS FAIR, AND SIZE IS GOOD. IT APPEARS THAT SURVIVAL OF THE 1987 FINGERLINGS STOCKING WAS PPOR, BUT 1986 AND 1985 STOCKINGS HAVE SHOWN GOOD SURVIVAL. BROOK TROUT GROWTH IS GOOD. THE ABUNDANCE OF BURBOT AND WHITE SUCKER HAS INCREASED SINCE 1985. THESE SPECIES MAY HINDER BROOK TROUT MANAGEMENT IN THE FUTURE.</p>",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "CPUE": "2.00",
+            "quartileCount": "0.5-2.0",
+            "quartileWeight": "0.1-0.8",
+            "totalCatch": 4,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.12",
+            "species": "BUB",
+            "totalWeight": 0.5
+          },
+          {
+            "gearCount": 10,
+            "quartileCount": "N/A",
+            "CPUE": "0.20",
+            "gear": "Standard trap nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 2,
+            "species": "BKT",
+            "totalWeight": 3,
+            "averageWeight": "1.50"
+          },
+          {
+            "gear": "Standard trap nets",
+            "totalCatch": 8,
+            "quartileWeight": "0.8-1.6",
+            "totalWeight": 6.25,
+            "species": "WTS",
+            "averageWeight": "0.78",
+            "gearCount": 10,
+            "quartileCount": "0.5-3.4",
+            "CPUE": "0.80"
+          },
+          {
+            "averageWeight": "0.21",
+            "totalWeight": 1.25,
+            "species": "BUB",
+            "quartileWeight": "0.5",
+            "totalCatch": 6,
+            "gear": "Standard trap nets",
+            "CPUE": "0.60",
+            "quartileCount": "0.8",
+            "gearCount": 10
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "3.00",
+            "gearCount": 2,
+            "totalWeight": 9.25,
+            "species": "BKT",
+            "averageWeight": "1.54",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 6
+          },
+          {
+            "quartileWeight": "0.7-2.3",
+            "totalCatch": 15,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.17",
+            "species": "WTS",
+            "totalWeight": 17.5,
+            "gearCount": 2,
+            "CPUE": "7.50",
+            "quartileCount": "1.7-12.5"
+          }
+        ],
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveyID": "111331",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "1.0-4.1",
+            "CPUE": "1.50",
+            "gearCount": 2,
+            "species": "SMB",
+            "totalWeight": 2502,
+            "averageWeight": "1.84",
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "quartileWeight": "0.5-1.5"
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "1.50",
+            "gearCount": 2,
+            "totalWeight": 3312,
+            "species": "LNS",
+            "averageWeight": "2.43",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 3
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "3.00",
+            "gearCount": 2,
+            "species": "BKT",
+            "totalWeight": 2540,
+            "averageWeight": "0.93",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 6
+          },
+          {
+            "species": "WTS",
+            "totalWeight": 8580,
+            "averageWeight": "0.76",
+            "gear": "Standard gill nets",
+            "totalCatch": 25,
+            "quartileWeight": "0.7-2.3",
+            "quartileCount": "1.7-12.5",
+            "CPUE": "12.50",
+            "gearCount": 2
+          }
+        ],
+        "narrative": "<p>Rog Lake has been managed for brook trout.  Several other species have been present in recent years, and may have entered Rog Lake from it's outlet stream to Sea Gull Lake.  White sucker have been present since at least 1985.  Smallmouth bass and longnose sucker were first collected in a population assessment in 1991.The brook trout catch in 2002 was lower than in 1991, but was within the normal range for lakes in the Grand Marais area.  Lengths ranged from 10.9 inches to 15.7 inches.  Two year-classes (ages 2 and 3) were collected.  Growth rates appeared to have been about average for the area.  Brook trout were 9.3 inches long at the end of their second year, and the single 3-year-old caught was 13.5 inches when it reached three years of age. The smallmouth bass catch in 2002 was one-third the high 1991 catch, but was within the normal range for lakes of this class. One each of age-2, age-4. and age-6 were collected, and all had exhibited fast growth by area standards.The number and size of white sucker caught was unchanged from 1991.  More than one year-class of longnose sucker appeared to be present.</p>",
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                11,
+                13
+              ],
+              [
+                12,
+                10
+              ],
+              [
+                13,
+                2
+              ]
+            ],
+            "minimum_length": 11,
+            "maximum_length": 13
+          },
+          "LNS": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "minimum_length": 12,
+            "maximum_length": 22
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ],
+            "maximum_length": 15,
+            "minimum_length": 10
+          },
+          "SMB": {
+            "minimum_length": 9,
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "2002-09-16",
+        "headerInfo": {
+          "wb_id": "16076500",
+          "survey_id": "111331",
+          "wb_type": "Lake",
+          "wb_name": "Rog",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "id_date": "2002-09-16",
+          "survey_type": "Population Assessment"
+        }
+      },
+      {
+        "lengths": {
+          "SMB": {
+            "fishCount": [
+              [
+                10,
+                8
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 17,
+            "minimum_length": 7
+          },
+          "BKT": {
+            "maximum_length": 19,
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 22,
+            "minimum_length": 17,
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.08",
+            "species": "SMB",
+            "totalWeight": 7857,
+            "totalCatch": 16,
+            "quartileWeight": "0.5-1.5",
+            "gear": "Standard gill nets",
+            "CPUE": "4.00",
+            "quartileCount": "1.0-4.1",
+            "gearCount": 4
+          },
+          {
+            "averageWeight": "1.54",
+            "species": "BKT",
+            "totalWeight": 4182,
+            "totalCatch": 6,
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "1.50",
+            "quartileCount": "N/A",
+            "gearCount": 4
+          },
+          {
+            "averageWeight": "3.38",
+            "totalWeight": 10739,
+            "species": "WTS",
+            "totalCatch": 7,
+            "quartileWeight": "0.7-2.3",
+            "gear": "Standard gill nets",
+            "CPUE": "1.75",
+            "quartileCount": "1.7-12.5",
+            "gearCount": 4
+          }
+        ],
+        "narrative": "<p>Rog Lake supported a relatively small number of brook trout in the fall of 2004, although fish as large as 19.3 inches were present.  The lake also supported a relatively high number of smallmouth bass, up to 17.3 inches in length.  The presence of smallmouth bass in high numbers probably accounts for the low brook trout catch.  Smallmouth bass of the sizes seen on this lake in 2004 can prey directly on stocked trout fingerlings, and few fingerlings may survive to reach catchable sizes. Other undesirable fish species (for a stream trout lake) found in Rog Lake include burbot, longnose sucker, white sucker, and walleye.  Of those, only white sucker were collected in 2004, in fairly low numbers.  </p>",
+        "surveyID": "111479",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "id_date": "2004-09-15",
+          "wb_alt_name": "",
+          "wb_name": "Rog",
+          "wb_id": "16076500",
+          "survey_id": "111479",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "2004-09-15"
+      },
+      {
+        "surveyDate": "2013-09-16",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "id_date": "2013-09-16",
+          "wb_name": "Rog",
+          "wb_type": "Lake",
+          "survey_id": "4311326834439011",
+          "wb_id": "16076500"
+        },
+        "surveyID": "4311326834439011",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "CPUE": "0.50",
+            "quartileCount": "0.5-2.0",
+            "quartileWeight": "0.1-0.8",
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.19",
+            "species": "BUB",
+            "totalWeight": 173
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.5-1.5",
+            "totalCatch": 12,
+            "totalWeight": 6998,
+            "species": "SMB",
+            "averageWeight": "1.29",
+            "gearCount": 4,
+            "quartileCount": "1.0-4.1",
+            "CPUE": "3.00"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 3,
+            "gear": "Standard gill nets",
+            "averageWeight": "3.78",
+            "species": "BKT",
+            "totalWeight": 5145,
+            "gearCount": 4,
+            "CPUE": "0.75",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 13,
+            "quartileWeight": "0.7-2.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.42",
+            "species": "WTS",
+            "totalWeight": 8380,
+            "gearCount": 4,
+            "CPUE": "3.25",
+            "quartileCount": "1.7-12.5"
+          }
+        ],
+        "narrative": "<p>This was the first of two assessments scheduled in the 2006 lake management plan to determine whether a change in stocking strategy begun in 2009 resulted in improved brook trout abundance.  It was hoped that stocking higher numbers of fingerlings would overcome losses to predation from smallmouth bass and possibly walleye in this lake. <br> \n <br> \nThe brook trout catch in this assessment was the lowest seen in this lake since it was first stocked with the species.  The gill net catch was well short of the normal range (1.50-14.00 fish/net) for fall assessments of stream trout lakes in this area, and fell well short of the long range goal for the species (4.0 fish/net) established in the 2006 management plan.  The mean weight for brook trout collected in 2013 was the highest seen to date in this lake, and was well above the normal range (0.50-1.18 lb/fish) for lakes in this area.  The low catch, and the high mean weight, were the result of very limited (or no) survival of the 2011 stocking.  All fish taken were four-year-old fish from the 2009 fingerling stocking.  Both brook trout collected in this assessment had exhibited good growth; they reached an average length of 16.1 inches by the end of their fourth year.  The presence of any four-year-old fish has been unusual in stream trout lakes in this area, and probably indicated good long term survival of fish that survive the immediate post-stocking period. <br> \n <br> \nPoor survival of brook trout stocked in 2011 may have been caused by cannibalism from the few larger trout present, or by the presence of smallmouth bass in significant numbers.  Smallmouth bass were first seen in this lake in 1991, and brook trout catches have dropped in every assessment done since that time.  Five year classes contributed to the 2013 smallmouth bass catch, and many of the fish present would have been large enough to have preyed on newly stocked brook trout.    Growth of older smallmouth bass collected in 2013 had been about average for the area, with seven-year-old fish reaching an average length of 14.0 inches by the end of their seventh year. <br> \n <br> \nWhite sucker and burbot were present in average numbers for a lake of this class.  Both may compete with brook trout for forage, with white sucker perhaps a more important competitor than burbot.  Walleye have been found in this lake in the past, and may still have been present in low numbers in 2013.  Walleye would compete with trout for forage, and could prey directly on stocked fingerlings. <br> \n <br> \nAlthough results of this assessment suggest the current stocking strategy has failed, another assessment should be done as planned before a decision on continued stocking is made.  The 2013 assessment only targeted two year classes stocked at the new rate and frequency.  One apparently failed (2011), but the other (2009) showed reasonable long-term survival.  Stockings do occasionally fail, even in lakes with no predators or competing species, so additional assessment work is warranted before we conclude that conditions in Rog Lake are no longer suitable for continued stream trout management. <br> \n <br> \n</p>",
+        "lengths": {
+          "WTS": {
+            "maximum_length": 22,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "BUB": {
+            "minimum_length": 8,
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "minimum_length": 18,
+            "maximum_length": 19
+          },
+          "SMB": {
+            "minimum_length": 7,
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                7,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey"
+      },
+      {
+        "headerInfo": {
+          "wb_id": "16076500",
+          "survey_id": "110189",
+          "wb_type": "Lake",
+          "wb_name": "Rog",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "id_date": "1991-09-23",
+          "survey_type": "Population Assessment"
+        },
+        "surveyDate": "1991-09-23",
+        "narrative": "<p>THE BKT CATCH WAS ABOUT NORMAL FOR THIS LAKE, BUT THE AVERAGE SIZE OF THE FISH COLLECTED WAS SMALLER THAN USUAL DUE TO THE FAILURE TO COLLECT ANY FISH OLDER THAN AGE II.  BKT RANGED FROM 10 TO 13 IN, AND WERE ALL FROM THE 1989 AND 1990 STOCKINGS. GROWTH WAS AVERAGE FOR COOK COUNTY, WITH AGE II FISH AVERAGING 9.5 IN AT LAST ANNULUS FORMATION, COMPARED TO THE COUNTY MEAN FOR BKT IN LAKES OF 9.6 IN.  SMB, WAE, AND LNS WERE COLLECTED FOR THE FIRST TIME IN THIS ASSESSMENT.  ALL THE SMB COLLECTED WERE AGE II, AND HAD EXHIBITED FAST GROWTH BY COOK COUNTY STANDARDS.  THE SINGLE WAE COLLECTED WAS AN AGE IV FISH.  IT IS LIKELY THAT THESE SPECIES HAVE ENTERED THE LAKE VIA THE OUTLET TO SEA GULL LAKE.  ALTHOUGH THE OUTLET GRADIENT IS STEEP, FIELD CREWS REPORT THAT THERE ARE APPARENTLY NO BARRIERS.  THE ENTRY OF LNS, A SPECIES NOT LIKELY TO BE IN THE POSSESSION OF ANGLERS, IS ADDITIONAL EVIDENCE FOR SOME FISH MOVEMENT FROM SEA GULL LAKE TO ROG LAKE.  THE EXTENT TO WHICH THESE SPECIES WILL BECOME ESTABLISHED REMAINS TO BE SEEN.</p>",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "quartileWeight": "0.1-0.8",
+            "totalWeight": 2.5,
+            "species": "BUB",
+            "averageWeight": "0.62",
+            "gearCount": 2,
+            "quartileCount": "0.5-2.0",
+            "CPUE": "2.00"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.5-1.5",
+            "totalCatch": 9,
+            "totalWeight": 7.75,
+            "species": "SMB",
+            "averageWeight": "0.86",
+            "gearCount": 2,
+            "quartileCount": "1.0-4.1",
+            "CPUE": "4.50"
+          },
+          {
+            "quartileCount": "1.0-7.1",
+            "CPUE": "0.50",
+            "gearCount": 2,
+            "species": "WAE",
+            "totalWeight": 2.75,
+            "averageWeight": "2.75",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.9-2.0",
+            "totalCatch": 1
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "0.50",
+            "gearCount": 2,
+            "species": "LNS",
+            "totalWeight": 4.5,
+            "averageWeight": "4.50",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 16,
+            "species": "BKT",
+            "totalWeight": 14.25,
+            "averageWeight": "0.89",
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "CPUE": "8.00"
+          },
+          {
+            "species": "WTS",
+            "totalWeight": 18,
+            "averageWeight": "0.72",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-2.3",
+            "totalCatch": 25,
+            "quartileCount": "1.7-12.5",
+            "CPUE": "12.50",
+            "gearCount": 2
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyID": "110189"
+      }
+    ],
+    "county": "Cook"
+  },
+  "timestamp": 1790286014
+}

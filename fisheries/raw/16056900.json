@@ -1,0 +1,182 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "shoreLengthMiles": 6.98,
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "littoralAcres": 63.3,
+    "maxDepthFeet": 95,
+    "DOWNumber": "16056900",
+    "waterClarity": [
+      [
+        "08/16/1983",
+        "13"
+      ],
+      [
+        "08/16/1983",
+        "13"
+      ],
+      [
+        "08/05/2025",
+        "12.5"
+      ]
+    ],
+    "accesses": [
+      {
+        "location": "Entirely inside the BWCAW.  Access by portage trail from the Long Island River; Cherokee Lake; and Unload Lake.",
+        "accessTypeId": "O",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " "
+      }
+    ],
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "12.8",
+    "lakeName": "Gordon",
+    "surveys": [
+      {
+        "lengths": {},
+        "surveyDate": "1983-08-16",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "0.33",
+            "quartileCount": "0.4-3.7",
+            "quartileWeight": "1.5-4.0",
+            "gear": "Standard gill nets",
+            "species": "LAT",
+            "gearCount": 3,
+            "averageWeight": "6.00",
+            "totalCatch": 1,
+            "totalWeight": 6
+          },
+          {
+            "gearCount": 3,
+            "species": "NOP",
+            "quartileWeight": "2.1-4.9",
+            "quartileCount": "0.6-2.4",
+            "CPUE": "4.67",
+            "gear": "Standard gill nets",
+            "totalCatch": 14,
+            "averageWeight": "1.29",
+            "totalWeight": 18
+          },
+          {
+            "totalCatch": 3,
+            "averageWeight": "1.67",
+            "totalWeight": 5,
+            "gearCount": 3,
+            "species": "WTS",
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "1.00",
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "id_date": "1983-08-16",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_id": "16056900",
+          "wb_name": "Gordon",
+          "survey_id": "109905",
+          "wb_alt_name": ""
+        },
+        "surveySubType": "Initial Survey",
+        "surveyID": "109905",
+        "narrative": "<p>ALL SPECIES EXCEPT NORTHERN PIKE APPEAR TO BE LOW IN ABUNDANCE.</p>",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "lengths": {
+          "WTS": {
+            "minimum_length": 19,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                15,
+                1
+              ]
+            ],
+            "minimum_length": 15,
+            "maximum_length": 15
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 320,
+            "averageWeight": "0.71",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.6-2.4",
+            "CPUE": "0.17",
+            "quartileWeight": "2.1-4.9",
+            "species": "NOP",
+            "gearCount": 6
+          },
+          {
+            "totalWeight": 4653,
+            "averageWeight": "3.42",
+            "totalCatch": 3,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "0.50",
+            "quartileCount": "0.8-5.3",
+            "gearCount": 6,
+            "species": "WTS"
+          }
+        ],
+        "surveyDate": "1999-08-06",
+        "narrative": "<p>Catches of fish of any species were very low in the 1999 survey, and were much lower than catches observed in the last (1983) survey.  Some of the change may have been due to a shift in net locations to deeper waters.  No lake trout were collected in 1999, but temperature-oxygen conditions remained suitable (if marginal) for the species, and it was likely that a small number were still present.  A single lake trout was collected in 1983.</p>",
+        "surveyID": "111041",
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "wb_name": "Gordon",
+          "wb_id": "16056900",
+          "wb_alt_name": "",
+          "survey_id": "111041",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "1999-08-06",
+          "survey_type": "Re-Survey"
+        },
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "id_date": "2025-08-05",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "-332",
+          "wb_name": "Gordon",
+          "wb_id": "16056900"
+        },
+        "surveySubType": "Targeted Survey",
+        "surveyID": "-332",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Gordon Lake on August 5th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 95.1 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 20.8 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 57.7 feet at the time of sampling. The thickness of this layer of water in the water column was 36.8 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.7 degrees C (40.5 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 1983 and 2024 also indicate suitable oxythermal habitat. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "fishCatchSummaries": [],
+        "surveyDate": "2025-08-05",
+        "lengths": {}
+      }
+    ],
+    "areaAcres": 134.6,
+    "county": "Cook"
+  },
+  "timestamp": 1790285776
+}

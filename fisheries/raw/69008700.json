@@ -1,0 +1,227 @@
+{
+  "timestamp": 1790285930,
+  "result": {
+    "waterClarity": [
+      [
+        "08/04/2015",
+        "6"
+      ]
+    ],
+    "littoralAcres": 70.34,
+    "accesses": [
+      {
+        "location": "",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO"
+      }
+    ],
+    "averageWaterClarity": "6.0",
+    "county": "St. Louis",
+    "shoreLengthMiles": 3.18,
+    "areaAcres": 70.34,
+    "lakeName": "Holy",
+    "DOWNumber": "69008700",
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 13,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "totalCatch": 1,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "0.33",
+            "averageWeight": "0.03",
+            "totalWeight": 15,
+            "species": "HSF"
+          },
+          {
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "species": "NOP",
+            "CPUE": "0.25",
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "gear": "Minnow traps",
+            "gearCount": 4,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "2.8-8.5",
+            "CPUE": "11.67",
+            "species": "NOP",
+            "totalWeight": 15600,
+            "averageWeight": "0.98",
+            "quartileWeight": "1.1-2.0",
+            "totalCatch": 35,
+            "gear": "Standard gill nets",
+            "gearCount": 3
+          },
+          {
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "species": "YEP",
+            "CPUE": "1.00",
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "gear": "Minnow traps",
+            "totalCatch": 4,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "totalCatch": 39,
+            "quartileWeight": "1.4-2.5",
+            "totalWeight": 21885,
+            "averageWeight": "1.24",
+            "species": "WTS",
+            "quartileCount": "4.0-14.5",
+            "CPUE": "13.00"
+          }
+        ],
+        "surveyID": "12631533635239083",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "WTS": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 17
+          },
+          "YEP": {
+            "minimum_length": 1,
+            "fishCount": [
+              [
+                1,
+                2
+              ]
+            ],
+            "maximum_length": 1
+          },
+          "HSF": {
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "NOP": {
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "minimum_length": 11
+          }
+        },
+        "surveyDate": "2015-08-04",
+        "surveySubType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "69008700",
+          "id_date": "2015-08-04",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "12631533635239083",
+          "wb_name": "Holy",
+          "survey_type": "Standard Survey",
+          "county": "St. Louis"
+        },
+        "narrative": "<p>Holy Lake is located approximately 13 miles N of Ely in the BWCAW. This remote lake has four distinct bays and resembles a cross. The shoreline is rocky and ledge rock outcrops are common. The forest is primarily coniferous with some large red pine and white pine present. <br> \n <br> \nThere is a user maintained portage from Little Bass Lake. This portage is poorly defined and difficult to follow. There are no USFS campsites present and the lake appears to be used very little. Only four species of fish were sampled or observed in 2015. <br> \n <br> \nNorthern pike abundance in 2015 (11.7/gill net) was above average compared to other similar lakes in the area. The average pike sampled was only 17.6 inches and the largest pike sampled was 22.8 inches long. <br> \n <br> \nWhite sucker numbers in 2015 (13.0/gill net) were above average compared to other similar lakes in the area. The average sucker sampled was 14.6 inches and the largest sucker sampled was 17.6 inches long. <br> \n <br> \nOne 4.1 inch hybrid sunfish was also sampled in the gill nets. Yellow perch were sampled in the minnow traps and perch were also observed in pike stomach samples.</p>"
+      }
+    ]
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

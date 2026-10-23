@@ -1,0 +1,142 @@
+{
+  "timestamp": 1790285815,
+  "result": {
+    "surveys": [
+      {
+        "narrative": "<p>(Stockings:  10/78-1,017 fgl, 9/79-1,253 fgl. Composed of above average populations of lake trout and suckers.</p>",
+        "fishCatchSummaries": [
+          {
+            "species": "LAT",
+            "averageWeight": "2.56",
+            "totalWeight": 53.75,
+            "quartileWeight": "0.9-4.3",
+            "totalCatch": 21,
+            "quartileCount": "1.0-4.5",
+            "CPUE": "10.50",
+            "gearCount": 2,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "1.5-10.4",
+            "CPUE": "10.00",
+            "gearCount": 2,
+            "totalCatch": 20,
+            "averageWeight": "1.16",
+            "species": "WTS",
+            "totalWeight": 23.25,
+            "quartileWeight": "0.6-2.0"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "38036500",
+          "wb_name": "Ahmakose",
+          "county": "Lake",
+          "id_date": "1980-07-25",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "survey_id": "107986"
+        },
+        "surveyID": "107986",
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1980-07-25",
+        "lengths": {}
+      },
+      {
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-08-02",
+        "lengths": {},
+        "surveyID": "22122522055515081",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "38036500",
+          "wb_name": "Ahmakose",
+          "county": "Lake",
+          "id_date": "2025-08-02",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "survey_id": "22122522055515081"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Ahmakose Lake on August 20th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 52.5 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 26.4 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 37.9 feet at the time of sampling. This layer in the water column was 11.5 feet, indicating oxythermal habitat for Lake Trout was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.5 degrees C (41.9 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 and 2025 also indicated suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 2025 when the suitable oxythermal habitat layer was 11.5 feet thick. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "fishCatchSummaries": []
+      },
+      {
+        "narrative": "<p>Lake trout and white sucker are present in average numbers. The lake trout are not large; natural reproduction is occuring, as evidenced by fish capture under 12 increased from an average of 13 pressent.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 8,
+            "averageWeight": "1.36",
+            "species": "LAT",
+            "totalWeight": 10.9,
+            "quartileWeight": "0.9-4.3",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.0-4.5",
+            "gearCount": 2,
+            "CPUE": "4.00"
+          },
+          {
+            "totalCatch": 8,
+            "averageWeight": "1.96",
+            "totalWeight": 15.7,
+            "species": "WTS",
+            "quartileWeight": "0.6-2.0",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.5-10.4",
+            "gearCount": 2,
+            "CPUE": "4.00"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "38036500",
+          "wb_name": "Ahmakose",
+          "county": "Lake",
+          "id_date": "1986-09-15",
+          "survey_id": "108314",
+          "survey_type": "Re-Survey",
+          "wb_alt_name": ""
+        },
+        "surveyID": "108314",
+        "surveySubType": "Re-Survey",
+        "surveyDate": "1986-09-15",
+        "lengths": {}
+      }
+    ],
+    "maxDepthFeet": 68,
+    "accesses": [
+      {
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "location": "DESIGNATED PUBLIC ACCESS VIA TWO U.S.F.S. PORTAGES 160 YARDS EAST FROM GERUND LAKE and 1/4 MI SE WISINI"
+      }
+    ],
+    "county": "Lake",
+    "lakeName": "Ahmakose",
+    "DOWNumber": "38036500",
+    "areaAcres": 42.71,
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 1.37,
+    "averageWaterClarity": "17.5",
+    "littoralAcres": 9,
+    "officeCode": "F214",
+    "waterClarity": [
+      [
+        "08/20/2025",
+        "19"
+      ],
+      [
+        "08/02/2025",
+        "16"
+      ]
+    ],
+    "sampledPlants": []
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

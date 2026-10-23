@@ -1,0 +1,88 @@
+{
+  "result": {
+    "surveys": [
+      {
+        "surveyID": "109789",
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1979-08-14",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.75",
+            "totalCatch": 14,
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "totalWeight": 24.5,
+            "quartileWeight": "1.5-2.4",
+            "CPUE": "4.67",
+            "gearCount": 3,
+            "quartileCount": "1.2-3.9"
+          },
+          {
+            "CPUE": "0.67",
+            "gearCount": 3,
+            "quartileCount": "0.5-2.8",
+            "totalCatch": 2,
+            "species": "YEP",
+            "averageWeight": "0.30",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.6,
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "quartileCount": "2.6-11.7",
+            "gearCount": 3,
+            "CPUE": "9.00",
+            "quartileWeight": "1.7-2.4",
+            "totalWeight": 51.6,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.91",
+            "totalCatch": 27,
+            "species": "WTS"
+          }
+        ],
+        "narrative": "<p>Brandt Lk has a gd pop. of N Pike with a fair range of sizes.  The pop. of Suckers is comprised of mostly large fish, and the Perch pop. appears to be poor.  Minnows seem to be lacking also, therefore it appears that suitable size forage for the N Pike is in short supply.</p>",
+        "lengths": {},
+        "headerInfo": {
+          "wb_id": "16060000",
+          "id_date": "1979-08-14",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "survey_id": "109789",
+          "wb_name": "Brandt",
+          "wb_alt_name": ""
+        }
+      }
+    ],
+    "lakeName": "Brandt",
+    "shoreLengthMiles": 4.69,
+    "littoralAcres": 66,
+    "sampledPlants": [],
+    "maxDepthFeet": 80,
+    "areaAcres": 111.35,
+    "averageWaterClarity": "7.5",
+    "officeCode": "F218",
+    "county": "Cook",
+    "meanDepthFeet": 0,
+    "DOWNumber": "16060000",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "Accessible via 3 portages ~1/2 mile~ from Round Lake",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/15/1979",
+        "7.5"
+      ]
+    ]
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285920
+}

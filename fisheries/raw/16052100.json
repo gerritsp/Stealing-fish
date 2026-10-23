@@ -1,0 +1,99 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "location": "Accessible via 0.2 mile portage trail from Kelly L",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "averageWaterClarity": "6.4",
+    "meanDepthFeet": 5,
+    "DOWNumber": "16052100",
+    "areaAcres": 112.61,
+    "littoralAcres": 112.61,
+    "surveys": [
+      {
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "narrative": "<p>The Walleye population is very good w. a desirable distribution of small to large fish.  Good pop. of N Pike, Suckers and Perch are also present. The one Bluegill taken may be from the stocking in Baker Lake downstream.</p>",
+        "surveySubType": "Initial Survey",
+        "surveyID": "109778",
+        "headerInfo": {
+          "wb_id": "16052100",
+          "wb_name": "Jack",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "id_date": "1973-07-23",
+          "survey_id": "109778"
+        },
+        "surveyDate": "1973-07-23",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 19,
+            "averageWeight": "1.19",
+            "gearCount": 4,
+            "CPUE": "4.75",
+            "gear": "Standard gill nets",
+            "totalWeight": 22.7,
+            "quartileCount": "2.8-8.5",
+            "quartileWeight": "1.1-2.0",
+            "species": "NOP"
+          },
+          {
+            "averageWeight": "1.22",
+            "totalCatch": 36,
+            "gear": "Standard gill nets",
+            "CPUE": "9.00",
+            "gearCount": 4,
+            "species": "WAE",
+            "quartileWeight": "1.1-2.0",
+            "quartileCount": "1.3-5.0",
+            "totalWeight": 44
+          },
+          {
+            "species": "YEP",
+            "quartileCount": "2.0-16.0",
+            "quartileWeight": "0.1-0.3",
+            "totalWeight": 9.4,
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "CPUE": "12.25",
+            "averageWeight": "0.19",
+            "totalCatch": 49
+          },
+          {
+            "CPUE": "16.00",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "totalWeight": 159.2,
+            "quartileCount": "4.0-14.5",
+            "quartileWeight": "1.4-2.5",
+            "species": "WTS",
+            "totalCatch": 64,
+            "averageWeight": "2.49"
+          }
+        ]
+      }
+    ],
+    "lakeName": "Jack",
+    "county": "Cook",
+    "shoreLengthMiles": 6.34,
+    "officeCode": "F218",
+    "waterClarity": [
+      [
+        "07/26/1973",
+        "6.4"
+      ]
+    ],
+    "maxDepthFeet": 10
+  },
+  "timestamp": 1790285645
+}

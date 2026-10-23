@@ -1,0 +1,99 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "shoreLengthMiles": 1.62,
+    "littoralAcres": 26.75,
+    "officeCode": "F218",
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "surveyID": "109657",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.2-2.4",
+            "CPUE": "4.00",
+            "totalWeight": 17,
+            "quartileCount": "3.9-9.4",
+            "averageWeight": "1.42",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "totalCatch": 12,
+            "species": "NOP"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "species": "WAE",
+            "totalCatch": 6,
+            "averageWeight": "2.87",
+            "totalWeight": 17.2,
+            "quartileWeight": "0.8-2.4",
+            "CPUE": "2.00",
+            "quartileCount": "1.0-7.2"
+          },
+          {
+            "totalWeight": 0.8,
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "0.67",
+            "quartileCount": "2.0-23.0",
+            "gearCount": 3,
+            "species": "YEP",
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.40"
+          },
+          {
+            "quartileCount": "2.6-17.5",
+            "totalWeight": 2.3,
+            "CPUE": "1.00",
+            "quartileWeight": "0.8-2.3",
+            "species": "WTS",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "averageWeight": "0.77"
+          }
+        ],
+        "narrative": "<p>Dugout Lake has a good population of N Pike, fair numbers of Walleyes and very few Suckers and Perch Blk Nose Shiners provide forage.</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1973-08-13",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "id_date": "1973-08-13",
+          "wb_type": "Lake",
+          "wb_id": "16017700",
+          "county": "Cook",
+          "wb_name": "Dugout",
+          "survey_id": "109657",
+          "wb_alt_name": ""
+        }
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/13/1973",
+        "6.7"
+      ]
+    ],
+    "averageWaterClarity": "6.7",
+    "county": "Cook",
+    "lakeName": "Dugout",
+    "maxDepthFeet": 8,
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "areaAcres": 26.75,
+    "DOWNumber": "16017700",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "Accessible via 0.1 mile portage trail from Marshall Lake.",
+        "accessTypeId": "O"
+      }
+    ]
+  },
+  "timestamp": 1790285705
+}

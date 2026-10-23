@@ -1,0 +1,1344 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "averageWaterClarity": "9.2",
+    "shoreLengthMiles": 231.66,
+    "waterClarity": [
+      [
+        "08/14/2024",
+        "5.75"
+      ],
+      [
+        "07/09/2007",
+        "10"
+      ],
+      [
+        "07/09/2007",
+        "12"
+      ],
+      [
+        "07/09/2007",
+        "10"
+      ],
+      [
+        "08/01/2025",
+        "8.2"
+      ]
+    ],
+    "meanDepthFeet": 37,
+    "areaAcres": 10359.52,
+    "surveys": [
+      {
+        "surveySubType": "Targeted Survey",
+        "surveyID": "16152423252908044",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "2024-08-14",
+          "survey_type": "Targeted Survey",
+          "wb_name": "Crooked",
+          "survey_id": "16152423252908044",
+          "wb_id": "38081700",
+          "county": "Lake"
+        },
+        "surveyDate": "2024-08-14",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Crooked Lake, on August 14, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased to below 17.2 degrees C (63.0 degrees F) at 46.6 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 140.6 feet at the time of sampling. The thickness of this layer of water in the water column was 94.0 feet, indicating that oxythermal habitat was present for Lake Whitefish.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.1 degrees C (41.2 degrees F). TDO3 values colder than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey. <br> \n <br> \nThis is the first survey completed on Crooked Lake during the late summer thermal stress period. When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "38081700",
+          "survey_id": "1100731335562000",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "id_date": "2007-07-09",
+          "wb_name": "Crooked"
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "1100731335562000",
+        "lengths": {
+          "BUB": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ],
+            "maximum_length": 18,
+            "minimum_length": 12
+          },
+          "TLC": {
+            "maximum_length": 12,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                6,
+                23
+              ],
+              [
+                7,
+                16
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                7
+              ],
+              [
+                6,
+                10
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                3
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 8
+          },
+          "SAR": {
+            "minimum_length": 19,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                19,
+                1
+              ]
+            ]
+          },
+          "RKB": {
+            "minimum_length": 3,
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                3,
+                2
+              ],
+              [
+                5,
+                7
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                7,
+                6
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 23,
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                8
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                5
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 11,
+            "maximum_length": 38,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                8
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                10
+              ],
+              [
+                22,
+                6
+              ],
+              [
+                23,
+                7
+              ],
+              [
+                24,
+                7
+              ],
+              [
+                25,
+                3
+              ],
+              [
+                26,
+                6
+              ],
+              [
+                27,
+                2
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                29,
+                3
+              ],
+              [
+                30,
+                3
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                35,
+                1
+              ],
+              [
+                38,
+                1
+              ]
+            ]
+          },
+          "LKW": {
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 20
+          },
+          "BLC": {
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                7
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "maximum_length": 12,
+            "minimum_length": 4
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                10
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 19
+          },
+          "WAE": {
+            "maximum_length": 29,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                17
+              ],
+              [
+                11,
+                15
+              ],
+              [
+                12,
+                8
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                9
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                28,
+                2
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                7,
+                7
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                14
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "3.13",
+            "gearCount": 15,
+            "quartileWeight": "0.1-0.7",
+            "totalWeight": 3168,
+            "averageWeight": "0.15",
+            "gear": "Standard gill nets",
+            "totalCatch": 47,
+            "species": "TLC",
+            "quartileCount": "1.4-17.4"
+          },
+          {
+            "CPUE": "0.20",
+            "gearCount": 15,
+            "quartileWeight": "0.7-1.9",
+            "totalWeight": 1379,
+            "averageWeight": "1.01",
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "species": "BUB",
+            "quartileCount": "0.3-1.3"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 73,
+            "gearCount": 15,
+            "CPUE": "4.87",
+            "totalWeight": 103123,
+            "quartileWeight": "2.7-5.3",
+            "averageWeight": "3.11",
+            "species": "NOP",
+            "quartileCount": "0.3-1.0"
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "BLC",
+            "quartileWeight": "N/A",
+            "totalWeight": 7197,
+            "gearCount": 15,
+            "CPUE": "1.67",
+            "averageWeight": "0.63",
+            "gear": "Standard gill nets",
+            "totalCatch": 25
+          },
+          {
+            "species": "WTS",
+            "quartileCount": "1.7-5.0",
+            "CPUE": "3.20",
+            "gearCount": 15,
+            "totalWeight": 24390,
+            "quartileWeight": "1.6-2.4",
+            "averageWeight": "1.12",
+            "gear": "Standard gill nets",
+            "totalCatch": 48
+          },
+          {
+            "averageWeight": "1.10",
+            "quartileWeight": "1.1-3.3",
+            "totalWeight": 50535,
+            "CPUE": "6.73",
+            "gearCount": 15,
+            "totalCatch": 101,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.6-9.7",
+            "species": "WAE"
+          },
+          {
+            "CPUE": "1.27",
+            "gearCount": 15,
+            "totalWeight": 15942,
+            "quartileWeight": "0.7-1.4",
+            "averageWeight": "1.85",
+            "gear": "Standard gill nets",
+            "totalCatch": 19,
+            "species": "SMB",
+            "quartileCount": "0.3-2.2"
+          },
+          {
+            "species": "LKW",
+            "quartileCount": "1.1-9.3",
+            "averageWeight": "2.21",
+            "gearCount": 15,
+            "CPUE": "0.20",
+            "totalWeight": 3008,
+            "quartileWeight": "1.3-2.3",
+            "totalCatch": 3,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "SAR",
+            "averageWeight": "2.22",
+            "totalWeight": 1008,
+            "quartileWeight": "N/A",
+            "gearCount": 15,
+            "CPUE": "0.07",
+            "totalCatch": 1,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "0.3-2.8",
+            "species": "YEP",
+            "averageWeight": "0.12",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 1121,
+            "CPUE": "1.40",
+            "gearCount": 15,
+            "totalCatch": 21,
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "RKB",
+            "quartileCount": "0.4-5.1",
+            "totalCatch": 22,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.23",
+            "CPUE": "1.47",
+            "gearCount": 15,
+            "totalWeight": 2283,
+            "quartileWeight": "0.2-0.4"
+          }
+        ],
+        "surveyDate": "2007-07-09",
+        "narrative": "<p>Crooked Lake is in Ecological Lake Class 1, which consists of 34 lakes in northeast Minnesota that are large, very deep, have irregular shoreline shapes, and have soft (unmineralized) and clear water.  Crooked Lake is larger than most of the lakes in this lake class. <br> \n <br> \nCrooked Lake was thermally stratified on 7/9/2007 with surface temperatures about 72 F and bottom temperatures of 46 F in Friday and Sunday bays, and 41 F in Thursday Bay. Adequate oxygen for cold-water fish species (more than 5 ppm) was present to near the bottom in all three basins. <br> \n <br> \nFish populations in 2007 were sampled with 15 standard gillnets and 3 smelt gillnets (100' x 6' x 0.375\" bar mesh and 100' x 6' x 0.5\" bar mesh).  Two previous investigations, in 1983 and 1995, used 16 and 15 standard gillnets, respectively.  Small mesh smelt gillnets were also used in the 1995 investigation.  The smelt nets were set in or below the thermocline.  No fish of any species were caught in the smelt nets in 1995 or 2007. <br> \n <br> \nThe inshore depths of the standard gillnets in 2007 ranged from 8 ft to 25 ft (average of 19 ft), while the offshore depths ranged from 10 ft to 55 ft (average of 33 ft).  The thermocline in Crooked Lake in 2007 ranged from 20 ft to 50 ft.   <br> \n <br> \nThe total fish catch (all species combined) in 2007 of 24 fish/gillnet (31 lb/gillnet) was in the third quartile for this lake class and was very similar to previous total fish catches in Crooked Lake.  Fish populations in 2007, as in previous investigations, were dominated by walleye and northern pike.  Fewer ciscos were caught in 2007 than in previous investigations, but more black crappie and walleye were caught. Smallmouth bass are likely more abundant in Crooked Lake than indicated by the gillnet catch.  Bass are \"net-shy\" and tend to avoid standard sampling nets.  <br> \n <br> \nWalleye numbers in 2007 (6.7/gillnet) were in the third quartile for this lake class and were higher than the walleye catches of 3.4/gillnet in 1983 and 4.4/gillnet in 1995. Walleye sizes in 2007 averaged 13.2\" (1.1 lb), which was at the first quartile for this lake class and was smaller than the average size of 14.6\" in previous investigations on this lake. The largest walleye caught in 2007 was 29.5\". Most of the walleye (61 percent) were age three, from the 2004 year-class.  Growth of walleye from the strong 2004 year-class was slower than normal by area standards, but growth of walleye from other year-classes appeared to be normal. <br> \n <br> \nNorthern pike numbers in 2007 (4.9/gillnet) were in the fourth quartile for this lake class and were higher than previous pike catches of 2.6/gillnet in 1983 and 4.4/gillnet in 1995.  Pike sizes in 2007 averaged 23.3\" (3.1 lb), which was in the second quartile for this lake class and was similar to pike sizes in previous investigations on this lake.  The largest pike caught in 2007 was 38.5\".  Many of the pike (37 percent) were age four, from the 2003 year-class.  Pike growth appeared to be erratic and no conclusion could be made about growth rates. <br> \n <br> \nCisco numbers in 2007 (3.1/gillnet) were in the second quartile for this lake class and were lower than the average cisco catch of 9.4/gillnet in previous investigations on this lake.  Cisco sizes in 2007 averaged 7.5\"; the largest cisco was 12.4\".   <br> \n <br> \nBlack crappie numbers in 2007 (1.7/gillnet) were higher than the average crappie catch of 0.1/gillnet in previous investigations on this lake.  Crappie sizes in 2007 averaged 9.7\"; the largest crappie was 12.7\".  <br> \n <br> \nSmallmouth bass numbers in 2007 (1.3/gillnet) were in the third quartile for this lake class and were higher than the average smallmouth catch of 0.3/gillnet in previous investigations on this lake.  Smallmouth sizes in 2007 averaged 14.8\"; the largest smallmouth was 19.2\".  Most of the smallmouth (86 percent) were age five, from the 2002 year-class.  Smallmouth growth was faster than normal by area standards. <br> \n <br> \nSauger numbers in 2007 (0.1/gillnet) were lower than the average sauger catch of 1.3/gillnet in previous investigations on this lake.  Sauger are uncommon in the area, being confined to sparse populations in Crooked Lake, Iron Lake, Lac La Croix, and lakes downstream to Lake of the Woods, where they are fairly abundant. <br> \n <br> \nMany of the smallmouth bass examined in 2007 had bass tapeworm larvae in their viscera, and some of the northern pike were infected with neascus.  Neascus (black spot) and bass tapeworm are common parasites that are native to the area.  They cannot infect humans, are often removed by filleting fish, and are killed at temperatures used to cook fish.</p>"
+      },
+      {
+        "surveyID": "108289",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "survey_id": "108289",
+          "wb_id": "38081700",
+          "survey_type": "Population Assessment",
+          "id_date": "1983-08-26",
+          "wb_name": "Crooked",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>This assessment indicates average populations of ciscoes, whitefish, northern pike, smallmouth bass, rock bass, and Burbot, white sucker, yellow perch, sauger, walleye, and black crappie are present in below average numbers. Growth rates on the walleyes are very slow. </p>",
+        "surveyDate": "1983-08-26",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "species": "TLC",
+            "quartileCount": "1.4-17.4",
+            "CPUE": "9.69",
+            "gearCount": 16,
+            "quartileWeight": "0.1-0.7",
+            "totalWeight": 52,
+            "averageWeight": "0.34",
+            "gear": "Standard gill nets",
+            "totalCatch": 155
+          },
+          {
+            "averageWeight": "1.38",
+            "totalWeight": 5.5,
+            "quartileWeight": "0.7-1.9",
+            "CPUE": "0.25",
+            "gearCount": 16,
+            "totalCatch": 4,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.3",
+            "species": "BUB"
+          },
+          {
+            "quartileWeight": "2.7-5.3",
+            "totalWeight": 116.3,
+            "gearCount": 16,
+            "CPUE": "2.62",
+            "averageWeight": "2.77",
+            "gear": "Standard gill nets",
+            "totalCatch": 42,
+            "quartileCount": "0.3-1.0",
+            "species": "NOP"
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "BLC",
+            "totalCatch": 3,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.83",
+            "quartileWeight": "N/A",
+            "totalWeight": 2.5,
+            "CPUE": "0.19",
+            "gearCount": 16
+          },
+          {
+            "averageWeight": "1.39",
+            "gearCount": 16,
+            "CPUE": "1.12",
+            "totalWeight": 25.1,
+            "quartileWeight": "1.6-2.4",
+            "totalCatch": 18,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "1.7-5.0"
+          },
+          {
+            "species": "WAE",
+            "quartileCount": "0.6-9.7",
+            "CPUE": "3.38",
+            "gearCount": 16,
+            "totalWeight": 63,
+            "quartileWeight": "1.1-3.3",
+            "averageWeight": "1.17",
+            "gear": "Standard gill nets",
+            "totalCatch": 54
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 10,
+            "CPUE": "0.62",
+            "gearCount": 16,
+            "totalWeight": 23,
+            "quartileWeight": "0.7-1.4",
+            "averageWeight": "2.30",
+            "species": "SMB",
+            "quartileCount": "0.3-2.2"
+          },
+          {
+            "totalCatch": 3,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.67",
+            "gearCount": 16,
+            "CPUE": "0.19",
+            "totalWeight": 8,
+            "quartileWeight": "1.3-2.3",
+            "species": "LKW",
+            "quartileCount": "1.1-9.3"
+          },
+          {
+            "species": "SAR",
+            "quartileCount": "N/A",
+            "totalCatch": 23,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.46",
+            "CPUE": "1.44",
+            "gearCount": 16,
+            "totalWeight": 10.5,
+            "quartileWeight": "N/A"
+          },
+          {
+            "species": "YEP",
+            "quartileCount": "0.3-2.8",
+            "gearCount": 16,
+            "CPUE": "0.62",
+            "totalWeight": 2.3,
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.23",
+            "gear": "Standard gill nets",
+            "totalCatch": 10
+          },
+          {
+            "totalCatch": 19,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.30",
+            "totalWeight": 5.7,
+            "quartileWeight": "0.2-0.4",
+            "gearCount": 16,
+            "CPUE": "1.19",
+            "quartileCount": "0.4-5.1",
+            "species": "RKB"
+          }
+        ]
+      },
+      {
+        "narrative": "<p>This assessment consisted of standard gillnet sets which were set above and below the thermocline, and small mesh smelt nets which were set below the thermocline.  No fish were caught in the smelt nets.Water quality testing showed the thermocline was from 15' to 30', with lots of oxygen present to near the bottom in each of the major basins.  Crooked Lake has the same proportion of shallow area and similar chemical characteristics as the 34 lakes in this ecological lake class.  However, Crooked Lake is larger, deeper, and less clear than most of these lakes.The total net catch (all species combined) showed above average fish populations dominated by walleye, cisco, and northern pike.  Walleye numbers were average for this lake class.  The average size of walleye, 1.3 lb, was average for the lake class.  Walleye up to 26\" were present.  Most walleye were age 3 or older; a much higher proportion of older walleye was present in Crooked Lake than in most lakes.  Reproduction was poor in 1993 and 1994.  Growth of young walleye was very slow (four year old walleye were 11\" long).  Older walleye grew faster, probably because they reached a size where they could prey on cisco.  Cisco numbers were also average.  Cisco sizes ranged from 5\" to 17\".  Northern pike numbers were much above average.  The average size of northerns was 3.2 lb, which is average.  Northern pike growth was average.Yellow perch, white sucker, rock bass, and burbot were all present in average numbers for this lake class.  Lake whitefish numbers were lower than average.  Low numbers of black crappie and smallmouth bass were captured in the 1983 assessment, but none were caught in 1995.  Smallmouth bass are known to be more abundant than is evident from the gillnet catch.  Sauger were present in fair numbers, but were not as abundant as walleye.  The largest sauger was 16\", while the largest walleye was 26\".  Natural reproduction of sauger and perch was poor from 1992 through 1994.</p>",
+        "lengths": {
+          "LKW": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                2
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 10
+          },
+          "NOP": {
+            "maximum_length": 38,
+            "minimum_length": 15,
+            "fishCount": [
+              [
+                15,
+                6
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                8
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                7
+              ],
+              [
+                22,
+                4
+              ],
+              [
+                23,
+                4
+              ],
+              [
+                24,
+                5
+              ],
+              [
+                25,
+                3
+              ],
+              [
+                26,
+                5
+              ],
+              [
+                27,
+                4
+              ],
+              [
+                28,
+                2
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                33,
+                2
+              ],
+              [
+                34,
+                1
+              ],
+              [
+                37,
+                2
+              ],
+              [
+                38,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "maximum_length": 25,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                10
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                13,
+                7
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                5
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                7,
+                5
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                4
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 9,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                6
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 9
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                12
+              ],
+              [
+                7,
+                5
+              ],
+              [
+                8,
+                5
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 9,
+            "minimum_length": 5
+          },
+          "TLC": {
+            "fishCount": [
+              [
+                10,
+                16
+              ],
+              [
+                11,
+                12
+              ],
+              [
+                12,
+                9
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                21
+              ],
+              [
+                7,
+                36
+              ],
+              [
+                8,
+                16
+              ],
+              [
+                9,
+                17
+              ]
+            ],
+            "maximum_length": 16,
+            "minimum_length": 5
+          },
+          "SAR": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                6
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 15
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ],
+            "minimum_length": 11,
+            "maximum_length": 18
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "1.4-17.4",
+            "species": "TLC",
+            "totalCatch": 138,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.61",
+            "quartileWeight": "0.1-0.7",
+            "totalWeight": 38301,
+            "CPUE": "9.20",
+            "gearCount": 15
+          },
+          {
+            "quartileCount": "0.3-1.3",
+            "species": "BUB",
+            "totalCatch": 6,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.65",
+            "totalWeight": 4483,
+            "quartileWeight": "0.7-1.9",
+            "CPUE": "0.40",
+            "gearCount": 15
+          },
+          {
+            "quartileCount": "0.3-1.0",
+            "species": "NOP",
+            "totalWeight": 96804,
+            "quartileWeight": "2.7-5.3",
+            "CPUE": "4.40",
+            "gearCount": 15,
+            "averageWeight": "3.23",
+            "gear": "Standard gill nets",
+            "totalCatch": 66
+          },
+          {
+            "totalCatch": 40,
+            "gear": "Standard gill nets",
+            "averageWeight": "3.80",
+            "CPUE": "2.67",
+            "gearCount": 15,
+            "totalWeight": 69027,
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "quartileCount": "1.7-5.0"
+          },
+          {
+            "CPUE": "4.40",
+            "gearCount": 15,
+            "totalWeight": 39366,
+            "quartileWeight": "1.1-3.3",
+            "averageWeight": "1.31",
+            "gear": "Standard gill nets",
+            "totalCatch": 66,
+            "species": "WAE",
+            "quartileCount": "0.6-9.7"
+          },
+          {
+            "species": "LKW",
+            "quartileCount": "1.1-9.3",
+            "totalCatch": 12,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.59",
+            "CPUE": "0.80",
+            "gearCount": 15,
+            "totalWeight": 8654,
+            "quartileWeight": "1.3-2.3"
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "SAR",
+            "totalWeight": 4044,
+            "quartileWeight": "N/A",
+            "gearCount": 15,
+            "CPUE": "1.27",
+            "averageWeight": "0.47",
+            "gear": "Standard gill nets",
+            "totalCatch": 19
+          },
+          {
+            "species": "YEP",
+            "quartileCount": "0.3-2.8",
+            "gear": "Standard gill nets",
+            "totalCatch": 24,
+            "gearCount": 15,
+            "CPUE": "1.60",
+            "totalWeight": 1784,
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.16"
+          },
+          {
+            "species": "RKB",
+            "quartileCount": "0.4-5.1",
+            "gearCount": 15,
+            "CPUE": "0.93",
+            "totalWeight": 4451,
+            "quartileWeight": "0.2-0.4",
+            "averageWeight": "0.70",
+            "gear": "Standard gill nets",
+            "totalCatch": 14
+          }
+        ],
+        "surveyDate": "1995-07-10",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "id_date": "1995-07-10",
+          "wb_name": "Crooked",
+          "survey_id": "108963",
+          "wb_id": "38081700",
+          "county": "Lake",
+          "wb_type": "Lake"
+        },
+        "surveyID": "108963",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveyDate": "2025-08-01",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Crooked Lake on August 1st, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 160.7 feet), the water temperature decreased below 17.2 degrees C (63.0 degrees F) at 30.5 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L at 160.7 feet at the time of sampling. The thickness of this layer of water in the water column was 130.2 feet, indicating that oxythermal habitat was present for Lake Whitefish. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 4.6 degrees C (40.3 degrees F), was substituted as TDO3. TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "surveyID": "-365",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "id_date": "2025-08-01",
+          "survey_type": "Targeted Survey",
+          "wb_name": "Crooked",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "wb_id": "38081700",
+          "survey_id": "-365"
+        }
+      }
+    ],
+    "maxDepthFeet": 165,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "location": "Various portages.  See \"Field Notes\" for details.",
+        "publicUseAuthCode": "OPEN"
+      }
+    ],
+    "county": "Lake",
+    "DOWNumber": "38081700",
+    "littoralAcres": 1898,
+    "lakeName": "Crooked",
+    "sampledPlants": [],
+    "officeCode": "F214"
+  },
+  "timestamp": 1790285963
+}

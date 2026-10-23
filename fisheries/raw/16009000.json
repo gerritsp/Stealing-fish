@@ -1,0 +1,626 @@
+{
+  "timestamp": 1790285908,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "county": "Cook",
+    "lakeName": "Crystal",
+    "DOWNumber": "16009000",
+    "littoralAcres": 0,
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "lakeAccessComments": "Portage trail from Canoe Lake.  Lake is entirely inside the BWCAW.",
+        "location": " ",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_id": "16009000",
+          "id_date": "2016-08-01",
+          "county": "Cook",
+          "wb_name": "Crystal",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "15281622152746000",
+          "survey_type": "Standard Survey"
+        },
+        "surveyID": "15281622152746000",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "species": "LAT",
+            "totalWeight": 50250,
+            "quartileCount": "0.4-3.7",
+            "totalCatch": 31,
+            "quartileWeight": "1.5-4.0",
+            "averageWeight": "3.57",
+            "CPUE": "5.17"
+          },
+          {
+            "gear": "Minnow traps",
+            "gearCount": 12,
+            "species": "GSF",
+            "quartileCount": "N/A",
+            "totalWeight": 2,
+            "totalCatch": 2,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00",
+            "CPUE": "0.17"
+          },
+          {
+            "species": "SMB",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.4",
+            "totalWeight": 300,
+            "totalCatch": 1,
+            "quartileWeight": "0.6-1.5",
+            "averageWeight": "0.66",
+            "CPUE": "0.17"
+          },
+          {
+            "averageWeight": "0.01",
+            "CPUE": "0.08",
+            "totalCatch": 1,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 4,
+            "gear": "Minnow traps",
+            "gearCount": 12,
+            "species": "YEP"
+          },
+          {
+            "averageWeight": "2.66",
+            "CPUE": "1.33",
+            "quartileWeight": "1.0-2.0",
+            "totalCatch": 8,
+            "totalWeight": 9650,
+            "quartileCount": "1.2-5.2",
+            "gearCount": 6,
+            "species": "WAE",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 2,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.07",
+            "CPUE": "0.33",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "species": "GSF",
+            "totalWeight": 61,
+            "quartileCount": "0.2-0.9"
+          },
+          {
+            "totalWeight": 406,
+            "quartileCount": "0.4-3.7",
+            "species": "YEP",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.15",
+            "CPUE": "1.00",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 6
+          },
+          {
+            "totalWeight": 4210,
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "species": "WTS",
+            "CPUE": "1.33",
+            "averageWeight": "1.16",
+            "quartileWeight": "1.1-2.5",
+            "totalCatch": 8
+          }
+        ],
+        "surveyDate": "2016-08-01",
+        "narrative": "<p>Crystal is a medium-sized, moderately deep native Lake Trout lake.  Although it has been managed primarily for Lake Trout, it also supports a small, but high-quality, Walleye population, unknown numbers of Smallmouth Bass, and a few Northern Pike.  Its one of very few lakes of this type in Cook County where Lake Trout have continued to do well when forced to compete with Walleye and bass.    This was to have been the second of two standard surveys scheduled in the current (2008) lake management plan to monitor the Lake Trout population and determine an appropriate long range goal for Northern Pike.  Unfortunately, the first of those surveys (in 2011) had to be canceled due to a shortage of staff and funding.  The 2008 plan established a goal for Lake Trout of maintaining a self-sustained population with a minimum gill net catch of 1.0 fish/net, and with a minimum average weight of 3.0 lb/fish.  Not enough was known about Northern Pike (the only other native game fish in this lake) to establish a goal in 2008.  <br> \n <br> \nLake Trout were abundant in Crystal Lake in 2016, and their average size was excellent.  The Lake Trout gill net catch was the highest seen to date in this lake, and easily exceeded the goal for the species set in the 2008 plan.  The Lake Trout size goal in that plan was also met in 2016 (as it had been in all previous surveys).  Sixteen year classes, all naturally produced, contributed to the 2016 catch, and most of the fish taken were mature adults.  No fish younger than six years were collected, suggesting recruitment had been low in recent years.  The high number of Lake Trout taken, and the high proportion of adult fish, suggested exploitation in this lake had been minimal.  Lake Trout growth at early ages appeared to have been slow; fish reached an average length of 12.2 inches by the end of their fifth year, compared to an area mean of 14.9 inches.  Mid-summer temperature-oxygen conditions measured during this survey showed conditions suitable for Lake Trout (water temperature < 55 F, dissolved oxygen > 5.0 ppm) at depths of about 28 to at least 51 ft (the deepest tested).  Dissolved oxygen levels in deep waters were so high in early August that a considerable (and improbable) amount of depletion over the remainder of the summer would have been required to reduce the amount of cold-water habitat available. <br> \n <br> \nThe Walleye gill net catch in 2016 was one of the lowest seen in this lake historically.  Only eight fish were taken, although all were over 15 inches in length.  Only four year classes contributed to the 2016 catch, with the strongest apparently produced in 2012 (five fish).  Recent recruitment appeared to have been poor.  Walleye growth had been fast; at the end of their fourth year fish had reached a mean length of 17.1 inches, compared to an area average of 14.2 inches.  Walleye abundance in this lake appeared to have declined since 1978, while Lake Trout abundance appeared to have increased over that period. <br> \n <br> \nNorthern Pike have never been abundant in this lake.  None were taken in this survey, but it was likely a few fish were still present.  With no new information available for Northern Pike, no goal other than maintaining a small self-sustained population can be supported. <br> \n <br> \nSmallmouth Bass were still present in 2016, but perhaps not in very high numbers.  Yellow Perch, White Sucker, and Green Sunfish have all been taken in past surveys of this lake, and all were still present, but not particularly abundant, in 2016.  Minnow traps set as part of this survey to better sample the nearshore fish community added no new fish species to the short list of those known to be present in this lake (and caught no minnows).    <br> \n</p>",
+        "lengths": {
+          "GSF": {
+            "minimum_length": 1,
+            "fishCount": [
+              [
+                1,
+                2
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                1
+              ]
+            ],
+            "maximum_length": 5
+          },
+          "WTS": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "maximum_length": 17
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                3
+              ],
+              [
+                24,
+                3
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                29,
+                2
+              ],
+              [
+                30,
+                1
+              ]
+            ],
+            "maximum_length": 30,
+            "minimum_length": 12
+          },
+          "SMB": {
+            "minimum_length": 10,
+            "maximum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 3
+          },
+          "WAE": {
+            "minimum_length": 15,
+            "maximum_length": 25,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                25,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Standard Survey"
+      },
+      {
+        "headerInfo": {
+          "county": "Cook",
+          "wb_id": "16009000",
+          "id_date": "2006-08-28",
+          "wb_alt_name": "",
+          "survey_id": "220627752188000",
+          "survey_type": "Population Assessment",
+          "wb_name": "Crystal",
+          "wb_type": "Lake"
+        },
+        "surveyID": "220627752188000",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 13585,
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets",
+            "gearCount": 5,
+            "species": "LAT",
+            "averageWeight": "3.74",
+            "CPUE": "1.60",
+            "quartileWeight": "1.5-4.0",
+            "totalCatch": 8
+          },
+          {
+            "gearCount": 5,
+            "species": "WAE",
+            "gear": "Standard gill nets",
+            "totalWeight": 6985,
+            "quartileCount": "1.2-5.2",
+            "totalCatch": 4,
+            "quartileWeight": "1.0-2.0",
+            "CPUE": "0.80",
+            "averageWeight": "3.85"
+          },
+          {
+            "gearCount": 5,
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-3.7",
+            "totalWeight": 326,
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 6,
+            "CPUE": "1.20",
+            "averageWeight": "0.12"
+          },
+          {
+            "gearCount": 5,
+            "species": "GSF",
+            "gear": "Standard gill nets",
+            "totalWeight": 20,
+            "quartileCount": "0.2-0.9",
+            "totalCatch": 1,
+            "quartileWeight": "N/A",
+            "CPUE": "0.20",
+            "averageWeight": "0.04"
+          },
+          {
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "totalWeight": 2090,
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "totalCatch": 2,
+            "averageWeight": "2.30",
+            "CPUE": "0.40"
+          }
+        ],
+        "surveyDate": "2006-08-28",
+        "narrative": "<p>Walleye numbers were low in 2006; however, their average size was excellent.  No walleye smaller than 20 inches were collected in 2006.  Lake trout were present in average numbers for a lake of this class, and for this lake historically, and the population consisted mostly of older, larger fish.  The lack of coldwater forage species limits this lake's ability to produce trophy-size lake trout, but it does produce many fish in the five-pound range.  No smallmouth bass or northern pike were collected in 2006; however, both species were probably present, since they have been collected (in small numbers) in this lake in the past.  <br> \n</p>",
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "maximum_length": 19,
+            "minimum_length": 14
+          },
+          "GSF": {
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ],
+            "maximum_length": 4,
+            "minimum_length": 4
+          },
+          "LAT": {
+            "minimum_length": 14,
+            "maximum_length": 26,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                26,
+                2
+              ]
+            ]
+          },
+          "WAE": {
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                23,
+                2
+              ]
+            ],
+            "minimum_length": 20
+          },
+          "YEP": {
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                6,
+                5
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 6
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyID": "21872425642733155",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_name": "Crystal",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "survey_id": "21872425642733155",
+          "wb_id": "16009000",
+          "id_date": "2024-08-06",
+          "county": "Cook"
+        },
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Crystal Lake on August 6th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 59.0 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 42.6 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L at 59.0 feet at the time of sampling. The thickness of this layer of water in the water column was 16.4 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 7.8 degrees C (46.0 degrees F), was substituted as TDO3. TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2016 and 2023 also indicate suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 2024. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyDate": "2024-08-06"
+      },
+      {
+        "surveyID": "20042323459196018",
+        "headerInfo": {
+          "county": "Cook",
+          "wb_id": "16009000",
+          "id_date": "2023-08-02",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "survey_id": "20042323459196018",
+          "wb_type": "Lake",
+          "wb_name": "Crystal"
+        },
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2023-08-02",
+        "fishCatchSummaries": [],
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Crystal Lake on August 2nd, 2023  to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 13 feet. The dissolved oxygen did not reach 3.0 mg/L or less throughout the profile, and therefore there was sufficient oxygen from the surface to the bottom of the lake at the time of sampling. Since no TDO3 value can be calculated, the lowest dissolved oxygen level recorded was 3.1 ppm at 5.2\u00b0C (41.4\u00b0F) which was found at the deepest depth of the profile (65.6 feet). <br> \n <br> \nTDO3 values cooler than 8.8\u00b0C indicate that oxythermal conditions are favorable for Lake Trout. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for these species was available across a range of depths at the time of sampling. Data collected in 2016 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is available Lake Trout are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "lengths": {}
+      },
+      {
+        "headerInfo": {
+          "survey_id": "110079",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "wb_name": "Crystal",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "1988-08-24",
+          "wb_id": "16009000"
+        },
+        "surveyID": "110079",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "species": "LAT",
+            "totalWeight": 37.4,
+            "quartileCount": "0.4-3.7",
+            "totalCatch": 12,
+            "quartileWeight": "1.5-4.0",
+            "CPUE": "2.00",
+            "averageWeight": "3.12"
+          },
+          {
+            "species": "NOP",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.6-2.4",
+            "totalWeight": 3.5,
+            "totalCatch": 1,
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "3.50",
+            "CPUE": "0.17"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "species": "WAE",
+            "totalWeight": 78.35,
+            "quartileCount": "1.2-5.2",
+            "totalCatch": 18,
+            "quartileWeight": "1.0-2.0",
+            "CPUE": "3.00",
+            "averageWeight": "4.35"
+          },
+          {
+            "CPUE": "0.33",
+            "averageWeight": "0.05",
+            "quartileWeight": "N/A",
+            "totalCatch": 2,
+            "totalWeight": 0.1,
+            "quartileCount": "0.2-0.9",
+            "gearCount": 6,
+            "species": "GSF",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "YEP",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-3.7",
+            "totalWeight": 1,
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 6,
+            "averageWeight": "0.17",
+            "CPUE": "1.00"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 34.75,
+            "quartileWeight": "1.1-2.5",
+            "totalCatch": 16,
+            "averageWeight": "2.17",
+            "CPUE": "2.67"
+          }
+        ],
+        "surveyDate": "1988-08-24",
+        "narrative": "<p>LAKE TROUT ABUNDANCE AND SIZE ARE GOOD. THE STRONGEST YEAR-CLASS SAMPLED WAS 1984, A YEAR IN WHICH A SIZEABLE STOCKING OF FINGERLINGS OCCURRED. HOWEVER, THERE APPEARS TO BE A FAIR AMOUNT OF NATURAL REPRODUCTION ALSO. THE LAKE TROUT GROWTH RATE IS GOOD. WALLEYE ABUNDANCE IS FAIR. SIZE IS EXCELLENT, BUT SMALLER SIZES OF FISH ARE ABSENT. THIS APPEARS TO BE A SENILE POPULATION WHICH IS LIGHTLY EXPLOITED OR OR EXPLOITED. WALLEYE GROWTH IS GOOD. YELLOW PERCH ARE AVAILABLE FOR FORAGE, BUT ARE NOT ABUNDANT. GREEN SUNFISH CAN ALSO PROVIDE FORAGE FOR LAKE TROUT. THIS HAS BEEN OBSERVED IN NEAR-BY ALDER LAKE.</p>",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "areaAcres": 205.87,
+    "waterClarity": [
+      [
+        "08/02/2016",
+        "22"
+      ],
+      [
+        "07/21/1969",
+        "23"
+      ],
+      [
+        "08/28/2006",
+        "14"
+      ],
+      [
+        "08/06/2024",
+        "20"
+      ],
+      [
+        "08/25/1988",
+        "16"
+      ]
+    ],
+    "averageWaterClarity": "19.0",
+    "maxDepthFeet": 80,
+    "shoreLengthMiles": 4.44
+  }
+}

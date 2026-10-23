@@ -1,0 +1,55 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "surveys": [
+      {
+        "surveyType": "Targeted Survey",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyDate": "2025-08-04",
+        "surveyID": "22122521954879136",
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_id": "38022300",
+          "id_date": "2025-08-04",
+          "survey_id": "22122521954879136",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "Elbow",
+          "wb_type": "Lake",
+          "wb_name": "Beaver"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Beaver Lake on August 4th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 73.5 feet), the water temperature decreased to 21.2 degrees C (70.2 degrees F) at 10.4 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 60.0 feet at the time of sampling. This layer in the water column was 49.6 feet, indicating oxythermal habitat for Cisco was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.2 degrees C (41.4 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. TDO3 values indicate that water temperatures and dissolved oxygen levels in Beaver Lake are suitable for Lake Whitefish and Lake Trout as well, though none have ever been observed in fisheries survey gear. When adequate oxythermal habitat is not available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>"
+      }
+    ],
+    "lakeAltName": "Elbow",
+    "meanDepthFeet": 18,
+    "officeCode": "F214",
+    "county": "Lake",
+    "accesses": [
+      {
+        "location": "Access is by canoe portages from Adams Lake ~90rods~  Smite Lake ~65 rods~  or Kawishiwi R ~20 rods~",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "littoralAcres": 95,
+    "maxDepthFeet": 76,
+    "sampledPlants": [],
+    "lakeName": "Beaver",
+    "waterClarity": [
+      [
+        "08/04/2025",
+        "8"
+      ]
+    ],
+    "shoreLengthMiles": 9.99,
+    "averageWaterClarity": "8.0",
+    "DOWNumber": "38022300",
+    "areaAcres": 218.49
+  },
+  "timestamp": 1790285765,
+  "message": "Normal execution."
+}

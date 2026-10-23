@@ -1,0 +1,566 @@
+{
+  "result": {
+    "lakeName": "Juno",
+    "DOWNumber": "16040200",
+    "surveys": [
+      {
+        "surveyDate": "2000-06-26",
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Introductory stocking of walleye in Juno Lake in the mid 1980's succeeded in establishing a self-sustained population with average or above-average numbers.  Walleye growth rates had been about average for the area, despite the lack of a good yellow perch forage base.The northern pike catch in 2000 was above the normal range for lakes of this class, however, most of the fish collected were fairly small.  The population was dominated by three-year-old fish, with only one older fish observed.  Northern pike growth rates had been somewhat faster than average for this area, perhaps due to the presence of some smaller white sucker to serve as forage.  Some of the northern pike collected in 2000 had been feeding on walleye.No other game fish, and no panfish, were collected in 2000, and none were known to be present in the lake.</p>",
+        "surveyID": "111235",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "WAE": {
+            "minimum_length": 7,
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                9
+              ],
+              [
+                21,
+                8
+              ],
+              [
+                22,
+                8
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                2
+              ]
+            ],
+            "maximum_length": 24,
+            "minimum_length": 3
+          },
+          "WTS": {
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                8
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "minimum_length": 11
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          }
+        },
+        "headerInfo": {
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_name": "Juno",
+          "survey_id": "111235",
+          "id_date": "2000-06-26",
+          "wb_id": "16040200"
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "CPUE": "0.08",
+            "gearCount": 12,
+            "quartileWeight": "N/A",
+            "totalCatch": 1,
+            "species": "NOP",
+            "totalWeight": 0
+          },
+          {
+            "CPUE": "8.17",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.68",
+            "quartileCount": "2.0-6.3",
+            "totalWeight": 37321,
+            "species": "NOP",
+            "quartileWeight": "1.3-2.4",
+            "totalCatch": 49,
+            "gearCount": 6
+          },
+          {
+            "gearCount": 6,
+            "quartileWeight": "0.9-1.6",
+            "totalCatch": 29,
+            "species": "WAE",
+            "totalWeight": 14956,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.14",
+            "CPUE": "4.83",
+            "quartileCount": "3.0-9.8"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.10",
+            "CPUE": "0.50",
+            "quartileCount": "2.2-14.6",
+            "gearCount": 6,
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 3,
+            "species": "YEP",
+            "totalWeight": 134
+          },
+          {
+            "CPUE": "4.33",
+            "averageWeight": "2.51",
+            "gear": "Standard gill nets",
+            "quartileCount": "3.6-14.1",
+            "species": "WTS",
+            "totalWeight": 29606,
+            "gearCount": 6,
+            "totalCatch": 26,
+            "quartileWeight": "1.5-2.4"
+          }
+        ]
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1991-09-25",
+        "surveyType": "Standard Survey",
+        "surveyID": "110207",
+        "narrative": "<p>WAE CPUE WAS ABOUT AVERAGE FOR LAKES OF THIS CLASS.  WAE COLLECTED RANGED FROM 12 TO 18 IN, WITH THREE YEAR CLASSES REPRESENTED.  GROWTH WAS A LITTLE SLOWER THAN AVERAGE FOR COOK COUNTY, WITH THE MEAN LENGTH OF AGE V FISH AT 14.8 IN AT LAST ANNULUS FORMATION, COMPARED TO THE COUNTY MEAN OF 15.5 IN.  ALL THE WAE TAKEN IN THIS ASSESSMENT WERE FROM INTRODUCTORY STOCKINGS IN 1985, 1986 AND 1987.  MOST OF THESE FISH WERE PROBABLY IMMATURE, SO IT WOULD HAVE BEEN TOO SOON TO SEE ANY INDICATION OF NATURAL REPRODUCTION.  NOP CPUE WAS LOWER THAN THAT OBSERVED IN THE 1973 SURVEY, BUT THE TIMING OF THE ASSESSMENTS WAS CHANGED, SO THE CHANGE IN CPUE MAY NOT BE SIGNIFICANT.  NO LARGE NOP WERE TAKEN IN 1973 OR IN 1991.  NO YEP WERE COLLECTED, BUT THEY ARE PRESENT AND PROVIDING SOME FORAGE FOR WAE.</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.0-6.3",
+            "averageWeight": "0.71",
+            "gear": "Standard gill nets",
+            "CPUE": "1.00",
+            "quartileWeight": "1.3-2.4",
+            "totalCatch": 6,
+            "gearCount": 6,
+            "totalWeight": 4.25,
+            "species": "NOP"
+          },
+          {
+            "gearCount": 6,
+            "totalCatch": 45,
+            "quartileWeight": "0.9-1.6",
+            "species": "WAE",
+            "totalWeight": 48.25,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.07",
+            "CPUE": "7.50",
+            "quartileCount": "3.0-9.8"
+          },
+          {
+            "quartileWeight": "1.5-2.4",
+            "totalCatch": 26,
+            "gearCount": 6,
+            "totalWeight": 77.75,
+            "species": "WTS",
+            "quartileCount": "3.6-14.1",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.99",
+            "CPUE": "4.33"
+          }
+        ],
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "110207",
+          "id_date": "1991-09-25",
+          "wb_id": "16040200",
+          "wb_name": "Juno"
+        }
+      },
+      {
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1973-06-27",
+        "surveyType": "Standard Survey",
+        "surveyID": "109741",
+        "narrative": "<p>Juno Lake has hgh numbers of N Pike and Suckers with very few Perch present.  Suckers are apparently too large generally for forage as N Pike are thin-bodied.</p>",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 62,
+            "quartileWeight": "1.3-2.4",
+            "gearCount": 6,
+            "totalWeight": 77.3,
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.25",
+            "CPUE": "10.33",
+            "quartileCount": "2.0-6.3"
+          },
+          {
+            "species": "YEP",
+            "totalWeight": 0.2,
+            "gearCount": 6,
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 1,
+            "quartileCount": "2.2-14.6",
+            "CPUE": "0.17",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.20"
+          },
+          {
+            "quartileCount": "3.6-14.1",
+            "CPUE": "8.33",
+            "averageWeight": "2.52",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "totalWeight": 126,
+            "gearCount": 6,
+            "totalCatch": 50,
+            "quartileWeight": "1.5-2.4"
+          }
+        ],
+        "lengths": {},
+        "headerInfo": {
+          "wb_name": "Juno",
+          "wb_id": "16040200",
+          "survey_id": "109741",
+          "id_date": "1973-06-27",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey"
+        }
+      },
+      {
+        "surveyDate": "2010-06-28",
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Juno Lake supported average numbers of walleye in 2010.  Since 1991, the number of walleye caught in assessment nets in this lake has decreased, but their mean weight has increased slightly.  The largest walleye taken in 2010 was 20 inches long.  Annual natural reproduction has been reliable, producing all the walleye now in the lake.  Walleye growth rates were close average for this class of lake.  <br> \n <br> \nThe northern pike catch has fluctuated widely in past assessments of this lake.  The 2010 catch, and average size, were near the average for the lake class.  Growth rates of northern pike collected in 2010 had been close to average for the lake class. <br> \n <br> \nAs in past assessment netting, few yellow perch were caught.  White sucker appear to have declined in abundance. <br> \n <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "surveyID": "4311008154964019",
+        "lengths": {
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                2
+              ]
+            ],
+            "maximum_length": 5
+          },
+          "WTS": {
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 19
+          },
+          "WAE": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "minimum_length": 9
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ]
+            ],
+            "maximum_length": 23,
+            "minimum_length": 17
+          }
+        },
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_id": "16040200",
+          "id_date": "2010-06-28",
+          "survey_id": "4311008154964019",
+          "wb_name": "Juno"
+        },
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "totalWeight": 16498,
+            "gearCount": 6,
+            "totalCatch": 23,
+            "quartileWeight": "1.3-2.4",
+            "quartileCount": "2.0-6.3",
+            "CPUE": "3.83",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.58"
+          },
+          {
+            "CPUE": "3.17",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.30",
+            "quartileCount": "3.0-9.8",
+            "species": "WAE",
+            "totalWeight": 11161,
+            "gearCount": 6,
+            "quartileWeight": "0.9-1.6",
+            "totalCatch": 19
+          },
+          {
+            "CPUE": "0.33",
+            "averageWeight": "0.04",
+            "gear": "Standard gill nets",
+            "quartileCount": "2.2-14.6",
+            "species": "YEP",
+            "totalWeight": 39,
+            "gearCount": 6,
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 2
+          },
+          {
+            "gearCount": 6,
+            "quartileWeight": "1.5-2.4",
+            "totalCatch": 7,
+            "species": "WTS",
+            "totalWeight": 7335,
+            "quartileCount": "3.6-14.1",
+            "averageWeight": "2.31",
+            "gear": "Standard gill nets",
+            "CPUE": "1.17"
+          }
+        ]
+      }
+    ],
+    "littoralAcres": 202.1,
+    "sampledPlants": [],
+    "maxDepthFeet": 23,
+    "waterClarity": [
+      [
+        "06/29/1973",
+        "7.5"
+      ],
+      [
+        "06/28/2010",
+        "7"
+      ]
+    ],
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "location": "",
+        "lakeAccessComments": " ",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "PRMIT"
+      }
+    ],
+    "meanDepthFeet": 8,
+    "averageWaterClarity": "7.3",
+    "areaAcres": 216.09,
+    "shoreLengthMiles": 10.54,
+    "county": "Cook",
+    "officeCode": "F218"
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285672,
+  "message": "Normal execution."
+}

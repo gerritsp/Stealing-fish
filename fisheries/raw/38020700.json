@@ -1,0 +1,465 @@
+{
+  "timestamp": 1790286042,
+  "result": {
+    "littoralAcres": 155,
+    "shoreLengthMiles": 8.25,
+    "averageWaterClarity": "24.6",
+    "areaAcres": 373.68,
+    "lakeName": "Ester",
+    "maxDepthFeet": 110,
+    "county": "Lake",
+    "lakeAltName": "Gnig",
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "totalWeight": 8746,
+            "averageWeight": "2.75",
+            "species": "LKW",
+            "CPUE": "3.50",
+            "gearCount": 2,
+            "totalCatch": 7,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "totalWeight": 31235,
+            "averageWeight": "4.30",
+            "CPUE": "3.20",
+            "species": "LAT",
+            "gearCount": 5,
+            "totalCatch": 16,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Deep gill nets",
+            "totalWeight": 1146,
+            "averageWeight": "2.53",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "species": "SMB",
+            "CPUE": "0.20",
+            "totalCatch": 1,
+            "gearCount": 5
+          },
+          {
+            "CPUE": "0.50",
+            "species": "YEP",
+            "totalCatch": 1,
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 70,
+            "averageWeight": "0.15",
+            "gear": "Shallow gill nets"
+          },
+          {
+            "CPUE": "5.20",
+            "species": "CIS",
+            "gearCount": 5,
+            "totalCatch": 26,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 2349,
+            "averageWeight": "0.20",
+            "gear": "Deep gill nets"
+          },
+          {
+            "totalWeight": 3281,
+            "averageWeight": "7.23",
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "0.50",
+            "species": "NOP",
+            "gearCount": 2,
+            "totalCatch": 1
+          },
+          {
+            "totalCatch": 72,
+            "gearCount": 5,
+            "species": "LKW",
+            "CPUE": "14.40",
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "averageWeight": "1.99",
+            "totalWeight": 64923
+          },
+          {
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "totalCatch": 1,
+            "CPUE": "0.50",
+            "species": "WTS",
+            "averageWeight": "3.55",
+            "totalWeight": 1610,
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets"
+          },
+          {
+            "totalWeight": 7758,
+            "averageWeight": "0.86",
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "4.00",
+            "species": "BUB",
+            "gearCount": 5,
+            "totalCatch": 20
+          },
+          {
+            "gear": "Shallow gill nets",
+            "totalWeight": 661,
+            "averageWeight": "1.46",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "0.50",
+            "species": "SMB",
+            "gearCount": 2,
+            "totalCatch": 1
+          }
+        ],
+        "headerInfo": {
+          "survey_id": "15481826436498000",
+          "wb_name": "Ester",
+          "wb_alt_name": "Gnig",
+          "id_date": "2018-09-17",
+          "wb_type": "Lake",
+          "survey_type": "Standard Survey",
+          "county": "Lake",
+          "wb_id": "38020700"
+        },
+        "surveySubType": "Standard Survey",
+        "lengths": {
+          "BUB": {
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 19,
+            "minimum_length": 9
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                1
+              ]
+            ],
+            "minimum_length": 13,
+            "maximum_length": 16
+          },
+          "CIS": {
+            "maximum_length": 11,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                11
+              ],
+              [
+                8,
+                6
+              ],
+              [
+                9,
+                6
+              ]
+            ]
+          },
+          "LKW": {
+            "maximum_length": 21,
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                33
+              ],
+              [
+                18,
+                32
+              ],
+              [
+                19,
+                7
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "minimum_length": 20,
+            "fishCount": [
+              [
+                20,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 7,
+            "minimum_length": 7
+          },
+          "NOP": {
+            "maximum_length": 32,
+            "minimum_length": 32,
+            "fishCount": [
+              [
+                32,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                22,
+                5
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                25,
+                5
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 27
+          }
+        },
+        "surveyDate": "2018-09-17",
+        "surveyID": "15481826436498000",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Ester is a remote lake located in the Boundary Waters Canoe Area Wilderness approximately 40 miles northeast of Ely. The lake is in a semi-primitive non-motorized federal wilderness management area. The most direct access requires crossing Saganaga Lake from the end of the Gunflint Trail. At the west end of Saganaga, there are two portages (5 and 80 rods) required to reach Ottertrack Lake. From Ottertrack, there is an 80-rod portage into the north end of Ester. There are five USFS-maintained campsites on Ester Lake. \n\nEster is a 374 acre lake with very clear water. The lake has a rugged and steep shoreline and the basin drops off just as steeply as the shore. Bottom substrates are primarily boulder and bedrock. Surveys have indicated that the lake has an abundance of coldwater habitat for fish species like lake trout, whitefish, cisco and burbot.\n\nA DNR Fisheries survey was conducted on Ester Lake from September 17-20, 2018. Fish sampling was non-motorized and included gill nets set in both deep and shallow water to sample the entire fish community. Minnow traps were also set in deep water to catch sculpin however none were caught. The 2018 survey was the third DNR survey of Ester Lake. Previous surveys were completed in 1973 and 1980.  \n\nThe lake trout deepwater gill-net catch rate of 3.2/net in 2018 was less than the catch rate from the 1980 survey (4.3/net) but exceeded the Tower Area average of 2.0/net for all lake trout lakes. Sixteen lake trout ranged in length from 8.4 to 27.4 inches with an average of 22.7 inches. The length distribution was comparable to that recorded in 1973 and 1980. Catch aging indicated that the lake trout of Ester Lake had very slow growth rates. Ages ranged from 5 to 22 years and averaged 14 years. \n\nLake whitefish were the most abundant species in the deepwater gill-net catch in 2018 with a catch rate of 14.4/net. The whitefish catch rate was very similar to the earlier estimates of 1973 and1980. The whitefish catch ranged in length from 9.7 to 20.3 inches with an average of 17.9 inches. The whitefish caught during the survey were quite old; ages ranged from 3-38 years with an average of 22.7 years. All but one of the whitefish was over 16 years of age.\n\nThe cisco gill-net catch rate in 2018 was 5.2/net. Cisco were not previously reported from Ester Lake. Although a recent introduction is possible, it is more likely that cisco have been present in Ester during previous surveys but were mistaken for small whitefish. Lengths of cisco averaged 8.4 inches.\n\nSmallmouth bass were caught in 2018 for the first time in Ester Lake. Two 14-17 inch bass were caught during netting in 2018. Smalllmouth bass have become established in many lakes in the BWCAW. There is evidence that suggests they compete with native fish species like lake trout and walleye. \n\nOther species caught during the 2018 survey included burbot, northern pike, white sucker and yellow perch. </p>"
+      },
+      {
+        "narrative": "<p>Composed of above average populations of Lake Trout, Whitefish, and Burbot.  Perch are present in low numbers.</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1980-08-10",
+        "lengths": {},
+        "surveyID": "107965",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.2-1.0",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "species": "BUB",
+            "CPUE": "2.50",
+            "gearCount": 4,
+            "totalCatch": 10,
+            "quartileWeight": "0.6-1.5"
+          },
+          {
+            "quartileWeight": "1.5-4.0",
+            "gearCount": 4,
+            "totalCatch": 17,
+            "species": "LAT",
+            "CPUE": "4.25",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "quartileCount": "0.4-3.7"
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "0.50",
+            "species": "YEP",
+            "totalCatch": 2,
+            "gearCount": 4,
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "1.6-15.5",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "gear": "Standard gill nets",
+            "species": "LKW",
+            "CPUE": "18.75",
+            "totalCatch": 75,
+            "gearCount": 4,
+            "quartileWeight": "1.0-2.1"
+          }
+        ],
+        "headerInfo": {
+          "wb_type": "Lake",
+          "id_date": "1980-08-10",
+          "wb_alt_name": "Gnig",
+          "survey_id": "107965",
+          "wb_name": "Ester",
+          "wb_id": "38020700",
+          "county": "Lake",
+          "survey_type": "Population Assessment"
+        },
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Ester Lake on August 1st, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Lake Whitefish and Cisco, also known as 'Tullibee', are also present). Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 100.0 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 36.8 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 82.5 feet at the time of sampling. This layer in the water column was 45.7 feet, indicating oxythermal habitat for Lake Trout was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.7 degrees C (40.5 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveyID": "22122523854844132",
+        "surveyDate": "2025-08-01",
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "wb_id": "38020700",
+          "county": "Lake",
+          "survey_id": "22122523854844132",
+          "wb_name": "Ester",
+          "wb_type": "Lake",
+          "wb_alt_name": "Gnig",
+          "id_date": "2025-08-01"
+        },
+        "fishCatchSummaries": []
+      },
+      {
+        "surveyDate": "2024-08-14",
+        "lengths": {},
+        "surveyID": "21872427037575013",
+        "headerInfo": {
+          "wb_name": "Ester",
+          "survey_id": "21872427037575013",
+          "wb_alt_name": "Gnig",
+          "id_date": "2024-08-14",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "county": "Lake",
+          "wb_id": "38020700"
+        },
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Ester Lake on August 14th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Lake Whitefish and Cisco, also known as 'Tullibee', are also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 105.0 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 37.0 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 86.6 feet at the time of sampling. The thickness of this layer of water in the water column was 49.6 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.5 degrees C (41.9 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Ester Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey"
+      }
+    ],
+    "officeCode": "F214",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "By portage only-in BWCA on USFS land."
+      }
+    ],
+    "sampledPlants": [],
+    "DOWNumber": "38020700",
+    "waterClarity": [
+      [
+        "09/17/2018",
+        "23"
+      ],
+      [
+        "08/01/2025",
+        "23"
+      ],
+      [
+        "08/14/2024",
+        "27.9"
+      ]
+    ],
+    "meanDepthFeet": 0
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

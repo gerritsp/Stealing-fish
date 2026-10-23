@@ -1,0 +1,233 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790286017,
+  "result": {
+    "shoreLengthMiles": 5.04,
+    "littoralAcres": 29,
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "lakeAccessComments": "16 rod portage to Amoeber Lake",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "location": " ",
+        "accessTypeId": "PO"
+      },
+      {
+        "location": " ",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "7 rod portage to Cherry Lake"
+      }
+    ],
+    "lakeAltName": "Star",
+    "waterClarity": [
+      [
+        "09/12/2018",
+        "19"
+      ]
+    ],
+    "DOWNumber": "38017200",
+    "surveys": [
+      {
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Ciscoes are present in above average numbers. Lake trout, smallmouth bass, and burbot are present in about average numbers.  Suckers are present in low numbers.</p>",
+        "surveyDate": "1973-06-26",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 2,
+            "gearCount": 3,
+            "quartileWeight": "0.3-1.8",
+            "totalWeight": 2.3,
+            "species": "BUB",
+            "averageWeight": "1.15",
+            "CPUE": "0.67",
+            "quartileCount": "0.1-0.5"
+          },
+          {
+            "CPUE": "1.67",
+            "quartileCount": "0.3-1.7",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "totalCatch": 5,
+            "quartileWeight": "4.0-9.3",
+            "totalWeight": 46.7,
+            "averageWeight": "9.34",
+            "species": "LAT"
+          },
+          {
+            "quartileCount": "0.2-0.7",
+            "CPUE": "0.33",
+            "averageWeight": "0.40",
+            "species": "SMB",
+            "totalWeight": 0.4,
+            "gearCount": 3,
+            "quartileWeight": "0.3-2.2",
+            "totalCatch": 1,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 2.2,
+            "species": "WTS",
+            "averageWeight": "2.20",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "quartileWeight": "1.7-2.4",
+            "totalCatch": 1,
+            "quartileCount": "2.6-11.7",
+            "CPUE": "0.33"
+          },
+          {
+            "CPUE": "25.33",
+            "quartileCount": "1.0-5.3",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "totalCatch": 76,
+            "quartileWeight": "0.2-0.8",
+            "totalWeight": 33.75,
+            "averageWeight": "0.44",
+            "species": "TLC"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyID": "107950",
+        "headerInfo": {
+          "county": "Lake",
+          "survey_id": "107950",
+          "survey_type": "Population Assessment",
+          "id_date": "1973-06-26",
+          "wb_alt_name": "Star",
+          "wb_name": "Topaz",
+          "wb_id": "38017200",
+          "wb_type": "Lake"
+        },
+        "lengths": {}
+      },
+      {
+        "headerInfo": {
+          "survey_id": "16011826135430001",
+          "county": "Lake",
+          "wb_alt_name": "Star",
+          "id_date": "2018-09-11",
+          "survey_type": "Standard Survey",
+          "wb_name": "Topaz",
+          "wb_type": "Lake",
+          "wb_id": "38017200"
+        },
+        "lengths": {
+          "BUB": {
+            "fishCount": [
+              [
+                21,
+                1
+              ]
+            ],
+            "minimum_length": 21,
+            "maximum_length": 21
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "CIS": {
+            "maximum_length": 14,
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                42
+              ],
+              [
+                12,
+                129
+              ],
+              [
+                13,
+                29
+              ],
+              [
+                14,
+                4
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "CPUE": "33.00",
+            "totalWeight": 25779,
+            "species": "CIS",
+            "averageWeight": "0.57",
+            "gear": "Shallow gill nets",
+            "totalCatch": 99,
+            "gearCount": 3,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "36.33",
+            "totalWeight": 28382,
+            "averageWeight": "0.57",
+            "species": "CIS",
+            "gear": "Deep gill nets",
+            "gearCount": 3,
+            "totalCatch": 109,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Deep gill nets",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "totalCatch": 1,
+            "totalWeight": 1076,
+            "species": "BUB",
+            "averageWeight": "2.37",
+            "CPUE": "0.33",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "0.67",
+            "totalWeight": 87,
+            "averageWeight": "0.10",
+            "species": "YEP",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "totalCatch": 2
+          }
+        ],
+        "surveyID": "16011826135430001",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2018-09-11",
+        "surveySubType": "Standard Survey",
+        "narrative": "<p>Topaz Lake is located within the Boundary Waters Canoe Area Wilderness (BWCAW) within the Superior National Forest and is a non-motorized lake.  It is approximately 38 miles northeast of Ely.  Accesses consist of a 16 rod portage from Amoeber Lake on the southwest corner and a 6 rod portage to Cherry Lake to the northwest.  BWCAW permits are required to visit Topaz through an official entry point and there is one U. S. Forest Service maintained campsite on the lake.   <br> \n <br> \nTopaz has four small inlets and one outlet which flows southwest to Amoeber Lake.  It is a 150 acre lake with a max depth of 73 feet and clear water.   <br> \n <br> \nOn September 12, 2018 Topaz was thermally stratified with a surface temperature of 67 F and a bottom temperature of 40 F.  Oxygen levels were adequate for cold water fish, including lake trout, to a depth of 35 feet.  Lake bottom substrates along the shoreline of Topaz are dominated by boulder and ledgerock. Aquatic plants are very sparse.   <br> \n   <br> \nBoth deep and shallow water gill nets were set.  Cisco dominated the catch in both gear types with a burbot and two small yellow perch also being sampled.      <br> \n <br> \nThe cisco deep water gill net catch rate was 36.3 fish/net.  This was higher than normal for Topaz and very high compared to other lakes with cisco in the area.  Sizes were 11 to 15 inches with an average of nearly 13 inches.  Sizes were slightly bigger than cisco that had been sampled in the past.   <br> \n <br> \nOne burbot was sampled in deep water gill nets.  It was 21 inches long and 8 years old.   <br> \n <br> \nSmallmouth bass, walleye, white sucker, and lake trout were all sampled in previous surveys, however none were caught in this assessment.   <br> \n</p>"
+      }
+    ],
+    "sampledPlants": [],
+    "lakeName": "Topaz",
+    "officeCode": "F214",
+    "areaAcres": 149.99,
+    "averageWaterClarity": "19.0",
+    "county": "Lake",
+    "maxDepthFeet": 73
+  }
+}

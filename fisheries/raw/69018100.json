@@ -1,0 +1,1195 @@
+{
+  "result": {
+    "maxDepthFeet": 49,
+    "officeCode": "F214",
+    "lakeName": "Slim",
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "08/28/2006",
+        "14"
+      ],
+      [
+        "08/06/2025",
+        "10"
+      ],
+      [
+        "08/22/2016",
+        "10"
+      ],
+      [
+        "08/07/2023",
+        "15.5"
+      ]
+    ],
+    "areaAcres": 312.14,
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Slim Lake is in Ecological Lake Class 3, which consists of 72 lakes in northeast Minnesota that are deep, have irregular shoreline shapes, and have very clear and soft (unmineralized) water. <br> \n <br> \nSlim Lake was thermally stratified on 8/28/2006 with a surface temperature of 71 F and a bottom temperature of 46 F.  Adequate oxygen for fish (more than 2 ppm) was retained to a depth of 33 ft, where the temperature was 50 F.  Lake bottom substrates along the shoreline of Slim Lake are mostly rock and boulder, with little aquatic vegetation.  The outlet stream has a waterfall that prevents upstream fish migration.  <br> \n <br> \nThe 2006 fish population assessment consisted of six gillnet sets.  Ten previous fisheries investigations on Slim Lake, dating back to 1960, used 3-12 gillnets.  Trapnets (six sets) were used only in the 1964 investigation and caught very few fish.  Trapnets have not been used in recent investigations on Slim Lake due to the long (1/3 mile) portage access. <br> \n <br> \nThe total catch of fish (all species combined) in 2006 of 5.6 fish/gillnet (7.2 lb/gillnet) was lower than normal (in the first quartile) for this lake class and was lower than the median catch of 14.5 fish/gillnet (19.3 lb/gillnet) in all investigations on this lake.  Lake Class 3 is one of the least productive lake classes in northeastern Minnesota, in terms of gillnet catches of fish. <br> \n <br> \nFish populations in 2006 were dominated by walleye, northern pike, and smallmouth bass.  Fewer walleye, white sucker, and yellow perch were caught in 2006 than in most previous investigations on this lake. <br> \n <br> \nWalleye numbers in 2006 (2.5/gillnet) were somewhat lower than normal (in the second quartile) for this lake class and were lower than the median walleye catch of 6.5/gillnet in all investigations on this lake.  Walleye sizes in 2006 averaged 16.3 in (1.6 lb), which was somewhat larger than normal (in the third quartile) for this lake class, but was similar to the average size of 15.6 in. in all investigations on this lake.  The largest walleye captured in 2006 was 19.8 in.  About half of the walleye captured in 2006 were age five, from the 2001 year-class.  Growth of age one and two walleye was slower than normal by area standards, while growth of age three and older walleye was somewhat faster than normal. <br> \n <br> \nNorthern pike numbers in 2006 (1.0/gillnet) were somewhat lower than normal (in the second quartile) for this lake class, but were at the median pike catch of 1.0/gillnet for all investigations on this lake.  Pike sizes in 2006 averaged 21.2 in (2.2 lb), which was somewhat smaller than normal (in the second quartile) for this lake class and was smaller than the average size of 23.6 in. in all investigations on this lake.  All of the pike captured in 2006 were ages two through five.  Pike growth appeared to be somewhat slower than normal by area standards. <br> \n <br> \nSmallmouth bass were observed for the first time in Slim Lake during  the 2006 investigation.  Five smallmouth, ranging in size from 5.8 in to 11.8 in were captured.  All smallmouth captured in 2006 were ages two through four.  Smallmouth growth was inconsistent. <br> \n <br> \nWhite sucker numbers in 2006 (0.2/gillnet) were lower than normal (in the first quartile) for this lake class and were lower than the median sucker catch of 3.6/gillnet in all investigations on this lake. <br> \n <br> \nYellow perch numbers in 2006 (0.3/gillnet) were lower than normal (in the first quartile) for this lake class and were lower than the median catch of 3.1/gillnet in all investigations on this lake.  Only two perch, both 5 in, were captured. <br> \n <br> \nMost of the game fish examined in 2006 were free of diseases or parasites.  One smallmouth bass had bass tapeworm larvae in its viscera.  Bass tapeworm is a common parasite of smallmouth bass.  It cannot infect humans, is often removed by filleting fish, and is killed at temperatures used to cook fish. <br> \n</p>",
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                19,
+                1
+              ]
+            ],
+            "maximum_length": 19,
+            "minimum_length": 19
+          },
+          "WAE": {
+            "minimum_length": 10,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                5
+              ]
+            ]
+          },
+          "NOP": {
+            "maximum_length": 26,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                26,
+                1
+              ]
+            ],
+            "minimum_length": 16
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                5,
+                2
+              ]
+            ]
+          },
+          "SMB": {
+            "minimum_length": 5,
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "TLC": {
+            "maximum_length": 10,
+            "fishCount": [
+              [
+                10,
+                3
+              ]
+            ],
+            "minimum_length": 10
+          },
+          "GSF": {
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          }
+        },
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_id": "1100629926690000",
+          "county": "St. Louis",
+          "survey_type": "Population Assessment",
+          "id_date": "2006-08-28",
+          "wb_id": "69018100",
+          "wb_name": "Slim",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "2006-08-28",
+        "surveyID": "1100629926690000",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "2.19",
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets",
+            "totalWeight": 5969,
+            "species": "NOP",
+            "gearCount": 6,
+            "CPUE": "1.00",
+            "totalCatch": 6
+          },
+          {
+            "species": "SMB",
+            "gearCount": 6,
+            "CPUE": "0.83",
+            "totalCatch": 5,
+            "quartileWeight": "0.6-1.5",
+            "averageWeight": "0.38",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.4",
+            "totalWeight": 858
+          },
+          {
+            "totalWeight": 10775,
+            "averageWeight": "1.58",
+            "quartileWeight": "1.0-2.0",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.2-5.2",
+            "CPUE": "2.50",
+            "totalCatch": 15,
+            "gearCount": 6,
+            "species": "WAE"
+          },
+          {
+            "totalWeight": 57,
+            "averageWeight": "0.06",
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-3.7",
+            "CPUE": "0.33",
+            "totalCatch": 2,
+            "species": "YEP",
+            "gearCount": 6
+          },
+          {
+            "totalWeight": 87,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.10",
+            "quartileCount": "0.2-0.9",
+            "gear": "Standard gill nets",
+            "CPUE": "0.33",
+            "totalCatch": 2,
+            "gearCount": 6,
+            "species": "GSF"
+          },
+          {
+            "totalWeight": 1374,
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "3.03",
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "0.17",
+            "totalCatch": 1,
+            "gearCount": 6,
+            "species": "WTS"
+          },
+          {
+            "quartileWeight": "0.2-1.0",
+            "averageWeight": "0.37",
+            "gear": "Standard gill nets",
+            "quartileCount": "3.2-20.2",
+            "totalWeight": 502,
+            "gearCount": 6,
+            "species": "TLC",
+            "totalCatch": 3,
+            "CPUE": "0.50"
+          }
+        ]
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Slim Lake on August 6th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 49.2 feet), the water temperature decreased to 21.2 degrees C (70.2 degrees F) at 15.0 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 34.8 feet at the time of sampling. This layer in the water column was 19.8 feet, indicating oxythermal habitat for Cisco was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 8.6 degrees C (47.5 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2016, 2023, 2024 also indicated suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 2016 when the suitable oxythermal habitat layer was 11.2 feet thick. When adequate oxythermal habitat is not available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "surveyID": "20162522731619102",
+        "fishCatchSummaries": [],
+        "surveyDate": "2025-08-06",
+        "headerInfo": {
+          "wb_name": "Slim",
+          "wb_id": "69018100",
+          "survey_type": "Targeted Survey",
+          "id_date": "2025-08-06",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "survey_id": "20162522731619102"
+        },
+        "lengths": {}
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 15.5,
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.21",
+            "quartileWeight": "2.1-4.9",
+            "totalCatch": 7,
+            "CPUE": "2.33",
+            "species": "NOP",
+            "gearCount": 3
+          },
+          {
+            "totalCatch": 35,
+            "CPUE": "11.67",
+            "gearCount": 3,
+            "species": "WAE",
+            "totalWeight": 28.9,
+            "quartileWeight": "1.0-2.0",
+            "averageWeight": "0.83",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.2-5.2"
+          },
+          {
+            "totalWeight": 4,
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.11",
+            "totalCatch": 35,
+            "CPUE": "11.67",
+            "gearCount": 3,
+            "species": "YEP"
+          },
+          {
+            "CPUE": "0.33",
+            "totalCatch": 1,
+            "gearCount": 3,
+            "species": "GOS",
+            "totalWeight": 0.1,
+            "quartileWeight": "0.1",
+            "averageWeight": "0.10",
+            "quartileCount": "0.3",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 3,
+            "species": "WTS",
+            "CPUE": "0.33",
+            "totalCatch": 1,
+            "averageWeight": "0.90",
+            "quartileWeight": "1.1-2.5",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 0.9
+          }
+        ],
+        "surveyID": "108414",
+        "surveyDate": "1989-08-29",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "id_date": "1989-08-29",
+          "wb_name": "Slim",
+          "wb_id": "69018100",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "108414",
+          "county": "St. Louis"
+        },
+        "lengths": {},
+        "narrative": "<p>Yellow perch and walleye are present in above average numbers; northern pike and golden shiner are present in average numbers; white sucker are present in below average numbers. Fish sizes are average. Walleye and yellow perch recruitment seems uneven; few walleye over age III were captured, and no perch over age III were captured. Growth of walleye appears average, while growth of yellow perch appears to be above average</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.6-2.4",
+            "averageWeight": "2.94",
+            "quartileWeight": "2.1-4.9",
+            "totalWeight": 10660,
+            "gearCount": 6,
+            "species": "NOP",
+            "totalCatch": 8,
+            "CPUE": "1.33"
+          },
+          {
+            "totalWeight": 14160,
+            "quartileCount": "1.2-5.2",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.0-2.0",
+            "averageWeight": "1.30",
+            "totalCatch": 24,
+            "CPUE": "4.00",
+            "gearCount": 6,
+            "species": "WAE"
+          },
+          {
+            "averageWeight": "0.09",
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-3.7",
+            "totalWeight": 717,
+            "species": "YEP",
+            "gearCount": 6,
+            "CPUE": "2.83",
+            "totalCatch": 17
+          },
+          {
+            "totalCatch": 2,
+            "CPUE": "0.33",
+            "species": "GSF",
+            "gearCount": 6,
+            "totalWeight": 47,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.05",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.2-0.9"
+          },
+          {
+            "species": "WTS",
+            "gearCount": 6,
+            "totalCatch": 5,
+            "CPUE": "0.83",
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.5",
+            "averageWeight": "0.67",
+            "totalWeight": 1509
+          },
+          {
+            "totalCatch": 1,
+            "CPUE": "0.17",
+            "gearCount": 6,
+            "species": "TLC",
+            "totalWeight": 61,
+            "quartileWeight": "0.2-1.0",
+            "averageWeight": "0.13",
+            "quartileCount": "3.2-20.2",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyID": "109099",
+        "surveyDate": "1996-08-26",
+        "headerInfo": {
+          "survey_id": "109099",
+          "county": "St. Louis",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "id_date": "1996-08-26",
+          "survey_type": "Population Assessment",
+          "wb_id": "69018100",
+          "wb_name": "Slim"
+        },
+        "lengths": {
+          "TLC": {
+            "minimum_length": 7,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                7,
+                1
+              ]
+            ]
+          },
+          "GSF": {
+            "fishCount": [
+              [
+                4,
+                2
+              ]
+            ],
+            "maximum_length": 4,
+            "minimum_length": 4
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                29,
+                1
+              ]
+            ],
+            "maximum_length": 29,
+            "minimum_length": 19
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                15
+              ]
+            ],
+            "maximum_length": 6,
+            "minimum_length": 5
+          },
+          "WAE": {
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9
+          },
+          "WTS": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 13
+          }
+        },
+        "narrative": "<p>Slim Lake is in Ecological Lake Class 3, which consists of 72 lakes in northeast Minnesota that are deep, have irregular shoreline shapes, and have very clear, soft, and infertile water.Slim Lake stratifies thermally in midsummer and has more than 5 ppm oxygen to a depth of 20-25 ft where the water temperature is about 55 F, and has more than 2 ppm oxygen to a depth of 35-40 ft, where the temperature is about 45 F.  The shoreline is mostly rock and boulder, with little aquatic vegetation.  The outlet stream has a waterfalls which prevents upstream fish movement.This assessment used only gillnets to sample fish.  Trapnets, normally a part of fisheries surveys and assessments, were not used in Slim Lake due to the difficult access.  There have been nine previous surveys and assessments on Slim Lake, dating back to 1960.The total catch of fish in the gillnets in 1996 (all fish species combined) was lower than normal for this lake class, and lower than the long term average catch for this lake.  White sucker and walleye numbers were lower in 1996, which accounts for most of the decreased catch.  Fish populations in 1996 were dominated by walleye and northern pike.Walleye numbers in 1996 were normal for this lake class, but were lower than the long term average catch for all surveys and assessments in this lake.  Walleye sizes in 1996 averaged 14.9 in (1.3 lb), which is normal for this lake class and near the long term average for this lake.  The largest walleye was 21 in.  Many of the walleye caught in 1996 (46 percent) were age two, from a strong 1994 year class.  Many area lakes had strong walleye year classes in 1994, following poor year classes produced during the cold summers of 1992 and 1993.  Walleye growth (13 in at age three) was normal for the area.Northern pike numbers in 1996 were normal for this lake class and were near the long term average catch for this lake.  Pike sizes averaged 23 in, which is normal for this lake class; the largest pike was 29 in.  Pike growth (19 in at age three) was normal for the area.Yellow perch numbers in 1996 were normal for this lake class, and were near the long term average for this lake.  The largest perch was 6 in.  White sucker numbers in 1996 were lower than normal for this lake class.  For unknown reasons, sucker numbers have been much lower in recent years.  Low numbers of cisco were present in 1996.  Cisco numbers in Slim Lake are probably underestimated, since adequate oxygen is present in cold water at 25-40 ft, but most of the gillnets are not set this deep.      </p>",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "headerInfo": {
+          "survey_id": "108118",
+          "county": "St. Louis",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "id_date": "1982-08-24",
+          "survey_type": "Population Assessment",
+          "wb_id": "69018100",
+          "wb_name": "Slim"
+        },
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "species": "WAE",
+            "CPUE": "10.33",
+            "totalCatch": 31,
+            "quartileWeight": "1.0-2.0",
+            "averageWeight": "0.95",
+            "quartileCount": "1.2-5.2",
+            "gear": "Standard gill nets",
+            "totalWeight": 29.3
+          },
+          {
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.07",
+            "totalWeight": 0.9,
+            "gearCount": 3,
+            "species": "YEP",
+            "CPUE": "4.33",
+            "totalCatch": 13
+          },
+          {
+            "species": "WTS",
+            "gearCount": 3,
+            "CPUE": "5.00",
+            "totalCatch": 15,
+            "averageWeight": "1.83",
+            "quartileWeight": "1.1-2.5",
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 27.5
+          }
+        ],
+        "surveyID": "108118",
+        "surveyDate": "1982-08-24",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Walleyes are present in above average numbers, while suckers and yellow perch are present in average numbers.  The bulk of the walleyes are age II and correspond to the 1980 fry plant.  Growth on these fish is very good.  Natural reproduction of walleyes is inadequate.</p>"
+      },
+      {
+        "narrative": "<p>Slim Lake is located approximately 9 miles NW of Ely in the BWCAW. This scenic lake has high pine covered ledgerock hills surrounding it's shoreline. There is a 140 rod portage from a parking lot located off the North Arm Road for public access. There are 3 designated USFS campsites located around the lake for overnight use. Slim Lake is a popular destination for campers and day trippers alike. <br> \n <br> \nSlim lake is deep and has very clear and soft (unmineralized) water. Lake bottom substrates along the shoreline of Slim Lake are mostly rock and boulder, with little aquatic vegetation. The outlet stream has a waterfall that prevents upstream fish migration.  <br> \n <br> \nResults from the 2016 survey of Slim Lake indicate a fish community with low relative abundances and low species diversity. Cisco was the only species sampled in above average numbers. Low numbers of walleye, northern pike, smallmouth bass and white sucker were also sampled. There have been numerous previous surveys completed on Slim Lake with the most recent in 2006. <br> \n <br> \nCisco numbers (5.2/gill net) were above the historical average on Slim Lake. The average cisco sampled was almost 9 inches, slightly more than the historic average length. The largest cisco sampled in 2016 was 12.5 inches.  <br> \n <br> \nWalleye numbers (1.5/gill net) were below the historic average of 6.4/gillnet for Slim Lake and below average compared to other similar lakes in the area. The 9 walleye sampled in 2016 were large and old with ages ranging from 10 to 18 years old. Walleye fry are currently stocked during even-numbered years in Slim Lake. In 2016, three of the nine walleye sampled came from non-stocked years. The largest walleye sampled in 2016 was 25 inches long. <br> \n <br> \n <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "5.14",
+            "quartileWeight": "2.1-4.9",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.6-2.4",
+            "totalWeight": 7000,
+            "gearCount": 6,
+            "species": "NOP",
+            "totalCatch": 3,
+            "CPUE": "0.50"
+          },
+          {
+            "species": "SMB",
+            "gearCount": 6,
+            "totalCatch": 1,
+            "CPUE": "0.17",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.4",
+            "averageWeight": "0.62",
+            "quartileWeight": "0.6-1.5",
+            "totalWeight": 280
+          },
+          {
+            "CPUE": "1.50",
+            "totalCatch": 9,
+            "gearCount": 6,
+            "species": "WAE",
+            "totalWeight": 17815,
+            "quartileCount": "1.2-5.2",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.0-2.0",
+            "averageWeight": "4.36"
+          },
+          {
+            "totalWeight": 896,
+            "quartileWeight": "1.1-2.5",
+            "averageWeight": "0.99",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-5.3",
+            "totalCatch": 2,
+            "CPUE": "0.33",
+            "species": "WTS",
+            "gearCount": 6
+          },
+          {
+            "totalWeight": 3760,
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.27",
+            "CPUE": "5.17",
+            "totalCatch": 31,
+            "species": "CIS",
+            "gearCount": 6
+          }
+        ],
+        "surveyID": "12631621845240000",
+        "surveyDate": "2016-08-22",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "69018100",
+          "wb_name": "Slim",
+          "id_date": "2016-08-22",
+          "survey_type": "Standard Survey",
+          "county": "St. Louis",
+          "survey_id": "12631621845240000",
+          "wb_alt_name": ""
+        },
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                27,
+                3
+              ]
+            ],
+            "maximum_length": 27,
+            "minimum_length": 27
+          },
+          "WAE": {
+            "minimum_length": 20,
+            "fishCount": [
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                24,
+                4
+              ]
+            ],
+            "maximum_length": 24
+          },
+          "WTS": {
+            "minimum_length": 11,
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ]
+          },
+          "CIS": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                7,
+                8
+              ],
+              [
+                8,
+                16
+              ]
+            ],
+            "maximum_length": 12
+          },
+          "SMB": {
+            "minimum_length": 10,
+            "maximum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Fish populations are dominated by walleye, followed by northern pike and yellow perch.  A few white sucker and cisco were also captured.  Sizes of fish are average for the area. Walleye year-class strength is erratic.  Most walleye are from the stocked 1988 and 1990 year-classes. Although some natural reproduction is occurring, there were year-class failures in 1985 and 1989 (based on the last 3 assessments).  Walleye growth is average at annulus III (11.3 average at annulus IV (15.6</p>",
+        "headerInfo": {
+          "wb_name": "Slim",
+          "wb_id": "69018100",
+          "survey_type": "Population Assessment",
+          "id_date": "1991-09-11",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "survey_id": "108486"
+        },
+        "lengths": {},
+        "surveyID": "108486",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.6-2.4",
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "3.05",
+            "totalWeight": 24.4,
+            "gearCount": 3,
+            "species": "NOP",
+            "totalCatch": 8,
+            "CPUE": "2.67"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "1.2-5.2",
+            "averageWeight": "1.04",
+            "quartileWeight": "1.0-2.0",
+            "totalWeight": 28,
+            "gearCount": 3,
+            "species": "WAE",
+            "CPUE": "9.00",
+            "totalCatch": 27
+          },
+          {
+            "totalCatch": 13,
+            "CPUE": "4.33",
+            "gearCount": 3,
+            "species": "YEP",
+            "totalWeight": 1.7,
+            "averageWeight": "0.13",
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-3.7"
+          },
+          {
+            "species": "WTS",
+            "gearCount": 3,
+            "CPUE": "0.67",
+            "totalCatch": 2,
+            "quartileWeight": "1.1-2.5",
+            "averageWeight": "1.90",
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "totalWeight": 3.8
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "3.2-20.2",
+            "quartileWeight": "0.2-1.0",
+            "averageWeight": "0.10",
+            "totalWeight": 0.1,
+            "species": "TLC",
+            "gearCount": 3,
+            "totalCatch": 1,
+            "CPUE": "0.33"
+          }
+        ],
+        "surveyDate": "1991-09-11"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "species": "NOP",
+            "totalCatch": 4,
+            "CPUE": "1.33",
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.98",
+            "quartileWeight": "2.1-4.9",
+            "totalWeight": 11.9
+          },
+          {
+            "totalCatch": 19,
+            "CPUE": "6.33",
+            "species": "WAE",
+            "gearCount": 3,
+            "totalWeight": 37,
+            "quartileWeight": "1.0-2.0",
+            "averageWeight": "1.95",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.2-5.2"
+          },
+          {
+            "totalWeight": 0.2,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.20",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.2-0.9",
+            "CPUE": "0.33",
+            "totalCatch": 1,
+            "gearCount": 3,
+            "species": "GSF"
+          },
+          {
+            "totalWeight": 1.2,
+            "averageWeight": "0.12",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets",
+            "CPUE": "3.33",
+            "totalCatch": 10,
+            "gearCount": 3,
+            "species": "YEP"
+          },
+          {
+            "gearCount": 3,
+            "species": "WTS",
+            "CPUE": "3.33",
+            "totalCatch": 10,
+            "quartileWeight": "1.1-2.5",
+            "averageWeight": "1.60",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 16
+          }
+        ],
+        "surveyID": "108303",
+        "surveyDate": "1986-09-16",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "69018100",
+          "wb_name": "Slim",
+          "id_date": "1986-09-16",
+          "survey_type": "Population Assessment",
+          "county": "St. Louis",
+          "survey_id": "108303",
+          "wb_alt_name": ""
+        },
+        "lengths": {},
+        "narrative": "<p>Walleye, yellow perch, and white sucker are present in average numbers; northern pike are present in below average numbers. Green sunfish are also present. Cisco were captured in the 1964 assessment, but have not been captured since. Walleye growth is faster than average; walleye size is larger than average.</p>",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "headerInfo": {
+          "wb_id": "69018100",
+          "wb_name": "Slim",
+          "survey_type": "Standard Survey",
+          "id_date": "2023-08-07",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "survey_id": "20162321650273000"
+        },
+        "lengths": {
+          "CIS": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                7
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "maximum_length": 14
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                6,
+                4
+              ]
+            ],
+            "maximum_length": 16,
+            "minimum_length": 6
+          },
+          "GSF": {
+            "minimum_length": 4,
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                1,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                3
+              ]
+            ],
+            "minimum_length": 1
+          },
+          "WAE": {
+            "minimum_length": 20,
+            "fishCount": [
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                2
+              ]
+            ],
+            "maximum_length": 27
+          },
+          "YEP": {
+            "minimum_length": 6,
+            "maximum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 9,
+            "species": "SMB",
+            "CPUE": "0.89",
+            "totalCatch": 8,
+            "quartileWeight": "0.6-1.5",
+            "averageWeight": "0.67",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.4",
+            "totalWeight": 2417
+          },
+          {
+            "gearCount": 9,
+            "species": "WAE",
+            "CPUE": "1.22",
+            "totalCatch": 11,
+            "quartileCount": "1.2-5.2",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.0-2.0",
+            "averageWeight": "5.04",
+            "totalWeight": 25145
+          },
+          {
+            "totalWeight": 450,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-3.7",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.33",
+            "totalCatch": 3,
+            "CPUE": "0.33",
+            "gearCount": 9,
+            "species": "YEP"
+          },
+          {
+            "quartileCount": "0.2-0.9",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.05",
+            "totalWeight": 23,
+            "species": "GSF",
+            "gearCount": 9,
+            "totalCatch": 1,
+            "CPUE": "0.11"
+          },
+          {
+            "totalWeight": 8530,
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.69",
+            "quartileWeight": "1.1-2.5",
+            "totalCatch": 7,
+            "CPUE": "0.78",
+            "gearCount": 9,
+            "species": "WTS"
+          },
+          {
+            "totalCatch": 15,
+            "CPUE": "1.67",
+            "species": "CIS",
+            "gearCount": 9,
+            "totalWeight": 3046,
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.45",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyID": "20162321650273000",
+        "surveyDate": "2023-08-07",
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Slim is a 312-acre lake located 8 miles northwest of Ely in the Boundary Waters Canoe Area Wilderness. Its clear water fills a simple, two-mile long basin encased by high bedrock ridges carpeted in dense pine. Aquatic vegetation is rare and most of the lake bottom drops off rapidly from the shoreline. The U.S. Forest Service maintains four campsites. Access is by a 102 rod portage from the Slim Lake Entry Point parking lot. A 47 rod portage exists from Rice Lake to the west.  <br> \n <br> \nThe 2023 survey consisted of nine gill net sets. Cisco and walleye dominated the catch, followed by white sucker and smallmouth bass. Low numbers of yellow perch and a green sunfish were also sampled. Northern pike were conspicuous in their absence.  <br> \n <br> \nWalleye abundance was low at 1.2/ gill net, but the fish present were large. Walleye lengths ranged from 21 to nearly 28 inches with an average of 24 inches. Ages ranged from 5 to 23 years with no predominant year classes. Walleye growth was fast compared to other lakes in the area. Walleye fry are stocked annually. <br> \n <br> \nSmallmouth bass abundance, at 0.9/gill net, was the highest ever sampled from Slim. The smallmouth were mostly small, but a few decent fish were present. Lengths ranged from 6 to 16.5 inches with an average of 9.5 inches. Gill nets often underrepresent smallmouth, but this catch would suggest an increasing trend in their abundance.  <br> \n <br> \nCisco numbers (1.7/net) were above average compared to previous surveys. Cisco lengths ranged from 7 to 14 inches with a mean of 10.5 inches. No ciscoes were present in predator stomachs, but their presence is likely a factor in the growth and size of the walleyes in Slim. <br> \n</p>"
+      }
+    ],
+    "DOWNumber": "69018100",
+    "meanDepthFeet": 0,
+    "county": "St. Louis",
+    "averageWaterClarity": "12.4",
+    "shoreLengthMiles": 8.2,
+    "accesses": [
+      {
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "",
+        "accessTypeId": "CA"
+      },
+      {
+        "location": "",
+        "lakeAccessComments": " ",
+        "accessTypeId": "CA",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN"
+      }
+    ],
+    "littoralAcres": 87
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285578,
+  "message": "Normal execution."
+}

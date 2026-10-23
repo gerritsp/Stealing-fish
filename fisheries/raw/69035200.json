@@ -1,0 +1,140 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "location": "From Lac La Croix by way of Pocket and Finger Lakes. In BWCAW on a paddle-only route.",
+        "lakeAccessComments": " "
+      }
+    ],
+    "areaAcres": 64.14,
+    "littoralAcres": 0,
+    "shoreLengthMiles": 2.02,
+    "surveys": [
+      {
+        "surveyDate": "2025-07-30",
+        "surveySubType": "Targeted Survey",
+        "surveyID": "-361",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Thumb Lake on July 30th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 55.8 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 8.8 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 49.6 feet at the time of sampling. The thickness of this layer of water in the water column was 40.8 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.2 degrees C (39.6 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates suitable oxythermal habitat. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n <br> \n</p>",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "id_date": "2025-07-30",
+          "wb_id": "69035200",
+          "survey_id": "-361",
+          "wb_name": "Thumb",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "St. Louis"
+        }
+      },
+      {
+        "surveyDate": "1980-07-10",
+        "surveySubType": "Initial Survey",
+        "surveyID": "108153",
+        "narrative": "<p>Composed of above average populations of cisco and rock bass and below average populations of walleye, northern pike and suckers.  Northern redhorse are present.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 5,
+            "averageWeight": "4.00",
+            "quartileCount": "N/A",
+            "totalWeight": 4,
+            "quartileWeight": "N/A",
+            "species": "SHR",
+            "totalCatch": 1,
+            "CPUE": "0.20"
+          },
+          {
+            "averageWeight": "4.96",
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "CPUE": "1.40",
+            "totalCatch": 7,
+            "quartileCount": "N/A",
+            "totalWeight": 34.75,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.15",
+            "quartileCount": "N/A",
+            "totalWeight": 3.7,
+            "quartileWeight": "N/A",
+            "species": "RKB",
+            "CPUE": "5.00",
+            "totalCatch": 25
+          },
+          {
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.23",
+            "quartileCount": "N/A",
+            "totalWeight": 29,
+            "quartileWeight": "N/A",
+            "species": "WAE",
+            "CPUE": "2.60",
+            "totalCatch": 13
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 33.5,
+            "quartileCount": "N/A",
+            "CPUE": "2.80",
+            "totalCatch": 14,
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "gearCount": 5,
+            "averageWeight": "2.39"
+          },
+          {
+            "averageWeight": "0.36",
+            "gear": "Standard gill nets",
+            "gearCount": 5,
+            "species": "TLC",
+            "totalCatch": 68,
+            "CPUE": "13.60",
+            "totalWeight": 24.3,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "wb_id": "69035200",
+          "survey_id": "108153",
+          "wb_name": "Thumb",
+          "id_date": "1980-07-10",
+          "survey_type": "Initial Survey"
+        }
+      }
+    ],
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 0,
+    "waterClarity": [
+      [
+        "07/30/2025",
+        "8.2"
+      ]
+    ],
+    "DOWNumber": "69035200",
+    "averageWaterClarity": "8.2",
+    "sampledPlants": [],
+    "county": "St. Louis",
+    "lakeName": "Thumb",
+    "officeCode": "F214"
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790286067
+}

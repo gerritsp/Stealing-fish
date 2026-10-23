@@ -1,0 +1,807 @@
+{
+  "result": {
+    "maxDepthFeet": 53,
+    "waterClarity": [
+      [
+        "08/01/2016",
+        "13"
+      ]
+    ],
+    "sampledPlants": [],
+    "areaAcres": 60.67,
+    "DOWNumber": "38078600",
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "2.2-3.8",
+            "totalWeight": 32,
+            "species": "NOP",
+            "gearCount": 4,
+            "CPUE": "3.00",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.0-3.0",
+            "totalCatch": 12,
+            "averageWeight": "2.67"
+          },
+          {
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "CPUE": "0.75",
+            "quartileWeight": "0.1-0.5",
+            "totalWeight": 2.25,
+            "species": "BLC",
+            "averageWeight": "0.75",
+            "totalCatch": 3,
+            "quartileCount": "0.8-9.4"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "1.75",
+            "gearCount": 4,
+            "totalWeight": 1.5,
+            "species": "RKB",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 7,
+            "averageWeight": "0.21",
+            "quartileCount": "0.5-4.1"
+          },
+          {
+            "quartileCount": "0.4-1.3",
+            "totalCatch": 2,
+            "averageWeight": "1.12",
+            "totalWeight": 2.25,
+            "species": "SMB",
+            "quartileWeight": "0.3-1.3",
+            "gear": "Standard gill nets",
+            "CPUE": "0.50",
+            "gearCount": 4
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "1.00",
+            "gearCount": 4,
+            "totalWeight": 4.4,
+            "species": "WAE",
+            "quartileWeight": "0.9-3.2",
+            "totalCatch": 4,
+            "averageWeight": "1.10",
+            "quartileCount": "0.5-4.3"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "1.25",
+            "gearCount": 4,
+            "totalWeight": 3.75,
+            "species": "WTS",
+            "quartileWeight": "0.6-2.0",
+            "averageWeight": "0.75",
+            "totalCatch": 5,
+            "quartileCount": "1.5-10.4"
+          },
+          {
+            "totalCatch": 11,
+            "averageWeight": "0.20",
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "CPUE": "2.75",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "species": "BLG",
+            "totalWeight": 2.2
+          }
+        ],
+        "surveyDate": "1981-08-10",
+        "surveyID": "109079",
+        "lengths": {},
+        "headerInfo": {
+          "id_date": "1981-08-10",
+          "survey_id": "109079",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_id": "38078600",
+          "wb_name": "Sandpit",
+          "survey_type": "Re-Survey"
+        },
+        "narrative": "<p>Walleyes, smallmouth bass, black crappie and white sucker are present in below average numbers.  Northern pike, rock bass, and bluegills are present in about average numbers.</p>"
+      },
+      {
+        "surveyID": "12231617228816013",
+        "lengths": {
+          "BLG": {
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ],
+            "maximum_length": 4
+          },
+          "YEP": {
+            "maximum_length": 6,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 14,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "NOP": {
+            "maximum_length": 30,
+            "fishCount": [
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                5
+              ],
+              [
+                21,
+                5
+              ],
+              [
+                22,
+                4
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                5
+              ],
+              [
+                25,
+                4
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                4
+              ],
+              [
+                30,
+                1
+              ]
+            ],
+            "minimum_length": 18
+          },
+          "SMB": {
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ],
+            "minimum_length": 14
+          },
+          "RKB": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                2
+              ]
+            ],
+            "maximum_length": 6
+          },
+          "WAE": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 20
+          }
+        },
+        "narrative": "<p>Sandpit Lake is located within the Boundary Waters Canoe Area Wilderness (BWCAW) within the Superior National Forest and is a non-motorized lake.  It is approximately 10 miles northeast of Ely.  There are three portage accesses to the lake consisting of an 80 rod portage from Mudro Lake, a 130 rod portage from Tin Can Mike Lake, and a 20 rod portage from the Range River.  Sandpit has no major inlets and only one moderately sized outlet which flows a short distance to the Range River.  Sandpit is 61 acres with a maximum depth of 53 feet and clear water.  Most of the shoreline is forested with high hills on the north and south sides.  Bog fringe exists in the bay where the outlet is.  One campsite is located on the north shore.\n\nOn August 1, 2016 Sandpit Lake was thermally stratified with a surface temperature of 77 F and a bottom temperature of 42 F.  Oxygen levels were adequate for fish to a depth of 37 feet where the water temperature was 43 F.  Lake bottom substrates along the shoreline of Sandpit consist of boulder, rubble, and gravel with muck in some of the vegetated bays.  Aquatic plants are confined mostly to the shallow bays and grow to a depth of 8 feet.\n  \nThis population assessment consisted of four gillnet sets.  Trap nets were not used because of the difficult access.  Seven other previous assessment dating back to 1974 were conducted on Sandpit.  \n\nThe overall gillnet catch rate for all fish combined was 12.3 fish/net, which is average compared to other surveys from Sandpit Lake.  Fish species sampled in 2016 were northern pike, white sucker, rock bass, smallmouth bass, walleye, bluegill, and yellow perch.  \n\nThe northern pike gillnet catch was 8.5 fish/net which was very good compared to other similar lakes in the state and the highest catch rate on record for the lake.  The average weight was 3 pounds which was better than average compared to other similar lakes.  Lengths ranged from 19 to 31 inches with an average of 23 inches.  \n\nTwo smallmouth bass were sampled which is an average catch using four gill nets on Sandpit Lake.  Each fish was 14.5 and 16.0 inches long.  Ages were four and six years old.\n\nOne walleye was sampled in a gill net for a catch rate of 0.3 fish/net.  This is on par with the previous surveys of Sandpit. Of the seven previous surveys, walleye were captured in five, and never more than 1 fish/net.  The 2016 fish was 20 inches long and five years old. Sandpit was stocked with walleye fingerlings in 1974 and fry in 1975, 1978 and 1979.  A walleye was captured in the initial survey in 1974 so they were present in the lake prior to our first record of stocking.  \n\nThe white sucker gillnet catch was 1.8 fish/net which was below average compared to other similar lakes but higher than normal for Sandpit.  The average weight was around a half a pound per fish.  Lengths ranged from 7 to 14 inches with an average of 10 inches.  \n\nThe gill nets only sampled one small bluegill but many were observed hanging around in the shallows, all less than five inches.  One largemouth, approximately 8 inches long and several young of the year largemouth were also witnessed hanging in the shallows.  Three rock bass and one yellow perch were the only other fish sampled in gill nets.\n</p>",
+        "headerInfo": {
+          "wb_name": "Sandpit",
+          "wb_id": "38078600",
+          "survey_type": "Standard Survey",
+          "survey_id": "12231617228816013",
+          "id_date": "2016-08-01",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "county": "Lake"
+        },
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "2.96",
+            "totalCatch": 34,
+            "quartileCount": "1.0-3.0",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "CPUE": "8.50",
+            "quartileWeight": "2.2-3.8",
+            "totalWeight": 45652,
+            "species": "NOP"
+          },
+          {
+            "quartileCount": "0.5-4.1",
+            "totalCatch": 3,
+            "averageWeight": "0.19",
+            "totalWeight": 265,
+            "species": "RKB",
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "CPUE": "0.75",
+            "gearCount": 4
+          },
+          {
+            "totalWeight": 1750,
+            "species": "SMB",
+            "quartileWeight": "0.3-1.3",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "0.4-1.3",
+            "totalCatch": 2,
+            "averageWeight": "1.93"
+          },
+          {
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "CPUE": "0.25",
+            "quartileWeight": "0.9-3.2",
+            "species": "WAE",
+            "totalWeight": 1425,
+            "averageWeight": "3.14",
+            "totalCatch": 1,
+            "quartileCount": "0.5-4.3"
+          },
+          {
+            "totalCatch": 1,
+            "averageWeight": "0.10",
+            "quartileCount": "1.0-8.0",
+            "CPUE": "0.25",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "species": "YEP",
+            "totalWeight": 45,
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "totalWeight": 1555,
+            "species": "WTS",
+            "quartileWeight": "0.6-2.0",
+            "gear": "Standard gill nets",
+            "CPUE": "1.75",
+            "gearCount": 4,
+            "quartileCount": "1.5-10.4",
+            "totalCatch": 7,
+            "averageWeight": "0.49"
+          },
+          {
+            "gearCount": 4,
+            "CPUE": "0.25",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 35,
+            "species": "BLG",
+            "totalCatch": 1,
+            "averageWeight": "0.08",
+            "quartileCount": "N/A"
+          }
+        ],
+        "surveyDate": "2016-08-01"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "CPUE": "3.75",
+            "quartileWeight": "2.2-3.8",
+            "totalWeight": 34,
+            "species": "NOP",
+            "totalCatch": 15,
+            "averageWeight": "2.27",
+            "quartileCount": "1.0-3.0"
+          },
+          {
+            "quartileCount": "0.8-9.4",
+            "totalCatch": 3,
+            "averageWeight": "0.13",
+            "quartileWeight": "0.1-0.5",
+            "species": "BLC",
+            "totalWeight": 0.4,
+            "gearCount": 4,
+            "CPUE": "0.75",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "RKB",
+            "totalWeight": 2.8,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "CPUE": "4.25",
+            "gearCount": 4,
+            "quartileCount": "0.5-4.1",
+            "averageWeight": "0.16",
+            "totalCatch": 17
+          },
+          {
+            "totalCatch": 2,
+            "averageWeight": "0.90",
+            "quartileCount": "0.4-1.3",
+            "gearCount": 4,
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.3-1.3",
+            "totalWeight": 1.8,
+            "species": "SMB"
+          },
+          {
+            "quartileCount": "0.5-4.3",
+            "totalCatch": 2,
+            "averageWeight": "2.00",
+            "species": "WAE",
+            "totalWeight": 4,
+            "quartileWeight": "0.9-3.2",
+            "gear": "Standard gill nets",
+            "CPUE": "0.50",
+            "gearCount": 4
+          },
+          {
+            "totalCatch": 6,
+            "averageWeight": "0.18",
+            "quartileCount": "1.5-10.4",
+            "gear": "Standard gill nets",
+            "CPUE": "1.50",
+            "gearCount": 4,
+            "species": "WTS",
+            "totalWeight": 1.1,
+            "quartileWeight": "0.6-2.0"
+          },
+          {
+            "quartileCount": "0.3-0.8",
+            "totalCatch": 3,
+            "averageWeight": "0.07",
+            "species": "LMB",
+            "totalWeight": 0.2,
+            "quartileWeight": "0.1-1.3",
+            "CPUE": "0.75",
+            "gear": "Standard gill nets",
+            "gearCount": 4
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 2.2,
+            "species": "BLG",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "CPUE": "4.50",
+            "quartileCount": "N/A",
+            "totalCatch": 18,
+            "averageWeight": "0.12"
+          }
+        ],
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1984-08-01",
+        "surveyID": "109080",
+        "narrative": "<p>Sandpit Lake has bluegill and rock bass present in above average numbers; northern pike and smallmouth bass present in average numbers; white sucker and walleye present in below average numbers. Largemouth bass and black crappie are also present. The northern pike are slightly above average in size white sucker and Centrarchid sizes are small. The two walleye caught are remnants of a fry stocking program which was not very successful. Notably absent are yellow perch, low numbers of which were observed in two of the previous assessments.</p>",
+        "headerInfo": {
+          "wb_id": "38078600",
+          "wb_name": "Sandpit",
+          "survey_type": "Re-Survey",
+          "survey_id": "109080",
+          "id_date": "1984-08-01",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "county": "Lake"
+        },
+        "lengths": {}
+      },
+      {
+        "narrative": "<p>Rock bass are present in above average numbers; northern pike are present in average numbers; walleye, white sucker, and yellow perch are present in below average numbers. Bluegill sunfish, smallmouth and largemouth bass, and black crappie are also present. White sucker sizes are small, while northern pike and walleye are larger than average. Walleye natural reproduction is poor, as no fish younger than age vii were captured.</p>",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "survey_id": "109081",
+          "id_date": "1987-07-31",
+          "survey_type": "Re-Survey",
+          "wb_id": "38078600",
+          "wb_name": "Sandpit"
+        },
+        "lengths": {},
+        "surveyID": "109081",
+        "surveyDate": "1987-07-31",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 11,
+            "averageWeight": "3.82",
+            "quartileCount": "1.0-3.0",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "CPUE": "2.75",
+            "quartileWeight": "2.2-3.8",
+            "totalWeight": 42,
+            "species": "NOP"
+          },
+          {
+            "CPUE": "0.75",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "totalWeight": 1.5,
+            "species": "BLC",
+            "quartileWeight": "0.1-0.5",
+            "totalCatch": 3,
+            "averageWeight": "0.50",
+            "quartileCount": "0.8-9.4"
+          },
+          {
+            "quartileCount": "1.5-10.4",
+            "averageWeight": "0.62",
+            "totalCatch": 6,
+            "totalWeight": 3.7,
+            "species": "WTS",
+            "quartileWeight": "0.6-2.0",
+            "gear": "Standard gill nets",
+            "CPUE": "1.50",
+            "gearCount": 4
+          },
+          {
+            "totalWeight": 11.3,
+            "species": "WAE",
+            "quartileWeight": "0.9-3.2",
+            "CPUE": "0.75",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "0.5-4.3",
+            "totalCatch": 3,
+            "averageWeight": "3.77"
+          },
+          {
+            "species": "SMB",
+            "totalWeight": 4.1,
+            "quartileWeight": "0.3-1.3",
+            "CPUE": "0.75",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "0.4-1.3",
+            "totalCatch": 3,
+            "averageWeight": "1.37"
+          },
+          {
+            "totalCatch": 3,
+            "averageWeight": "0.07",
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "CPUE": "0.75",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 0.2,
+            "species": "BLG"
+          },
+          {
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "CPUE": "0.25",
+            "quartileWeight": "0.1-1.3",
+            "totalWeight": 0.4,
+            "species": "LMB",
+            "averageWeight": "0.40",
+            "totalCatch": 1,
+            "quartileCount": "0.3-0.8"
+          },
+          {
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "CPUE": "1.00",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 0.3,
+            "species": "YEP",
+            "totalCatch": 4,
+            "averageWeight": "0.07",
+            "quartileCount": "1.0-8.0"
+          },
+          {
+            "totalWeight": 1.3,
+            "species": "RKB",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "1.75",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "0.5-4.1",
+            "totalCatch": 7,
+            "averageWeight": "0.19"
+          }
+        ],
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyID": "109095",
+        "narrative": "<p>Sandpit Lake is in Ecological Lake Class 4, which consists of 47 northeast Minnesota lakes that are small and deep, and have very soft (infertile) and clear water.  Sandpit Lake stratifies thermally in midsummer and there is good oxygen (more than 2 ppm) to a depth of about 27 ft, where the water temperature is about 50 F.  Most of the shoreline consists of boulder, rubble, and gravel.  Aquatic plants are sparse along most of the shore, but there are concentrations of plants in small bays and at the east end of the lake.This assessment consisted of gillnets set in water shallower than 32 ft.  Six previous biological surveys and fish population assessments have been conducted on Sandpit Lake, dating back to 1974.  Trapnets, which are normally a part of fisheries assessments, have not been set in Sandpit Lake due to the difficult access.The total catch of fish in 1996 (all species combined) of 9.8 fish/gillnet was in the normal range for this lake class and was similar to previous gillnet catches in this lake.  Lake Class 4 is one of the least productive lake classes, in terms of fish biomass, in northeast Minnesota. Fish populations in 1996, as in previous assessments, were dominated by northern pike.  White sucker, bluegill sunfish, rock bass, and largemouth bass were also captured in 1996.Northern pike numbers in 1996 (4.5/gillnet) were higher than normal for this lake class and were also higher than the long term average catch for this lake.  Pike sizes in 1996 averaged 21.5 in, which is average for this lake class.  The largest pike in 1996 was 35.2 in (10.1 lb), and was the largest caught in all surveys and assessments in this lake.  Pike growth, 21 in at age four, was average by area standards. White sucker numbers in 1996 were below normal for this lake class, but were similar to previous catches in this lake.  Bluegill numbers in 1996 were in the normal range for this lake class, and were near the long term average catch in this lake.  Bluegill sizes averaged 4 in; the largest was 6 in.  Rock bass numbers were in the normal range for this lake class and were similar to previous catches in this lake.One largemouth bass (18.9 in; 4.4 lb) was caught in 1996.  Both largemouth and smallmouth bass are present in Sandpit Lake, in greater numbers than indicated by the gillnet catch.  Bass are \"net shy\" and difficult to catch in gillnets.</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "id_date": "1996-07-29",
+          "survey_id": "109095",
+          "survey_type": "Population Assessment",
+          "wb_id": "38078600",
+          "wb_name": "Sandpit"
+        },
+        "lengths": {
+          "LMB": {
+            "fishCount": [
+              [
+                18,
+                1
+              ]
+            ],
+            "minimum_length": 18,
+            "maximum_length": 18
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                8
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 4,
+            "maximum_length": 8
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                35,
+                1
+              ]
+            ],
+            "minimum_length": 12,
+            "maximum_length": 35
+          },
+          "WTS": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 12
+          },
+          "BLG": {
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                6,
+                2
+              ]
+            ],
+            "minimum_length": 3
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 21792,
+            "species": "NOP",
+            "quartileWeight": "2.2-3.8",
+            "CPUE": "4.50",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "1.0-3.0",
+            "totalCatch": 18,
+            "averageWeight": "2.67"
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "species": "RKB",
+            "totalWeight": 1480,
+            "gearCount": 4,
+            "CPUE": "3.00",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.5-4.1",
+            "totalCatch": 12,
+            "averageWeight": "0.27"
+          },
+          {
+            "gearCount": 4,
+            "CPUE": "0.75",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-2.0",
+            "totalWeight": 695,
+            "species": "WTS",
+            "totalCatch": 3,
+            "averageWeight": "0.51",
+            "quartileCount": "1.5-10.4"
+          },
+          {
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "CPUE": "0.25",
+            "quartileWeight": "0.1-1.3",
+            "totalWeight": 1980,
+            "species": "LMB",
+            "averageWeight": "4.37",
+            "totalCatch": 1,
+            "quartileCount": "0.3-0.8"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 195,
+            "species": "BLG",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "CPUE": "1.25",
+            "quartileCount": "N/A",
+            "totalCatch": 5,
+            "averageWeight": "0.09"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1996-07-29"
+      }
+    ],
+    "littoralAcres": 17.8,
+    "lakeName": "Sandpit",
+    "county": "Lake",
+    "shoreLengthMiles": 2.11,
+    "accesses": [
+      {
+        "accessTypeId": "PO",
+        "lakeAccessComments": "80 rod portage from Mudro Lake",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "location": " "
+      },
+      {
+        "location": " ",
+        "lakeAccessComments": "130 rod portage from Tin Can Mike Lake",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO"
+      },
+      {
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "20 rod portage from Range River",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "accessTypeId": "PO"
+      }
+    ],
+    "officeCode": "F214",
+    "averageWaterClarity": "13.0"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285593
+}

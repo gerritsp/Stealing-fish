@@ -1,0 +1,788 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285791,
+  "result": {
+    "maxDepthFeet": 160,
+    "littoralAcres": 223,
+    "averageWaterClarity": "15.7",
+    "waterClarity": [
+      [
+        "09/14/1992",
+        "15"
+      ],
+      [
+        "08/21/2024",
+        "14.8"
+      ],
+      [
+        "07/20/1981",
+        "17"
+      ],
+      [
+        "09/13/2012",
+        "16"
+      ]
+    ],
+    "areaAcres": 876.29,
+    "lakeName": "Winchell",
+    "sampledPlants": [],
+    "DOWNumber": "16035400",
+    "officeCode": "F218",
+    "county": "Cook",
+    "surveys": [
+      {
+        "surveyDate": "1992-09-14",
+        "surveyID": "110690",
+        "headerInfo": {
+          "id_date": "1992-09-14",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "16035400",
+          "county": "Cook",
+          "survey_id": "110690",
+          "wb_name": "Winchell"
+        },
+        "lengths": {},
+        "narrative": "<p>The lake trout catch in this assessment was above the normal range for lakes of this ecological class, and was significantly higher than the catch in the 1981 survey.  The high catch was due in part to the strength of the 1987 year class, which accounted for 37% of the fish collected.  Several year classes were represented in the catch, with fish as old as age 21 collected.  Lake trout growth was slow for this area.  It appeared that growth improved when lake trout reached larger sizes, probably due to the availability of northern cisco.The catch of northern cisco was well within the normal range for lakes of this class, but was higher than the catch in the 1981 survey.  All the northern cisco collected were from three year classes.  Growth was about average for this area.  The white sucker catch was similar to the catch in the 1981 survey, and was about average for lakes of this class.A small number of northern pike were collected in this assessment, but the catch included some large individuals.  Twenty-one and 17.5-lb northern pike were caught.  Forage for northern pike was abundant.</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.8-4.3",
+            "quartileWeight": "1.2-3.1",
+            "CPUE": "2.50",
+            "gear": "Standard gill nets",
+            "totalCatch": 30,
+            "averageWeight": "2.08",
+            "gearCount": 12,
+            "totalWeight": 62.25,
+            "species": "LAT"
+          },
+          {
+            "gearCount": 12,
+            "species": "NOP",
+            "totalWeight": 44.81,
+            "averageWeight": "11.20",
+            "CPUE": "0.33",
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "quartileWeight": "2.7-5.3",
+            "quartileCount": "0.3-1.0"
+          },
+          {
+            "averageWeight": "1.09",
+            "totalCatch": 42,
+            "gear": "Standard gill nets",
+            "CPUE": "3.50",
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.7-5.0",
+            "totalWeight": 45.81,
+            "gearCount": 12,
+            "species": "WTS"
+          },
+          {
+            "quartileCount": "1.4-17.4",
+            "quartileWeight": "0.1-0.7",
+            "CPUE": "16.58",
+            "totalCatch": 199,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.33",
+            "gearCount": 12,
+            "totalWeight": 66.5,
+            "species": "TLC"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyDate": "2024-08-21",
+        "surveyID": "21872426835892094",
+        "lengths": {},
+        "headerInfo": {
+          "county": "Cook",
+          "wb_id": "16035400",
+          "survey_id": "21872426835892094",
+          "wb_name": "Winchell",
+          "survey_type": "Targeted Survey",
+          "id_date": "2024-08-21",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Winchell Lake, on August 21, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Cisco, also known as Tullibee, are present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 39.4 feet, and the dissolved oxygen concentration never decreased to below 3.0 mg/L at the time of sampling. The thickness of this layer in the water column was 108.2 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because the dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. The temperature at the bottom of the lake was 6.6 degrees C (43.9 degrees F). Instances in which the dissolved oxygen does not reach below 3.0 mg/L and temperature remains below 8.8 degrees C, indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 2023 during the late summer thermal stress period indicated suitable oxythermal habitat. Data were also collected outside the thermal maximum period from 1981-2012, this data indicated suitable habitat conditions during those sampling periods. The least favorable oxythermal habitat conditions were recorded in 1992, outside the peak summer stress period, when the suitable habitat layer thickness was 51.4 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 22060,
+            "gearCount": 12,
+            "species": "LAT",
+            "averageWeight": "1.68",
+            "gear": "Standard gill nets",
+            "totalCatch": 29,
+            "CPUE": "2.42",
+            "quartileWeight": "1.2-3.1",
+            "quartileCount": "0.8-4.3"
+          },
+          {
+            "totalWeight": 14305,
+            "gearCount": 12,
+            "species": "NOP",
+            "quartileCount": "0.3-1.0",
+            "quartileWeight": "2.7-5.3",
+            "totalCatch": 7,
+            "gear": "Standard gill nets",
+            "CPUE": "0.58",
+            "averageWeight": "4.51"
+          },
+          {
+            "totalWeight": 790,
+            "gearCount": 12,
+            "species": "LKW",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "CPUE": "0.08",
+            "averageWeight": "1.74",
+            "quartileCount": "1.1-9.3",
+            "quartileWeight": "1.3-2.3"
+          },
+          {
+            "averageWeight": "1.26",
+            "gear": "Standard gill nets",
+            "totalCatch": 31,
+            "CPUE": "2.58",
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.7-5.0",
+            "gearCount": 12,
+            "totalWeight": 17740,
+            "species": "WTS"
+          },
+          {
+            "averageWeight": "0.40",
+            "totalCatch": 208,
+            "gear": "Standard gill nets",
+            "CPUE": "17.33",
+            "quartileWeight": "0.1-0.7",
+            "quartileCount": "1.4-17.4",
+            "gearCount": 12,
+            "totalWeight": 38197,
+            "species": "TLC"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Lake trout were abundant, and some large fish were present, probably as a result of the forage provided by a dense population of medium-sized northern cisco.  The lake trout population was entirely natural, since this lake had not been stocked since 1955.  Northern pike were present in fair numbers, and the catch included fish as large as 33 inches.  Northern pike over 40 inches in length have been collected in this lake in the past.  No other game fish species were found.</p>",
+        "headerInfo": {
+          "id_date": "1997-09-08",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_id": "16035400",
+          "survey_id": "110869",
+          "wb_name": "Winchell"
+        },
+        "lengths": {
+          "TLC": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                10,
+                59
+              ],
+              [
+                11,
+                105
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                8,
+                8
+              ],
+              [
+                9,
+                32
+              ]
+            ],
+            "maximum_length": 12
+          },
+          "LKW": {
+            "minimum_length": 18,
+            "fishCount": [
+              [
+                18,
+                1
+              ]
+            ],
+            "maximum_length": 18
+          },
+          "NOP": {
+            "maximum_length": 33,
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                32,
+                2
+              ],
+              [
+                33,
+                1
+              ]
+            ],
+            "minimum_length": 18
+          },
+          "WTS": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                10
+              ]
+            ],
+            "maximum_length": 19
+          },
+          "LAT": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 29
+          }
+        },
+        "surveyDate": "1997-09-08",
+        "surveyID": "110869"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 33.44,
+            "gearCount": 13,
+            "species": "LAT",
+            "CPUE": "0.85",
+            "totalCatch": 11,
+            "gear": "Standard gill nets",
+            "averageWeight": "3.04",
+            "quartileCount": "0.8-4.3",
+            "quartileWeight": "1.2-3.1"
+          },
+          {
+            "totalWeight": 6.13,
+            "gearCount": 13,
+            "species": "NOP",
+            "quartileCount": "0.3-1.0",
+            "quartileWeight": "2.7-5.3",
+            "CPUE": "0.15",
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "averageWeight": "3.06"
+          },
+          {
+            "averageWeight": "2.25",
+            "CPUE": "0.08",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.3-2.3",
+            "quartileCount": "1.1-9.3",
+            "totalWeight": 2.25,
+            "gearCount": 13,
+            "species": "LKW"
+          },
+          {
+            "totalWeight": 45.63,
+            "gearCount": 13,
+            "species": "WTS",
+            "averageWeight": "1.17",
+            "CPUE": "3.00",
+            "totalCatch": 39,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.7-5.0"
+          },
+          {
+            "totalWeight": 1.8,
+            "gearCount": 13,
+            "species": "TLC",
+            "CPUE": "4.31",
+            "totalCatch": 56,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.03",
+            "quartileCount": "1.4-17.4",
+            "quartileWeight": "0.1-0.7"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>A gd distr. of Lk Trt sizes were sampled; natural rprdctn is indicated since the Lk Trt have not been stocked since 1955.  Lk Trout, mostly fry, were stocked in 1948, 49, 50, 53 and 55.  The lake has been open to Whitefish netting since 1974; the amount of netting is probably very low, because of limited access over non-motorized portages.</p>",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "id_date": "1981-07-20",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "wb_name": "Winchell",
+          "county": "Cook",
+          "wb_id": "16035400",
+          "survey_id": "109716"
+        },
+        "lengths": {},
+        "surveyDate": "1981-07-20",
+        "surveyID": "109716"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.3-1.0",
+            "quartileWeight": "2.7-5.3",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.08",
+            "averageWeight": "0.29",
+            "totalWeight": 130,
+            "gearCount": 12,
+            "species": "NOP"
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.7-5.0",
+            "averageWeight": "1.95",
+            "CPUE": "2.08",
+            "gear": "Standard gill nets",
+            "totalCatch": 25,
+            "species": "WTS",
+            "gearCount": 12,
+            "totalWeight": 22120
+          },
+          {
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "0.20",
+            "totalCatch": 2,
+            "gear": "15-ft beach seine",
+            "averageWeight": "0.00",
+            "gearCount": 10,
+            "species": "SMB",
+            "totalWeight": 0
+          },
+          {
+            "averageWeight": "2.60",
+            "totalCatch": 20,
+            "gear": "Standard gill nets",
+            "CPUE": "1.67",
+            "quartileWeight": "1.2-3.1",
+            "quartileCount": "0.8-4.3",
+            "totalWeight": 23615,
+            "gearCount": 12,
+            "species": "LAT"
+          },
+          {
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gear": "15-ft beach seine",
+            "totalCatch": 536,
+            "CPUE": "53.60",
+            "averageWeight": "0.00",
+            "gearCount": 10,
+            "totalWeight": 0,
+            "species": "GSF"
+          },
+          {
+            "quartileWeight": "0.7-1.4",
+            "quartileCount": "0.3-2.2",
+            "averageWeight": "0.73",
+            "CPUE": "0.08",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "totalWeight": 330,
+            "gearCount": 12,
+            "species": "SMB"
+          },
+          {
+            "totalWeight": 0,
+            "gearCount": 10,
+            "species": "BNS",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "CPUE": "3.70",
+            "totalCatch": 37,
+            "gear": "15-ft beach seine"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.08",
+            "averageWeight": "0.11",
+            "quartileCount": "0.1-2.5",
+            "quartileWeight": "N/A",
+            "gearCount": 12,
+            "totalWeight": 50,
+            "species": "GSF"
+          },
+          {
+            "CPUE": "12.17",
+            "gear": "Standard gill nets",
+            "totalCatch": 146,
+            "averageWeight": "0.29",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalWeight": 19214,
+            "gearCount": 12,
+            "species": "CIS"
+          },
+          {
+            "CPUE": "0.08",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.79",
+            "quartileCount": "1.1-9.3",
+            "quartileWeight": "1.3-2.3",
+            "totalWeight": 360,
+            "gearCount": 12,
+            "species": "LKW"
+          },
+          {
+            "gearCount": 10,
+            "species": "JND",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "0.40",
+            "totalCatch": 4,
+            "gear": "15-ft beach seine",
+            "averageWeight": "0.00"
+          },
+          {
+            "species": "YEP",
+            "gearCount": 12,
+            "totalWeight": 60,
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.08",
+            "averageWeight": "0.13",
+            "quartileCount": "0.3-2.8",
+            "quartileWeight": "0.1-0.2"
+          }
+        ],
+        "narrative": "<p>Winchell Lake lies deep inside the BWCAW, and is currently managed for lake trout and northern pike.  Both species are native to the lake.  This was the first of two assessments scheduled in the 2010 lake management plan.   One of the objectives in the 2010 plan was to determine the composition of the non-game fish community in this lake.  The other was to determine age and size at maturity for lake trout in this lake. <br> \n <br> \nLake trout in Winchell Lake were fairly abundant in 2012, and some larger fish were present.  The lake trout gill net catch, and the mean weight for lake trout taken in gill nets, were within normal ranges for a lake of this class, and were similar to past values for this lake.  Lake trout collected in 2012 ranged in length from 7.6 in 26.9 inches, with several fish larger than 20 inches taken.  Several year classes, all naturally produced, contributed to the catch, with the strongest produced in 2007.  Growth of five-year-old lake trout from the 2007 year class had been close to average.  They reached a mean length of 13.6 inches at the end of their fifth year. <br> \n <br> \nBecause most of the lake trout taken in this assessment were mature fish, determining age and size at maturity was not possible.  The smallest (and youngest) mature female taken was a 12.6-inch, five-year-old fish.  The largest immature female taken was 15.6 inches long, but was not aged.  The smallest, and youngest, mature male taken was a 10.6-inch, three-year-old fish.  No immature males were identified. <br> \n <br> \nOnly one northern pike was collected in 2012.  Historically, northern pike catches have been low in this lake, ranging from 0.15 to 0.58 fish/set in past assessments.  The lake has the cisco forage base needed to produce some trophy fish, but recruitment has been very low. <br> \n <br> \nThe 2012 cisco gill net catch was similar to past catches in this lake, and fell within the normal range for a lake of this class.  The catch consisted of just three year classes.  Cisco growth had been relatively fast; two-year-old fish reached a mean length of 10.1 inches at the end of their second year, compared to an area average of 8.7 inches. <br> \n <br> \nThe 2012 assessment included the use of a 15-ft seine at several locations around the lake, and captured several fish species not previously found in this lake.  New species found in 2012 were smallmouth bass, yellow perch, green sunfish, johnny darter, and blacknose shiner.  In addition, sculpin (species unknown) were found in lake trout stomachs.  Smallmouth bass and yellow perch abundance appeared to have been low, although yellow perch were a common item found in lake trout stomachs.  Smallmouth bass probably entered the lake from Gaskin Lake.  Yellow perch were probably native to Winchell Lake, but present in very low numbers and so were missed by previous assessments. <br> \n</p>",
+        "lengths": {
+          "YEP": {
+            "fishCount": [
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 7
+          },
+          "SMB": {
+            "maximum_length": 11,
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ]
+            ]
+          },
+          "LKW": {
+            "minimum_length": 14,
+            "fishCount": [
+              [
+                14,
+                1
+              ]
+            ],
+            "maximum_length": 14
+          },
+          "CIS": {
+            "maximum_length": 13,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                10,
+                85
+              ],
+              [
+                11,
+                27
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                8,
+                8
+              ],
+              [
+                9,
+                24
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "maximum_length": 26,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "GSF": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ]
+            ],
+            "maximum_length": 5
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                10,
+                1
+              ]
+            ],
+            "minimum_length": 10,
+            "maximum_length": 10
+          }
+        },
+        "headerInfo": {
+          "county": "Cook",
+          "wb_id": "16035400",
+          "survey_id": "4311209655800010",
+          "wb_name": "Winchell",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "id_date": "2012-09-10",
+          "wb_type": "Lake"
+        },
+        "surveyID": "4311209655800010",
+        "surveyDate": "2012-09-10"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 15.67,
+    "accesses": [
+      {
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "PRMIT",
+        "location": "",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " "
+      }
+    ]
+  }
+}

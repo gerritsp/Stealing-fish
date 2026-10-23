@@ -1,0 +1,116 @@
+{
+  "result": {
+    "waterClarity": [],
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "location": "Portage from Fall Lake-1 mile  portage from Ella Hall-85 rods.  Portage from Four Mile Prtg-40 rods",
+        "accessTypeId": "O"
+      }
+    ],
+    "maxDepthFeet": 16,
+    "lakeName": "Mud",
+    "sampledPlants": [],
+    "littoralAcres": 158,
+    "areaAcres": 182.01,
+    "shoreLengthMiles": 4.38,
+    "meanDepthFeet": 0,
+    "DOWNumber": "38074200",
+    "surveys": [
+      {
+        "surveyDate": "1981-08-15",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_id": "38074200",
+          "survey_type": "Initial Survey",
+          "county": "Lake",
+          "id_date": "1981-08-15",
+          "wb_type": "Lake",
+          "survey_id": "108064",
+          "wb_alt_name": "",
+          "wb_name": "Mud"
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "108064",
+        "narrative": "<p>(Two deer were observed, one doe & one fawn. Mud Lake has above average populations of northern pike, yellow perch, and suckers.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 0.25,
+            "species": "YEP",
+            "CPUE": "0.33",
+            "quartileCount": "0.4-2.8",
+            "quartileWeight": "0.1-0.3",
+            "averageWeight": "0.12",
+            "totalCatch": 2,
+            "gear": "Standard trap nets",
+            "gearCount": 6
+          },
+          {
+            "gearCount": 6,
+            "totalWeight": 17,
+            "species": "WTS",
+            "CPUE": "1.17",
+            "quartileCount": "0.8-4.4",
+            "quartileWeight": "1.5-2.3",
+            "totalCatch": 7,
+            "gear": "Standard trap nets",
+            "averageWeight": "2.43"
+          },
+          {
+            "species": "NOP",
+            "CPUE": "8.33",
+            "totalWeight": 88,
+            "averageWeight": "1.76",
+            "totalCatch": 50,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.4-3.0",
+            "quartileCount": "3.0-8.3",
+            "gearCount": 6
+          },
+          {
+            "CPUE": "10.00",
+            "species": "YEP",
+            "totalWeight": 8,
+            "totalCatch": 60,
+            "averageWeight": "0.13",
+            "gear": "Standard gill nets",
+            "quartileCount": "4.5-19.0",
+            "quartileWeight": "0.1-0.3",
+            "gearCount": 6
+          },
+          {
+            "gearCount": 6,
+            "totalCatch": 43,
+            "averageWeight": "2.26",
+            "gear": "Standard gill nets",
+            "quartileCount": "2.0-11.5",
+            "quartileWeight": "1.1-2.1",
+            "CPUE": "7.17",
+            "species": "WTS",
+            "totalWeight": 97
+          },
+          {
+            "totalCatch": 12,
+            "gear": "Standard trap nets",
+            "averageWeight": "1.38",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "species": "NOP",
+            "CPUE": "2.00",
+            "totalWeight": 16.5,
+            "gearCount": 6
+          }
+        ]
+      }
+    ],
+    "officeCode": "F214",
+    "county": "Lake",
+    "averageWaterClarity": "N/A"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285575
+}

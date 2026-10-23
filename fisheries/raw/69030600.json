@@ -1,0 +1,109 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285563,
+  "message": "Normal execution.",
+  "result": {
+    "county": "St. Louis",
+    "averageWaterClarity": "6.5",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                5
+              ],
+              [
+                6,
+                111
+              ],
+              [
+                7,
+                13
+              ],
+              [
+                8,
+                3
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 5
+          }
+        },
+        "headerInfo": {
+          "wb_id": "69030600",
+          "county": "St. Louis",
+          "wb_name": "Glimmer",
+          "survey_id": "6851334032786932",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "id_date": "2013-06-24"
+        },
+        "surveyID": "6851334032786932",
+        "narrative": "<p>Glimmer Lake is located approximately 12 miles NW of Ely and is entirely within the BWCAW. Access is by a 30 rod portage from Clark Lake. There is one designated USFS campsite located on the lake.  <br> \n <br> \nGlimmer Lake has a surface area of 15.5 acres and a maximum depth of 7 feet. Glimmer Lake sits over 30 feet above nearby Clark Lake and is surrounded mostly by large pines. Sparse amounts of aquatic  plants can be found throughout the lake. The lake bottom is primarily silt and detritus which in some areas is covering covering the more coarse substrates.   <br> \n <br> \nYellow perch was the only fish species sampled or observed in this initial investigation. Yellow perch numbers in 2013 (66.0/gill net) were much higher than average when compared to similar lakes in the area. The average perch sampled was 6.6 inches long and the largest perch sampled was 8.3 inches.</p>",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "2013-06-24",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.04",
+            "totalCatch": 132,
+            "quartileCount": "2.0-15.0",
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "totalWeight": 2318,
+            "gearCount": 2,
+            "CPUE": "66.00",
+            "gear": "Standard gill nets"
+          }
+        ]
+      }
+    ],
+    "sampledPlants": [
+      "Bladderwort Group (Utricularia sp.)",
+      "Blue Flag Iris (Iris versicolor)",
+      "Emergent Burreed Group (Sparganium sp. )",
+      "Floating-leaf Burreed Group (Sparganium sp. )",
+      "Grass Group  (Gramineae/Poaceae Family)",
+      "Sedge Group (Carex sp.)",
+      "Water Arum (Calla palustris)",
+      "Water Horehound (Lycopus americanus)",
+      "Water Moss Group (Drepanocladus sp.)",
+      "White Waterlily Group (Nymphaea sp.)",
+      "Yellow Waterlily Group (Nuphar sp.)",
+      "jewelweed (Impatiens capensis)",
+      "laborador tea (Rhododendron groenlandicum)",
+      "leatherleaf (Chamaedaphne calyculata)",
+      "marsh St. John's wort (Triadenum fraseri)",
+      "pipewort (Eriocaulon aquaticum)",
+      "ribbon-leaved pondweed (Potamogeton epihydrus)",
+      "sweet gale (Myrica gale)",
+      "three-way sedge (Dulichium arundinaceum)"
+    ],
+    "littoralAcres": 16.63,
+    "shoreLengthMiles": 0.88,
+    "lakeName": "Glimmer",
+    "areaAcres": 16.63,
+    "DOWNumber": "69030600",
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "30 rod portage from Clark Lake.",
+        "publicUseAuthCode": "OPEN",
+        "location": " "
+      }
+    ],
+    "officeCode": "F214",
+    "maxDepthFeet": 7,
+    "waterClarity": [
+      [
+        "06/24/2013",
+        "6.5"
+      ]
+    ]
+  }
+}

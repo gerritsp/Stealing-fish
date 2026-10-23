@@ -1,0 +1,313 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285925,
+  "result": {
+    "officeCode": "F218",
+    "littoralAcres": 49,
+    "averageWaterClarity": "11.5",
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "365-ft portage trail from Caribou Lake; and a portage trail from Pine Lake.  Lies entirely inside the BWCAW.",
+        "accessTypeId": "CA"
+      }
+    ],
+    "lakeName": "Little Caribou",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Walleye and smallmouth bass populations have become established in this lake since it was last surveyed (1973).  Walleye were relatively abundant in 1996.  Only two smallmouth bass were taken in 1996, but they may be more abundant than that, since gill nets are a poor sampling tool for smallmouth.  Fair numbers of northern pike were present, including some very large fish; however, most of the northern pike collected were less than 25 inches in length.  Yellow perch abundance apparently has declined, probably due to the walleye introduction.</p>",
+        "lengths": {
+          "SMB": {
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                5,
+                1
+              ]
+            ],
+            "minimum_length": 5
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 11
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 17
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 7,
+            "minimum_length": 5
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                40,
+                1
+              ]
+            ],
+            "maximum_length": 40,
+            "minimum_length": 18
+          }
+        },
+        "headerInfo": {
+          "wb_id": "16014200",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "survey_id": "110701",
+          "id_date": "1996-07-15",
+          "wb_name": "Little Caribou",
+          "wb_alt_name": ""
+        },
+        "surveyDate": "1996-07-15",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "3.35",
+            "quartileCount": "2.0-8.5",
+            "totalWeight": 13672,
+            "species": "NOP",
+            "gearCount": 3,
+            "quartileWeight": "1.4-2.7",
+            "totalCatch": 9,
+            "CPUE": "3.00",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "0.67",
+            "species": "SMB",
+            "quartileWeight": "1.5-2.1",
+            "gearCount": 3,
+            "totalCatch": 2,
+            "averageWeight": "0.44",
+            "quartileCount": "1.6-3.5",
+            "totalWeight": 400
+          },
+          {
+            "averageWeight": "1.60",
+            "totalWeight": 15228,
+            "quartileCount": "2.2-10.5",
+            "gear": "Standard gill nets",
+            "CPUE": "7.00",
+            "species": "WAE",
+            "quartileWeight": "1.1-1.9",
+            "gearCount": 3,
+            "totalCatch": 21
+          },
+          {
+            "averageWeight": "0.14",
+            "quartileCount": "2.5-14.3",
+            "totalWeight": 194,
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 3,
+            "species": "YEP"
+          },
+          {
+            "totalCatch": 16,
+            "gearCount": 3,
+            "quartileWeight": "0.9-2.3",
+            "species": "WTS",
+            "CPUE": "5.33",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.6-8.4",
+            "totalWeight": 22128,
+            "averageWeight": "3.05"
+          }
+        ],
+        "surveyID": "110701",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Little Caribou Lake has high populations of Sucker and Perch.  N Pike and LM Bass furnish good to fair angling, however, they did not show up favor. in test nets.</p>",
+        "lengths": {},
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "wb_id": "16014200",
+          "id_date": "1973-07-02",
+          "wb_name": "Little Caribou",
+          "survey_id": "110710"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 7,
+            "gearCount": 3,
+            "quartileWeight": "1.4-2.7",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "CPUE": "2.33",
+            "quartileCount": "2.0-8.5",
+            "totalWeight": 16.5,
+            "averageWeight": "2.36"
+          },
+          {
+            "species": "YEP",
+            "gearCount": 3,
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 183,
+            "CPUE": "61.00",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.15",
+            "quartileCount": "2.5-14.3",
+            "totalWeight": 27.7
+          },
+          {
+            "totalWeight": 86.9,
+            "quartileCount": "1.6-8.4",
+            "averageWeight": "1.77",
+            "totalCatch": 49,
+            "gearCount": 3,
+            "quartileWeight": "0.9-2.3",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "CPUE": "16.33"
+          },
+          {
+            "averageWeight": "0.40",
+            "totalWeight": 0.4,
+            "quartileCount": "0.3-2.3",
+            "species": "LMB",
+            "quartileWeight": "0.3-1.8",
+            "gearCount": 3,
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "CPUE": "0.33"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyID": "110710",
+        "surveyDate": "1973-07-02"
+      }
+    ],
+    "areaAcres": 52.8,
+    "waterClarity": [
+      [
+        "07/02/1973",
+        "11.5"
+      ]
+    ],
+    "maxDepthFeet": 18,
+    "sampledPlants": [],
+    "county": "Cook",
+    "shoreLengthMiles": 1.67,
+    "meanDepthFeet": 9,
+    "DOWNumber": "16014200"
+  },
+  "message": "Normal execution."
+}

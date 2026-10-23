@@ -1,0 +1,259 @@
+{
+  "result": {
+    "sampledPlants": [],
+    "DOWNumber": "16079800",
+    "averageWaterClarity": "10.0",
+    "lakeName": "Grandpa",
+    "areaAcres": 124.84,
+    "officeCode": "F218",
+    "waterClarity": [
+      [
+        "07/12/1976",
+        "10"
+      ]
+    ],
+    "littoralAcres": 58,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "Accessible via 0.5 mile portage trail from N bay of Sea Gull Lake.  Lake is totally inside BWCAW.",
+        "accessTypeId": "O"
+      }
+    ],
+    "county": "Cook",
+    "surveys": [
+      {
+        "surveyID": "109824",
+        "lengths": {},
+        "narrative": "<p>Grandpa Lake has a small population of small N Pike.  There appears to be a good forage pop. of small Suckers but Perch are scarce.</p>",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "1.2-3.9",
+            "totalCatch": 8,
+            "averageWeight": "2.69",
+            "CPUE": "2.00",
+            "totalWeight": 21.5,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-2.4",
+            "species": "NOP",
+            "gearCount": 4
+          },
+          {
+            "quartileCount": "0.5-2.8",
+            "totalCatch": 2,
+            "averageWeight": "0.10",
+            "CPUE": "0.50",
+            "totalWeight": 0.2,
+            "species": "YEP",
+            "gearCount": 4,
+            "quartileWeight": "0.1-0.3",
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "5.00",
+            "totalWeight": 11.5,
+            "averageWeight": "0.57",
+            "totalCatch": 20,
+            "quartileCount": "2.6-11.7",
+            "species": "WTS",
+            "gearCount": 4,
+            "quartileWeight": "1.7-2.4",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyDate": "1976-07-12",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "wb_id": "16079800",
+          "id_date": "1976-07-12",
+          "survey_id": "109824",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "Grandpa"
+        },
+        "surveySubType": "Initial Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "NOP": {
+            "maximum_length": 29,
+            "minimum_length": 17,
+            "fishCount": [
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                5
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                29,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                18,
+                2
+              ]
+            ],
+            "maximum_length": 18
+          },
+          "YEP": {
+            "maximum_length": 6,
+            "minimum_length": 3,
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "GSF": {
+            "maximum_length": 4,
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ]
+          }
+        },
+        "narrative": "<p>Northern pike were relatively abundant in 1998.  Although no fish older than age 5 were collected, good growth rates resulted in a fairly good average size for lakes in this area.  No other gamefish species were found.  Temperature-oxygen conditions did not appear to be suitable for lake trout.</p>",
+        "surveyID": "110994",
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "id_date": "1998-06-22",
+          "wb_id": "16079800",
+          "county": "Cook",
+          "survey_type": "Re-Survey",
+          "wb_name": "Grandpa",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "110994"
+        },
+        "surveyDate": "1998-06-22",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "gear": "Minnow traps",
+            "species": "BNS",
+            "gearCount": 1,
+            "quartileCount": "N/A",
+            "totalCatch": 3,
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "CPUE": "3.00"
+          },
+          {
+            "averageWeight": "2.16",
+            "totalWeight": 17602,
+            "CPUE": "4.50",
+            "quartileCount": "1.2-3.9",
+            "totalCatch": 18,
+            "gearCount": 4,
+            "species": "NOP",
+            "quartileWeight": "1.5-2.4",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "gearCount": 4,
+            "averageWeight": "0.08",
+            "CPUE": "0.25",
+            "totalWeight": 38,
+            "quartileCount": "0.5-2.8",
+            "totalCatch": 1
+          },
+          {
+            "totalCatch": 1,
+            "quartileCount": "0.3-0.3",
+            "totalWeight": 22,
+            "CPUE": "0.25",
+            "averageWeight": "0.05",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "species": "GSF",
+            "gearCount": 4
+          },
+          {
+            "gearCount": 4,
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.7-2.4",
+            "totalCatch": 5,
+            "quartileCount": "2.6-11.7",
+            "totalWeight": 4496,
+            "CPUE": "1.25",
+            "averageWeight": "1.98"
+          },
+          {
+            "CPUE": "1.00",
+            "totalWeight": 61,
+            "averageWeight": "0.04",
+            "totalCatch": 3,
+            "quartileCount": "N/A",
+            "gear": "Misc. fish",
+            "quartileWeight": "N/A",
+            "species": "YEP",
+            "gearCount": 3
+          }
+        ]
+      }
+    ],
+    "maxDepthFeet": 55,
+    "shoreLengthMiles": 5.16,
+    "meanDepthFeet": 0
+  },
+  "timestamp": 1790286033,
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

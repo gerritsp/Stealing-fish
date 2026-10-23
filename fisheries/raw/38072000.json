@@ -1,0 +1,696 @@
+{
+  "result": {
+    "littoralAcres": 26,
+    "county": "Lake",
+    "meanDepthFeet": 18,
+    "DOWNumber": "38072000",
+    "waterClarity": [
+      [
+        "05/29/2007",
+        "16"
+      ]
+    ],
+    "areaAcres": 49.52,
+    "shoreLengthMiles": 1.55,
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "100 yard portage from North Kawishiwi River.  Conchu Lake is located in the BWCAW.",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO"
+      },
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "OPEN",
+        "location": "Winter trail from Greenstone Lake across Federal and County land."
+      }
+    ],
+    "maxDepthFeet": 67,
+    "averageWaterClarity": "16.0",
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "surveyID": "109487",
+        "narrative": "<p>Conchu Lake is in Ecological Lake Class 4, which consists of 47 lakes in northeastern Minnesota that are small, deep, and have clear and soft (unmineralized) water.Conchu Lake was thermally stratified on 06/02/2003 and retained good oxygen for trout (more than 5 ppm) to a depth of 27 ft, where the temperature was 42 F.  In midsummer, 5 ppm oxygen is retained to a depth of about 20 ft, where the temperature is about 50 F.Conchu Lake has an inlet from Uranus Lake with a waterfall which prevents fish movement.  The outlet to the Kawishiwi River has a beaver dam and a 4 ft falls limiting fish movement.  Shoal water substrates on Conchu Lake are mostly rubble, ledgerock, and gravel.  Plants are sparse and grow to a depth of 10 ft; sedges and waterlilies are the most common plants.Conchu Lake was poisoned with rotenone in the fall of 1984, killing most of the northern pike, white sucker, rock bass, yellow perch, pumpkinseed sunfish, and largemouth bass that were present.  Uranus Lake was poisoned at the same time.  Conchu Lake was initially stocked with splake and brook trout.  Splake stocking was discontinued in all lakes in the Boundary Waters Canoe Area Wilderness after 1988 at the request of the U.S, Forest Service because they are not an indigenous species.  Brook trout have been stocked annually since 1988.  The 2003 trout assessment consisted of four gillnets set in early June.  Five previous trout assessments, each consisting of 2-4 gillnet sets, were done from 1986 through 1998.Two 7\" brook trout were captured in the 2003 assessment; both had been stocked (air-dropped from a float plane) the previous fall.  The total catch of trout by weight in 2003 of 0.1 lb/gillnet was much lower than the median catch of 7.9 lb/gillnet in previous assessments on this lake and was lower than the median catch of 4.6 lb/gillnet in recent assessments of 25 stream trout lakes (excluding mine pit lakes) in the Tower Fisheries Management Area.One large northern pike (36\", 12 lb) was captured in the 2003 assessment.  A 41\" pike with several brook trout fingerlings in its stomach was captured in the 1994 assessment, and several large pike have been caught by anglers in recent years.Two largemouth bass were captured in the 2003 assessment.  Largemouth bass have been captured in all four investigations from 1990 to the present.No white sucker were captured in the 2003 assessment.  White sucker were captured in the 1994 and 1998 assessments.</p>",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_name": "Conchu",
+          "wb_type": "Lake",
+          "wb_id": "38072000",
+          "id_date": "2003-06-02",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "109487"
+        },
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "12.35",
+            "totalCatch": 1,
+            "totalWeight": 5600,
+            "gearCount": 4,
+            "CPUE": "0.25",
+            "quartileCount": "1.0-3.0",
+            "gear": "Standard gill nets",
+            "quartileWeight": "2.2-3.8",
+            "species": "NOP"
+          },
+          {
+            "CPUE": "0.50",
+            "species": "BKT",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.14",
+            "totalCatch": 2,
+            "totalWeight": 131,
+            "gearCount": 4
+          },
+          {
+            "gearCount": 4,
+            "totalWeight": 970,
+            "totalCatch": 2,
+            "averageWeight": "1.07",
+            "species": "LMB",
+            "quartileWeight": "0.1-1.3",
+            "quartileCount": "0.3-0.8",
+            "gear": "Standard gill nets",
+            "CPUE": "0.50"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyDate": "2003-06-02",
+        "lengths": {
+          "NOP": {
+            "minimum_length": 35,
+            "fishCount": [
+              [
+                35,
+                1
+              ]
+            ],
+            "maximum_length": 35
+          },
+          "LMB": {
+            "maximum_length": 14,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "BKT": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                7,
+                2
+              ]
+            ],
+            "maximum_length": 7
+          }
+        }
+      },
+      {
+        "narrative": "<p>Conchu is a 50-acre designated stream trout lake located 12 miles east of Ely in the Boundary Waters Canoe Area. It is deep, clear, and relatively low in productivity with a maximum depth of 67 feet. Aquatic vegetation is sparse and limited to a few shallow fringes. <br> \n <br> \nTrout stocking in Conchu was discontinued after 2010 following reductions in the state stream trout program. The presence of both northern pike and largemouth bass, and corresponding decreases in assessment catches resulted in the decision to cease trout stocking. <br> \n <br> \nAccess to Conchu is from the North Kawishiwi River. Travel time is about equal from either the Lake One Entry Point, Ojibway Lake, or Pickerel Lake. Access via Greenstone is also possible for those with a hearty portage appetite. The portage to Conchu is approximately 100 yards. It is a fair climb, but the overall portage condition was excellent. Previously, a winter access trail existed directly between Greenstone and Conchu via a beaver drainage. The absence of a winter trout fishery has resulted in reclamation of this route by nature. A lone USFS designated campsite exists on the southern shore east of the portage. <br> \n <br> \nLargemouth bass and white sucker were present in low numbers. Largemouth bass lengths ranged from 12 to 17 inches with an average length of 15 inches. The survey crew observed several more largemouth while paddling the lake. Bass are considered net-shy and are often underrepresented by standard sampling gear. Largemouth are likely far more abundant in Conchu than this survey suggests. Although Conchu is no longer managed for stream trout it is still listed as a designated trout lake. Anglers wishing to pursue largemouth are required to possess a trout stamp. <br> \n</p>",
+        "surveyID": "20162413826320002",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "totalCatch": 6,
+            "averageWeight": "1.53",
+            "totalWeight": 4164,
+            "quartileCount": "1.5-10.4",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-2.0",
+            "species": "WTS",
+            "CPUE": "1.50"
+          },
+          {
+            "quartileCount": "0.3-0.8",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-1.3",
+            "species": "LMB",
+            "CPUE": "1.50",
+            "gearCount": 4,
+            "totalCatch": 6,
+            "averageWeight": "1.93",
+            "totalWeight": 5263
+          }
+        ],
+        "headerInfo": {
+          "county": "Lake",
+          "id_date": "2024-05-20",
+          "survey_id": "20162413826320002",
+          "wb_alt_name": "",
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "wb_id": "38072000",
+          "wb_name": "Conchu"
+        },
+        "surveySubType": "Standard Survey",
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 18
+          },
+          "LMB": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ]
+            ],
+            "minimum_length": 11,
+            "maximum_length": 17
+          }
+        },
+        "surveyDate": "2024-05-20"
+      },
+      {
+        "surveyDate": "1990-06-20",
+        "lengths": {},
+        "surveyID": "108686",
+        "narrative": "<p>Brook trout are most abundant, followed by splake, white sucker, and single largemouth bass. In biomass, white sucker are dominant, followed by splake, brook trout, and largemouth bass. White sucker are quite large. Splake growth appears to be good - 13 medians for splake. There are seven other designated splake lakes in the Ely area in this lake class. </p>",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "survey_id": "108686",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "id_date": "1990-06-20",
+          "wb_id": "38072000",
+          "wb_type": "Lake",
+          "wb_name": "Conchu",
+          "survey_type": "Population Assessment"
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "totalCatch": 12,
+            "averageWeight": "1.28",
+            "totalWeight": 15.4,
+            "species": "SPT",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "6.00"
+          },
+          {
+            "gearCount": 2,
+            "totalWeight": 6.2,
+            "totalCatch": 19,
+            "averageWeight": "0.33",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "CPUE": "9.50"
+          },
+          {
+            "gearCount": 2,
+            "totalCatch": 11,
+            "averageWeight": "2.65",
+            "totalWeight": 29.1,
+            "species": "WTS",
+            "quartileCount": "1.5-10.4",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-2.0",
+            "CPUE": "5.50"
+          },
+          {
+            "totalCatch": 1,
+            "averageWeight": "0.80",
+            "totalWeight": 0.8,
+            "gearCount": 2,
+            "CPUE": "0.50",
+            "species": "LMB",
+            "quartileCount": "0.3-0.8",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-1.3"
+          }
+        ],
+        "surveyType": "Standard Survey"
+      },
+      {
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 9
+          }
+        },
+        "surveyDate": "2007-05-29",
+        "narrative": "<p>Conchu Lake is in Ecological Lake Class 4, which consists of 47 lakes in northeast Minnesota that are small, deep, and have clear and soft (unmineralized) water. <br> \n <br> \nConchu Lake was thermally stratified on 05/29/2007 and retained good oxygen for trout (more than 5 ppm) to a depth of 34 ft, where the temperature was 40 F.  Testing done in several investigations on Conchu Lake prior to 1988 showed that in midsummer, 5 ppm oxygen was retained to a depth of about 20 ft, where the temperature was about 50 F, and the Secchi water clarity ranged from 7 ft to 12 ft. <br> \n <br> \nConchu Lake is in the Boundary Waters Canoe Area Wilderness.  It has an inlet from Uranus Lake with a waterfall that prevents upstream fish movement.  The outlet to the Kawishiwi River has a beaver dam and a 4 ft falls limiting fish movement.  Lake bottom substrates along the shoreline of Conchu Lake are mostly rubble, ledgerock, and gravel.  Aquatic plants are sparse and grow to a depth of 10 ft; sedges and waterlilies are the most common plants. <br> \n <br> \nConchu Lake was poisoned with rotenone by a helicopter with a spray apparatus in the fall of 1984, killing most of the northern pike, white sucker, rock bass, yellow perch, pumpkinseed sunfish, and largemouth bass that were present. Uranus Lake was poisoned at the same time, removing populations of minnows.  Some white sucker apparently survived the 1984 poisoning, as sucker were captured in the 1985 assessment.  Largemouth bass up to 14\" were reported by anglers in 1989 and were captured in the 1990 assessment and several subsequent assessments.  A few large northern pike were reported by anglers in the early 90's and were captured in assessments in 1994 and 2003. Although northern pike catches were low, their sizes have been very large (up to 41\") and trout were found in their stomachs.  <br> \n <br> \nFollowing the 1984 poisoning, Conchu Lake was initially stocked with splake and brook trout.  Splake stocking was discontinued in Conchu Lake and all other managed stream trout lakes in the Boundary Waters Canoe Area Wilderness after 1988 at the request of the U.S. Forest Service because they were not considered to be an indigenous species.  Brook trout fingerlings have been stocked annually since 1988.   <br> \n <br> \nThe 2007 trout assessment consisted of four gillnets set in late May.  Six previous trout assessments, each consisting of 2-4 gillnet sets, were done from 1986 through 2003. <br> \n <br> \nFive brook trout, ranging in length from 6-9\", were captured in the 2007 assessment; all had been stocked (air-dropped from a float plane) the previous fall.  Four of these trout had insects and amphipods in their stomachs, while the remaining trout had an empty stomach.  The total catch of trout by weight in 2007 of 0.3 lb/gillnet was much lower than the median catch of 6.6 lb/gillnet in all assessments on this lake and was lower than the median catch of 3.7 lb/gillnet in recent assessments of 25 stream trout lakes (excluding mine pit lakes) in the Tower Fisheries Management Area. <br> \n <br> \nNo white sucker, northern pike, or largemouth bass were caught in the 2007 assessment.  Anglers have reported catching largemouth bass and occasional large northern pike in Conchu Lake in recent years.</p>",
+        "surveyID": "1100715237570000",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "38072000",
+          "wb_name": "Conchu",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "survey_id": "1100715237570000",
+          "county": "Lake",
+          "id_date": "2007-05-29"
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.25",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "species": "BKT",
+            "totalWeight": 491,
+            "averageWeight": "0.22",
+            "totalCatch": 5,
+            "gearCount": 4
+          }
+        ],
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_name": "Conchu",
+          "wb_id": "38072000",
+          "wb_type": "Lake",
+          "id_date": "1988-06-01",
+          "county": "Lake",
+          "survey_id": "108687",
+          "wb_alt_name": ""
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 26.1,
+            "averageWeight": "2.90",
+            "totalCatch": 9,
+            "gearCount": 2,
+            "CPUE": "4.50",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "species": "SPT"
+          },
+          {
+            "averageWeight": "0.64",
+            "totalCatch": 13,
+            "totalWeight": 8.3,
+            "gearCount": 2,
+            "CPUE": "6.50",
+            "species": "BKT",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A"
+          },
+          {
+            "CPUE": "5.50",
+            "quartileCount": "1.5-10.4",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-2.0",
+            "species": "WTS",
+            "totalCatch": 11,
+            "averageWeight": "1.77",
+            "totalWeight": 19.5,
+            "gearCount": 2
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyID": "108687",
+        "narrative": "<p>Splake and brook trout are present with a combined gillnet CPUE of 11.0 - well above average. Splake appears good, averaging 19 growth. White sucker are present in fair numbers: 5.5/gillnet. </p>",
+        "lengths": {},
+        "surveyDate": "1988-06-01"
+      },
+      {
+        "surveyDate": "1983-07-18",
+        "lengths": {},
+        "surveyID": "108690",
+        "narrative": "<p>Conchu Lake contains average populations of sucker and rock bass and a below average population of northern pike. </p>",
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "survey_type": "Re-Survey",
+          "wb_name": "Conchu",
+          "wb_id": "38072000",
+          "wb_type": "Lake",
+          "id_date": "1983-07-18",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "108690"
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "totalWeight": 27,
+            "averageWeight": "3.38",
+            "totalCatch": 8,
+            "quartileWeight": "2.2-3.8",
+            "quartileCount": "1.0-3.0",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "CPUE": "2.67"
+          },
+          {
+            "species": "RKB",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "0.5-4.1",
+            "gear": "Standard gill nets",
+            "CPUE": "0.67",
+            "gearCount": 3,
+            "totalWeight": 0.2,
+            "totalCatch": 2,
+            "averageWeight": "0.10"
+          },
+          {
+            "totalWeight": 21,
+            "averageWeight": "1.31",
+            "totalCatch": 16,
+            "gearCount": 3,
+            "CPUE": "5.33",
+            "species": "WTS",
+            "quartileWeight": "0.6-2.0",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.5-10.4"
+          }
+        ],
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyDate": "1998-05-18",
+        "lengths": {
+          "LMB": {
+            "maximum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ]
+            ],
+            "minimum_length": 10
+          },
+          "BKT": {
+            "maximum_length": 19,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                6,
+                10
+              ],
+              [
+                7,
+                14
+              ],
+              [
+                8,
+                32
+              ],
+              [
+                9,
+                13
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ]
+            ]
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "survey_id": "109278",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "id_date": "1998-05-18",
+          "wb_id": "38072000",
+          "wb_type": "Lake",
+          "wb_name": "Conchu",
+          "survey_type": "Population Assessment"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 11959,
+            "totalCatch": 75,
+            "averageWeight": "0.35",
+            "gearCount": 4,
+            "CPUE": "18.75",
+            "species": "BKT",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "2.25",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.5-10.4",
+            "quartileWeight": "0.6-2.0",
+            "totalCatch": 9,
+            "averageWeight": "5.32",
+            "totalWeight": 21700,
+            "gearCount": 4
+          },
+          {
+            "CPUE": "0.25",
+            "species": "LMB",
+            "quartileWeight": "0.1-1.3",
+            "quartileCount": "0.3-0.8",
+            "gear": "Standard gill nets",
+            "totalWeight": 270,
+            "totalCatch": 1,
+            "averageWeight": "0.60",
+            "gearCount": 4
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyID": "109278",
+        "narrative": "<p>Conchu Lake is in Ecological Lake Class 4, which consists of 47 lakes in northeastern Minnesota that are small, deep, and have clear and soft (unmineralized) water.  Conchu Lake stratifies thermally in midsummer and retains good oxygen for trout (more than 5 ppm) to a depth of about 20 ft, where the temperature is about 50 F.  The inlet from Uranus Lake has a waterfalls preventing fish movement.  The outlet to the Kawishiwi river has a beaver dam and a 4' falls limiting fish movement.   The bottom substrates along the shoreline are mostly rubble, ledgerock, and gravel.  Plant growth is sparse, and plants grow to a depth of 10 ft; the most common are sedges and waterlilies.Conchu Lake was poisoned with rotenone (a natural substance extracted from several tropical and sub-tropical plants) in 1984, which killed many of the northern pike, white sucker, rock bass, yellow perch, pumpkinseed sunfish, and (probably) largemouth bass that were present.  Uranus lake was poisoned at the same time.  Conchu Lake was initially stocked with splake and brook trout, but splake stocking was discontinued after 1988 at the request of the USFS.The catch of brook trout in Conchu Lake in 1998 of 18.8/gillnet (6.6 lb/gillnet) was similar to the average trout catch of 13.5/gillnet (8.5 lb/gillnet) in assessments in 1986, 1988, 1990, and 1994.  The 1998 trout catch by weight of 6.6 lb/gillnet was also very near the median catch of 6.0 lb/gillnet for recent assessments on 24 stream trout lakes in the Ely Fisheries Management Area.All but four of the 75 brook trout captured in 1998 were yearlings which had been stocked the previous fall as fingerlings.  These yearlings ranged in size from 6\" to 10\" when captured.  The four larger brook trout ranged in size from 15\" to 19\".  The stomachs of trout examined in 1998 contained zooplankton (55 percent), dragonfly nymphs (17 percent), empty (16 percent), insect remains (5 percent), with the remainder containing winged midges, chaoborus, crayfish, leeches, darters, or caddisflies.Sucker reappeared in the year following poisoning.  Sucker numbers in 1998 (2.2/gillnet) were lower than the peak numbers of 5.5/gillnet captured in 1988 and 1990.  Sucker sizes have increased since reclamation, and were quite large in 1998, averaging 17.9\".Largemouth bass numbers in the 1998 gillnet catch were quite low, but 17 spawning beds were observed in 1998, compared to 15 beds in 1994.  Anglers have also reported catching good sized (over 2 lb) largemouth since about 1990.Northern pike were not captured in the 1998 assessment, but a few very large pike have been caught by anglers, and a 41\" pike was caught in the 1994 assessment. </p>"
+      },
+      {
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                41,
+                1
+              ]
+            ],
+            "minimum_length": 41,
+            "maximum_length": 41
+          },
+          "WTS": {
+            "maximum_length": 17,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                6,
+                5
+              ]
+            ]
+          },
+          "BKT": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 8
+          }
+        },
+        "surveyDate": "1994-05-31",
+        "headerInfo": {
+          "county": "Lake",
+          "id_date": "1994-05-31",
+          "wb_alt_name": "",
+          "survey_id": "108685",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_id": "38072000",
+          "wb_name": "Conchu"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 10800,
+            "averageWeight": "23.81",
+            "totalCatch": 1,
+            "gearCount": 2,
+            "CPUE": "0.50",
+            "quartileWeight": "2.2-3.8",
+            "quartileCount": "1.0-3.0",
+            "gear": "Standard gill nets",
+            "species": "NOP"
+          },
+          {
+            "totalWeight": 7189,
+            "totalCatch": 15,
+            "averageWeight": "1.06",
+            "gearCount": 2,
+            "CPUE": "7.50",
+            "species": "BKT",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 2,
+            "averageWeight": "1.49",
+            "totalCatch": 7,
+            "totalWeight": 4726,
+            "quartileCount": "1.5-10.4",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-2.0",
+            "species": "WTS",
+            "CPUE": "3.50"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyID": "108685",
+        "narrative": "<p>Fish populations in Conchu Lake consist of brook trout  (7.5/gillnet), northern pike (one very large individual was caught in the nets), white sucker (3.5/gillnet), and largemouth bass (15 bass were visually observed over nests in shoal areas).Analysis of brook trout length frequency indicates that three trout (average length of 8.8\") were from the fingerling stocking of the previous fall.  Eleven trout (average length of 13.9\") were likely from the fall 1992 fingerling stocking.  One trout (18.5\") was probably from the fall 1991 fingerling stocking.Brook trout were foraging on Chironomids.</p>"
+      }
+    ],
+    "lakeName": "Conchu",
+    "sampledPlants": []
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285636
+}

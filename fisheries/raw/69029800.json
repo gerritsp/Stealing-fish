@@ -1,0 +1,249 @@
+{
+  "timestamp": 1790285563,
+  "result": {
+    "shoreLengthMiles": 3.54,
+    "accesses": [
+      {
+        "location": " ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "95 rod portage from Crab Lake.",
+        "accessTypeId": "CA"
+      },
+      {
+        "accessTypeId": "CA",
+        "lakeAccessComments": "80 rod portage from Hassel Lake.",
+        "location": " ",
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "littoralAcres": 68,
+    "waterClarity": [
+      [
+        "07/08/2013",
+        "3"
+      ]
+    ],
+    "officeCode": "F214",
+    "sampledPlants": [],
+    "county": "St. Louis",
+    "DOWNumber": "69029800",
+    "surveys": [
+      {
+        "surveyDate": "2013-07-08",
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_alt_name": "",
+          "wb_name": "Saca",
+          "id_date": "2013-07-08",
+          "survey_type": "Population Assessment",
+          "survey_id": "6851332636388059",
+          "wb_type": "Lake",
+          "wb_id": "69029800"
+        },
+        "narrative": "<p>Saca Lake is located approximately 12 miles NW of Ely and is entirely within the BWCAW. It has a surface area of 73 acres and a maximum depth of 18 feet. The water clarity is poor with brown, bog stained water. Dissolved oxygen is adequate to a depth of 12 feet. <br> \n <br> \nAccess is by portage from Crab Lake (95 rods) or Hassel Lake (80 rods). There is one designated USFS campsite located on the lake. <br> \n <br> \nLargemouth bass numbers in 2013 (3.0/gill net) were higher than average when compared to similar lakes in the area. The average largemouth sampled was 12.2 inches long and about 6 years old. The largest bass sampled was 15.9 inches long and 12 years old.  <br> \n <br> \nWhite sucker was the most abundant fish species. Other fish species sampled in 2013 included bluegill, hybrid sunfish, and yellow perch. These species were sampled in relatively low numbers. Only one 21.6\" northern pike was sampled. <br> \n</p>",
+        "surveyID": "6851332636388059",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 2,
+            "averageWeight": "0.05",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "totalWeight": 42,
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "CPUE": "0.67",
+            "species": "HSF"
+          },
+          {
+            "quartileCount": "2.0-6.3",
+            "averageWeight": "2.01",
+            "totalCatch": 1,
+            "CPUE": "0.33",
+            "species": "NOP",
+            "gearCount": 3,
+            "totalWeight": 910,
+            "quartileWeight": "1.3-2.4",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 32,
+            "gearCount": 3,
+            "species": "YEP",
+            "CPUE": "0.33",
+            "totalCatch": 1,
+            "averageWeight": "0.07",
+            "quartileCount": "2.2-14.6"
+          },
+          {
+            "species": "WTS",
+            "CPUE": "5.33",
+            "gearCount": 3,
+            "quartileWeight": "1.5-2.4",
+            "totalWeight": 16824,
+            "gear": "Standard gill nets",
+            "quartileCount": "3.6-14.1",
+            "averageWeight": "2.32",
+            "totalCatch": 16
+          },
+          {
+            "averageWeight": "1.10",
+            "totalCatch": 9,
+            "quartileCount": "0.3-1.9",
+            "totalWeight": 4486,
+            "quartileWeight": "0.4-1.5",
+            "gear": "Standard gill nets",
+            "CPUE": "3.00",
+            "species": "LMB",
+            "gearCount": 3
+          },
+          {
+            "totalWeight": 204,
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "1.33",
+            "species": "BLG",
+            "gearCount": 3,
+            "averageWeight": "0.11",
+            "totalCatch": 4,
+            "quartileCount": "N/A"
+          }
+        ],
+        "lengths": {
+          "YEP": {
+            "maximum_length": 6,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 21,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                6,
+                2
+              ]
+            ]
+          },
+          "LMB": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 15
+          },
+          "HSF": {
+            "minimum_length": 3,
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                4,
+                1
+              ]
+            ]
+          },
+          "BLG": {
+            "minimum_length": 5,
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                21,
+                1
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 21
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      }
+    ],
+    "averageWaterClarity": "3.0",
+    "meanDepthFeet": 7,
+    "areaAcres": 76.86,
+    "maxDepthFeet": 18,
+    "lakeName": "Saca"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

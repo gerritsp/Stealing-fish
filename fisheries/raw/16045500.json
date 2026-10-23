@@ -1,0 +1,66 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "DOWNumber": "16045500",
+    "accesses": [
+      {
+        "location": "Accessible via portaging 0.3 mile through woods from Tobacco Lake.  There is no marked/cleared portage",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "lakeName": "Stem",
+    "meanDepthFeet": 0,
+    "areaAcres": 39.42,
+    "littoralAcres": 37,
+    "officeCode": "F218",
+    "waterClarity": [
+      [
+        "06/24/1975",
+        "15"
+      ]
+    ],
+    "averageWaterClarity": "15.0",
+    "sampledPlants": [],
+    "county": "Cook",
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "CPUE": "6.00",
+            "totalCatch": 12,
+            "totalWeight": 29,
+            "quartileWeight": "1.4-2.7",
+            "averageWeight": "2.42",
+            "quartileCount": "2.0-8.5",
+            "species": "NOP"
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Stem",
+          "survey_id": "109756",
+          "id_date": "1975-06-23",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "wb_id": "16045500",
+          "wb_alt_name": ""
+        },
+        "surveyDate": "1975-06-23",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyID": "109756",
+        "narrative": "<p>The only fish caught in the gillnets were N Pike. The only observed forage fish were Minnows.</p>"
+      }
+    ],
+    "shoreLengthMiles": 2.17,
+    "maxDepthFeet": 34
+  },
+  "timestamp": 1790285642
+}

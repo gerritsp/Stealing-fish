@@ -1,0 +1,703 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790286074,
+  "result": {
+    "surveys": [
+      {
+        "surveyID": "13351625348911000",
+        "narrative": "<p>Eugene Lake is located near the border between Minnesota and the Province of Ontario and within the Boundary Waters Canoe Area Wilderness about 13 miles northeast of Crane Lake, MN.  The lake is 181 acres with a maximum depth of 64 feet.  The lake has a rocky irregular shoreline and contains stained water with low fertility, typical of Canadian Shield lakes.  The Forest Service maintains several campsites on the lake and portage trails to surrounding lakes.  <br> \n <br> \nNine species were caught during the 2016 survey.  Northern Pike and White Sucker were the most common species in the gill net catch.  Yellow Perch and Hybrid Sunfish were the most common species captured in the special trap nets.   <br> \n <br> \nLake Whitefish provide an interesting option for anglers visiting Eugene Lake.  Abundance was within the expected range for this lake type.  The three fish captured were all very similar in size; mean length was 17.8 inches.  The mean weight was 1.98 pounds, which was within the expected range for this lake type.    <br> \n <br> \nNorthern Pike abundance was within the expected range for this lake type.  The largest fish in the sample was 25.2 inches.  The mean weight was 1.74 pounds, which was near the lower end of the expected range for this lake type.     <br> \n <br> \nSmallmouth Bass is another choice for anglers visiting Eugene Lake.  Few were captured in our nets, but anglers reported catching good numbers and sizes to the survey crew.    <br> \n <br> \nYellow Perch abundance was within the expected range for this lake type.  However, sizes were small (only up to six inches).  Yellow Perch are likely more important as forage for predators rather than recreational fish for anglers in Eugene Lake.</p>",
+        "surveyDate": "2016-09-06",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Standard Survey",
+        "headerInfo": {
+          "wb_name": "Eugene",
+          "survey_id": "13351625348911000",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "2016-09-06",
+          "survey_type": "Standard Survey",
+          "county": "St. Louis",
+          "wb_id": "69047300"
+        },
+        "lengths": {
+          "GSF": {
+            "minimum_length": 3,
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                3
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ]
+            ],
+            "maximum_length": 19,
+            "minimum_length": 11
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                2,
+                84
+              ],
+              [
+                3,
+                5
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                2
+              ]
+            ],
+            "minimum_length": 2,
+            "maximum_length": 6
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                2,
+                1
+              ],
+              [
+                3,
+                1
+              ],
+              [
+                5,
+                2
+              ]
+            ],
+            "maximum_length": 5,
+            "minimum_length": 2
+          },
+          "LKW": {
+            "minimum_length": 17,
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                17,
+                3
+              ]
+            ]
+          },
+          "HSF": {
+            "maximum_length": 6,
+            "minimum_length": 1,
+            "fishCount": [
+              [
+                1,
+                3
+              ],
+              [
+                2,
+                2
+              ],
+              [
+                3,
+                3
+              ],
+              [
+                4,
+                7
+              ],
+              [
+                6,
+                2
+              ]
+            ]
+          },
+          "RKB": {
+            "minimum_length": 2,
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                2,
+                1
+              ],
+              [
+                3,
+                1
+              ],
+              [
+                5,
+                2
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 15,
+            "maximum_length": 25,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                12
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                25,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.07",
+            "species": "RKB",
+            "totalWeight": 133,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gear": "Special trap nets",
+            "totalCatch": 4,
+            "CPUE": "1.00",
+            "gearCount": 4
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 41,
+            "averageWeight": "0.00",
+            "species": "YEP",
+            "totalCatch": 89,
+            "gear": "Special trap nets",
+            "CPUE": "22.25",
+            "gearCount": 4
+          },
+          {
+            "quartileCount": "1.3-5.3",
+            "quartileWeight": "1.6-3.1",
+            "averageWeight": "1.74",
+            "species": "NOP",
+            "totalWeight": 17330,
+            "gear": "Standard gill nets",
+            "totalCatch": 22,
+            "CPUE": "3.67",
+            "gearCount": 6
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "1.50",
+            "totalCatch": 9,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.11",
+            "species": "WTS",
+            "totalWeight": 8625,
+            "quartileCount": "1.2-4.9",
+            "quartileWeight": "1.6-2.4"
+          },
+          {
+            "CPUE": "0.75",
+            "gearCount": 4,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 1775,
+            "averageWeight": "1.30",
+            "species": "NOP",
+            "totalCatch": 3,
+            "gear": "Special trap nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "species": "SMB",
+            "averageWeight": "0.10",
+            "totalWeight": 45,
+            "quartileCount": "0.3-1.0",
+            "quartileWeight": "0.4-1.5",
+            "gearCount": 6,
+            "CPUE": "0.17"
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 34,
+            "averageWeight": "0.02",
+            "species": "SMB",
+            "totalCatch": 3,
+            "gear": "Special trap nets",
+            "CPUE": "0.75",
+            "gearCount": 4
+          },
+          {
+            "gear": "Special trap nets",
+            "totalCatch": 5,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.04",
+            "species": "GSF",
+            "totalWeight": 94,
+            "gearCount": 4,
+            "CPUE": "1.25"
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "totalWeight": 2690,
+            "averageWeight": "1.98",
+            "species": "LKW",
+            "quartileWeight": "3.2",
+            "quartileCount": "0.2"
+          },
+          {
+            "gearCount": 4,
+            "CPUE": "0.75",
+            "gear": "Special trap nets",
+            "totalCatch": 3,
+            "averageWeight": "0.00",
+            "species": "BNS",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "CPUE": "0.17",
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.04",
+            "species": "HSF",
+            "totalWeight": 20,
+            "totalCatch": 1,
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "4.00",
+            "gearCount": 4,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 432,
+            "averageWeight": "0.06",
+            "species": "HSF",
+            "totalCatch": 16,
+            "gear": "Special trap nets"
+          },
+          {
+            "totalCatch": 4,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.08",
+            "species": "YEP",
+            "totalWeight": 150,
+            "quartileCount": "0.5-7.0",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 6,
+            "CPUE": "0.67"
+          }
+        ]
+      },
+      {
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyID": "19222423339052234",
+        "surveyDate": "2024-08-05",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Eugene Lake on August 5th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 38.0 feet), the water temperature decreased below 17.2 degrees C (63.0 degrees F) at 13.0 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L at 38.0 feet at the time of sampling. The thickness of this layer of water in the water column was 25.0 feet, indicating that oxythermal habitat was present for Lake Whitefish. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 5.9 degrees C (42.6 degrees F), was substituted as TDO3. TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Eugene Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_id": "69047300",
+          "survey_type": "Targeted Survey",
+          "county": "St. Louis",
+          "id_date": "2024-08-05",
+          "wb_name": "Eugene",
+          "wb_type": "Lake",
+          "survey_id": "19222423339052234",
+          "wb_alt_name": ""
+        }
+      },
+      {
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyDate": "2025-07-30",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Eugene Lake on July 30th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 52.5 feet), the water temperature decreased below 17.2 degrees C (63.0 degrees F) at 13.3 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 39.1 feet at the time of sampling. The thickness of this layer of water in the water column was 25.8 feet, indicating that oxythermal habitat was present for Lake Whitefish. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.3 degrees C (39.7 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates suitable oxythermal habitat. When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyID": "-336",
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "wb_name": "Eugene",
+          "survey_id": "-336",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "2025-07-30",
+          "survey_type": "Targeted Survey",
+          "county": "St. Louis",
+          "wb_id": "69047300"
+        },
+        "surveyType": "Targeted Survey"
+      },
+      {
+        "lengths": {
+          "YEP": {
+            "fishCount": [
+              [
+                3,
+                1
+              ]
+            ],
+            "maximum_length": 3,
+            "minimum_length": 3
+          },
+          "TLC": {
+            "fishCount": [
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 7
+          },
+          "LKW": {
+            "maximum_length": 22,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                10
+              ],
+              [
+                18,
+                10
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "NOP": {
+            "maximum_length": 32,
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                32,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 8,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 4205,
+            "species": "NOP",
+            "averageWeight": "1.16",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalCatch": 8,
+            "gear": "Open-water angling",
+            "CPUE": "8.00",
+            "gearCount": 1
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "1.83",
+            "gear": "Standard gill nets",
+            "totalCatch": 11,
+            "quartileCount": "1.3-5.3",
+            "quartileWeight": "1.6-3.1",
+            "averageWeight": "2.88",
+            "species": "NOP",
+            "totalWeight": 14385
+          },
+          {
+            "species": "YEP",
+            "averageWeight": "0.03",
+            "totalWeight": 12,
+            "quartileCount": "0.5-7.0",
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.17",
+            "gearCount": 6
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 39,
+            "totalWeight": 34600,
+            "species": "LKW",
+            "averageWeight": "1.96",
+            "quartileWeight": "3.2",
+            "quartileCount": "0.2",
+            "gearCount": 6,
+            "CPUE": "6.50"
+          },
+          {
+            "quartileCount": "1.2-4.9",
+            "quartileWeight": "1.6-2.4",
+            "averageWeight": "2.22",
+            "species": "WTS",
+            "totalWeight": 10080,
+            "gear": "Standard gill nets",
+            "totalCatch": 10,
+            "CPUE": "1.67",
+            "gearCount": 6
+          },
+          {
+            "CPUE": "0.50",
+            "gearCount": 6,
+            "species": "TLC",
+            "averageWeight": "0.11",
+            "totalWeight": 150,
+            "quartileCount": "1.3-7.6",
+            "quartileWeight": "0.3-0.8",
+            "totalCatch": 3,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>Eugene is a small, clear water lake located in the Boundary Waters Canoe Area Wilderness.  The lake is only accessible via portage trails coming from Steep, Fat, Gun or Little Beartrack Lakes.  There are three primitive campsites maintained by the U.S. Forest Service on the lake.  The fish community is simple with only a few species present.  Northern pike are the primary predator species present in Eugene Lake.  The number of pike captured in nets was typical for Minnesota lakes like Eugene.  The average length was 23.0 inches but 27% exceeded 26 inches in length.  One individual was 32.9 inches long and weighed nine pounds.  Pike caught by angling were smaller than those netted averaging only 17.7 inches in length.Eugene Lake is also home to a relatively abundant population of old, slow growing lake whitefish.  The average whitefish captured was 16.6 inches in length and weighed 2.0 pounds. Other species present in the 2001 survey included average numbers of white sucker and below average numbers of cisco and yellow perch.</p>",
+        "surveyDate": "2001-07-09",
+        "surveyID": "111976",
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "69047300",
+          "county": "St. Louis",
+          "survey_type": "Re-Survey",
+          "id_date": "2001-07-09",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "Eugene",
+          "survey_id": "111976"
+        }
+      }
+    ],
+    "shoreLengthMiles": 4.68,
+    "littoralAcres": 50,
+    "meanDepthFeet": 33,
+    "DOWNumber": "69047300",
+    "lakeName": "Eugene",
+    "accesses": [
+      {
+        "location": "45 rod portage from Steep Lake.",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF"
+      },
+      {
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "location": "60 rod portage from Fat Lake.",
+        "accessTypeId": "CA",
+        "lakeAccessComments": " "
+      },
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "30 rod portage from Little Beartrack Lake.",
+        "accessTypeId": "CA",
+        "ownerTypeId": "USF"
+      },
+      {
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "CA",
+        "location": "85 rod portage from Gun Lake.",
+        "lakeAccessComments": " "
+      }
+    ],
+    "waterClarity": [
+      [
+        "09/06/2016",
+        "10.5"
+      ],
+      [
+        "09/06/2016",
+        "10.6"
+      ],
+      [
+        "08/05/2024",
+        "9"
+      ],
+      [
+        "07/30/2025",
+        "9.8"
+      ]
+    ],
+    "maxDepthFeet": 64,
+    "areaAcres": 181.35,
+    "averageWaterClarity": "10.0",
+    "county": "St. Louis",
+    "officeCode": "F217",
+    "sampledPlants": []
+  }
+}

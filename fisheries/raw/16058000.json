@@ -1,0 +1,121 @@
+{
+  "result": {
+    "lakeName": "Granite",
+    "sampledPlants": [],
+    "shoreLengthMiles": 11.47,
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 45,
+    "county": "Cook",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "location": "Accessible via vehicle from Canada and portages from Clove Lake and Granite Bay.",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " "
+      }
+    ],
+    "averageWaterClarity": "8.0",
+    "areaAcres": 306.29,
+    "officeCode": "F218",
+    "surveys": [
+      {
+        "surveyID": "109781",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1978-08-08",
+        "narrative": "<p>There is a good population of both N Cisco and Walleye are indicated by a good range of sizes and abundance.  Other species appear to be low in abundance.  SM Bass are present but were not taken during this survey.</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "totalCatch": 3,
+            "gearCount": 6,
+            "species": "NOP",
+            "averageWeight": "2.42",
+            "totalWeight": 7.25
+          },
+          {
+            "totalWeight": 58.35,
+            "totalCatch": 78,
+            "gearCount": 6,
+            "species": "WAE",
+            "averageWeight": "0.75",
+            "quartileCount": "N/A",
+            "CPUE": "13.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalWeight": 0.05,
+            "species": "YEP",
+            "averageWeight": "0.05",
+            "totalCatch": 1,
+            "gearCount": 6,
+            "CPUE": "0.17",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 6,
+            "totalCatch": 10,
+            "averageWeight": "2.52",
+            "species": "LKW",
+            "totalWeight": 25.25,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "1.67"
+          },
+          {
+            "totalWeight": 3.5,
+            "averageWeight": "1.75",
+            "species": "WTS",
+            "gearCount": 6,
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "CPUE": "0.33",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "14.00",
+            "quartileWeight": "N/A",
+            "totalWeight": 46.75,
+            "gearCount": 6,
+            "totalCatch": 84,
+            "averageWeight": "0.56",
+            "species": "TLC"
+          }
+        ],
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_name": "Granite",
+          "wb_id": "16058000",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "109781",
+          "id_date": "1978-08-08",
+          "survey_type": "Initial Survey"
+        }
+      }
+    ],
+    "DOWNumber": "16058000",
+    "waterClarity": [
+      [
+        "08/08/1978",
+        "8"
+      ]
+    ],
+    "littoralAcres": 0
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790286029,
+  "status": "SUCCESS"
+}

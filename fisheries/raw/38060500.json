@@ -1,0 +1,1317 @@
+{
+  "timestamp": 1790285664,
+  "status": "SUCCESS",
+  "result": {
+    "averageWaterClarity": "7.0",
+    "county": "Lake",
+    "accesses": [
+      {
+        "lakeAccessComments": "USFS public landing",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "CA",
+        "location": " "
+      },
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "10 rod portage to Kawashiwi River",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN",
+        "location": " "
+      },
+      {
+        "location": " ",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "45 rod portage to Confusion Lake"
+      },
+      {
+        "lakeAccessComments": "30 rod portage to pond en route to Lake Two",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO",
+        "location": " "
+      }
+    ],
+    "maxDepthFeet": 57,
+    "waterClarity": [
+      [
+        "06/06/2016",
+        "7"
+      ]
+    ],
+    "surveys": [
+      {
+        "narrative": "<p>Ciscoes, suckers, and northern pike are present in about average numbers while yellow perch, walleyes and rock bBass are present in below average numbers.  Growth on young walleyes appears to be good.</p>",
+        "surveyID": "109044",
+        "surveyDate": "1977-06-14",
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "One",
+          "survey_type": "Re-Survey",
+          "county": "Lake",
+          "wb_id": "38060500",
+          "survey_id": "109044",
+          "id_date": "1977-06-14"
+        },
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 3,
+            "quartileWeight": "0.2-0.5",
+            "totalWeight": 0.2,
+            "quartileCount": "1.8-12.4",
+            "gear": "Standard gill nets",
+            "CPUE": "0.33",
+            "gearCount": 9,
+            "species": "TLC",
+            "averageWeight": "0.07"
+          },
+          {
+            "totalCatch": 1,
+            "quartileWeight": "0.5-1.5",
+            "totalWeight": 0.75,
+            "quartileCount": "0.1-1.3",
+            "CPUE": "0.11",
+            "gear": "Standard gill nets",
+            "species": "BUB",
+            "gearCount": 9,
+            "averageWeight": "0.75"
+          },
+          {
+            "gearCount": 9,
+            "species": "NOP",
+            "averageWeight": "1.70",
+            "CPUE": "5.00",
+            "gear": "Standard gill nets",
+            "totalWeight": 76.5,
+            "quartileCount": "1.2-3.6",
+            "quartileWeight": "1.9-3.6",
+            "totalCatch": 45
+          },
+          {
+            "species": "WTS",
+            "gearCount": 9,
+            "averageWeight": "1.79",
+            "gear": "Standard gill nets",
+            "CPUE": "8.22",
+            "totalWeight": 132.7,
+            "quartileCount": "2.8-6.7",
+            "totalCatch": 74,
+            "quartileWeight": "1.3-2.0"
+          },
+          {
+            "gear": "Standard trap nets",
+            "CPUE": "6.50",
+            "averageWeight": "0.39",
+            "gearCount": 10,
+            "species": "BLG",
+            "totalCatch": 65,
+            "quartileWeight": "0.1-0.3",
+            "quartileCount": "0.8-8.7",
+            "totalWeight": 25.35
+          },
+          {
+            "totalWeight": 4.6,
+            "quartileCount": "0.3-1.0",
+            "quartileWeight": "0.2-0.3",
+            "totalCatch": 17,
+            "species": "RKB",
+            "gearCount": 10,
+            "averageWeight": "0.27",
+            "CPUE": "1.70",
+            "gear": "Standard trap nets"
+          },
+          {
+            "averageWeight": "1.11",
+            "species": "WAE",
+            "gearCount": 9,
+            "CPUE": "2.11",
+            "gear": "Standard gill nets",
+            "quartileCount": "3.1-9.8",
+            "totalWeight": 21,
+            "quartileWeight": "0.7-1.3",
+            "totalCatch": 19
+          },
+          {
+            "gearCount": 10,
+            "species": "NOP",
+            "averageWeight": "1.98",
+            "gear": "Standard trap nets",
+            "CPUE": "2.40",
+            "totalWeight": 47.5,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalCatch": 24
+          },
+          {
+            "gear": "Standard trap nets",
+            "CPUE": "1.40",
+            "averageWeight": "2.00",
+            "species": "WTS",
+            "gearCount": 10,
+            "totalCatch": 14,
+            "quartileWeight": "1.8-2.8",
+            "quartileCount": "0.3-3.0",
+            "totalWeight": 28
+          },
+          {
+            "quartileWeight": "0.9-3.0",
+            "totalCatch": 1,
+            "quartileCount": "0.2-3.0",
+            "totalWeight": 1.5,
+            "gear": "Standard gill nets",
+            "CPUE": "0.11",
+            "averageWeight": "1.50",
+            "species": "LKW",
+            "gearCount": 9
+          },
+          {
+            "totalWeight": 1,
+            "quartileCount": "0.3-1.3",
+            "quartileWeight": "0.5-1.4",
+            "totalCatch": 1,
+            "gearCount": 10,
+            "species": "WAE",
+            "averageWeight": "1.00",
+            "CPUE": "0.10",
+            "gear": "Standard trap nets"
+          },
+          {
+            "CPUE": "0.56",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.14",
+            "species": "YEP",
+            "gearCount": 9,
+            "totalCatch": 5,
+            "quartileWeight": "0.1-0.3",
+            "quartileCount": "1.9-7.1",
+            "totalWeight": 0.7
+          },
+          {
+            "averageWeight": "0.40",
+            "species": "RKB",
+            "gearCount": 9,
+            "CPUE": "0.33",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.5-2.2",
+            "totalWeight": 1.2,
+            "quartileWeight": "0.2-0.4",
+            "totalCatch": 3
+          }
+        ]
+      },
+      {
+        "surveyID": "109100",
+        "surveyDate": "1996-06-17",
+        "narrative": "<p>Lake One is in Ecological Lake Class 7, which consists of 41 lakes in northeast Minnesota that are large, have very irregularly shaped shorelines, and have very soft and infertile water.  Lake One is smaller and has a more irregular shoreline than most lakes in this class.  Lake One stratifies thermally in midsummer and there is poor oxygen below 40-45 ft.  The shoreline is mostly boulder and there are few aquatic plants.  The Kawishiwi River flows through Lake One; there is a rapids at the outlet that prevents upstream fish movement.The total catch of fish (all species combined) in the gillnets in 1996 of 21.2 fish/net was lower than normal for this lake class, but similar to previous catches in this lake.  Lake Class 7 is one of the more productive classes, in terms of fish biomass, in northeast Minnesota.  Lake One, like some other flowage-type lakes in the area, does not produce as many fish as similar lakes without large rivers flowing through them.Fish populations in 1996 were dominated by northern pike and white sucker.Northern pike numbers in 1996 of 5.4/gillnet were higher than normal for this lake class and were also higher than the long term average catch in this lake.  Pike sizes averaged 20 in, which is somewhat small for this lake class; the largest pike was 37 in (12 lb).  Growth of young pike (17 in at age three) was average by area standards.  Larger pike probably grow faster when they get to a size where they can eat the cisco that are present in this lake.Walleye numbers in 1996 of 2.1/gillnet were below average for this lake class, but were similar to the long term average catch in this lake.  Walleye sizes averaged 12 in, which is smaller than average for this lake class and smaller than in past assessments on this lake.  Walleye growth (12 in at age four) was slower than average for the area.Sucker numbers in 1996 were average for this lake class.  Bluegill numbers were average; bluegill sizes averaged 7 in, with 40 percent 8 in or larger.  Cisco numbers were average, but the population is probably larger than indicated because few nets were set in deep, cold water where cisco live.  Cisco sizes were small, averaging 8 in; the largest was 11 in.</p>",
+        "headerInfo": {
+          "survey_id": "109100",
+          "id_date": "1996-06-17",
+          "wb_id": "38060500",
+          "county": "Lake",
+          "wb_name": "One",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_alt_name": ""
+        },
+        "lengths": {
+          "NOP": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                7
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                9
+              ],
+              [
+                17,
+                10
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                5
+              ],
+              [
+                23,
+                7
+              ],
+              [
+                24,
+                4
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                36,
+                1
+              ],
+              [
+                37,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 37
+          },
+          "LKW": {
+            "minimum_length": 11,
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                3
+              ]
+            ]
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 19,
+            "minimum_length": 7
+          },
+          "RKB": {
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                6
+              ],
+              [
+                6,
+                13
+              ],
+              [
+                7,
+                6
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                12,
+                1
+              ]
+            ],
+            "maximum_length": 12,
+            "minimum_length": 12
+          },
+          "TLC": {
+            "fishCount": [
+              [
+                10,
+                6
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                5,
+                5
+              ],
+              [
+                6,
+                16
+              ],
+              [
+                8,
+                12
+              ],
+              [
+                9,
+                13
+              ]
+            ],
+            "maximum_length": 11,
+            "minimum_length": 5
+          },
+          "BLG": {
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                13
+              ],
+              [
+                7,
+                18
+              ],
+              [
+                8,
+                15
+              ],
+              [
+                9,
+                6
+              ]
+            ],
+            "maximum_length": 9,
+            "minimum_length": 3
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                10
+              ],
+              [
+                17,
+                22
+              ],
+              [
+                18,
+                13
+              ],
+              [
+                19,
+                12
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                5,
+                4
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                3
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 53,
+            "quartileWeight": "0.2-0.5",
+            "quartileCount": "1.8-12.4",
+            "totalWeight": 4881,
+            "CPUE": "4.42",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.20",
+            "gearCount": 12,
+            "species": "TLC"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "0.08",
+            "species": "BUB",
+            "gearCount": 12,
+            "averageWeight": "0.43",
+            "quartileWeight": "0.5-1.5",
+            "totalCatch": 1,
+            "totalWeight": 195,
+            "quartileCount": "0.1-1.3"
+          },
+          {
+            "averageWeight": "2.09",
+            "species": "NOP",
+            "gearCount": 12,
+            "CPUE": "5.42",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.2-3.6",
+            "totalWeight": 61748,
+            "quartileWeight": "1.9-3.6",
+            "totalCatch": 65
+          },
+          {
+            "quartileWeight": "1.3-2.0",
+            "totalCatch": 65,
+            "quartileCount": "2.8-6.7",
+            "totalWeight": 55382,
+            "CPUE": "5.42",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.88",
+            "species": "WTS",
+            "gearCount": 12
+          },
+          {
+            "totalCatch": 41,
+            "quartileWeight": "0.1-0.3",
+            "totalWeight": 7299,
+            "quartileCount": "0.8-8.7",
+            "gear": "Standard trap nets",
+            "CPUE": "3.42",
+            "gearCount": 12,
+            "species": "BLG",
+            "averageWeight": "0.39"
+          },
+          {
+            "species": "YEP",
+            "gearCount": 12,
+            "averageWeight": "0.18",
+            "CPUE": "0.17",
+            "gear": "Standard trap nets",
+            "totalWeight": 166,
+            "quartileCount": "0.4-1.9",
+            "quartileWeight": "0.1-0.3",
+            "totalCatch": 2
+          },
+          {
+            "quartileCount": "0.3-1.0",
+            "totalWeight": 1388,
+            "totalCatch": 16,
+            "quartileWeight": "0.2-0.3",
+            "averageWeight": "0.19",
+            "species": "RKB",
+            "gearCount": 12,
+            "gear": "Standard trap nets",
+            "CPUE": "1.33"
+          },
+          {
+            "CPUE": "2.08",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.72",
+            "gearCount": 12,
+            "species": "WAE",
+            "totalCatch": 25,
+            "quartileWeight": "0.7-1.3",
+            "quartileCount": "3.1-9.8",
+            "totalWeight": 8172
+          },
+          {
+            "totalWeight": 3851,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalCatch": 13,
+            "species": "NOP",
+            "gearCount": 12,
+            "averageWeight": "0.65",
+            "CPUE": "1.08",
+            "gear": "Standard trap nets"
+          },
+          {
+            "quartileCount": "0.3-3.0",
+            "totalWeight": 13583,
+            "totalCatch": 17,
+            "quartileWeight": "1.8-2.8",
+            "averageWeight": "1.76",
+            "species": "WTS",
+            "gearCount": 12,
+            "gear": "Standard trap nets",
+            "CPUE": "1.42"
+          },
+          {
+            "averageWeight": "1.31",
+            "gearCount": 12,
+            "species": "LKW",
+            "gear": "Standard gill nets",
+            "CPUE": "1.00",
+            "quartileCount": "0.2-3.0",
+            "totalWeight": 7128,
+            "quartileWeight": "0.9-3.0",
+            "totalCatch": 12
+          },
+          {
+            "totalWeight": 486,
+            "quartileCount": "0.3-1.3",
+            "totalCatch": 2,
+            "quartileWeight": "0.5-1.4",
+            "species": "WAE",
+            "gearCount": 12,
+            "averageWeight": "0.54",
+            "CPUE": "0.17",
+            "gear": "Standard trap nets"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 13,
+            "totalWeight": 2503,
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "1.08",
+            "gearCount": 12,
+            "species": "BLG",
+            "averageWeight": "0.42"
+          },
+          {
+            "totalCatch": 7,
+            "quartileWeight": "0.1-0.3",
+            "totalWeight": 311,
+            "quartileCount": "1.9-7.1",
+            "gear": "Standard gill nets",
+            "CPUE": "0.58",
+            "gearCount": 12,
+            "species": "YEP",
+            "averageWeight": "0.10"
+          },
+          {
+            "totalCatch": 13,
+            "quartileWeight": "0.2-0.4",
+            "quartileCount": "0.5-2.2",
+            "totalWeight": 1426,
+            "gear": "Standard gill nets",
+            "CPUE": "1.08",
+            "averageWeight": "0.24",
+            "species": "RKB",
+            "gearCount": 12
+          }
+        ],
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "0.12",
+            "averageWeight": "1.00",
+            "gearCount": 8,
+            "species": "BUB",
+            "totalCatch": 1,
+            "quartileWeight": "0.5-1.5",
+            "quartileCount": "0.1-1.3",
+            "totalWeight": 1
+          },
+          {
+            "CPUE": "2.38",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "gearCount": 8,
+            "averageWeight": "1.80",
+            "totalCatch": 19,
+            "quartileWeight": "1.9-3.6",
+            "totalWeight": 34.2,
+            "quartileCount": "1.2-3.6"
+          },
+          {
+            "totalWeight": 1.5,
+            "quartileCount": "0.5-2.2",
+            "totalCatch": 7,
+            "quartileWeight": "0.2-0.4",
+            "gearCount": 8,
+            "species": "RKB",
+            "averageWeight": "0.21",
+            "gear": "Standard gill nets",
+            "CPUE": "0.88"
+          },
+          {
+            "quartileCount": "3.1-9.8",
+            "totalWeight": 12.7,
+            "totalCatch": 14,
+            "quartileWeight": "0.7-1.3",
+            "averageWeight": "0.91",
+            "species": "WAE",
+            "gearCount": 8,
+            "CPUE": "1.75",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 4,
+            "quartileWeight": "0.1-0.3",
+            "totalWeight": 0.4,
+            "quartileCount": "1.9-7.1",
+            "CPUE": "0.50",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "gearCount": 8,
+            "averageWeight": "0.10"
+          },
+          {
+            "totalCatch": 27,
+            "quartileWeight": "1.3-2.0",
+            "quartileCount": "2.8-6.7",
+            "totalWeight": 26.4,
+            "CPUE": "3.38",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.98",
+            "species": "WTS",
+            "gearCount": 8
+          },
+          {
+            "quartileCount": "1.8-12.4",
+            "totalWeight": 2,
+            "totalCatch": 13,
+            "quartileWeight": "0.2-0.5",
+            "averageWeight": "0.15",
+            "gearCount": 8,
+            "species": "TLC",
+            "gear": "Standard gill nets",
+            "CPUE": "1.62"
+          },
+          {
+            "quartileCount": "N/A",
+            "totalWeight": 5.4,
+            "totalCatch": 14,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.39",
+            "gearCount": 8,
+            "species": "BLG",
+            "gear": "Standard gill nets",
+            "CPUE": "1.75"
+          }
+        ],
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_id": "38060500",
+          "id_date": "1984-09-13",
+          "survey_id": "109046",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "One",
+          "survey_type": "Population Assessment"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1984-09-13",
+        "surveyID": "109046",
+        "narrative": "<p>The 1984 assessment showed average numbers of northern pike, sucker, bluegill, and rock bass and below average populations of cisco, perch, and walleye. One burbot was taken. Age class analysis of walleyes does not indicate any especially large year classes, but does not show low levels of walleyes from ages I-VI.</p>"
+      },
+      {
+        "lengths": {},
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "One",
+          "survey_type": "Targeted Survey",
+          "county": "Lake",
+          "wb_id": "38060500",
+          "survey_id": "-296",
+          "id_date": "2025-08-01"
+        },
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-08-01",
+        "surveyID": "-296",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected on August 1st, 2025, in two locations in Lake One, WQ1 and WQ2, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profiles from WQ1 and WQ2 respectively, the water temperature decreased below 17.2 degrees C (63.0 degrees F) at 49.3 feet and 19.9 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 43.9 feet and 15.9 feet at the time of sampling. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Lake Whitefish. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 20.2 degrees C (68.4 degrees F). TDO3 values warmer than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were unsuitable for Lake Whitefish at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates unsuitable oxythermal habitat. When adequate oxythermal habitat is unavailable, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>"
+      },
+      {
+        "narrative": "<p>Lake One is located approximately 17 miles E of Ely in the BWCAW. There is a short carry-down access located at the end of the Fernberg Road (CR18). Access can also be obtained at nearby Kawashiwi Lodge on Lake One. There are 11 designated USFS campsites surrounding the lake for overnight use. Lake One is one of the most popular entry points to the BWCAW. <br> \n <br> \nLake One has very soft and infertile water. The irregular shoreline is mostly boulder and there are few aquatic plants. The Kawishiwi River flows through Lake One. There is a rapids at the outlet that prevents upstream fish movement. <br> \n <br> \nNine gill nets and 12 trap nets were set on Lake One during the week of 6/6/16. Seven species of fish were sampled including bluegill, cisco, lake whitefish, northern pike, rock bass, walleye and white sucker. This was the first survey where no yellow perch were sampled. Two smallmouth bass were observed on spawing beds during the survey. There have been 6 previous surveys on Lake One with the most recent in 1996. <br> \n <br> \nWalleye numbers in 2016 (2.4/gill net) were below average compared to other similar lakes in the area and identical to the historic average for Lake One. The average walleye sampled was 12.7 inches long or about 5 years old which is slightly smaller than the historic average length of 14.1 inches. Walleye growth appears to be very slow on Lake One. The largest walleye sampled in 2016 was nearly 30 inches. <br> \n <br> \nBluegill numbers in 2016 (8.6/trap net) were above average compared to other similar lakes in the area and above the historical average of 7.5/trap net for Lake One. The average bluegill sampled was 7.3 inches long which is slightly larger than the historic average length of 6.9 inches. Eighteen percent of the bluegill sampled were 8 inches or larger with a maximum length recorded of 9.5 inches. <br> \n <br> \nNorthern pike numbers in 2016 (3.3/gill net) were above average compared to other similar area lakes and identical to the historic average for Lake One. The average pike sampled was19.8 inches long which is larger than the historic average length of 18.8 inches. The largest pike sampled from Lake One in 2016 was 34.5 inches long.</p>",
+        "surveyID": "12631615547933000",
+        "surveyDate": "2016-06-06",
+        "surveySubType": "Standard Survey",
+        "headerInfo": {
+          "wb_name": "One",
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "2016-06-06",
+          "survey_id": "12631615547933000",
+          "wb_id": "38060500",
+          "county": "Lake"
+        },
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.96",
+            "gearCount": 9,
+            "species": "NOP",
+            "CPUE": "3.33",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.2-3.6",
+            "totalWeight": 26632,
+            "quartileWeight": "1.9-3.6",
+            "totalCatch": 30
+          },
+          {
+            "quartileWeight": "1.3-2.0",
+            "totalCatch": 26,
+            "totalWeight": 25407,
+            "quartileCount": "2.8-6.7",
+            "gear": "Standard gill nets",
+            "CPUE": "2.89",
+            "species": "WTS",
+            "gearCount": 9,
+            "averageWeight": "2.15"
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "totalCatch": 103,
+            "totalWeight": 13058,
+            "quartileCount": "0.8-8.7",
+            "CPUE": "8.58",
+            "gear": "Standard trap nets",
+            "species": "BLG",
+            "gearCount": 12,
+            "averageWeight": "0.28"
+          },
+          {
+            "averageWeight": "0.20",
+            "gearCount": 12,
+            "species": "RKB",
+            "CPUE": "1.58",
+            "gear": "Standard trap nets",
+            "quartileCount": "0.3-1.0",
+            "totalWeight": 1683,
+            "totalCatch": 19,
+            "quartileWeight": "0.2-0.3"
+          },
+          {
+            "totalCatch": 22,
+            "quartileWeight": "0.7-1.3",
+            "totalWeight": 9899,
+            "quartileCount": "3.1-9.8",
+            "CPUE": "2.44",
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "gearCount": 9,
+            "averageWeight": "0.99"
+          },
+          {
+            "totalWeight": 19074,
+            "quartileCount": "N/A",
+            "totalCatch": 10,
+            "quartileWeight": "N/A",
+            "gearCount": 12,
+            "species": "NOP",
+            "averageWeight": "4.21",
+            "CPUE": "0.83",
+            "gear": "Standard trap nets"
+          },
+          {
+            "averageWeight": "2.73",
+            "gearCount": 12,
+            "species": "WTS",
+            "gear": "Standard trap nets",
+            "CPUE": "1.08",
+            "quartileCount": "0.3-3.0",
+            "totalWeight": 16096,
+            "quartileWeight": "1.8-2.8",
+            "totalCatch": 13
+          },
+          {
+            "species": "CIS",
+            "gearCount": 9,
+            "averageWeight": "0.17",
+            "CPUE": "3.67",
+            "gear": "Standard gill nets",
+            "totalWeight": 2568,
+            "quartileCount": "N/A",
+            "totalCatch": 33,
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 10,
+            "quartileWeight": "0.9-3.0",
+            "quartileCount": "0.2-3.0",
+            "totalWeight": 4136,
+            "gear": "Standard gill nets",
+            "CPUE": "1.11",
+            "averageWeight": "0.91",
+            "gearCount": 9,
+            "species": "LKW"
+          },
+          {
+            "quartileWeight": "0.5-1.4",
+            "totalCatch": 6,
+            "totalWeight": 1060,
+            "quartileCount": "0.3-1.3",
+            "gear": "Standard trap nets",
+            "CPUE": "0.50",
+            "gearCount": 12,
+            "species": "WAE",
+            "averageWeight": "0.39"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 3,
+            "totalWeight": 556,
+            "quartileCount": "N/A",
+            "CPUE": "0.33",
+            "gear": "Standard gill nets",
+            "gearCount": 9,
+            "species": "BLG",
+            "averageWeight": "0.41"
+          },
+          {
+            "CPUE": "1.44",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.22",
+            "species": "RKB",
+            "gearCount": 9,
+            "totalCatch": 13,
+            "quartileWeight": "0.2-0.4",
+            "quartileCount": "0.5-2.2",
+            "totalWeight": 1307
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "BLG": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                11
+              ],
+              [
+                6,
+                28
+              ],
+              [
+                7,
+                47
+              ],
+              [
+                8,
+                19
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 9
+          },
+          "WTS": {
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                7
+              ],
+              [
+                20,
+                5
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 22
+          },
+          "LKW": {
+            "minimum_length": 7,
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 9,
+            "maximum_length": 42,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                34,
+                1
+              ],
+              [
+                38,
+                1
+              ],
+              [
+                42,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "CIS": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                6,
+                7
+              ],
+              [
+                7,
+                23
+              ]
+            ],
+            "maximum_length": 12
+          },
+          "WAE": {
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                10
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 29
+          },
+          "RKB": {
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                5,
+                14
+              ],
+              [
+                6,
+                10
+              ],
+              [
+                7,
+                6
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 3
+          }
+        }
+      }
+    ],
+    "shoreLengthMiles": 31.62,
+    "littoralAcres": 449,
+    "areaAcres": 845.95,
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "lakeName": "One",
+    "officeCode": "F214",
+    "DOWNumber": "38060500"
+  },
+  "message": "Normal execution."
+}

@@ -1,0 +1,158 @@
+{
+  "result": {
+    "lakeName": "Camp",
+    "meanDepthFeet": 0,
+    "county": "Lake",
+    "averageWaterClarity": "N/A",
+    "littoralAcres": 0,
+    "DOWNumber": "38078900",
+    "shoreLengthMiles": 2.39,
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 19.8,
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "1.41",
+            "totalCatch": 14,
+            "CPUE": "3.50",
+            "species": "NOP",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "species": "WAE",
+            "totalCatch": 4,
+            "averageWeight": "1.50",
+            "CPUE": "1.00",
+            "totalWeight": 6,
+            "gearCount": 4
+          },
+          {
+            "totalWeight": 0.2,
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.07",
+            "totalCatch": 3,
+            "CPUE": "0.75",
+            "quartileCount": "N/A",
+            "species": "YEP"
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "TPM",
+            "CPUE": "0.50",
+            "totalCatch": 2,
+            "averageWeight": "0.10",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "totalWeight": 0.2
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "averageWeight": "0.10",
+            "quartileCount": "N/A",
+            "species": "PMK",
+            "totalWeight": 0.1,
+            "gearCount": 4
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Camp",
+          "wb_alt_name": "",
+          "id_date": "1986-07-30",
+          "wb_type": "Lake",
+          "wb_id": "38078900",
+          "survey_id": "108323",
+          "county": "Lake",
+          "survey_type": "Population Assessment"
+        },
+        "surveyDate": "1986-07-30",
+        "surveyID": "108323",
+        "narrative": "<p>Northern pike are present in above average numbers, yellow perch and walleye are present in below average numbers. Tadpole madtom and pumpkinseed sunfish are also present. White sucker and golden shiner were observed in the 1980 survey, but not captured in this assessment. Reported by local residents. Walleye growth appears fast; all four walleye captured were from the 1983 year class. Good survival of the 1983 stockings may have suppressed the subsequent stocking in 1984; no members of this year's class were captured.</p>",
+        "lengths": {},
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyID": "108070",
+        "surveyDate": "1980-07-21",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "county": "Lake",
+          "survey_id": "108070",
+          "wb_id": "38078900",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Camp",
+          "id_date": "1980-07-21"
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "totalWeight": 38.5,
+            "quartileCount": "N/A",
+            "species": "NOP",
+            "CPUE": "4.75",
+            "totalCatch": 19,
+            "averageWeight": "2.03",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalWeight": 0.2,
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "averageWeight": "0.20",
+            "species": "YEP",
+            "quartileCount": "N/A"
+          },
+          {
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "CPUE": "1.50",
+            "totalCatch": 6,
+            "averageWeight": "1.27",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "totalWeight": 7.6
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "narrative": "<p>Composed of an above average population of northern pike, and below average populations of suckers and perch.</p>",
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "areaAcres": 75.64,
+    "waterClarity": [],
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "NO DESIGNATED PUBLIC ACCESS.",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " "
+      }
+    ],
+    "officeCode": "F214",
+    "maxDepthFeet": 31
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285577
+}

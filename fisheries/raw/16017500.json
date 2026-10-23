@@ -1,0 +1,385 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285707,
+  "message": "Normal execution.",
+  "result": {
+    "shoreLengthMiles": 3.17,
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "location": "NONE",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "sampledPlants": [],
+    "areaAcres": 133.06,
+    "DOWNumber": "16017500",
+    "averageWaterClarity": "5.0",
+    "lakeAltName": "Lower Trout (PWI)",
+    "maxDepthFeet": 6,
+    "meanDepthFeet": 3,
+    "waterClarity": [
+      [
+        "07/29/2024",
+        "5"
+      ]
+    ],
+    "lakeName": "Bower Trout",
+    "county": "Cook",
+    "surveys": [
+      {
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1989-07-06",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "3.33",
+            "totalCatch": 10,
+            "quartileCount": "3.0-9.0",
+            "quartileWeight": "1.2-2.5",
+            "species": "NOP",
+            "gearCount": 3,
+            "totalWeight": 11.5,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.15"
+          },
+          {
+            "CPUE": "1.33",
+            "quartileCount": "0.3-1.5",
+            "totalCatch": 4,
+            "gearCount": 3,
+            "quartileWeight": "0.6-1.6",
+            "species": "SMB",
+            "averageWeight": "1.62",
+            "gear": "Standard gill nets",
+            "totalWeight": 6.5
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 9.75,
+            "averageWeight": "1.22",
+            "quartileWeight": "0.7-1.8",
+            "species": "WAE",
+            "gearCount": 3,
+            "totalCatch": 8,
+            "quartileCount": "2.3-9.6",
+            "CPUE": "2.67"
+          },
+          {
+            "CPUE": "5.67",
+            "quartileCount": "3.3-18.3",
+            "totalCatch": 17,
+            "gearCount": 3,
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "averageWeight": "0.23",
+            "totalWeight": 3.87,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "5.3-22.1",
+            "totalCatch": 48,
+            "CPUE": "16.00",
+            "averageWeight": "2.89",
+            "gear": "Standard gill nets",
+            "totalWeight": 138.5,
+            "gearCount": 3,
+            "species": "WTS",
+            "quartileWeight": "1.3-2.3"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "narrative": "<p>THE WALLEYE CPUE WAS CONSIDERABLY LOWER IN 1989 THAN IN 1977 OR 1970. HOWEVER, BECAUSE OF THE SMALL NUMBER OF GILLNETS USED, THIS MAY NOT INDI- CATE A SIGNIFICANT DECLINE IN WALLEYE ABUNDANCE. SEVERAL WALLEYE YEAR CLASSES WERE PRESENT, BUT NONE WERE STRONG. NO WALLEYE UNDER 12 INCHES IN LENGTH OR 3 YEARS OF AGE WERE SAMPLED. THIS MAY INDICATE POOR REPRODUCTION OR RECRUITMENT IN THE PAST FEW YEARS. WALLEYE GROWTH WAS GOOD BY COOK COUNTY STANDARDS. SMALLMOUTH BASS WERE SAMPLED FOR THE FIRST TIME IN THIS ASSESSMENT. THEY WERE PRESENT IN SUFFI- CIENT NUMBERS AND SIZE TO PROVIDE A FISHERY. SMALLMOUTH BASS GROWTH WAS FAST BY  COOK COUNTY STANDARDS.</p>",
+        "lengths": {},
+        "headerInfo": {
+          "survey_id": "110110",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "Lower Trout (PWI)",
+          "id_date": "1989-07-06",
+          "wb_name": "Bower Trout",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_id": "16017500"
+        },
+        "surveyID": "110110"
+      },
+      {
+        "headerInfo": {
+          "id_date": "2024-07-29",
+          "wb_alt_name": "Lower Trout (PWI)",
+          "survey_id": "22222504153435253",
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "wb_id": "16017500",
+          "wb_name": "Bower Trout",
+          "county": "Cook"
+        },
+        "surveyID": "22222504153435253",
+        "lengths": {
+          "WAE": {
+            "minimum_length": 15,
+            "fishCount": [
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                23,
+                1
+              ]
+            ],
+            "maximum_length": 23
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 10
+          },
+          "NOP": {
+            "maximum_length": 27,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                14
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                6
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                27,
+                1
+              ]
+            ],
+            "minimum_length": 12
+          },
+          "WTS": {
+            "minimum_length": 8,
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                9
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "PMK": {
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                5
+              ],
+              [
+                5,
+                1
+              ]
+            ],
+            "maximum_length": 5
+          }
+        },
+        "narrative": "<p>Bower Trout Lake is a small, 133-acre lake with a maximum depth of 6 ft and is primarily managed for northern pike. Bower Trout Lake lies entirely within the Boundary Waters Canoe Area Wilderness (BWACW) and is a part of the Lake Superior North watershed. Access to the lake is by a short 45 rod portage from BWCAW entry point #43. In 2024, a standard survey was conducted using gillnets and minnow traps to assess the current fish community last surveyed in 1989.  <br> \n <br> \nThe northern pike catch rate was significantly higher than previous surveys and above average compared to other area lakes. Northern pike ranged from 12.7 to 28.0 inches, but most fish were less than 21.0 inches. Anglers should expect good numbers of small \"hammer handle\" sized northern pike.  <br> \n <br> \nWalleye abundance remained low within Bower Trout Lake. Only six walleye were caught and lengths ranged from 15.8 to 23.8 inches, with an average of 18.3 inches. Anglers should expect below average fishing for walleye. <br> \n <br> \nSmallmouth bass catch rates remain low; however, they are not sampled well using standard gillnets and likely higher than what was caught during the survey. Smallmouth bass lengths ranged from 10.4 to 20.1 inches and provide an occasional opportunity to catch a trophy sized fish.  <br> \n <br> \nAverage numbers of white suckers were caught in gillnets during the survey with most white suckers being too large for northern pike to consume. Small bluegill, pumpkinseed and yellow perch were captured in minnow traps and indicate the presence of an additional forage species within the lake at low abundance. <br> \n <br> \nMinnesota Lakes within Cook County continue to be susceptible to aquatic invasive species introductions. Invasive species have the potential to significantly alter fish communities and overall lake health. Anglers should clean watercraft and fishing gear, drain all water, and dispose of unused bait in the trash to prevent accidental introductions to these pristine waters within this part of the state.  <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2024-07-29",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 38,
+            "quartileCount": "3.0-9.0",
+            "CPUE": "12.67",
+            "totalWeight": 27828,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.61",
+            "species": "NOP",
+            "quartileWeight": "1.2-2.5",
+            "gearCount": 3
+          },
+          {
+            "CPUE": "9.67",
+            "quartileCount": "5.3-22.1",
+            "totalCatch": 29,
+            "gearCount": 3,
+            "species": "WTS",
+            "quartileWeight": "1.3-2.3",
+            "averageWeight": "2.49",
+            "totalWeight": 32708,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Minnow traps",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A",
+            "species": "PMK",
+            "gearCount": 8,
+            "totalCatch": 16,
+            "quartileCount": "N/A",
+            "CPUE": "2.00"
+          },
+          {
+            "CPUE": "0.12",
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "species": "SMB",
+            "quartileWeight": "N/A",
+            "gearCount": 8,
+            "gear": "Minnow traps",
+            "totalWeight": 0,
+            "averageWeight": "0.00"
+          },
+          {
+            "averageWeight": "2.25",
+            "gear": "Standard gill nets",
+            "totalWeight": 6121,
+            "gearCount": 3,
+            "species": "WAE",
+            "quartileWeight": "0.7-1.8",
+            "quartileCount": "2.3-9.6",
+            "totalCatch": 6,
+            "CPUE": "2.00"
+          },
+          {
+            "quartileCount": "N/A",
+            "totalCatch": 6,
+            "CPUE": "2.00",
+            "averageWeight": "0.08",
+            "totalWeight": 206,
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "species": "PMK",
+            "quartileWeight": "N/A"
+          },
+          {
+            "CPUE": "2.00",
+            "quartileCount": "0.3-1.5",
+            "totalCatch": 6,
+            "gearCount": 3,
+            "quartileWeight": "0.6-1.6",
+            "species": "SMB",
+            "averageWeight": "1.65",
+            "gear": "Standard gill nets",
+            "totalWeight": 4490
+          },
+          {
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "totalWeight": 0,
+            "gearCount": 8,
+            "quartileWeight": "N/A",
+            "species": "BLG",
+            "quartileCount": "N/A",
+            "totalCatch": 47,
+            "CPUE": "5.88"
+          },
+          {
+            "CPUE": "1.88",
+            "totalCatch": 15,
+            "quartileCount": "N/A",
+            "species": "YEP",
+            "quartileWeight": "N/A",
+            "gearCount": 8,
+            "gear": "Minnow traps",
+            "totalWeight": 0,
+            "averageWeight": "0.00"
+          }
+        ],
+        "surveySubType": "Standard Survey"
+      }
+    ],
+    "officeCode": "F218",
+    "littoralAcres": 133.06
+  }
+}

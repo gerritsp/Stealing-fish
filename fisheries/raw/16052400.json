@@ -1,0 +1,843 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285730,
+  "result": {
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveySubType": "Standard Survey",
+        "lengths": {
+          "BUB": {
+            "maximum_length": 16,
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                28,
+                2
+              ]
+            ],
+            "minimum_length": 19,
+            "maximum_length": 28
+          },
+          "LAT": {
+            "maximum_length": 17,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 19,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                7
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                13
+              ],
+              [
+                18,
+                10
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                5
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.70",
+            "totalCatch": 52,
+            "gearCount": 6,
+            "CPUE": "8.67",
+            "totalWeight": 40072,
+            "species": "WTS",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets"
+          },
+          {
+            "gearCount": 3,
+            "CPUE": "13.33",
+            "totalCatch": 40,
+            "averageWeight": "0.00",
+            "quartileCount": "N/A",
+            "gear": "15-ft beach seine",
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "species": "BND"
+          },
+          {
+            "averageWeight": "3.30",
+            "totalCatch": 4,
+            "gearCount": 3,
+            "CPUE": "1.33",
+            "totalWeight": 5990,
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalWeight": 0,
+            "species": "JND",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "15-ft beach seine",
+            "averageWeight": "0.00",
+            "totalCatch": 4,
+            "gearCount": 3,
+            "CPUE": "1.33"
+          },
+          {
+            "totalCatch": 4,
+            "averageWeight": "0.63",
+            "gearCount": 6,
+            "CPUE": "0.67",
+            "totalWeight": 1135,
+            "species": "BUB",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "species": "LAT",
+            "totalWeight": 1512,
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "averageWeight": "0.83",
+            "totalCatch": 4,
+            "CPUE": "0.67",
+            "gearCount": 6
+          },
+          {
+            "totalCatch": 13,
+            "averageWeight": "1.37",
+            "gearCount": 3,
+            "CPUE": "4.33",
+            "totalWeight": 8053,
+            "species": "WTS",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "species": "NOP",
+            "totalWeight": 9085,
+            "CPUE": "1.00",
+            "gearCount": 6,
+            "totalCatch": 6,
+            "averageWeight": "3.34"
+          }
+        ],
+        "headerInfo": {
+          "id_date": "2016-09-12",
+          "wb_name": "Cherokee",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Standard Survey",
+          "survey_id": "12911631251499000",
+          "wb_id": "16052400"
+        },
+        "narrative": "<p>Cherokee is a deep, cold-water, native Lake Trout lake.  Although it has been managed primarily for Lake Trout, it also supports a Northern Pike population capable of producing some higher quality fish.  Because the lake is large and remote, it has been difficult to complete scheduled surveys; the last was done in 1999.  This was the first of two standard surveys scheduled in the current (2015) lake management plan to monitor Lake Trout abundance and determine growth rates, and age and size at maturity, for the species.  Past surveys of this lake have never taken large numbers of Lake Trout, so the goal in the current plan (a minimum gill net catch of 0.8 fish/net, deep and shallow combined) was not ambitious.  No goals have been established for the Northern Pike population in this lake. <br> \n <br> \nLake Trout numbers were low in Cherokee Lake in 2016, and no larger fish were taken.  The combined (deep and shallow) Lake Trout gill net catch in 2016 (0.44 fish/net) fell short of the current long range goal, and therefore also fell below the normal range for lakes of this type.  However, the catch was similar to all previous catches in this lake, and seemed to indicate Lake Trout continued to maintain a small population similar to what has been seen in the past.   Too few Lake Trout were sampled to allow their size, growth, or age at maturity to be described with any confidence.  None of the four Lake Trout sampled were mature fish.  Temperature-oxygen conditions measured during this survey showed conditions suitable for Lake Trout (water temperature < 55 F, dissolved oxygen > 5.0 ppm) at depths of about 24 to at least 100 ft (the deepest tested). <br> \n <br> \nFair numbers of Northern Pike, in above-average sizes, were present in 2016.  The Northern Pike gill net catch (deep and shallow combined) was the highest observed to date in this lake, although it still fell within the normal range for a lake like this.  Northern Pike lengths ranged from 19.6 to 29.0 inches, with over half the fish taken exceeding 24 inches.  Six year classes contributed to the catch, although none seemed to have been exceptionally strong.  At early ages, Northern Pike growth had been close to average.  Fish reached a mean length of 19.1 inches at the end of their third year, compared to an area mean of 19.9 inches. <br> \n <br> \nNo other gamefish species has ever been sampled in Cherokee Lake.  Walleye and Smallmouth Bass are not native to this part of the state, and neither species has been stocked in, or otherwise made it to, this lake.  Neither species is considered desirable in native Lake Trout lakes in this area.   <br> \n <br> \nWhite Sucker seemed to have been abundant in 2016, and most were found in deep waters usually considered more suitable for Lake Trout.  Many of the White Sucker sampled were small enough to have been taken by most of the Northern Pike seen in this survey, although they would have been too large for most of the Lake Trout sampled.  With Yellow Perch seemingly scarce, White Sucker may have been the primary forage species for Northern Pike in this lake. <br> \n <br> \nBurbot and Yellow Perch have also been sampled in this lake in past surveys.  No Yellow Perch were taken in 2016, but a few were no doubt still present.  The Burbot gill net catch was similar to catches seen in this lake in the past; all were too small to have been of much interest to anglers.  Seining done as part of this survey added Johnny Darter and Western Blacknose Dace to the short list of fish species known to be present in this lake.  </p>",
+        "surveyID": "12911631251499000",
+        "surveyDate": "2016-09-12"
+      },
+      {
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_id": "16052400",
+          "survey_id": "-370",
+          "id_date": "2025-08-12",
+          "wb_name": "Cherokee",
+          "county": "Cook"
+        },
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "surveyType": "Targeted Survey",
+        "surveyID": "-370",
+        "surveyDate": "2025-08-12",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Cherokee Lake on August 12th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 150.9 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 28.1 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 139.1 feet at the time of sampling. The thickness of this layer of water in the water column was 111.1 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.6 degrees C (40.3 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 and 1981 also indicated suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 1981 when the suitable oxythermal habitat layer was 53.8 feet thick. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>"
+      },
+      {
+        "narrative": "<p>The population of Lake Trout appears very marginal for a BWCAW Lake, however sampling may have been ineffective at this time of year.  Limiting factors may be spawning habitat and predation. For the amount of shallow water sampling done the N Pike population appears average, Sucker pop. hgh and the Perch population low.  Burbot appear rel. abundant.</p>",
+        "surveyDate": "1981-08-03",
+        "surveyID": "109780",
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.15",
+            "gearCount": 13,
+            "averageWeight": "0.73",
+            "totalCatch": 15,
+            "quartileWeight": "0.7-1.9",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.3",
+            "species": "BUB",
+            "totalWeight": 10.88
+          },
+          {
+            "averageWeight": "2.38",
+            "totalCatch": 2,
+            "CPUE": "0.15",
+            "gearCount": 13,
+            "species": "LAT",
+            "totalWeight": 4.75,
+            "quartileWeight": "1.2-3.1",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-4.3"
+          },
+          {
+            "species": "NOP",
+            "totalWeight": 19.75,
+            "quartileCount": "0.3-1.0",
+            "gear": "Standard gill nets",
+            "quartileWeight": "2.7-5.3",
+            "totalCatch": 10,
+            "averageWeight": "1.98",
+            "CPUE": "0.77",
+            "gearCount": 13
+          },
+          {
+            "species": "YEP",
+            "totalWeight": 0.5,
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "0.3-2.8",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.12",
+            "totalCatch": 4,
+            "CPUE": "0.31",
+            "gearCount": 13
+          },
+          {
+            "CPUE": "2.85",
+            "gearCount": 13,
+            "totalCatch": 37,
+            "averageWeight": "1.93",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-5.0",
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "totalWeight": 71.56
+          }
+        ],
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "wb_id": "16052400",
+          "survey_id": "109780",
+          "wb_name": "Cherokee",
+          "id_date": "1981-08-03",
+          "county": "Cook"
+        }
+      },
+      {
+        "surveyID": "110248",
+        "surveyDate": "1993-08-23",
+        "narrative": "<p>Cherokee Lake supported relatively small numbers of lake trout and northern pike; however, some larger fish of both species were present.  The lake also supported large numbers of burbot; however, few were large enough to be of interest to anglers.  No other gamefish were collected.  Forage for lake trout and northern pike appeared to be limited, and the high burbot population may be a further limitation on the lake trout population.</p>",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "0.38",
+            "gearCount": 8,
+            "totalCatch": 3,
+            "averageWeight": "2.05",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "species": "LAT",
+            "totalWeight": 2790
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "species": "YEP",
+            "totalWeight": 40,
+            "CPUE": "0.25",
+            "gearCount": 4,
+            "totalCatch": 1,
+            "averageWeight": "0.09"
+          },
+          {
+            "averageWeight": "0.43",
+            "totalCatch": 2,
+            "CPUE": "0.50",
+            "gearCount": 4,
+            "species": "BUB",
+            "totalWeight": 387,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "species": "NOP",
+            "totalWeight": 4350,
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalCatch": 3,
+            "averageWeight": "3.20",
+            "CPUE": "0.75",
+            "gearCount": 4
+          },
+          {
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "species": "WTS",
+            "totalWeight": 6580,
+            "CPUE": "3.25",
+            "gearCount": 4,
+            "totalCatch": 13,
+            "averageWeight": "1.12"
+          },
+          {
+            "averageWeight": "4.08",
+            "totalCatch": 2,
+            "CPUE": "0.50",
+            "gearCount": 4,
+            "species": "LAT",
+            "totalWeight": 3700,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 16,
+            "averageWeight": "0.98",
+            "gearCount": 8,
+            "CPUE": "2.00",
+            "totalWeight": 7123,
+            "species": "BUB",
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A"
+          },
+          {
+            "species": "NOP",
+            "totalWeight": 1200,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "averageWeight": "2.65",
+            "totalCatch": 1,
+            "CPUE": "0.12",
+            "gearCount": 8
+          },
+          {
+            "totalCatch": 37,
+            "averageWeight": "2.28",
+            "CPUE": "4.62",
+            "gearCount": 8,
+            "species": "WTS",
+            "totalWeight": 38200,
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "headerInfo": {
+          "county": "Cook",
+          "id_date": "1993-08-23",
+          "wb_name": "Cherokee",
+          "survey_id": "110248",
+          "wb_id": "16052400",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "WTS": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                10
+              ],
+              [
+                19,
+                12
+              ],
+              [
+                20,
+                6
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 20
+          },
+          "LAT": {
+            "maximum_length": 24,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "maximum_length": 33,
+            "minimum_length": 17,
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                33,
+                1
+              ]
+            ]
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                19,
+                2
+              ]
+            ],
+            "minimum_length": 11,
+            "maximum_length": 19
+          },
+          "YEP": {
+            "maximum_length": 6,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey"
+      },
+      {
+        "headerInfo": {
+          "county": "Cook",
+          "wb_name": "Cherokee",
+          "id_date": "1999-08-03",
+          "wb_id": "16052400",
+          "survey_id": "111055",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "wb_alt_name": ""
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "2.00",
+            "gearCount": 10,
+            "averageWeight": "2.08",
+            "totalCatch": 20,
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "totalWeight": 18825
+          },
+          {
+            "gearCount": 1,
+            "CPUE": "1.00",
+            "totalCatch": 1,
+            "averageWeight": "0.60",
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 271,
+            "species": "NOP"
+          },
+          {
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "species": "BUB",
+            "totalWeight": 5827,
+            "CPUE": "1.50",
+            "gearCount": 10,
+            "totalCatch": 15,
+            "averageWeight": "0.86"
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "species": "LAT",
+            "totalWeight": 6005,
+            "CPUE": "0.30",
+            "gearCount": 10,
+            "totalCatch": 3,
+            "averageWeight": "4.41"
+          },
+          {
+            "totalWeight": 91,
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 1,
+            "averageWeight": "0.20",
+            "gearCount": 1,
+            "CPUE": "1.00"
+          },
+          {
+            "species": "NOP",
+            "totalWeight": 6808,
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "averageWeight": "2.50",
+            "totalCatch": 6,
+            "CPUE": "0.60",
+            "gearCount": 10
+          }
+        ],
+        "lengths": {
+          "BUB": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                2
+              ]
+            ],
+            "minimum_length": 11
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                27,
+                2
+              ]
+            ],
+            "minimum_length": 14,
+            "maximum_length": 27
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                25,
+                1
+              ]
+            ],
+            "minimum_length": 14,
+            "maximum_length": 25
+          },
+          "WTS": {
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 21
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Re-Survey",
+        "surveyID": "111055",
+        "surveyDate": "1999-08-03",
+        "narrative": "<p>The lake trout catch in 1999 was very low, despite almost all the netting effort targeting lake trout habitat.  The low catch seems to be typical for this lake, although netting history is very limited (only three assessments).  Northern pike were present in fair numbers, with some fish over 25 inches.  Burbot were fairly abundant, but small, and would have been of little interest to anglers.  </p>"
+      }
+    ],
+    "county": "Cook",
+    "officeCode": "F218",
+    "littoralAcres": 87,
+    "averageWaterClarity": "12.2",
+    "shoreLengthMiles": 20.8,
+    "areaAcres": 837.01,
+    "lakeName": "Cherokee",
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "09/12/2016",
+        "15"
+      ],
+      [
+        "08/12/2025",
+        "7.7"
+      ],
+      [
+        "08/03/1981",
+        "14"
+      ]
+    ],
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "PRMIT"
+      }
+    ],
+    "DOWNumber": "16052400",
+    "maxDepthFeet": 142
+  },
+  "message": "Normal execution."
+}

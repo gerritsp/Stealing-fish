@@ -1,0 +1,78 @@
+{
+  "result": {
+    "shoreLengthMiles": 0.63,
+    "county": "Cook",
+    "meanDepthFeet": 0,
+    "littoralAcres": 8,
+    "averageWaterClarity": "9.0",
+    "DOWNumber": "16058600",
+    "waterClarity": [
+      [
+        "09/10/1978",
+        "9"
+      ]
+    ],
+    "lakeName": "East Kerfoot",
+    "sampledPlants": [],
+    "areaAcres": 12.15,
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "location": "Accessible via 0.3 mile blazed portage trail from Pine River.",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "maxDepthFeet": 26,
+    "surveys": [
+      {
+        "surveyID": "109785",
+        "headerInfo": {
+          "wb_id": "16058600",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "wb_name": "East Kerfoot",
+          "wb_alt_name": "Kerfoot",
+          "id_date": "1978-09-10",
+          "survey_id": "109785",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "1978-09-10",
+        "narrative": "<p>A good population of small Suckers and some Pumpkinseed Sunfish are present.</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 10.75,
+            "quartileWeight": "0.4-1.7",
+            "CPUE": "16.00",
+            "species": "WTS",
+            "totalCatch": 32,
+            "averageWeight": "0.34",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.0-8.9",
+            "gearCount": 2
+          },
+          {
+            "totalWeight": 0.3,
+            "quartileWeight": "N/A",
+            "CPUE": "1.50",
+            "totalCatch": 3,
+            "species": "PMK",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.10",
+            "gearCount": 2,
+            "quartileCount": "N/A"
+          }
+        ]
+      }
+    ],
+    "lakeAltName": "Kerfoot"
+  },
+  "timestamp": 1790286012,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

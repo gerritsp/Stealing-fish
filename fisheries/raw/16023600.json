@@ -1,0 +1,66 @@
+{
+  "timestamp": 1790285716,
+  "result": {
+    "DOWNumber": "16023600",
+    "lakeName": "Lac",
+    "county": "Cook",
+    "areaAcres": 60.75,
+    "littoralAcres": 44,
+    "averageWaterClarity": "5.5",
+    "surveys": [
+      {
+        "surveyDate": "1973-08-21",
+        "lengths": {},
+        "surveyID": "109683",
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "Cook",
+          "wb_name": "Lac",
+          "wb_alt_name": "",
+          "survey_id": "109683",
+          "wb_id": "16023600",
+          "survey_type": "Initial Survey",
+          "id_date": "1973-08-21",
+          "wb_type": "Lake"
+        },
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "averageWeight": "1.68",
+            "totalWeight": 62.28,
+            "quartileWeight": "1.4-2.7",
+            "CPUE": "12.33",
+            "totalCatch": 37,
+            "gearCount": 3,
+            "quartileCount": "2.0-8.5"
+          }
+        ],
+        "narrative": "<p>Lac Lake has a good population of N Pike 17.0 to 24.0 inches with Perch, a forage species, present.</p>"
+      }
+    ],
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "location": "Accessible via 30 rod portage trail from Swan Lake.",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "officeCode": "F218",
+    "shoreLengthMiles": 1.8,
+    "meanDepthFeet": 7,
+    "maxDepthFeet": 20,
+    "waterClarity": [
+      [
+        "08/21/1973",
+        "5.5"
+      ]
+    ],
+    "sampledPlants": []
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

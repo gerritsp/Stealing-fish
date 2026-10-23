@@ -1,0 +1,527 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "meanDepthFeet": 0,
+    "lakeName": "Hustler",
+    "littoralAcres": 121,
+    "maxDepthFeet": 74,
+    "averageWaterClarity": "10.6",
+    "waterClarity": [
+      [
+        "07/29/2025",
+        "9.1"
+      ],
+      [
+        "09/06/2016",
+        "12"
+      ]
+    ],
+    "DOWNumber": "69034300",
+    "areaAcres": 276.56,
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "location": " ",
+        "lakeAccessComments": "240 rod portage from Oyster Lake"
+      },
+      {
+        "location": " ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO",
+        "lakeAccessComments": "10 rod portage from Little Hustler (Ruby) Lake"
+      },
+      {
+        "lakeAccessComments": "48 rod portage from Emerald Lake",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO",
+        "location": " "
+      }
+    ],
+    "shoreLengthMiles": 7.72,
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "narrative": "<p>Gillnet indices show white sucker, northern pike, bluegill, and rock bass present in average numbers; cisco present in below average numbers. Yellow perch, Burbot and pumpkinseed sunfish were captured in 1981, but were not captured in the current assessment. Numerous yellow perch were captured in the shoreline seining, along with shiners and darters. The mean length of northern pike. </p>",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "gearCount": 8,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.6-2.4",
+            "totalCatch": 29,
+            "species": "NOP",
+            "CPUE": "3.62",
+            "averageWeight": "2.69",
+            "quartileWeight": "2.1-4.9",
+            "totalWeight": 78
+          },
+          {
+            "quartileCount": "0.4-1.2",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 0.5,
+            "species": "RKB",
+            "CPUE": "0.50",
+            "totalCatch": 4,
+            "averageWeight": "0.12",
+            "gearCount": 8
+          },
+          {
+            "gearCount": 8,
+            "quartileWeight": "1.1-2.5",
+            "totalWeight": 36,
+            "species": "WTS",
+            "CPUE": "3.62",
+            "totalCatch": 29,
+            "averageWeight": "1.24",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-5.3"
+          },
+          {
+            "quartileWeight": "0.2-1.0",
+            "totalWeight": 0.1,
+            "totalCatch": 1,
+            "species": "TLC",
+            "CPUE": "0.12",
+            "averageWeight": "0.10",
+            "gear": "Standard gill nets",
+            "quartileCount": "3.2-20.2",
+            "gearCount": 8
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "0.50",
+            "species": "BLG",
+            "totalCatch": 4,
+            "averageWeight": "0.12",
+            "quartileWeight": "N/A",
+            "totalWeight": 0.5,
+            "gearCount": 8
+          }
+        ],
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1984-08-13",
+        "surveyID": "109041",
+        "headerInfo": {
+          "id_date": "1984-08-13",
+          "county": "St. Louis",
+          "survey_type": "Re-Survey",
+          "wb_alt_name": "",
+          "survey_id": "109041",
+          "wb_name": "Hustler",
+          "wb_type": "Lake",
+          "wb_id": "69034300"
+        }
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Hustler Lake on July 29th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 70.5 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 13.2 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 56.4 feet at the time of sampling. The thickness of this layer of water in the water column was 43.2 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.6 degrees C (40.3 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates suitable oxythermal habitat. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n <br> \n</p>",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "id_date": "2025-07-29",
+          "county": "St. Louis",
+          "wb_id": "69034300",
+          "survey_id": "-363",
+          "wb_type": "Lake",
+          "wb_name": "Hustler",
+          "wb_alt_name": ""
+        },
+        "surveyDate": "2025-07-29",
+        "surveyID": "-363"
+      },
+      {
+        "narrative": "<p>Hustler Lake is in Ecological Lake Class 3, which consists of 72 lakes in northeast Minnesota that are average sized, deep, have very irregularly shaped shorelines, and have very clear and soft, infertile water.  Hustler Lake is very typical of these lakes.The water column in Hustler Lake stratifies in midsummer; there are 5 ppm oxygen to a depth of 25-50 ft at which depth the water temperature is 45-55 F, and there are 2 ppm oxygen to a depth near the bottom (74 ft) where the temperature is about 41 F.  There have been four previous biological surveys or fish population assessments on Hustler Lake, dating back to 1974.The total catch of fish in 1996 (all species combined) of 4.7 fish/gillnet was lower than normal for this lake class and lower than the long term average for this lake.  The total fish catch appears to have decreased over time, but this may be due to changes in netting locations, depths, and dates of the various surveys and assessments.   Lake Class 3 is one of the least biologically productive lake classes in northeast Minnesota.Fish populations in 1996, as in previous surveys and assessments, were dominated by northern pike and white sucker.Northern pike numbers in 1996 were normal for this lake class, but were lower than most previous assessment catches in this lake.  Pike sizes in 1996 averaged 21.5 in which is smaller than normal for this lake class, but similar to previous catches in this lake.  The largest pike caught in 1996 was 24.5 in (3.3 lb).  Most pike were age three.  Pike growth, 19.4 in at age three, was normal for the area.White sucker numbers in 1996 were normal for this lake class, but lower than in previous assessments.  Low numbers of bluegill and rock bass were captured in 1996, similar to previous assessments.  The cisco population in this lake may be substantial; cisco were caught in some previous assessments, but few of the gillnets in previous assessments and none of the gillnets in 1996 were in deep, cold water where cisco live.  Previous surveys and assessments captured yellow perch, pumpkinseed sunfish, and a variety of minnow and darter species. </p>",
+        "lengths": {
+          "NOP": {
+            "maximum_length": 24,
+            "fishCount": [
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ]
+            ],
+            "minimum_length": 19
+          },
+          "RKB": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 6
+          },
+          "BLG": {
+            "minimum_length": 4,
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "totalWeight": 7129,
+            "quartileWeight": "N/A",
+            "averageWeight": "1.05",
+            "species": "WTS",
+            "totalCatch": 15,
+            "CPUE": "2.50",
+            "gear": "Special gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "gear": "Special gill nets",
+            "totalWeight": 32,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.07",
+            "CPUE": "0.17",
+            "species": "BLG",
+            "totalCatch": 1
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Special gill nets",
+            "totalWeight": 8195,
+            "quartileWeight": "N/A",
+            "averageWeight": "2.01",
+            "species": "NOP",
+            "CPUE": "1.50",
+            "totalCatch": 9,
+            "gearCount": 6
+          },
+          {
+            "species": "RKB",
+            "CPUE": "0.50",
+            "totalCatch": 3,
+            "averageWeight": "0.14",
+            "quartileWeight": "N/A",
+            "totalWeight": 196,
+            "gear": "Special gill nets",
+            "quartileCount": "N/A",
+            "gearCount": 6
+          }
+        ],
+        "headerInfo": {
+          "wb_id": "69034300",
+          "survey_id": "109096",
+          "wb_type": "Lake",
+          "wb_name": "Hustler",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "id_date": "1996-09-09",
+          "county": "St. Louis"
+        },
+        "surveyDate": "1996-09-09",
+        "surveyID": "109096",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 8,
+            "CPUE": "1.38",
+            "species": "NOP",
+            "totalCatch": 11,
+            "averageWeight": "5.12",
+            "quartileWeight": "2.1-4.9",
+            "totalWeight": 25538,
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 8,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-1.2",
+            "totalWeight": 1064,
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.18",
+            "CPUE": "1.62",
+            "totalCatch": 13,
+            "species": "RKB"
+          },
+          {
+            "gearCount": 8,
+            "quartileWeight": "0.6-1.5",
+            "totalWeight": 5594,
+            "CPUE": "0.88",
+            "totalCatch": 7,
+            "species": "SMB",
+            "averageWeight": "1.76",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.4"
+          },
+          {
+            "gearCount": 8,
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.5",
+            "totalWeight": 9050,
+            "totalCatch": 6,
+            "CPUE": "0.75",
+            "species": "WTS",
+            "averageWeight": "3.33"
+          },
+          {
+            "gearCount": 8,
+            "totalWeight": 1258,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.10",
+            "CPUE": "3.50",
+            "species": "CIS",
+            "totalCatch": 28,
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "gearCount": 8,
+            "species": "BLG",
+            "CPUE": "0.12",
+            "totalCatch": 1,
+            "averageWeight": "0.03",
+            "quartileWeight": "N/A",
+            "totalWeight": 14,
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_type": "Standard Survey",
+          "county": "St. Louis",
+          "id_date": "2016-09-06",
+          "wb_id": "69034300",
+          "wb_name": "Hustler",
+          "wb_type": "Lake",
+          "survey_id": "12631624239788000",
+          "wb_alt_name": ""
+        },
+        "surveyID": "12631624239788000",
+        "surveyDate": "2016-09-06",
+        "narrative": "<p>Hustler Lake is located approximately 27 miles NW of Ely in the BWCAW. The most common access to this remote lake is by portage from either Oyster Lake (240 rods) or Little Hustler Lake (10 rods). There are 5 designated USFS campsites surrounding the lake for overnight use. <br> \n <br> \nResults from the 2016 survey of Hustler Lake indicate a fish community with low relative abundances. Cisco were the most common species sampled in 2016. Northern pike and smallmouth bass were also sampled. This is the first account of smallmouth sampled in Hustler Lake. <br> \n <br> \nNorthern pike numbers in 2016 (1.4/gill net) were similar to the historic average for Hustler Lake. The average pike sampled was 28 inches which is larger than the historic average length of 22.5 inches. The largest pike sampled in 2016 was just over 34 inches long. Northern pike have been sampled in every survey of Hustler Lake. <br> \n <br> \nSmallmouth bass numbers in 2016 (0.9/gill net) were average compared to other similar lakes in the area. The seven smallmouth sampled were between 13 and 18 inches long. The largest smallmouth sampled in 2016 was 13 years old. Smallmouth bass were also observed near shore in various sizes during the 2016 survey.</p>",
+        "lengths": {
+          "SMB": {
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ]
+            ],
+            "maximum_length": 17
+          },
+          "CIS": {
+            "fishCount": [
+              [
+                6,
+                15
+              ],
+              [
+                7,
+                11
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 9,
+            "minimum_length": 6
+          },
+          "WTS": {
+            "minimum_length": 18,
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "maximum_length": 21
+          },
+          "RKB": {
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                4,
+                2
+              ],
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                20,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                27,
+                3
+              ],
+              [
+                28,
+                2
+              ],
+              [
+                29,
+                2
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                34,
+                1
+              ]
+            ],
+            "maximum_length": 34,
+            "minimum_length": 20
+          },
+          "BLG": {
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ],
+            "maximum_length": 4
+          }
+        }
+      }
+    ],
+    "county": "St. Louis"
+  },
+  "timestamp": 1790286053,
+  "message": "Normal execution."
+}

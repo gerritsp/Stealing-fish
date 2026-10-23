@@ -1,0 +1,95 @@
+{
+  "timestamp": 1790285747,
+  "status": "SUCCESS",
+  "result": {
+    "lakeAltName": "Middle",
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "location": "Lake is entirely inside the BWCAW.  Access by portage trails from South Cone Lake (15 rods) and North Cone Lake.",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "shoreLengthMiles": 2.21,
+    "surveys": [
+      {
+        "lengths": {},
+        "surveyID": "110031",
+        "narrative": "<p>WALLEYE ARE PRESENT IN LOW NUMBERS AND FAIR AVERAGE SIZE. ONLY THREE YEAR CLASSES WERE REPRESENTED IN THIS SAMPLE, INDICATING SPORADIC NATURAL REPRODUCTION. THE 1986 STOCKING HAS NOT YET RECRUITED TO THE SAMPLING GEAR. WALLEYE GROWTH APPEARS GOOD (SLIGHTLY BELOW STATE AVERAGE) BUT AGING SAMPLES WERE TOO SMALL FOR RESULTS TO HAVE MUCH SIGNIFICANCE. SMALLMOUTH BASS NUMBERS ARE GOOD, WITH EXCELLENT AVERAGE SIZE. NORTHERN PIKE AND WHITE SUCKER ARE PRESENT IN LOW NUMBERS.</p>",
+        "surveyDate": "1987-07-27",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "CPUE": "0.50",
+            "quartileWeight": "1.4-2.2",
+            "totalWeight": 3.75,
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "quartileCount": "2.3-5.1",
+            "averageWeight": "1.88"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 7,
+            "totalWeight": 14.25,
+            "quartileWeight": "0.5-1.5",
+            "CPUE": "1.75",
+            "gearCount": 4,
+            "averageWeight": "2.04",
+            "species": "SMB",
+            "quartileCount": "1.0-4.1"
+          },
+          {
+            "quartileWeight": "0.9-2.0",
+            "gearCount": 4,
+            "CPUE": "1.25",
+            "gear": "Standard gill nets",
+            "totalWeight": 6.75,
+            "totalCatch": 5,
+            "averageWeight": "1.35",
+            "quartileCount": "1.0-7.1",
+            "species": "WAE"
+          },
+          {
+            "totalWeight": 20.5,
+            "totalCatch": 7,
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "CPUE": "1.75",
+            "quartileWeight": "0.7-2.3",
+            "quartileCount": "1.7-12.5",
+            "species": "WTS",
+            "averageWeight": "2.93"
+          }
+        ],
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "16039100",
+          "wb_alt_name": "Middle",
+          "wb_name": "Mid Cone",
+          "survey_id": "110031",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "id_date": "1987-07-27"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "officeCode": "F218",
+    "littoralAcres": 37,
+    "averageWaterClarity": "N/A",
+    "waterClarity": [],
+    "DOWNumber": "16039100",
+    "areaAcres": 70.71,
+    "meanDepthFeet": 15,
+    "sampledPlants": [],
+    "lakeName": "Mid Cone",
+    "maxDepthFeet": 30,
+    "county": "Cook"
+  },
+  "message": "Normal execution."
+}

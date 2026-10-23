@@ -1,0 +1,603 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "lakeName": "North",
+    "county": "Cook",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "2.00",
+            "quartileWeight": "1.2-3.1",
+            "averageWeight": "1.75",
+            "totalCatch": 24,
+            "gearCount": 12,
+            "species": "LAT",
+            "quartileCount": "0.8-4.3",
+            "totalWeight": 41.9,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "2.7-5.3",
+            "CPUE": "0.83",
+            "totalCatch": 10,
+            "averageWeight": "3.05",
+            "species": "NOP",
+            "gearCount": 12,
+            "quartileCount": "0.3-1.0",
+            "gear": "Standard gill nets",
+            "totalWeight": 30.5
+          },
+          {
+            "quartileCount": "0.3-2.2",
+            "species": "SMB",
+            "gearCount": 12,
+            "totalCatch": 10,
+            "averageWeight": "1.11",
+            "quartileWeight": "0.7-1.4",
+            "CPUE": "0.83",
+            "totalWeight": 11.1,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 202.95,
+            "quartileWeight": "1.1-3.3",
+            "CPUE": "5.25",
+            "averageWeight": "3.22",
+            "totalCatch": 63,
+            "species": "WAE",
+            "gearCount": 12,
+            "quartileCount": "0.6-9.7"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 0.35,
+            "species": "YEP",
+            "gearCount": 12,
+            "quartileCount": "0.3-2.8",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "0.25",
+            "totalCatch": 3,
+            "averageWeight": "0.12"
+          },
+          {
+            "CPUE": "6.00",
+            "quartileWeight": "1.6-2.4",
+            "averageWeight": "2.09",
+            "totalCatch": 72,
+            "species": "WTS",
+            "gearCount": 12,
+            "quartileCount": "1.7-5.0",
+            "gear": "Standard gill nets",
+            "totalWeight": 150.75
+          },
+          {
+            "totalCatch": 16,
+            "averageWeight": "0.23",
+            "CPUE": "1.33",
+            "quartileWeight": "0.1-0.7",
+            "quartileCount": "1.4-17.4",
+            "gearCount": 12,
+            "species": "TLC",
+            "totalWeight": 3.65,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>COMPARISON WITH THE 1978 SURVEY IS NOT POSSIBLE SINCE IT WAS DONE BY MNR OF ONTARIO. LAKE TROUT AND WALLEYE ABUNDANCE, GROWTH RATE AND SIZE RANGE ALL APPEAR GOOD. THE NORTHERN CISCO APPEAR TO BE THE DWARF VARIETY. BURBOT WERE FOUND IN THE MNR SAMPLING.</p>",
+        "surveyDate": "1983-09-19",
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_name": "North",
+          "survey_id": "109898",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_alt_name": "Little North",
+          "id_date": "1983-09-19",
+          "wb_id": "16033100"
+        },
+        "surveyID": "109898"
+      },
+      {
+        "lengths": {
+          "NOP": {
+            "maximum_length": 31,
+            "fishCount": [
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                4
+              ],
+              [
+                31,
+                1
+              ]
+            ],
+            "minimum_length": 22
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                13
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                3,
+                1
+              ]
+            ],
+            "minimum_length": 3,
+            "maximum_length": 21
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                1,
+                3
+              ],
+              [
+                2,
+                15
+              ],
+              [
+                3,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ]
+            ],
+            "minimum_length": 1,
+            "maximum_length": 17
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                5
+              ],
+              [
+                21,
+                7
+              ],
+              [
+                22,
+                8
+              ],
+              [
+                23,
+                4
+              ],
+              [
+                24,
+                3
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 27
+          },
+          "YEP": {
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                1,
+                5
+              ],
+              [
+                2,
+                15
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 1
+          },
+          "TLC": {
+            "maximum_length": 9,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                7,
+                8
+              ],
+              [
+                8,
+                23
+              ],
+              [
+                9,
+                7
+              ]
+            ]
+          },
+          "WAE": {
+            "minimum_length": 14,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                30,
+                1
+              ]
+            ],
+            "maximum_length": 30
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                1
+              ]
+            ],
+            "minimum_length": 14,
+            "maximum_length": 16
+          }
+        },
+        "surveyID": "110547",
+        "headerInfo": {
+          "id_date": "1995-07-30",
+          "wb_id": "16033100",
+          "county": "Cook",
+          "wb_alt_name": "Little North",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "wb_name": "North",
+          "survey_id": "110547"
+        },
+        "surveySubType": "Re-Survey",
+        "surveyDate": "1995-07-30",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 61032,
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "7.83",
+            "averageWeight": "2.86",
+            "totalCatch": 47,
+            "species": "LAT",
+            "gearCount": 6,
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "1.33",
+            "quartileWeight": "N/A",
+            "totalCatch": 16,
+            "averageWeight": "0.00",
+            "gearCount": 12,
+            "species": "SPO",
+            "quartileCount": "N/A",
+            "gear": "1/4-in trap nets",
+            "totalWeight": 0
+          },
+          {
+            "totalWeight": 0,
+            "gear": "1/4-in trap nets",
+            "species": "YEP",
+            "gearCount": 12,
+            "quartileCount": "N/A",
+            "CPUE": "1.67",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00",
+            "totalCatch": 20
+          },
+          {
+            "totalWeight": 544,
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "species": "YEP",
+            "gearCount": 6,
+            "averageWeight": "0.13",
+            "totalCatch": 9,
+            "CPUE": "1.50",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "SCU",
+            "gearCount": 12,
+            "totalCatch": 1,
+            "averageWeight": "0.00",
+            "CPUE": "0.08",
+            "quartileWeight": "N/A",
+            "gear": "1/4-in trap nets",
+            "totalWeight": 0
+          },
+          {
+            "gear": "Shallow gill nets",
+            "totalWeight": 15273,
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "species": "NOP",
+            "totalCatch": 9,
+            "averageWeight": "3.74",
+            "quartileWeight": "N/A",
+            "CPUE": "1.50"
+          },
+          {
+            "totalWeight": 0,
+            "gear": "1/4-in trap nets",
+            "gearCount": 12,
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "CPUE": "0.08",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00",
+            "totalCatch": 1
+          },
+          {
+            "gear": "Shallow gill nets",
+            "totalWeight": 22597,
+            "totalCatch": 20,
+            "averageWeight": "2.49",
+            "CPUE": "3.33",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "species": "WTS"
+          },
+          {
+            "gear": "Deep gill nets",
+            "totalWeight": 810,
+            "totalCatch": 2,
+            "averageWeight": "0.89",
+            "quartileWeight": "N/A",
+            "CPUE": "0.33",
+            "quartileCount": "N/A",
+            "species": "BUB",
+            "gearCount": 6
+          },
+          {
+            "totalWeight": 30379,
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "species": "WAE",
+            "gearCount": 6,
+            "totalCatch": 15,
+            "averageWeight": "4.46",
+            "quartileWeight": "N/A",
+            "CPUE": "2.50"
+          },
+          {
+            "totalWeight": 2843,
+            "gear": "Deep gill nets",
+            "species": "TLC",
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "CPUE": "6.33",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.16",
+            "totalCatch": 38
+          },
+          {
+            "quartileCount": "N/A",
+            "gearCount": 12,
+            "species": "SMB",
+            "averageWeight": "0.03",
+            "totalCatch": 25,
+            "quartileWeight": "N/A",
+            "CPUE": "2.08",
+            "gear": "1/4-in trap nets",
+            "totalWeight": 395
+          },
+          {
+            "totalWeight": 4270,
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "species": "SMB",
+            "averageWeight": "1.57",
+            "totalCatch": 6,
+            "CPUE": "1.00",
+            "quartileWeight": "N/A"
+          },
+          {
+            "species": "WTS",
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "1.50",
+            "averageWeight": "2.71",
+            "totalCatch": 9,
+            "totalWeight": 11049,
+            "gear": "Deep gill nets"
+          }
+        ],
+        "narrative": "<p>Lake trout were abundant, fast-growing, and good-sized, with most of the lake trout collected larger than 20 inches.  Lake trout were apparently feeding on Mysis and small northern cisco.  Lake trout natural reproduction appeared to be consistently good - there were no weak or missing year classes.  Walleye were present in fair numbers, and fish as large as 30 inches were collected; however, only the 1991 year class appeared to have been very strong, and several year classes were weak or missing.  Walleye growth was also fast.  Fair numbers of large northern pike and smallmouth bass were also collected.  No rainbow smelt were found, despite their presence in nearby Gunflint Lake.Survey data collected indicated that North Lake was one of the more productive Class 1 lakes in Cook County.  Total alkalinity was relatively high, and vegetation was fairly abundant for a lake of this class.  </p>",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "waterClarity": [],
+    "areaAcres": 2349.26,
+    "lakeAltName": "Little North",
+    "accesses": [
+      {
+        "location": "Navigable waterway from Gunflint Lake; USFS-owned public access on Gunflint Lake.",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "DNR",
+        "accessTypeId": "C",
+        "publicUseAuthCode": "OPEN"
+      }
+    ],
+    "shoreLengthMiles": 26.2,
+    "DOWNumber": "16033100",
+    "littoralAcres": 485,
+    "maxDepthFeet": 125,
+    "averageWaterClarity": "N/A",
+    "officeCode": "F218",
+    "sampledPlants": []
+  },
+  "timestamp": 1790286011
+}

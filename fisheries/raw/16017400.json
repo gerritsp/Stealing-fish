@@ -1,0 +1,1341 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285734,
+  "result": {
+    "littoralAcres": 28.1,
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "16017400",
+          "wb_alt_name": "",
+          "wb_name": "Ram",
+          "survey_id": "22222505536720042",
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "2024-06-10"
+        },
+        "surveySubType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 10,
+            "CPUE": "5.00",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.95",
+            "gearCount": 2,
+            "species": "WTS",
+            "totalWeight": 4298
+          },
+          {
+            "species": "LAT",
+            "gearCount": 2,
+            "averageWeight": "1.41",
+            "quartileWeight": "N/A",
+            "totalWeight": 7048,
+            "CPUE": "5.50",
+            "totalCatch": 11,
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets"
+          },
+          {
+            "CPUE": "6.00",
+            "totalCatch": 12,
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "species": "LAT",
+            "gearCount": 2,
+            "averageWeight": "2.87",
+            "quartileWeight": "N/A",
+            "totalWeight": 15605
+          },
+          {
+            "totalWeight": 1645,
+            "gearCount": 2,
+            "species": "RBT",
+            "quartileWeight": "N/A",
+            "averageWeight": "3.63",
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.50"
+          },
+          {
+            "averageWeight": "0.76",
+            "quartileWeight": "N/A",
+            "species": "WTS",
+            "gearCount": 2,
+            "totalWeight": 4502,
+            "totalCatch": 13,
+            "CPUE": "6.50",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A"
+          }
+        ],
+        "lengths": {
+          "WTS": {
+            "maximum_length": 18,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                5
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                4
+              ]
+            ]
+          },
+          "RBT": {
+            "fishCount": [
+              [
+                20,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 20
+          },
+          "LAT": {
+            "minimum_length": 12,
+            "maximum_length": 31,
+            "fishCount": [
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                31,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyDate": "2024-06-10",
+        "narrative": "<p>Ram Lake is a small, 68-acre lake with a maximum depth of 40 feet and is primarily managed for lake trout. Ram Lake lies entirely within the Boundary Waters Canoe Area Wilderness (BWCAW) and is a part of the Lake Superior North watershed. Access to the lake is moderate via a 0.3-mile hike from entry point #44 off Forest Road 152. Ram Lake is currently stocked with 3,000 rainbow trout fingerlings in even-numbered years. In 2024, a standard survey was conducted to assess the current fish community and success of rainbow trout stocking. <br> \n <br> \nLake trout are the primary management species in Ram Lake and results from the 2024 survey indicated a healthy, naturally reproducing population. Catch rates were slightly down from previous surveys at 5.8 fish/net, but near the long-term average for the lake. Lake trout lengths ranged from 12.5 to 31.5 inches and averaged 19.4 inches. A total of twenty-three fish were caught during the survey and 27% of exceeded 20.0 inches, indicating quality sized fish were present in the lake. Aging results revealed multiple naturally reproduced age classes, with five-year-old fish averaging 15.0 inches. Lake trout growth was average for the Grand Marais area and continue to meet abundance and size goals in Ram Lake. Anglers looking to target lake trout within Ram Lake can expect high catch rates along with a quality sized fish.  <br> \n <br> \nRainbow trout are the secondary management species in Ram Lake and catches have historically been variable. Only one fish was caught during the 2024 survey and the catch did not meet management goals. The fish measured 20.8 inches and aged at four years old, indicating that it was from the 2020 stocking event. Anglers looking target to Rainbow Trout should not expect high catch rates, but rather the opportunity to catch a trophy caliber fish.  <br> \n <br> \nMinnesota Lakes within Cook County continue to be susceptible to aquatic invasive species introductions. Invasive species have the potential to significantly alter fish communities and overall lake health. Anglers should clean watercraft and fishing gear, drain all water, and dispose of unused bait in the trash to prevent accidental introductions to these pristine waters within this part of the state.  <br> \n</p>",
+        "surveyID": "22222505536720042"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "id_date": "1993-06-14",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_name": "Ram",
+          "survey_id": "110240",
+          "wb_id": "16017400",
+          "wb_alt_name": ""
+        },
+        "narrative": "<p>Lake trout were abundant but small - most were two-year-old fish, probably from the 1991 stocking.  Lake trout growth was fast.  Some rainbow trout were present, and had reached a quality size.  Rainbow trout growth was also fairly fast.</p>",
+        "surveyID": "110240",
+        "surveyDate": "1993-06-14",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "averageWeight": "0.64",
+            "species": "WTS",
+            "gearCount": 2,
+            "totalWeight": 1735,
+            "totalCatch": 6,
+            "CPUE": "3.00",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "averageWeight": "0.87",
+            "species": "LAT",
+            "gearCount": 4,
+            "totalWeight": 5538,
+            "totalCatch": 14,
+            "CPUE": "3.50",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 3,
+            "CPUE": "0.75",
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "gearCount": 4,
+            "species": "RBT",
+            "quartileWeight": "N/A",
+            "averageWeight": "1.79",
+            "totalWeight": 2440
+          },
+          {
+            "CPUE": "8.00",
+            "totalCatch": 16,
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "gearCount": 2,
+            "species": "LAT",
+            "quartileWeight": "N/A",
+            "averageWeight": "1.03",
+            "totalWeight": 7484
+          },
+          {
+            "quartileWeight": "N/A",
+            "averageWeight": "0.88",
+            "gearCount": 4,
+            "species": "WTS",
+            "totalWeight": 13193,
+            "totalCatch": 33,
+            "CPUE": "8.25",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A"
+          }
+        ],
+        "lengths": {
+          "LAT": {
+            "fishCount": [
+              [
+                10,
+                8
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                10
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 26
+          },
+          "RBT": {
+            "fishCount": [
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ]
+            ],
+            "minimum_length": 15,
+            "maximum_length": 16
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                6,
+                9
+              ],
+              [
+                7,
+                6
+              ],
+              [
+                8,
+                6
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 20
+          }
+        },
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "id_date": "2023-08-22",
+          "county": "Cook",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "wb_name": "Ram",
+          "survey_id": "20512322951865000",
+          "wb_id": "16017400",
+          "wb_alt_name": ""
+        },
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyDate": "2023-08-22",
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Ram Lake on August 22nd, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 19 feet. Dissolved oxygen decreased to below 3.0 mg/L at 27.4 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 10.7\u00b0C (51.3\u00b0F). <br> \n <br> \nA TDO3 value warmer than 8.8\u00b0C indicates that oxythermal conditions are stressful for Lake Trout. Low dissolved oxygen concentrations (less than 3 mg/L) near the thermocline and warm surface temperatures would limit Lake Trout distributions within the water column. Data collected in 1956 and 1999 further indicate marginal oxythermal habitat, with the least favorable conditions recorded in 1999. When inadequate oxythermal habitat is available, these species are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyID": "20512322951865000"
+      },
+      {
+        "surveyDate": "2016-06-06",
+        "narrative": "<p>Ram is a designated stream trout lake that has been managed for Lake Trout and Rainbow Trout since it was reclaimed with a fish toxicant in 1966.  Lake Trout stocking was discontinued after 2011 due to strong evidence for sufficient natural reproduction.  This survey was the first of two scheduled in the 2011 lake management plan to determine whether the long range goal for Lake Trout (a minimum gill net catch of 2.0 fish/gill net set, with fish up to 20 inches) could be met without stocking. <br> \n <br> \nLake Trout appeared to have been abundant in 2016; the gill net catch (6.75 fish/net, deep and shallow sets combined) was well above the normal range (1.0-4.5 fish/net) for a lake of this type.  The 2016 catch easily exceeded the long range goal for Lake Trout in this lake, in terms of numbers of fish taken, and the size goal was also met by the capture of three fish larger than 20 inches.  Of the 27 Lake Trout taken in 2016, only seven bore fin clips identifying them as stocked fish (five from the 2011 stocking, and two from the 2009 stocking).  Long range goals for Lake Trout in this lake (catch and size) would have been met in 2016 even if no stocked fish had been taken.  Reasonably strong natural year classes were apparently produced in 2013, 2011, and 2010.   Growth for naturally produced Lake Trout had been relatively slow; six-year-old fish reached an average length of 13.3 inches at the end of their sixth year, compared to an area mean of 16.7 inches.  Growth of stocked fish had been faster.  <br> \n <br> \nAlthough Rainbow Trout (Kamloops strain) fingerlings had been stocked in 2010, 2012, and 2014, none were taken in this survey.  There has been no change in Rainbow Trout stocking that would account for a drop in gill net catches (the 2009 catch was 1.75 fish/gill net set).  Rainbow Trout gill net catches in this lake have typically been low, and the species is typically hard to sample in gill nets in any lake.  The failure to capture Rainbow Trout in any one survey is not necessarily an indication of a problem with the fishery; however, anglers also reported difficulty catching Rainbow Trout in Ram Lake in 2016, so it may well be that their numbers were unusually low. <br> \n <br> \nWhite Sucker have been present in Ram Lake since at least 1978, and the 2016 catch was similar to most catches seen in this lake since that time.  White Sucker compete with trout for invertebrate forage.  Many small lakes in this area support high numbers of Lake Trout and White Sucker, but Lake Trout growth in those lakes tends to be slow.  No other undesirable fish species were found in 2016.  Ram Lake discharges to Dislocation Lake, and movement of fish between those lakes has been suspected in the past.  Dislocation Lake supports a dense Yellow Perch population, and a natural Brook Trout population, but so far we have seen no evidence of either species making it into Ram Lake. <br> \n <br> \n</p>",
+        "surveyID": "12861620248357078",
+        "lengths": {
+          "LAT": {
+            "minimum_length": 7,
+            "maximum_length": 24,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                6
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 7
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 10670,
+            "species": "WTS",
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "averageWeight": "1.57",
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "CPUE": "7.50",
+            "totalCatch": 15
+          },
+          {
+            "species": "LAT",
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.83",
+            "totalWeight": 5640,
+            "CPUE": "7.50",
+            "totalCatch": 15,
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets"
+          },
+          {
+            "totalCatch": 12,
+            "CPUE": "6.00",
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "species": "LAT",
+            "gearCount": 2,
+            "averageWeight": "1.64",
+            "quartileWeight": "N/A",
+            "totalWeight": 8900
+          },
+          {
+            "totalWeight": 6510,
+            "averageWeight": "0.96",
+            "quartileWeight": "N/A",
+            "species": "WTS",
+            "gearCount": 2,
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "CPUE": "7.50",
+            "totalCatch": 15
+          }
+        ],
+        "surveySubType": "Standard Survey",
+        "headerInfo": {
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "2016-06-06",
+          "wb_id": "16017400",
+          "wb_alt_name": "",
+          "survey_id": "12861620248357078",
+          "wb_name": "Ram"
+        },
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyDate": "2024-08-21",
+        "surveyID": "21872426842581292",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Ram Lake on August 21, 2024 to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased to below 8.8 degrees C (47.8 degrees F) at 32.8 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 27.6 feet at the time of sampling. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 10.8 degrees C (51.4 degrees F). TDO3 values warmer than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were unsuitable for Lake Trout at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress in 2023, 1982, and 1956 indicate unsuitable oxythermal habitat in 1956 and 2023, with favorable conditions recorded in 1982. When inadequate oxythermal habitat is available, such as in 2024, 2023, and 1956, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. </p>",
+        "headerInfo": {
+          "county": "Cook",
+          "id_date": "2024-08-21",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_name": "Ram",
+          "survey_id": "21872426842581292",
+          "wb_alt_name": "",
+          "wb_id": "16017400"
+        },
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "surveyDate": "2025-08-06",
+        "surveyID": "-299",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Ram Lake on August 6th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 32.8 feet), the water temperature never decreased below 8.8 degrees C (47.8 degrees F) and the dissolved oxygen concentration decreased to 3.0 mg/L at 27.8 feet at the time of sampling. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 10.5 degrees C (50.9 degrees F). TDO3 values warmer than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were unsuitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 4 years, between 1956-2024, indicate unsuitable oxythermal habitat in all years when surveyed. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "survey_id": "-299",
+          "wb_name": "Ram",
+          "wb_id": "16017400",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "id_date": "2025-08-06",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Targeted Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_id": "16017400",
+          "wb_alt_name": "",
+          "wb_name": "Ram",
+          "survey_id": "111523",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "2005-06-13"
+        },
+        "surveyDate": "2005-06-13",
+        "surveyID": "111523",
+        "narrative": "<p>The lake trout catch was slightly lower than recent catches in this lake, but within the lake's histoical range, and relatively high for this class of lake.  There had been some natural reproduction, but two-thirds of the fish caught had been stocked.  Growth of lake trout had been fast.The rainbow trout catch was similar to previous catches in the lake and within the usual range for area stream trout lakes having this species.  Most fish were age-3, and had grown quickly, so the average size was relatively large.The lake's white sucker population appeared to be typical for this lake and other stream trout lakes in the area.</p>",
+        "lengths": {
+          "WTS": {
+            "maximum_length": 20,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "RBT": {
+            "minimum_length": 9,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "minimum_length": 9,
+            "maximum_length": 24,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                9,
+                4
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00",
+            "species": "FHM",
+            "gearCount": 8,
+            "totalWeight": 0,
+            "totalCatch": 46,
+            "CPUE": "5.75",
+            "gear": "Minnow traps",
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "2.00",
+            "totalCatch": 4,
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "gearCount": 2,
+            "species": "WTS",
+            "averageWeight": "2.52",
+            "quartileWeight": "N/A",
+            "totalWeight": 4570
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "CPUE": "3.50",
+            "totalCatch": 7,
+            "totalWeight": 5180,
+            "gearCount": 2,
+            "species": "LAT",
+            "quartileWeight": "N/A",
+            "averageWeight": "1.63"
+          },
+          {
+            "totalCatch": 3,
+            "CPUE": "1.50",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "averageWeight": "2.48",
+            "gearCount": 2,
+            "species": "RBT",
+            "totalWeight": 3373
+          },
+          {
+            "averageWeight": "1.59",
+            "quartileWeight": "N/A",
+            "species": "LAT",
+            "gearCount": 2,
+            "totalWeight": 8643,
+            "CPUE": "6.00",
+            "totalCatch": 12,
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "CPUE": "0.50",
+            "totalCatch": 1,
+            "totalWeight": 1910,
+            "quartileWeight": "N/A",
+            "averageWeight": "4.21",
+            "gearCount": 2,
+            "species": "RBT"
+          },
+          {
+            "gearCount": 2,
+            "species": "WTS",
+            "averageWeight": "0.43",
+            "quartileWeight": "N/A",
+            "totalWeight": 2720,
+            "CPUE": "7.00",
+            "totalCatch": 14,
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets"
+          },
+          {
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A",
+            "gearCount": 8,
+            "species": "BST",
+            "gear": "Minnow traps",
+            "quartileCount": "N/A",
+            "totalCatch": 41,
+            "CPUE": "5.12"
+          }
+        ]
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "id_date": "1986-05-15",
+          "wb_id": "16017400",
+          "wb_alt_name": "",
+          "wb_name": "Ram",
+          "survey_id": "110018"
+        },
+        "surveyDate": "1986-05-15",
+        "surveyID": "110018",
+        "narrative": "<p>BOTH LAKE AND RAINBOW TROUT STOCKINGS ARE SURVIVING TO PROVIDE GOOD FISHERIES. LAKE TROUT NUMBERS ARE GOOD, BUT THE FISH ARE SOMEWHAT SMALL.</p>",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "0.50",
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "species": "RBT",
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "averageWeight": "3.88",
+            "totalWeight": 3.88
+          },
+          {
+            "totalCatch": 6,
+            "CPUE": "3.00",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.0-4.5",
+            "averageWeight": "1.32",
+            "quartileWeight": "0.9-4.3",
+            "gearCount": 2,
+            "species": "LAT",
+            "totalWeight": 7.94
+          },
+          {
+            "totalWeight": 3.19,
+            "species": "WTS",
+            "gearCount": 2,
+            "quartileWeight": "0.6-2.0",
+            "averageWeight": "0.46",
+            "quartileCount": "1.5-10.4",
+            "gear": "Standard gill nets",
+            "totalCatch": 7,
+            "CPUE": "3.50"
+          }
+        ],
+        "lengths": {},
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "LAT": {
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                6
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                6
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 26
+          },
+          "RBT": {
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ]
+            ],
+            "minimum_length": 15,
+            "maximum_length": 19
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                8,
+                2
+              ]
+            ],
+            "maximum_length": 18,
+            "minimum_length": 8
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 2226,
+            "gearCount": 2,
+            "species": "WTS",
+            "quartileWeight": "N/A",
+            "averageWeight": "1.64",
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "totalCatch": 3,
+            "CPUE": "1.50"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "totalCatch": 10,
+            "CPUE": "5.00",
+            "totalWeight": 4066,
+            "averageWeight": "0.90",
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "species": "LAT"
+          },
+          {
+            "totalCatch": 5,
+            "CPUE": "2.50",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "averageWeight": "2.37",
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "species": "RBT",
+            "totalWeight": 5378
+          },
+          {
+            "averageWeight": "1.39",
+            "quartileWeight": "N/A",
+            "species": "LAT",
+            "gearCount": 2,
+            "totalWeight": 14504,
+            "totalCatch": 23,
+            "CPUE": "11.50",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "species": "RBT",
+            "gearCount": 2,
+            "averageWeight": "2.13",
+            "quartileWeight": "N/A",
+            "totalWeight": 1935,
+            "CPUE": "1.00",
+            "totalCatch": 2,
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "totalCatch": 7,
+            "CPUE": "3.50",
+            "totalWeight": 3319,
+            "averageWeight": "1.05",
+            "quartileWeight": "N/A",
+            "species": "WTS",
+            "gearCount": 2
+          }
+        ],
+        "narrative": "<p>Lake trout abundance was high in Ram Lake in 2009, and the average size of fish taken was within normal ranges for the lake historically, and for the lake class.  Catch and size goals from the lake's 2002 management plan were met or exceeded.  Of the 33 lake trout collected, 22 were unclipped fish that were most likely produced naturally.  Stocked 2007 and 2005 year classes were strong, but in each case about half the fish taken in the year class were unclipped and probably produced naturally.  The unstocked 2004 year class was also fairly strong.  The catch of unclipped lake trout alone (5.50 unclipped fish/gill net set) would have been high enough to meet current management goals for this lake.  Lake trout growth had been close to average for the Grand Marais area.  Fish reached an average length of 13.2 inches by the end of their fourth year. <br> \n <br> \nThe 2009 rainbow trout catch was about average for this lake historically, and when compared to catches in other rainbow trout lakes in the area.  All of the rainbow trout taken were age-3 fish from the 2006 stocking of kamloop-strain fingerlings.  As a result, average size for rainbow trout collected in 2009 was higher than usual.  The lack of smaller rainbow trout was not surprising.  Its likely that few of the small fingerlings stocked in fall 2008 would have been large enough by June 2009 to be taken in standard gill nets.  Growth of three-year-old rainbow trout taken in 2009 had been relatively fast; they averaged 16.5 inches in length at the end of their third year. <br> \n <br> \nThe 2009 white sucker gill net catch was one of the lower catches seen in this lake historically, and was low compared to catches seen in other stream trout lakes in this area.  Reduced competition for invertebrate forage, due to lower white sucker abundance, may have helped rainbow trout achieve the good growth seen in fish taken in 2009. <br> \n <br> \n</p>",
+        "surveyDate": "2009-06-15",
+        "surveyID": "4310918746826007",
+        "headerInfo": {
+          "wb_id": "16017400",
+          "wb_alt_name": "",
+          "wb_name": "Ram",
+          "survey_id": "4310918746826007",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "id_date": "2009-06-15",
+          "county": "Cook"
+        },
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 13,
+            "CPUE": "2.17",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "species": "RBT",
+            "quartileWeight": "N/A",
+            "averageWeight": "1.06",
+            "totalWeight": 13.75
+          },
+          {
+            "totalWeight": 34.31,
+            "gearCount": 6,
+            "species": "LAT",
+            "averageWeight": "2.86",
+            "quartileWeight": "0.9-4.3",
+            "quartileCount": "1.0-4.5",
+            "gear": "Standard gill nets",
+            "CPUE": "2.00",
+            "totalCatch": 12
+          },
+          {
+            "quartileCount": "1.5-10.4",
+            "gear": "Standard gill nets",
+            "CPUE": "11.17",
+            "totalCatch": 67,
+            "totalWeight": 41.06,
+            "gearCount": 6,
+            "species": "WTS",
+            "quartileWeight": "0.6-2.0",
+            "averageWeight": "0.61"
+          }
+        ],
+        "narrative": "<p>LAKE TROUT ABUNDANCE AND SIZE IS GOOD. IF AGING IS CORRECT, THE PRESENCE OF AGE II LAKE TROUT IN THE SAMPLE MAY INDICATE THAT SOME NATURAL REPRO- DUCTION IS OCCURING. THE ABSENCE OF ANY AGE VI, VII, VIII LAKE TROUT DOES SHOW THAT NATURAL REPRO- DUCTION IS NOT RELIABLE. LAKE TROUT GROWTH IS FAST BY STATE STANDARDS. THE APPARENT FAST GROWTH, PRE- SENCE OF AGE II FISH, AND LACK OF AGE V FISH, MAY ALL BE INDICATIONS THAT LAKE TROUT MAY HAVE BEEN UNDER-AGED BY ONE YEAR. RAINBOW TROUT ABUNDANCE IS GOOD. THERE HAS BEEN GOOD SURVIVAL OF STOCKED FINGERLINGS, AND SOME ARE SURVIVING TO REACH TROPHY SIZES. RAINBOW TROUT IS FAST. WHITE SUCKER ABUNDANCE IS HIGH. MOST WHITE SUCKERS TAKEN IN THIS ASSESSEMENT, HOWEVER, ARE SMALL ENOUGH FORAGE FOR THE LARGE LAKE TROUT PRESENT.</p>",
+        "surveyID": "110095",
+        "surveyDate": "1988-06-13",
+        "headerInfo": {
+          "county": "Cook",
+          "id_date": "1988-06-13",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_name": "Ram",
+          "survey_id": "110095",
+          "wb_id": "16017400",
+          "wb_alt_name": ""
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "lengths": {
+          "WTS": {
+            "minimum_length": 6,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                6,
+                8
+              ],
+              [
+                7,
+                5
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "RBT": {
+            "maximum_length": 9,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 27
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "species": "WTS",
+            "averageWeight": "1.84",
+            "quartileWeight": "N/A",
+            "totalWeight": 5855,
+            "totalCatch": 7,
+            "CPUE": "3.50",
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets"
+          },
+          {
+            "totalWeight": 2869,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.79",
+            "species": "LAT",
+            "gearCount": 2,
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "CPUE": "4.00",
+            "totalCatch": 8
+          },
+          {
+            "CPUE": "4.00",
+            "totalCatch": 8,
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "gearCount": 2,
+            "species": "RBT",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.26",
+            "totalWeight": 937
+          },
+          {
+            "totalCatch": 15,
+            "CPUE": "7.50",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "averageWeight": "2.99",
+            "species": "LAT",
+            "gearCount": 2,
+            "totalWeight": 20368
+          },
+          {
+            "totalWeight": 5836,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.64",
+            "species": "WTS",
+            "gearCount": 2,
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "totalCatch": 20,
+            "CPUE": "10.00"
+          }
+        ],
+        "surveyID": "111299",
+        "surveyDate": "2001-06-13",
+        "narrative": "<p>The 2001 lake trout catch was above the normal range for this type of lake, but it was similar to past catches in this lake.  Average size of lake trout taken was above-average for this area.  It appeared that some natural reproduction was occurring, but stocking still accounted for most of the lake trout in the catch.  Lake trout growth rates had been fast, despite the lack of coldwater forage species.The 2001 catch of rainbow trout consisted solely of small fish from a 2000 fingerling stocking.  The lack of any larger fish was unusual for this lake.  Rainbow trout can be difficult to capture in assessment nets, and the failure to sample any larger fish does not mean none were present.</p>",
+        "headerInfo": {
+          "wb_id": "16017400",
+          "wb_alt_name": "",
+          "survey_id": "111299",
+          "wb_name": "Ram",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "id_date": "2001-06-13",
+          "county": "Cook"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "DOWNumber": "16017400",
+    "sampledPlants": [],
+    "averageWaterClarity": "18.6",
+    "maxDepthFeet": 40,
+    "lakeName": "Ram",
+    "waterClarity": [
+      [
+        "06/10/2024",
+        "21"
+      ],
+      [
+        "08/04/1956",
+        "20"
+      ],
+      [
+        "08/22/2023",
+        "16.4"
+      ],
+      [
+        "08/21/2024",
+        "19.7"
+      ],
+      [
+        "08/06/2025",
+        "16.4"
+      ],
+      [
+        "06/15/2009",
+        "22.8"
+      ],
+      [
+        "06/13/1988",
+        "14"
+      ]
+    ],
+    "county": "Cook",
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "PRMIT",
+        "location": "",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " "
+      }
+    ],
+    "shoreLengthMiles": 2.07,
+    "areaAcres": 68.3,
+    "meanDepthFeet": 0,
+    "officeCode": "F218"
+  }
+}

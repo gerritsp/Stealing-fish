@@ -1,0 +1,77 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285893,
+  "status": "SUCCESS",
+  "result": {
+    "officeCode": "F218",
+    "averageWaterClarity": "10.5",
+    "areaAcres": 33.76,
+    "DOWNumber": "16030000",
+    "county": "Cook",
+    "waterClarity": [
+      [
+        "06/28/1977",
+        "10.5"
+      ]
+    ],
+    "sampledPlants": [],
+    "littoralAcres": 0,
+    "maxDepthFeet": 18,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "location": "Accessible from logging road on N side of lake.",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "surveys": [
+      {
+        "headerInfo": {
+          "id_date": "1977-06-28",
+          "survey_id": "109703",
+          "wb_name": "Bedew",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "wb_id": "16030000"
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.5-14.3",
+            "totalWeight": 0.3,
+            "averageWeight": "0.30",
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP",
+            "CPUE": "0.50",
+            "totalCatch": 1
+          },
+          {
+            "totalCatch": 104,
+            "CPUE": "52.00",
+            "species": "WTS",
+            "quartileWeight": "0.9-2.3",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "totalWeight": 51.8,
+            "averageWeight": "0.50",
+            "quartileCount": "1.6-8.4"
+          }
+        ],
+        "narrative": "<p>Bedew Lake has a large population of Suckers and a low abundance of Perch.</p>",
+        "surveyDate": "1977-06-28",
+        "surveyID": "109703",
+        "lengths": {}
+      }
+    ],
+    "shoreLengthMiles": 2,
+    "meanDepthFeet": 0,
+    "lakeName": "Bedew"
+  }
+}

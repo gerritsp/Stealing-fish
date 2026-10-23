@@ -1,0 +1,545 @@
+{
+  "result": {
+    "DOWNumber": "16026800",
+    "waterClarity": [
+      [
+        "07/14/2014",
+        "10.5"
+      ],
+      [
+        "08/18/2014",
+        "7.5"
+      ],
+      [
+        "08/20/2024",
+        "8.2"
+      ],
+      [
+        "08/20/1973",
+        "10.5"
+      ],
+      [
+        "09/10/1990",
+        "12"
+      ]
+    ],
+    "areaAcres": 198.98,
+    "county": "Cook",
+    "averageWaterClarity": "9.7",
+    "officeCode": "F218",
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "PRMIT",
+        "location": "",
+        "accessTypeId": "PO"
+      }
+    ],
+    "shoreLengthMiles": 4.51,
+    "lakeName": "Swan",
+    "littoralAcres": 48,
+    "maxDepthFeet": 122,
+    "surveys": [
+      {
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "wb_id": "16026800",
+          "survey_id": "4471420456741000",
+          "wb_name": "Swan",
+          "wb_type": "Lake",
+          "survey_type": "Re-Survey",
+          "id_date": "2014-07-14",
+          "wb_alt_name": "",
+          "county": "Cook"
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "CPUE": "6.75",
+            "species": "LKW",
+            "totalCatch": 27,
+            "averageWeight": "1.81",
+            "totalWeight": 22185
+          },
+          {
+            "totalWeight": 1005,
+            "totalCatch": 1,
+            "averageWeight": "2.22",
+            "quartileCount": "N/A",
+            "CPUE": "0.25",
+            "gear": "Shallow gill nets",
+            "species": "SMB",
+            "quartileWeight": "N/A",
+            "gearCount": 4
+          },
+          {
+            "totalCatch": 9,
+            "averageWeight": "2.81",
+            "totalWeight": 11470,
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "CPUE": "2.25",
+            "gear": "Shallow gill nets",
+            "species": "WAE"
+          },
+          {
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "CPUE": "12.25",
+            "gear": "Shallow gill nets",
+            "species": "LKW",
+            "totalCatch": 49,
+            "averageWeight": "1.53",
+            "totalWeight": 34100
+          }
+        ],
+        "narrative": "<p>Swan Lake is currently managed for northern pike and lake trout, although it also supports a walleye fishery.  The management goal for northern pike is to maintain a self-sustained population with some fish larger than 25 inches present.  The management goal for lake trout is a self-sustained population, if lake trout are present.  This was the first of two surveys scheduled in the 2012 lake management plan (LMP) to determine whether lake trout stocking succeeded in establishing a lake trout population. <br> \n <br> \nSwan Lake, like several other lakes in the area, might have lost a native Lake Trout population when Walleye were introduced in the watershed in the early 1900s.  Lake Trout were native elsewhere in the watershed, and conditions in the lake remain suitable for the species.  Lake Trout were stocked as yearlings in 1993, 1995, and 1997 in an attempt to re-establish a population.  Assessment netting in 1998 and 2014 failed to collect Lake Trout, even though some nets were set deep to target the species. Survival was apparently very poor; Lake Trout were either few or absent in Swan Lake in 2014. <br> \n <br> \nThe only other native game fish species known to be in Swan Lake is Northern Pike, although none were caught in this (2014) survey.  Catches in past assessments (1973, 1990, and 1998) were also relatively low. <br> \n <br> \nFair numbers of above-average sized walleye were present in Swan Lake in 2014.  Walleye may have originally entered Swan Lake from Brule Lake.  The Walleye catch in shallow-set nets was close to the average for shallow sets in the Grand Marais area.  Walleye sampled in Swan Lake have consistently been larger than the average for area lakes.  Natural reproduction had occurred in most years prior to the 2014 assessment, but appeared to have produced only a small number of fish each year.  Growth of Walleye appeared to have been about average for this class of lake. <br> \n <br> \nOnly one Smallmouth Bass was caught in 2014.  The survey nets are less effective in collecting bass than Walleye, so the species might be more abundant than indicated by this low catch.  There have been no angler reports on the lake's Smallmouth Bass fishery. <br> \n <br> \nThe most abundant large fish in Swan Lake is the Lake Whitefish, although the species is not unusually abundant for this class of lake.  Their average size is also typical for the lake class.  Whitefish were taken in shallow and deep net sets. <br> \n <br> \nA few White Sucker were netted in 1998, but none were collected in 1973, 1990, or 2014. <br> \n <br> \nShort shoreline seine hauls were made in this survey to collect minnows or young of larger species.  No fish were collected, indicating either a scarcity of these small fish at the seining sites or difficult seining conditions.  <br> \n</p>",
+        "surveyDate": "2014-07-14",
+        "surveyID": "4471420456741000",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "WAE": {
+            "minimum_length": 14,
+            "maximum_length": 25,
+            "fishCount": [
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                25,
+                2
+              ]
+            ]
+          },
+          "SMB": {
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                15,
+                1
+              ]
+            ],
+            "minimum_length": 15
+          },
+          "LKW": {
+            "minimum_length": 8,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                11
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                16,
+                15
+              ],
+              [
+                17,
+                27
+              ],
+              [
+                18,
+                10
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                8,
+                3
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Swan Lake, on August 20, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 17.2 degrees C (63.0 degrees F) at 15.1 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 97.7 feet at the time of sampling. The thickness of this layer in the water column was 82.6 feet, indicating that oxythermal habitat was present for Lake Whitefish.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because the DO remained above 3.0 mg/L throughout the sampled depths. The temperature at the bottom of the lake was 5.6 degrees C (42.1 degrees F). Instances in which the DO did not reach below 3.0 mg/L and temperature remained below 17.2 degrees C, indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources from 1973-2023 during the late summer thermal stress period indicated suitable oxythermal habitat in years surveyed. Data were also collected outside the thermal maximum period in 1990 and 2014, this data indicated suitable conditions during those sampling periods. The least favorable oxythermal habitat conditions were recorded in 2014, outside the peak summer stress period, when the suitable habitat layer thickness was 68.0 feet. When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "surveyID": "21872426833116027",
+        "surveyDate": "2024-08-20",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_name": "Swan",
+          "survey_id": "21872426833116027",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "wb_id": "16026800",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "id_date": "2024-08-20"
+        },
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "surveyType": "Targeted Survey"
+      },
+      {
+        "headerInfo": {
+          "county": "Cook",
+          "id_date": "2023-08-09",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "survey_id": "20042323330305000",
+          "wb_name": "Swan",
+          "wb_id": "16026800"
+        },
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "surveyDate": "2023-08-09",
+        "surveyID": "20042323330305000",
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Swan Lake on August 9th, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 10 feet. Dissolved oxygen decreased to below 3.0 mg/L at 89.2 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.1\u00b0C (39.4\u00b0F). <br> \n <br> \nTDO3 values cooler than 17.2\u00b0C indicate that oxythermal conditions are favorable for Lake Whitefish. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for Lake Whitefish was available across a range of depths at the time of sampling. When adequate oxythermal habitat is available, Lake Whitefish are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "lengths": {}
+      },
+      {
+        "surveyID": "110929",
+        "surveyDate": "1998-08-31",
+        "narrative": "<p>Abundance of all gamefish (northern pike, walleye, and smallmouth bass) was low in 1998, but the 1998 catch was similar to past catches in this lake.  Introductory stocking of lake trout in 1993, 1995, and 1997 appeared to have failed; none were collected in 1998.  Lake whitefish dominated the catch in 1998, as they have in past assessments.  </p>",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "species": "LKW",
+            "CPUE": "18.33",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "averageWeight": "1.34",
+            "totalCatch": 55,
+            "totalWeight": 33351
+          },
+          {
+            "averageWeight": "3.53",
+            "totalCatch": 1,
+            "totalWeight": 1600,
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "CPUE": "0.33",
+            "species": "NOP",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalWeight": 2289,
+            "averageWeight": "2.52",
+            "totalCatch": 2,
+            "CPUE": "0.67",
+            "gear": "Shallow gill nets",
+            "species": "SMB",
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "CPUE": "1.33",
+            "gear": "Shallow gill nets",
+            "species": "WAE",
+            "quartileCount": "N/A",
+            "averageWeight": "2.16",
+            "totalCatch": 4,
+            "totalWeight": 3927
+          },
+          {
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "species": "LKW",
+            "CPUE": "2.00",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "averageWeight": "1.18",
+            "totalCatch": 6,
+            "totalWeight": 3220
+          },
+          {
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "CPUE": "2.33",
+            "gear": "Shallow gill nets",
+            "totalCatch": 7,
+            "averageWeight": "2.53",
+            "totalWeight": 8019
+          }
+        ],
+        "headerInfo": {
+          "county": "Cook",
+          "id_date": "1998-08-31",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_name": "Swan",
+          "survey_id": "110929",
+          "wb_id": "16026800"
+        },
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "SMB": {
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                17,
+                1
+              ]
+            ],
+            "minimum_length": 13
+          },
+          "WTS": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ]
+            ],
+            "minimum_length": 17
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                23,
+                1
+              ]
+            ],
+            "maximum_length": 23,
+            "minimum_length": 12
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                26,
+                1
+              ]
+            ],
+            "maximum_length": 26,
+            "minimum_length": 26
+          },
+          "LKW": {
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                14,
+                7
+              ],
+              [
+                15,
+                12
+              ],
+              [
+                16,
+                28
+              ],
+              [
+                17,
+                9
+              ]
+            ],
+            "maximum_length": 17
+          }
+        },
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 22,
+            "averageWeight": "5.50",
+            "totalCatch": 4,
+            "CPUE": "0.67",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "quartileCount": "0.6-2.4",
+            "gearCount": 6,
+            "quartileWeight": "2.1-4.9"
+          },
+          {
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "quartileCount": "1.2-5.2",
+            "gearCount": 6,
+            "quartileWeight": "1.0-2.0",
+            "totalWeight": 10.3,
+            "averageWeight": "1.72",
+            "totalCatch": 6
+          },
+          {
+            "totalWeight": 39.5,
+            "averageWeight": "1.07",
+            "totalCatch": 37,
+            "species": "LKW",
+            "CPUE": "6.17",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.6-15.5",
+            "gearCount": 6,
+            "quartileWeight": "1.0-2.1"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "county": "Cook",
+          "wb_alt_name": "",
+          "id_date": "1973-08-29",
+          "wb_name": "Swan",
+          "survey_id": "109695",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_id": "16026800"
+        },
+        "surveyID": "109695",
+        "surveyDate": "1973-08-29",
+        "narrative": "<p>The major fish pop. in Swan Lake is Whtfish of a good avg. size.  Although few N Pike were taken, two large and two small fish, the lake has a reputation for good large N Pike fishing in the past.  Walleyes are low in number even though Swan Lake is the major headwater of the S Brule R.</p>"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "headerInfo": {
+          "county": "Cook",
+          "wb_alt_name": "",
+          "id_date": "1990-09-10",
+          "survey_id": "110158",
+          "wb_name": "Swan",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_id": "16026800"
+        },
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 4,
+            "averageWeight": "1.91",
+            "totalWeight": 7.63,
+            "quartileWeight": "2.1-4.9",
+            "gearCount": 6,
+            "quartileCount": "0.6-2.4",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "CPUE": "0.67"
+          },
+          {
+            "totalWeight": 6.31,
+            "totalCatch": 4,
+            "averageWeight": "1.58",
+            "quartileCount": "0.3-1.4",
+            "species": "SMB",
+            "CPUE": "0.67",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-1.5",
+            "gearCount": 6
+          },
+          {
+            "gearCount": 6,
+            "quartileWeight": "1.0-2.0",
+            "gear": "Standard gill nets",
+            "CPUE": "1.00",
+            "species": "WAE",
+            "quartileCount": "1.2-5.2",
+            "averageWeight": "1.67",
+            "totalCatch": 6,
+            "totalWeight": 10
+          },
+          {
+            "totalCatch": 74,
+            "averageWeight": "1.79",
+            "totalWeight": 132.38,
+            "quartileWeight": "1.0-2.1",
+            "gearCount": 6,
+            "quartileCount": "1.6-15.5",
+            "CPUE": "12.33",
+            "gear": "Standard gill nets",
+            "species": "LKW"
+          },
+          {
+            "CPUE": "2.00",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "gearCount": 6,
+            "quartileWeight": "1.1-2.5",
+            "totalWeight": 30.5,
+            "averageWeight": "2.54",
+            "totalCatch": 12
+          }
+        ],
+        "narrative": "<p>WAE ABUNDANCE WAS LOW, BUT SIZE WAS GOOD; 67% OF THE WAE CAPTURED WERE OVER 16 IN.  SEVERAL YEAR CLASSES WERE REPRESENTED AND GROWTH WAS AVERAGE FOR COOK COUNTY.  SMB HAVE APPARENTLY ENTERED THE LAKE SINCE 1973.  AVERAGE SIZE OF THE FISH COLLECTED WAS GOOD.  THREE SMB YEAR CLASS WERE REPRESENTED AND GROWTH WAS FAST BY COOK COUNTY STANDARDS.  NOP ABUNDANCE WAS LOW AND NO FISH OVER 25 IN WERE CAPTURED.  LKW WERE ABUNDANT.  FORAGE WAS LIMITED; NO YEP WERE TAKEN.</p>",
+        "surveyID": "110158",
+        "surveyDate": "1990-09-10"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285729,
+  "message": "Normal execution."
+}

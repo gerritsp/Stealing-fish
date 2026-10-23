@@ -1,0 +1,105 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "lakeName": "Makwa",
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "location": "None designated-lives within BWCAW-paddle only."
+      }
+    ],
+    "surveys": [
+      {
+        "lengths": {},
+        "narrative": "<p>Composed of average populations of lake trout and burbot, and above average populations of suckers, and below average populations of yellow perch and northern pike.</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "0.6-1.5",
+            "gearCount": 4,
+            "quartileCount": "0.2-1.0",
+            "species": "BUB",
+            "CPUE": "0.25",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "totalWeight": 0.4,
+            "averageWeight": "0.40"
+          },
+          {
+            "averageWeight": "2.88",
+            "totalWeight": 11.5,
+            "totalCatch": 4,
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "species": "LAT",
+            "quartileCount": "0.4-3.7",
+            "gearCount": 4,
+            "quartileWeight": "1.5-4.0"
+          },
+          {
+            "gearCount": 4,
+            "quartileWeight": "2.1-4.9",
+            "CPUE": "1.25",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "quartileCount": "0.6-2.4",
+            "averageWeight": "8.20",
+            "totalWeight": 41,
+            "totalCatch": 5
+          },
+          {
+            "quartileCount": "0.4-3.7",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "CPUE": "2.75",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 4,
+            "totalCatch": 11,
+            "totalWeight": 1.7,
+            "averageWeight": "0.15"
+          },
+          {
+            "quartileCount": "0.8-5.3",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "CPUE": "10.25",
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 4,
+            "totalWeight": 39.5,
+            "totalCatch": 41,
+            "averageWeight": "0.96"
+          }
+        ],
+        "surveyDate": "1980-06-24",
+        "surveyID": "107932",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "survey_id": "107932",
+          "wb_type": "Lake",
+          "id_date": "1980-06-24",
+          "wb_name": "Makwa",
+          "wb_alt_name": "",
+          "wb_id": "38014700",
+          "county": "Lake"
+        }
+      }
+    ],
+    "shoreLengthMiles": 3.82,
+    "county": "Lake",
+    "waterClarity": [],
+    "sampledPlants": [],
+    "DOWNumber": "38014700",
+    "averageWaterClarity": "N/A",
+    "maxDepthFeet": 76,
+    "meanDepthFeet": 0,
+    "littoralAcres": 49,
+    "officeCode": "F214",
+    "areaAcres": 128.19
+  },
+  "timestamp": 1790285785,
+  "message": "Normal execution."
+}

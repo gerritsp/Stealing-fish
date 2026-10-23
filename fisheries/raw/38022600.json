@@ -1,0 +1,394 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285895,
+  "status": "SUCCESS",
+  "result": {
+    "shoreLengthMiles": 22.86,
+    "littoralAcres": 97,
+    "lakeName": "Kekekabic",
+    "accesses": [
+      {
+        "lakeAccessComments": "80 rod portage from Pickle Lake.",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "PRMIT"
+      },
+      {
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": "5 rod portage from Kek Ponds. ",
+        "ownerTypeId": "USF",
+        "location": "Kek ponds is a series of waterways between Kekakabic & Eddy Lk."
+      },
+      {
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": "85 rod portage from Strup Lake.",
+        "ownerTypeId": "USF",
+        "location": "Fairly steep grade up to Strup Lk."
+      },
+      {
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO",
+        "location": "Fairly level portage.",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "13 rod portage from Little Kek."
+      }
+    ],
+    "officeCode": "F214",
+    "maxDepthFeet": 195,
+    "averageWaterClarity": "22.0",
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_id": "38022600",
+          "wb_name": "Kekekabic",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "survey_id": "108395",
+          "id_date": "1988-09-16",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>Deep water gillnetting shows that lake trout and white sucker are present in above average numbers. Of 49 lake trout captured, 7 were under 12. Yellow perch were captured in the 1970 assessment - probably in shallow water nets. </p>",
+        "lengths": {},
+        "surveyID": "108395",
+        "surveyDate": "1988-09-16",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "CPUE": "8.17",
+            "totalCatch": 49,
+            "averageWeight": "1.51",
+            "quartileWeight": "1.2-3.1",
+            "totalWeight": 74.2,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-4.3",
+            "species": "LAT"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-5.0",
+            "species": "WTS",
+            "averageWeight": "1.66",
+            "quartileWeight": "1.6-2.4",
+            "totalWeight": 31.6,
+            "gearCount": 6,
+            "CPUE": "3.17",
+            "totalCatch": 19
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "averageWeight": "1.11",
+            "totalWeight": 24696,
+            "gearCount": 9,
+            "totalCatch": 49,
+            "CPUE": "5.44",
+            "gear": "Deep gill nets",
+            "species": "LAT",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "averageWeight": "0.11",
+            "totalWeight": 811,
+            "gearCount": 6,
+            "totalCatch": 17,
+            "CPUE": "2.83",
+            "gear": "Shallow gill nets",
+            "species": "YEP",
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "12.50",
+            "totalCatch": 75,
+            "gearCount": 6,
+            "totalWeight": 4575,
+            "averageWeight": "0.13",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "species": "RKB",
+            "gear": "Shallow gill nets"
+          },
+          {
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "totalWeight": 20449,
+            "quartileWeight": "N/A",
+            "averageWeight": "3.01",
+            "totalCatch": 15,
+            "CPUE": "2.50",
+            "gearCount": 6
+          },
+          {
+            "species": "SMS",
+            "quartileCount": "N/A",
+            "gear": "Minnow traps",
+            "CPUE": "0.38",
+            "totalCatch": 3,
+            "gearCount": 8,
+            "totalWeight": 0,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "species": "LAT",
+            "gearCount": 6,
+            "CPUE": "0.67",
+            "totalCatch": 4,
+            "averageWeight": "1.59",
+            "quartileWeight": "N/A",
+            "totalWeight": 2892
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "SMB",
+            "gear": "Shallow gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.17",
+            "gearCount": 6,
+            "totalWeight": 364,
+            "averageWeight": "0.80",
+            "quartileWeight": "N/A"
+          },
+          {
+            "species": "DWS",
+            "quartileCount": "N/A",
+            "gear": "Minnow traps",
+            "CPUE": "0.75",
+            "totalCatch": 6,
+            "gearCount": 8,
+            "totalWeight": 0,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00"
+          },
+          {
+            "gearCount": 9,
+            "totalCatch": 5,
+            "CPUE": "0.56",
+            "averageWeight": "4.12",
+            "quartileWeight": "N/A",
+            "totalWeight": 9350,
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "species": "WTS"
+          }
+        ],
+        "surveyDate": "2017-09-18",
+        "lengths": {
+          "LAT": {
+            "minimum_length": 10,
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                18
+              ],
+              [
+                17,
+                10
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ]
+            ]
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                4,
+                9
+              ],
+              [
+                5,
+                49
+              ],
+              [
+                6,
+                13
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                2
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 4
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                11,
+                1
+              ]
+            ],
+            "maximum_length": 11,
+            "minimum_length": 11
+          },
+          "WTS": {
+            "maximum_length": 22,
+            "minimum_length": 14,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                5
+              ],
+              [
+                22,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "maximum_length": 7,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                5
+              ],
+              [
+                6,
+                9
+              ],
+              [
+                7,
+                3
+              ]
+            ]
+          }
+        },
+        "surveyID": "12391802948970000",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38022600",
+          "wb_name": "Kekekabic",
+          "id_date": "2017-09-18",
+          "wb_type": "Lake",
+          "survey_type": "Standard Survey",
+          "survey_id": "12391802948970000"
+        },
+        "narrative": "<p>Kekekabic Lake is located approximately 31 miles NE of Ely in the BWCAW. This scenic lake has high cliffs and steep shorelines with good water clarity. <br> \n <br> \nThere are several access options for visitors. All of these options include portages to access Kekekabic Lake and most visitors should allow more than one day to arrive there. There are 16 designated USFS campsites located around the lake for overnight use.  <br> \n <br> \nFive species of fish were sampled from the gill nets during the 2017 survey of Kekekabic Lake. Six gill nets were set in relatively shallow water and 9 additional nets were set in deeper water targeting lake trout. Rock bass (67%) and lake trout (91%) dominated the shallow and deep water sampling, respectively. In addition to rock bass, one smallmouth bass was sampled marking the first time these two species have been identified in Kekekabic Lake using our standard sampling methods. Yellow perch and white sucker were also sampled in 2017. <br> \n <br> \nLake trout numbers in 2017 (5.4/gill net) were slightly lower than the historic average (6.3/gill net). The average lake trout sampled was nearly 16 inches which is similar to the historic average length of 15.7 inches. The largest lake trout sampled in 2017 measured 19.5 inches in length. Some large lake trout have historically been present in Kekekabic Lake. Lake trout ages ranged from 4 to 15 years old based on otoliths. <br> \n <br> \n <br> \n <br> \n</p>"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 95.7,
+            "averageWeight": "2.73",
+            "quartileWeight": "1.2-3.1",
+            "totalCatch": 35,
+            "CPUE": "5.83",
+            "gearCount": 6,
+            "quartileCount": "0.8-4.3",
+            "species": "LAT",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "1.7-5.0",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "CPUE": "0.83",
+            "totalCatch": 5,
+            "gearCount": 6,
+            "totalWeight": 9.1,
+            "averageWeight": "1.82",
+            "quartileWeight": "1.6-2.4"
+          }
+        ],
+        "surveyDate": "1980-08-05",
+        "lengths": {},
+        "surveyID": "107972",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38022600",
+          "wb_name": "Kekekabic",
+          "wb_type": "Lake",
+          "id_date": "1980-08-05",
+          "survey_id": "107972",
+          "survey_type": "Population Assessment"
+        },
+        "narrative": "<p>The Lake Trout popultion is extremely well represented in all size groups to twenty inches and is well above the state average.  The Sucker population is also above average and well represented in all age groups.</p>"
+      }
+    ],
+    "areaAcres": 1688.66,
+    "waterClarity": [
+      [
+        "09/18/2017",
+        "22"
+      ]
+    ],
+    "county": "Lake",
+    "sampledPlants": [],
+    "DOWNumber": "38022600"
+  }
+}

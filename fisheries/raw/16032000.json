@@ -1,0 +1,243 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "county": "Cook",
+    "surveys": [
+      {
+        "surveyID": "110912",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.14",
+            "totalCatch": 11,
+            "quartileCount": "2.8-8.5",
+            "totalWeight": 5706,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.0",
+            "gearCount": 3,
+            "species": "NOP",
+            "CPUE": "3.67"
+          },
+          {
+            "totalWeight": 1090,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.0-2.4",
+            "gearCount": 3,
+            "species": "SMB",
+            "CPUE": "1.00",
+            "averageWeight": "0.80",
+            "totalCatch": 3,
+            "quartileCount": "0.8-2.8"
+          },
+          {
+            "totalCatch": 8,
+            "quartileCount": "1.3-5.0",
+            "averageWeight": "2.04",
+            "CPUE": "2.67",
+            "gear": "Standard gill nets",
+            "totalWeight": 7410,
+            "quartileWeight": "1.1-2.0",
+            "gearCount": 3,
+            "species": "WAE"
+          },
+          {
+            "totalCatch": 15,
+            "quartileCount": "2.0-16.0",
+            "averageWeight": "0.11",
+            "CPUE": "5.00",
+            "totalWeight": 738,
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "gearCount": 3
+          },
+          {
+            "CPUE": "0.25",
+            "species": "GSF",
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "totalWeight": 0,
+            "gear": "Misc. fish",
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "averageWeight": "0.00"
+          },
+          {
+            "CPUE": "3.00",
+            "totalWeight": 8443,
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "quartileWeight": "1.4-2.5",
+            "species": "WTS",
+            "totalCatch": 9,
+            "quartileCount": "4.0-14.5",
+            "averageWeight": "2.07"
+          }
+        ],
+        "lengths": {
+          "YEP": {
+            "minimum_length": 5,
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                5,
+                7
+              ],
+              [
+                6,
+                7
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 13,
+            "minimum_length": 9
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                20,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                3
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 12
+          },
+          "NOP": {
+            "minimum_length": 13,
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                23,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_id": "16032000",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "1998-08-17",
+          "survey_id": "110912",
+          "wb_name": "Allen"
+        },
+        "surveyDate": "1998-08-17",
+        "narrative": "<p>Walleye, northern pike, and smallmouth bass abundance appeared to have been about average for lakes of this class.  Mean weights for northern pike and smallmouth bass were low, compared to similar lakes, but the mean weight for walleye was about average.  All fish populations were supported entirely through natural reproduction; there are no records of any stocking having been done in this lake.  </p>"
+      }
+    ],
+    "shoreLengthMiles": 3.96,
+    "meanDepthFeet": 0,
+    "areaAcres": 47.8,
+    "sampledPlants": [],
+    "waterClarity": [],
+    "lakeName": "Allen",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "Lake is entirely inside the BWCAW.  Access by portage trails from Horseshoe; Jump; and Pillsbery Lakes.",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "DOWNumber": "16032000",
+    "littoralAcres": 47.8,
+    "maxDepthFeet": 12,
+    "officeCode": "F218"
+  },
+  "timestamp": 1790285839
+}

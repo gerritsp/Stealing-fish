@@ -1,0 +1,146 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "shoreLengthMiles": 2.2,
+    "areaAcres": 81.5,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "location": "Entirely inside the BWCAW.  Access by portage from Powell and Virgin Lakes.",
+        "accessTypeId": "O"
+      }
+    ],
+    "sampledPlants": [],
+    "county": "Cook",
+    "littoralAcres": 16,
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "id_date": "1980-07-29",
+          "wb_id": "16071800",
+          "survey_id": "109810",
+          "wb_name": "West Fern"
+        },
+        "narrative": "<p>The Lake Trout population appears to be mostly comprised of larger individuals.  There is a small Sucker population present.</p>",
+        "surveyID": "109810",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.50",
+            "gearCount": 4,
+            "totalWeight": 27.5,
+            "quartileCount": "1.0-4.5",
+            "species": "LAT",
+            "quartileWeight": "0.9-4.3",
+            "totalCatch": 6,
+            "gear": "Standard gill nets",
+            "averageWeight": "4.58"
+          },
+          {
+            "CPUE": "1.50",
+            "gearCount": 4,
+            "quartileCount": "1.5-10.4",
+            "species": "WTS",
+            "totalWeight": 2.75,
+            "totalCatch": 6,
+            "quartileWeight": "0.6-2.0",
+            "averageWeight": "0.46",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyDate": "1980-07-29"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "CPUE": "2.50",
+            "totalWeight": 58.5,
+            "quartileCount": "1.0-4.5",
+            "species": "LAT",
+            "quartileWeight": "0.9-4.3",
+            "totalCatch": 10,
+            "gear": "Standard gill nets",
+            "averageWeight": "5.85"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.13",
+            "quartileWeight": "0.6-2.0",
+            "totalCatch": 3,
+            "totalWeight": 0.4,
+            "quartileCount": "1.5-10.4",
+            "species": "WTS",
+            "CPUE": "0.75",
+            "gearCount": 4
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1992-07-10",
+        "lengths": {},
+        "headerInfo": {
+          "county": "Cook",
+          "survey_id": "110677",
+          "wb_id": "16071800",
+          "id_date": "1992-07-10",
+          "wb_name": "West Fern",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": ""
+        },
+        "surveyID": "110677",
+        "narrative": "<p>The lake trout catch in this assessment was within the normal range for lakes of this ecological class, and in terms of the number and size of lake trout caught, was similar to the catch in the 1980 initial survey.  Four year classes were represented in the 1992 catch, with the 1984 year class the strongest.  Lake trout growth appeared to be above average for Cook County.All the white sucker collected in this assessment were small enough to provide some forage for lake trout.  White sucker of similar size were collected in 1980, and the availability of these small white sucker may explain the good lake trout growth rate.</p>"
+      },
+      {
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "surveyDate": "2024-08-07",
+        "lengths": {},
+        "headerInfo": {
+          "county": "Cook",
+          "wb_name": "West Fern",
+          "wb_id": "16071800",
+          "id_date": "2024-08-07",
+          "survey_id": "21872425441511055",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "wb_alt_name": ""
+        },
+        "surveyID": "21872425441511055",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in West Fern Lake on August 7, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 35.4 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 47.6 feet at the time of sampling. The thickness of this layer in the water column was 12.2 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 7.3 degrees C (45.1 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 1980 during the late summer thermal stress period indicated suitable oxythermal habitat in the year surveyed. Data were also collected outside the thermal maximum period in 1992, this data indicated suitable conditions during that sampling period. The least favorable oxythermal habitat conditions were recorded in 1980, during the peak summer stress period, when the suitable habitat layer thickness was 8.7 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>"
+      }
+    ],
+    "officeCode": "F218",
+    "meanDepthFeet": 0,
+    "lakeName": "West Fern",
+    "DOWNumber": "16071800",
+    "waterClarity": [
+      [
+        "07/29/1980",
+        "22.5"
+      ],
+      [
+        "07/10/1992",
+        "20"
+      ],
+      [
+        "08/07/2024",
+        "16.4"
+      ]
+    ],
+    "averageWaterClarity": "19.6",
+    "maxDepthFeet": 60
+  },
+  "timestamp": 1790285896
+}

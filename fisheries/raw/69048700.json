@@ -1,0 +1,636 @@
+{
+  "timestamp": 1790286080,
+  "message": "Normal execution.",
+  "result": {
+    "areaAcres": 183.8,
+    "county": "St. Louis",
+    "officeCode": "F217",
+    "maxDepthFeet": 135,
+    "surveys": [
+      {
+        "narrative": "<p>The primary game fish in Gun Lake is lake trout.  The abundance was within the normal range for this lake class, and similar to the abundance in the only previous survey in 1974.  The average length of lake trout was 21.5\", and the largest sampled lake trout was 28.9\".  The lake trout in Gun Lake were relatively old and showed slow growth.  Other game fish present were smallmouth bass and yellow perch, but numbers were low.Tullibee and white sucker were also sampled.  Mean length of tullibee was 7.9\", and abundance was normal for this lake type.  White sucker numbers were low.</p>",
+        "surveyDate": "1996-08-05",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "0.50",
+            "averageWeight": "0.60",
+            "species": "BUB",
+            "gear": "Standard gill nets",
+            "totalWeight": 1092,
+            "quartileCount": "0.2-1.0",
+            "gearCount": 8,
+            "totalCatch": 4
+          },
+          {
+            "CPUE": "2.12",
+            "quartileWeight": "1.5-4.0",
+            "gear": "Standard gill nets",
+            "species": "LAT",
+            "averageWeight": "3.07",
+            "quartileCount": "0.4-3.7",
+            "totalWeight": 23645,
+            "gearCount": 8,
+            "totalCatch": 17
+          },
+          {
+            "CPUE": "0.38",
+            "quartileWeight": "0.6-1.5",
+            "gear": "Standard gill nets",
+            "species": "SMB",
+            "averageWeight": "0.79",
+            "quartileCount": "0.3-1.4",
+            "totalWeight": 1070,
+            "gearCount": 8,
+            "totalCatch": 3
+          },
+          {
+            "gearCount": 8,
+            "totalCatch": 1,
+            "totalWeight": 30,
+            "quartileCount": "0.4-3.7",
+            "averageWeight": "0.07",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "0.12"
+          },
+          {
+            "totalCatch": 5,
+            "gearCount": 8,
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 5020,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "averageWeight": "2.21",
+            "CPUE": "0.62",
+            "quartileWeight": "1.1-2.5"
+          },
+          {
+            "gearCount": 8,
+            "totalCatch": 40,
+            "quartileCount": "3.2-20.2",
+            "totalWeight": 2110,
+            "species": "TLC",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.12",
+            "CPUE": "5.00",
+            "quartileWeight": "0.2-1.0"
+          }
+        ],
+        "surveyID": "111834",
+        "lengths": {
+          "SMB": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 14
+          },
+          "TLC": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                6,
+                4
+              ],
+              [
+                7,
+                25
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "maximum_length": 10
+          },
+          "YEP": {
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 6
+          },
+          "WTS": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ]
+            ],
+            "minimum_length": 11
+          },
+          "BUB": {
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ]
+            ],
+            "minimum_length": 12
+          },
+          "LAT": {
+            "maximum_length": 28,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                28,
+                1
+              ]
+            ],
+            "minimum_length": 12
+          }
+        },
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "69048700",
+          "county": "St. Louis",
+          "wb_name": "Gun",
+          "survey_id": "111834",
+          "survey_type": "Re-Survey",
+          "id_date": "1996-08-05",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        }
+      },
+      {
+        "fishCatchSummaries": [],
+        "surveyID": "-388",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Gun Lake on July 30th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 111.5 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 24.3 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 106.6 feet at the time of sampling. The thickness of this layer of water in the water column was 82.3 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.0 degrees C (39.2 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Gun Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyDate": "2025-07-30",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "wb_id": "69048700",
+          "survey_type": "Targeted Survey",
+          "id_date": "2025-07-30",
+          "wb_name": "Gun",
+          "survey_id": "-388"
+        },
+        "lengths": {},
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "surveyID": "19162307556152069",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "totalCatch": 84,
+            "totalWeight": 14560,
+            "quartileCount": "N/A",
+            "averageWeight": "0.38",
+            "species": "CIS",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "14.00"
+          },
+          {
+            "gearCount": 6,
+            "totalCatch": 2,
+            "quartileCount": "N/A",
+            "totalWeight": 470,
+            "species": "BUB",
+            "gear": "Deep gill nets",
+            "averageWeight": "0.52",
+            "CPUE": "0.33",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 6,
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "totalWeight": 4700,
+            "gear": "Deep gill nets",
+            "species": "LAT",
+            "averageWeight": "10.36",
+            "CPUE": "0.17",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 4,
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalWeight": 2640,
+            "gear": "Deep gill nets",
+            "species": "SMB",
+            "averageWeight": "1.46",
+            "CPUE": "0.67",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "narrative": "<p>Gun Lake is a deep, clear, 184 acre lake located south of Lac La Croix within the Boundary Waters Canoe Area Wilderness (BWCAW). The maximum depth of Gun Lake is 135 feet with a mean depth of 35.8 feet. Shoal water substrates are predominately rock (boulder, rubble, or ledge rock), providing good spawning substrates for Lake Trout. Aquatic vegetation is sparse, which is typical of clear, rocky, infertile lakes on the Canadian Shield. A standard survey was completed in Gun Lake in early September of 2023.  <br> \n <br> \nGun Lake has no special regulations. Fishing regulations follow statewide regulations for inland waters. Previous management plans identify several long-range goals, including providing a self-sustaining Lake Trout population with Lake Trout as the primary management species.  <br> \n <br> \nLake Trout gill net catch rate was 0.2 fish per net, which was below average compared to previous surveys. One Lake Trout was sampled during the survey and was 30.8 inches long, weighed 10.4 pounds, and was aged at 23 years old. Although Lake Trout numbers have been declining in Gun Lake, there is likely a low density population of quality fish. Gun Lake is also located close to other lakes (Lac La Croix, Fat Lake) that provide Lake Trout opportunities to anglers.  <br> \n <br> \nSmallmouth Bass gill net catch rate was 0.7 fish per net, which was above average compared to previous surveys. Total length ranged from 14.1 to 15.4 inches, with an average of 14.7 inches. Average weight was 1.5 pounds, which was similar to previous surveys. A total of 2 year-classes were present and ranged from 5-7 years. Although Smallmouth Bass catch rates were low in gill nets, good numbers of Smallmouth Bass were observed in the shallows.  <br> \n <br> \nCisco and Burbot (Eelpout) are also present and provide quality forage for top predators in Gun Lake.  <br> \n</p>",
+        "surveyDate": "2023-09-11",
+        "headerInfo": {
+          "wb_id": "69048700",
+          "county": "St. Louis",
+          "wb_name": "Gun",
+          "survey_id": "19162307556152069",
+          "id_date": "2023-09-11",
+          "survey_type": "Standard Survey",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "lengths": {
+          "LAT": {
+            "minimum_length": 30,
+            "fishCount": [
+              [
+                30,
+                1
+              ]
+            ],
+            "maximum_length": 30
+          },
+          "BUB": {
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                2
+              ]
+            ],
+            "maximum_length": 12
+          },
+          "CIS": {
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                10,
+                48
+              ],
+              [
+                11,
+                36
+              ]
+            ],
+            "minimum_length": 10
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ]
+            ],
+            "minimum_length": 14,
+            "maximum_length": 15
+          }
+        },
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "headerInfo": {
+          "wb_id": "69048700",
+          "county": "St. Louis",
+          "survey_type": "Population Assessment",
+          "id_date": "2008-08-25",
+          "wb_name": "Gun",
+          "survey_id": "1020824660266000",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "lengths": {
+          "WTS": {
+            "maximum_length": 22,
+            "minimum_length": 19,
+            "fishCount": [
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ]
+            ]
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 16
+          },
+          "TLC": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                9
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                8,
+                9
+              ],
+              [
+                9,
+                24
+              ]
+            ],
+            "maximum_length": 12
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                27,
+                1
+              ]
+            ],
+            "minimum_length": 12,
+            "maximum_length": 27
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ],
+            "minimum_length": 10,
+            "maximum_length": 15
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.93",
+            "species": "SMB",
+            "gear": "Open-water angling",
+            "quartileWeight": "N/A",
+            "CPUE": "5.50",
+            "totalCatch": 11,
+            "gearCount": 2,
+            "totalWeight": 4625,
+            "quartileCount": "N/A"
+          },
+          {
+            "gear": "Deep gill nets",
+            "species": "WTS",
+            "averageWeight": "3.59",
+            "CPUE": "1.00",
+            "quartileWeight": "N/A",
+            "totalCatch": 6,
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalWeight": 9780
+          },
+          {
+            "totalCatch": 44,
+            "gearCount": 6,
+            "totalWeight": 4872,
+            "quartileCount": "N/A",
+            "averageWeight": "0.24",
+            "species": "TLC",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "7.33"
+          },
+          {
+            "quartileCount": "N/A",
+            "totalWeight": 650,
+            "gearCount": 6,
+            "totalCatch": 3,
+            "CPUE": "0.50",
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "species": "BUB",
+            "averageWeight": "0.48"
+          },
+          {
+            "totalWeight": 5760,
+            "quartileCount": "N/A",
+            "totalCatch": 4,
+            "gearCount": 6,
+            "quartileWeight": "N/A",
+            "CPUE": "0.67",
+            "averageWeight": "3.17",
+            "gear": "Deep gill nets",
+            "species": "LAT"
+          },
+          {
+            "averageWeight": "1.70",
+            "species": "SMB",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "0.50",
+            "gearCount": 6,
+            "totalCatch": 3,
+            "totalWeight": 2320,
+            "quartileCount": "N/A"
+          }
+        ],
+        "surveyID": "1020824660266000",
+        "surveyDate": "2008-08-25",
+        "narrative": "<p>Gun is a deep, clear, class 3 lake located south of Lac La Croix within the Boundary Waters Canoe Area.  Several species of fish were captured in 2008, however, lake trout are the primary focus of management.    <br> \n   <br> \nLake trout gill-net abundance was 0.67 fish/set, which was much lower than the previous investigation in 1996 (2.13 fish/set).  Net locations were adjusted in 2008 to target optimal thermal habitat for lake trout, therefore results may not be directly comparable to previous investigations.  Four year-classes were present and age ranged from 3-10 years.  Total length ranged from 10.9-28.5 inches and the mean was 19.6.  Mean weight was 3.18 pounds.   <br> \n <br> \nAngling was used to sample a total of 11 smallmouth bass during 5 hours of fishing (2 people fished for 2.5 hours each).  Smallmouth bass were also captured in deepwater gill nets, but below what is typically found in most class 3 lakes.  Total length ranged from 8.4 to 16.3 inches and age ranged from 3 to 9 years for both gear types combined.   <br> \n <br> \nTullibee gill-net abundance was 7.33 fish/set.  Total length ranged from 6.7-12.2 inches and the mean was 9.5.  Mean weight was 0.24 pounds.   <br> \n <br> \n</p>"
+      }
+    ],
+    "lakeName": "Gun",
+    "littoralAcres": 24,
+    "shoreLengthMiles": 5.06,
+    "meanDepthFeet": 35.8,
+    "DOWNumber": "69048700",
+    "sampledPlants": [],
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "location": "80 rod portage from Lac La Croix Lake."
+      },
+      {
+        "ownerTypeId": "USF",
+        "location": "PORTAGE TRAIL FROM TESAKER LAKE - 80 RODS",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O"
+      },
+      {
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "PORTAGE TRAIL FROM LITTLE BEARTRACK LAKE  120 RODS",
+        "ownerTypeId": "USF"
+      },
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "location": "PORTAGE TRAIL FROM EUGENE LAKE   85 RODS",
+        "accessTypeId": "O"
+      }
+    ],
+    "waterClarity": [
+      [
+        "07/30/2025",
+        "16.4"
+      ],
+      [
+        "09/11/2023",
+        "18"
+      ],
+      [
+        "09/11/2023",
+        "17"
+      ],
+      [
+        "08/25/2008",
+        "15.5"
+      ],
+      [
+        "08/26/2008",
+        "17.8"
+      ]
+    ],
+    "averageWaterClarity": "16.9"
+  },
+  "status": "SUCCESS"
+}

@@ -1,0 +1,570 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "maxDepthFeet": 63,
+    "littoralAcres": 1190,
+    "DOWNumber": "38039700",
+    "shoreLengthMiles": 74.98,
+    "meanDepthFeet": 0,
+    "lakeName": "Insula",
+    "waterClarity": [
+      [
+        "08/05/2025",
+        "7"
+      ]
+    ],
+    "areaAcres": 2840.04,
+    "surveys": [
+      {
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "CPUE": "3.25",
+            "quartileWeight": "1.9-3.6",
+            "totalWeight": 156,
+            "gearCount": 20,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.40",
+            "quartileCount": "1.2-3.6",
+            "species": "NOP",
+            "totalCatch": 65
+          },
+          {
+            "gearCount": 20,
+            "CPUE": "0.45",
+            "quartileWeight": "0.2-0.4",
+            "totalWeight": 2.25,
+            "averageWeight": "0.25",
+            "quartileCount": "0.5-2.2",
+            "gear": "Standard gill nets",
+            "species": "RKB",
+            "totalCatch": 9
+          },
+          {
+            "totalWeight": 72,
+            "CPUE": "4.25",
+            "quartileWeight": "0.7-1.3",
+            "gearCount": 20,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.85",
+            "quartileCount": "3.1-9.8",
+            "species": "WAE",
+            "totalCatch": 85
+          },
+          {
+            "averageWeight": "0.08",
+            "quartileCount": "1.9-7.1",
+            "gear": "Standard gill nets",
+            "gearCount": 20,
+            "totalWeight": 2.25,
+            "quartileWeight": "0.1-0.3",
+            "CPUE": "1.40",
+            "totalCatch": 28,
+            "species": "YEP"
+          },
+          {
+            "totalCatch": 7,
+            "species": "LKW",
+            "averageWeight": "0.86",
+            "quartileCount": "0.2-3.0",
+            "gear": "Standard gill nets",
+            "gearCount": 20,
+            "CPUE": "0.35",
+            "quartileWeight": "0.9-3.0",
+            "totalWeight": 6
+          },
+          {
+            "species": "WTS",
+            "totalCatch": 83,
+            "quartileWeight": "1.3-2.0",
+            "CPUE": "4.15",
+            "totalWeight": 114,
+            "gearCount": 20,
+            "gear": "Standard gill nets",
+            "quartileCount": "2.8-6.7",
+            "averageWeight": "1.37"
+          },
+          {
+            "totalWeight": 23.5,
+            "CPUE": "5.50",
+            "quartileWeight": "0.2-0.5",
+            "gearCount": 20,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.8-12.4",
+            "averageWeight": "0.21",
+            "species": "TLC",
+            "totalCatch": 110
+          },
+          {
+            "gearCount": 20,
+            "totalWeight": 2,
+            "quartileWeight": "N/A",
+            "CPUE": "0.20",
+            "quartileCount": "N/A",
+            "averageWeight": "0.50",
+            "gear": "Standard gill nets",
+            "species": "BLG",
+            "totalCatch": 4
+          }
+        ],
+        "narrative": "<p>Fish populations are very similar to those found in the 1950 survey.  Walleyes, northern pike, cisco, sucker, and rock bass are present in above average numbers.  Bluegill, perch and whitefish are present in below average numbers.  Age IV and younger fish comprise 82% of the walleye population.  Growth is below average on young fish, but is somewhat better on older fish.</p>",
+        "headerInfo": {
+          "survey_id": "109422",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38039700",
+          "county": "Lake",
+          "wb_name": "Insula",
+          "survey_type": "Re-Survey",
+          "id_date": "1975-07-21"
+        },
+        "surveyDate": "1975-07-21",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Re-Survey",
+        "surveyID": "109422"
+      },
+      {
+        "lengths": {
+          "WAE": {
+            "minimum_length": 7,
+            "maximum_length": 29,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "LKW": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ],
+            "minimum_length": 13
+          },
+          "TLC": {
+            "minimum_length": 5,
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                20
+              ],
+              [
+                7,
+                20
+              ],
+              [
+                8,
+                2
+              ]
+            ]
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 7,
+            "minimum_length": 5
+          },
+          "WTS": {
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                13
+              ],
+              [
+                14,
+                10
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                8
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                9
+              ]
+            ],
+            "minimum_length": 6
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                23,
+                4
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                27,
+                2
+              ],
+              [
+                29,
+                3
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                33,
+                1
+              ],
+              [
+                37,
+                2
+              ]
+            ],
+            "maximum_length": 37,
+            "minimum_length": 13
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                4
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8
+          }
+        },
+        "narrative": "<p>Insula Lake is in Ecological Lake Class 7, which consists of 41 lakes in northeast Minnesota that are very large, have very irregular shoreline shapes, and have very soft (unmineralized) water.  Insula Lake was thermally stratified on 07/09/2001 and retained 5 ppm oxygen to a depth of 19 ft, where the temperature was 60 F, and 2 ppm oxygen to within a foot of the bottom, where the temperature was 43 F.  Insula Lake has a number of inlets, with the Kawishiwi River, from Alice Lake, being the largest.  Most of the inlets and the outlet to Hudson Lake have no barriers to fish movement.  Lake bottom substrates along the shoreline are 55% boulder, 24% ledgerock, 10% rubble, 9% sand, and 2% muck.  Aquatic plants are sparse and grow to a depth of 8 ft; largeleaf pondweed, white and yellow waterlily, bulrush and spikerush are the most common plants.Fish sampling in the 2001 fish population assessment consisted of 12 gillnet sets.  Three previous investigations, dating back to 1950, used 4-20 gillnet sets.  Trapnets have not been used on this lake due to the difficult portage access.The total catch of fish (all species combined) in the gillnets in 2001 of 16.1 fish/net (21.1 lb/net) was in the first quartile for this lake class and was lower than the median catch of 28.3 fish/net (26.0 lb/net) in all investigations on this lake.  Fewer walleye and cisco were caught in 2001 than in most previous investigations.  Lake Class 7 is one of the most productive lake classes in northeast Minnesota, in terms of gillnet catches of fish.Walleye numbers in 2001 (2.4/gillnet) were in the first quartile for this lake class and were lower than the median catch of 8.9/gillnet in all investigations on this lake.  Walleye sizes in 2001 averaged 13.8\" (1.2 lb), which was in the third quartile for this lake class and was similar to walleye sizes in previous investigations on this lake.  The largest walleye captured in 2001 was 29.7\" (10.1 lb).  Walleye scales were difficult to read, but the growth of walleye captured in 2001 appeared to be slower than normal by area standards.  Walleye from seven year classes were present.Northern pike numbers in 2001 (2.6/gillnet) were in the third quartile for this lake class and were similar to the median catch of 3.4/gillnet in all investigations on this lake.  Pike sizes in 2001 averaged 24.0\" (3.8 lb) which was in the fourth quartile for this lake class and was larger than the average size of 21.5\" in all investigations on this lake.  The largest pike captured in 2001 was 37.6\" (14.1 lb).  Pike scales were difficult to read, but pike growth appeared to be somewhat faster than normal by area standards. Pike from eight year classes were present.Cisco numbers in 2001 (3.8/gillnet) were in the second quartile for this lake class and were lower than the median catch of 9.4/gillnet in all investigations on this lake.  Cisco sizes in 2001 averaged 6.9\" (0.1 lb), which was in the first quartile for this lake class and was smaller than the    average size of 8.1\" in all investigations on this lake.  The largest cisco captured in 2001 was 8.9\".White sucker numbers in 2001 (5.9/gillnet) were in the third quartile for this lake class and were similar to the median catch of 5.0/gillnet in all investigations on this lake.  Sucker sizes in 2001 averaged 13.8\" (1.3 lb) which was at the first quartile for this lake class and was similar to the average size of 14.0\" in all investigations on this lake.  Other fish species captured in 2001 were present in low numbers.   </p>",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 12,
+            "totalWeight": 52965,
+            "quartileWeight": "1.9-3.6",
+            "CPUE": "2.58",
+            "averageWeight": "3.77",
+            "quartileCount": "1.2-3.6",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "totalCatch": 31
+          },
+          {
+            "quartileWeight": "0.2-0.4",
+            "CPUE": "0.50",
+            "totalWeight": 540,
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.5-2.2",
+            "averageWeight": "0.20",
+            "species": "RKB",
+            "totalCatch": 6
+          },
+          {
+            "species": "WAE",
+            "totalCatch": 29,
+            "CPUE": "2.42",
+            "quartileWeight": "0.7-1.3",
+            "totalWeight": 15766,
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.20",
+            "quartileCount": "3.1-9.8"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "1.9-7.1",
+            "averageWeight": "0.10",
+            "totalWeight": 371,
+            "quartileWeight": "0.1-0.3",
+            "CPUE": "0.67",
+            "gearCount": 12,
+            "totalCatch": 8,
+            "species": "YEP"
+          },
+          {
+            "species": "LKW",
+            "totalCatch": 3,
+            "quartileWeight": "0.9-3.0",
+            "CPUE": "0.25",
+            "totalWeight": 2350,
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.2-3.0",
+            "averageWeight": "1.73"
+          },
+          {
+            "species": "WTS",
+            "totalCatch": 71,
+            "totalWeight": 42244,
+            "CPUE": "5.92",
+            "quartileWeight": "1.3-2.0",
+            "gearCount": 12,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.31",
+            "quartileCount": "2.8-6.7"
+          },
+          {
+            "species": "TLC",
+            "totalCatch": 45,
+            "gearCount": 12,
+            "CPUE": "3.75",
+            "quartileWeight": "0.2-0.5",
+            "totalWeight": 2060,
+            "quartileCount": "1.8-12.4",
+            "averageWeight": "0.10",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_name": "Insula",
+          "county": "Lake",
+          "id_date": "2001-07-09",
+          "wb_alt_name": "",
+          "survey_id": "109420",
+          "wb_type": "Lake",
+          "wb_id": "38039700"
+        },
+        "surveyDate": "2001-07-09",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyID": "109420"
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Insula Lake on August 5th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 64.0 feet), the water temperature decreased to 17.2 degrees C (63.0 degrees F) at 19.8 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 19.7 feet at the time of sampling. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Lake Whitefish. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 17.3 degrees C (63.1 degrees F). TDO3 values warmer than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were unsuitable for Lake Whitefish at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated unsuitable oxythermal habitat for Lake Whitefish. In four fish surveys from 1950 through 2001, Lake Whitefish were caught in each survey. No fish surveys have been conducted on Insula since 2001. When adequate oxythermal habitat is not available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyDate": "2025-08-05",
+        "headerInfo": {
+          "wb_id": "38039700",
+          "survey_id": "22122521951955024",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "2025-08-05",
+          "county": "Lake",
+          "wb_name": "Insula",
+          "survey_type": "Targeted Survey"
+        },
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "surveyID": "22122521951955024"
+      }
+    ],
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "location": "180 rod portage from Kiana Lake.",
+        "accessTypeId": "CA",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF"
+      },
+      {
+        "accessTypeId": "CA",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "location": "10 rod portage from Alice Lake via the Kawishiwi River."
+      },
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK",
+        "location": "60 rod portage from Carol Lake."
+      },
+      {
+        "publicUseAuthCode": "UNK",
+        "location": "Several portages from Hope Lake via Hope Creek.",
+        "accessTypeId": "CA",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF"
+      },
+      {
+        "location": "105 rod portage from Hudson Lake.",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "CA",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " "
+      }
+    ],
+    "county": "Lake",
+    "averageWaterClarity": "7.0",
+    "sampledPlants": [],
+    "officeCode": "F214"
+  },
+  "timestamp": 1790285659,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,156 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285868,
+  "result": {
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 18
+          },
+          "GSF": {
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "YEP": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 6
+          }
+        },
+        "headerInfo": {
+          "wb_name": "Ecstasy",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "id_date": "1998-07-20",
+          "wb_id": "16072200",
+          "survey_id": "110934"
+        },
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1998-07-20",
+        "surveyID": "110934",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "species": "GSF",
+            "gear": "Minnow traps",
+            "averageWeight": "0.00",
+            "totalCatch": 1,
+            "CPUE": "0.25"
+          },
+          {
+            "gear": "Minnow traps",
+            "totalCatch": 52,
+            "averageWeight": "0.00",
+            "CPUE": "13.00",
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "species": "YEP"
+          },
+          {
+            "averageWeight": "0.09",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "CPUE": "0.33",
+            "totalWeight": 42,
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "species": "YEP",
+            "quartileCount": "N/A"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.07",
+            "totalCatch": 2,
+            "CPUE": "0.67",
+            "quartileWeight": "N/A",
+            "totalWeight": 63,
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "species": "GSF"
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "totalWeight": 7037,
+            "CPUE": "3.00",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.72",
+            "totalCatch": 9
+          }
+        ],
+        "narrative": "<p>Ecstasy Lake did not appear to be capable of supporting lake trout, and none were found in the lake in 1998.  Only white sucker, green sunfish, and yellow perch were collected in survey gill nets, and only green sunfish and yellow perch were taken in 1/4-in-mesh wire minnow traps.  Because of the connection with Little Saganaga Lake, it seems likely that Ecstasy Lake supoorts a small number of northern pike, even though none were taken in 1998.</p>"
+      }
+    ],
+    "maxDepthFeet": 47,
+    "county": "Cook",
+    "waterClarity": [],
+    "DOWNumber": "16072200",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "location": "Inside BWCAW; access by channel from Little Saganaga Lake.",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " "
+      }
+    ],
+    "officeCode": "F218",
+    "sampledPlants": [],
+    "littoralAcres": 0,
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "N/A",
+    "areaAcres": 49.11,
+    "lakeName": "Ecstasy",
+    "shoreLengthMiles": 2.21
+  }
+}

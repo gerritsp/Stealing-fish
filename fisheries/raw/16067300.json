@@ -1,0 +1,560 @@
+{
+  "result": {
+    "accesses": [
+      {
+        "location": " ",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": "Portage trail from Hug Lake on southeast end of Mesaba Lake. Entirely within the BWCAW.",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO"
+      },
+      {
+        "lakeAccessComments": "Portage trail from Hub Lake to the northeast corner of the north basin near the outlet. Entirely within the BWCAW.",
+        "location": " ",
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF"
+      },
+      {
+        "location": " ",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": "Portage trail from Chaser Lake to west end of main basin of Mesaba Lake. Entirely within the BWCAW.",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO"
+      }
+    ],
+    "waterClarity": [
+      [
+        "06/22/2022",
+        "9.25"
+      ],
+      [
+        "06/24/2022",
+        "9"
+      ],
+      [
+        "08/20/2024",
+        "12.3"
+      ],
+      [
+        "08/04/2025",
+        "9.5"
+      ]
+    ],
+    "maxDepthFeet": 65,
+    "averageWaterClarity": "10.0",
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>The lake will be winter oxygen tested and when sufficient yearling Lake Trout are available it will be airplane stocked for a period of five years and then netted to determine the success of the plants. On paper it looks like an excellent Lake Trout lake.</p>",
+        "surveyID": "112503",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1976-06-29",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 56,
+            "totalWeight": 139.7,
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "quartileWeight": "2.1-4.9",
+            "quartileCount": "0.6-2.4",
+            "gearCount": 12,
+            "averageWeight": "2.49",
+            "CPUE": "4.67"
+          },
+          {
+            "totalCatch": 52,
+            "totalWeight": 51.55,
+            "species": "WTS",
+            "gearCount": 12,
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.99",
+            "CPUE": "4.33"
+          }
+        ],
+        "lengths": {},
+        "headerInfo": {
+          "wb_name": "Mesaba",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "id_date": "1976-06-29",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "16067300",
+          "survey_id": "112503"
+        }
+      },
+      {
+        "headerInfo": {
+          "wb_id": "16067300",
+          "wb_type": "Lake",
+          "survey_id": "112519",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "id_date": "1981-06-22",
+          "wb_name": "Mesaba"
+        },
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.65",
+            "quartileCount": "0.4-3.7",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-4.0",
+            "CPUE": "0.33",
+            "totalCatch": 2,
+            "species": "LAT",
+            "totalWeight": 3.3
+          },
+          {
+            "quartileCount": "0.8-5.3",
+            "gearCount": 6,
+            "quartileWeight": "1.1-2.5",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.00",
+            "CPUE": "3.00",
+            "totalCatch": 18,
+            "totalWeight": 0,
+            "species": "WTS"
+          }
+        ],
+        "surveyDate": "1981-06-22",
+        "surveyID": "112519",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>The initial introduction of Lake Trout in 1977 was successful. Due to the remote nature of the lake and the high cost of aerial stocking no further plants of Lake Trout will be made in this lake. These trout have not reached sexual maturity as yet but natural reproduction should occur in the next two years. The lake will be netted (assessment) again in five years to determine if these fish are reproducing.</p>",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "narrative": "<p>Mesaba Lake is located 28 miles north of Schroeder, is entirely within the BWCAW, and has an area of 213 acres with a maximum depth of 65 feet. There are three portage trails that access the lake. The lake is about seven miles into the BWCAW and requires several arduous portages to get there. The lake is managed for Lake Trout and Northern Pike. Lake Trout were first stocked into the lake in 1977, and again in 2000, 2001, and 2002 in an attempt to create a self-sustaining population. <br> \n <br> \nThe 2022 Lake Trout catch of 8/lift exceeded the normal range for the type of lake. The average weight was near three pounds, which is in the normal range for similar lakes. Fish ranged from 9 to 26.3 inches long, which confirmed that there are multiple years of naturally reproduced fish in the lake. One fish that was 25.4 inches long was identified as being stocked in 2002. <br> \n <br> \nOne Northern Pike was sampled that was 26.6 inches long and weighed nearly four pounds. The only net that sampled a Northern Pike was set in water no deeper than 15 feet. All other nets were set in deeper water targeting Lake Trout habitat and would be expected to have low catch. <br> \n <br> \nWhite Sucker were sampled in above average numbers, with average weight of 1.8 pounds. Green Sunfish were also sampled. <br> \n <br> \nThe results suggest that the Lake Trout are reproducing and maintaining a population that can provide angler harvest. While Northern Pike are present, their numbers appear to be low, but can provide an additional option for anglers.</p>",
+        "surveySubType": "Standard Survey",
+        "headerInfo": {
+          "id_date": "2022-06-22",
+          "survey_type": "Standard Survey",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_name": "Mesaba",
+          "wb_id": "16067300",
+          "wb_type": "Lake",
+          "survey_id": "16332218226133000"
+        },
+        "surveyID": "16332218226133000",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 48,
+            "species": "LAT",
+            "totalWeight": 63085,
+            "averageWeight": "2.90",
+            "quartileCount": "0.4-3.7",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-4.0",
+            "CPUE": "8.00"
+          },
+          {
+            "averageWeight": "3.98",
+            "quartileCount": "0.6-2.4",
+            "gearCount": 6,
+            "quartileWeight": "2.1-4.9",
+            "gear": "Standard gill nets",
+            "CPUE": "0.17",
+            "totalCatch": 1,
+            "species": "NOP",
+            "totalWeight": 1804
+          },
+          {
+            "CPUE": "1.00",
+            "quartileCount": "0.2-0.9",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.08",
+            "totalWeight": 214,
+            "species": "GSF",
+            "totalCatch": 6
+          },
+          {
+            "CPUE": "8.00",
+            "averageWeight": "1.76",
+            "quartileWeight": "1.1-2.5",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileCount": "0.8-5.3",
+            "species": "WTS",
+            "totalWeight": 38416,
+            "totalCatch": 48
+          }
+        ],
+        "lengths": {
+          "NOP": {
+            "maximum_length": 26,
+            "fishCount": [
+              [
+                26,
+                1
+              ]
+            ],
+            "minimum_length": 26
+          },
+          "LAT": {
+            "maximum_length": 26,
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                7
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                5
+              ],
+              [
+                22,
+                8
+              ],
+              [
+                23,
+                4
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                4
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "GSF": {
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                4,
+                5
+              ],
+              [
+                5,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "WTS": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "minimum_length": 7
+          }
+        },
+        "surveyDate": "2022-06-22"
+      },
+      {
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "16067300",
+          "survey_id": "112495",
+          "wb_name": "Mesaba",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "id_date": "1993-08-04",
+          "wb_alt_name": ""
+        },
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "8.82",
+            "quartileCount": "0.4-3.7",
+            "gearCount": 6,
+            "quartileWeight": "1.5-4.0",
+            "gear": "Standard gill nets",
+            "CPUE": "0.17",
+            "totalCatch": 1,
+            "species": "LAT",
+            "totalWeight": 4000
+          },
+          {
+            "gearCount": 6,
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets",
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "2.50",
+            "CPUE": "2.83",
+            "totalCatch": 17,
+            "totalWeight": 19300,
+            "species": "NOP"
+          },
+          {
+            "CPUE": "15.33",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 6,
+            "quartileCount": "0.8-5.3",
+            "averageWeight": "1.53",
+            "totalWeight": 63694,
+            "species": "WTS",
+            "totalCatch": 92
+          }
+        ],
+        "lengths": {
+          "LAT": {
+            "minimum_length": 29,
+            "fishCount": [
+              [
+                29,
+                1
+              ]
+            ],
+            "maximum_length": 29
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                6
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                7
+              ],
+              [
+                15,
+                12
+              ],
+              [
+                16,
+                9
+              ],
+              [
+                17,
+                17
+              ],
+              [
+                18,
+                11
+              ],
+              [
+                19,
+                9
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 22
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                4
+              ],
+              [
+                24,
+                4
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                1
+              ]
+            ],
+            "minimum_length": 18,
+            "maximum_length": 26
+          }
+        },
+        "surveyDate": "1993-08-04",
+        "surveyID": "112495",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Lake Trout were introduced in Mesaba Lake in 1977. Reproduction has been very limited and present numbers are low. Test nets in 1993 sampled only one Lake Trout, a large individual weighing 8.8 lbs. Angler harvest of Lake Trout is expected to be low and probably will remain so until the stocks are increased thru stocking.     Northern Pike are the only other gamefish in Mesaba Lake and are present in average numbers. Angling for Northern Pike may not be highly successful as much of the lake is deep and drops off fast. Shallow weedy areas which normally hold Northern Pike are scarce. The fish taken in test nets average 2.5 lbs with sizes ranging from 18\" to 27\".</p>",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Mesaba Lake on August 20, 2024 to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased to below 8.8 degrees C (47.8 degrees F) at 24.5 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 43 feet at the time of sampling. The thickness of this layer of water in the water column was 18.5 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.6 degrees C (43.9 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey on Mesaba Lake during the late summer period of maximum oxythermal stress. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. </p>",
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "surveyID": "21872426840191223",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyDate": "2024-08-20",
+        "headerInfo": {
+          "wb_id": "16067300",
+          "wb_type": "Lake",
+          "survey_id": "21872426840191223",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "id_date": "2024-08-20",
+          "county": "Cook",
+          "wb_name": "Mesaba"
+        }
+      },
+      {
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "id_date": "2025-08-04",
+          "county": "Cook",
+          "wb_name": "Mesaba",
+          "wb_id": "16067300",
+          "wb_type": "Lake",
+          "survey_id": "-268"
+        },
+        "surveyType": "Targeted Survey",
+        "surveyID": "-268",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyDate": "2025-08-04",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Mesaba Lake on August 4th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 62.3 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 23.4 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 46.5 feet at the time of sampling. The thickness of this layer of water in the water column was 23.1 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.9 degrees C (42.6 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates suitable oxythermal habitat, when the suitable oxythermal habitat layer was 18.5 feet thick. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveySubType": "Targeted Survey"
+      }
+    ],
+    "shoreLengthMiles": 6.6,
+    "officeCode": "F215",
+    "sampledPlants": [],
+    "meanDepthFeet": 24.4,
+    "DOWNumber": "16067300",
+    "lakeName": "Mesaba",
+    "areaAcres": 213.13,
+    "county": "Cook",
+    "littoralAcres": 85
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285734
+}

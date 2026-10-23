@@ -1,0 +1,1052 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285924,
+  "message": "Normal execution.",
+  "result": {
+    "waterClarity": [
+      [
+        "08/06/2024",
+        "14.8"
+      ],
+      [
+        "10/05/1992",
+        "20"
+      ],
+      [
+        "09/21/2009",
+        "23.9"
+      ],
+      [
+        "09/26/2016",
+        "19"
+      ],
+      [
+        "06/19/1969",
+        "19.5"
+      ]
+    ],
+    "lakeName": "Moss",
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "location": "",
+        "lakeAccessComments": " ",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN"
+      },
+      {
+        "location": " ",
+        "lakeAccessComments": "Carry-in trail from Cook County Road 65.  Parking for three vehicles.",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "CA"
+      }
+    ],
+    "DOWNumber": "16023400",
+    "shoreLengthMiles": 4.31,
+    "maxDepthFeet": 86,
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.8-4.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.36",
+            "gearCount": 3,
+            "CPUE": "11.33",
+            "quartileWeight": "1.2-3.1",
+            "species": "LAT",
+            "totalWeight": 46.1,
+            "totalCatch": 34
+          }
+        ],
+        "surveyID": "109859",
+        "narrative": "<p>THERE IS A GOOD RANGE OF SIZES AND YEAR-CLASSES OF LAKE TROUT AVAILABLE. GROWTH RATES APPEAR TO BE SLOW HOWEVER. THE PRESENCE OF GOOD-SIZED 1979 AND 1978 YEAR-CLASSES INDICATES THAT IN SOME YEARS AT LEAST THERE IS GOOD NATURAL REPRODUCTION, SINCE THESE YEAR-CLASSES CANNOT BE ACCOUNTED FOR IN THE STOCKING RECORDS. AGE III AND YOUNGER FISH WERE PROBABLY TOO SMALL TO BE ADEQUATELY SAMPLED. RAIN- BOW TROUT ARE PRESENT AND ARE PROVIDING A FISHERY BUT DO NOT APPEAR IN THIS ASSESSMENT.</p>",
+        "lengths": {},
+        "headerInfo": {
+          "wb_name": "Moss",
+          "survey_type": "Population Assessment",
+          "id_date": "1985-10-14",
+          "survey_id": "109859",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "16023400"
+        },
+        "surveyDate": "1985-10-14"
+      },
+      {
+        "surveyID": "110060",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.2-3.1",
+            "totalCatch": 29,
+            "totalWeight": 45.5,
+            "species": "LAT",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-4.3",
+            "CPUE": "9.67",
+            "averageWeight": "1.57",
+            "gearCount": 3
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-2.2",
+            "CPUE": "5.33",
+            "averageWeight": "1.27",
+            "gearCount": 3,
+            "quartileWeight": "0.7-1.4",
+            "totalCatch": 16,
+            "species": "SMB",
+            "totalWeight": 20.38
+          },
+          {
+            "CPUE": "0.67",
+            "gearCount": 3,
+            "averageWeight": "1.56",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-5.0",
+            "totalCatch": 2,
+            "species": "WTS",
+            "totalWeight": 3.13,
+            "quartileWeight": "1.6-2.4"
+          }
+        ],
+        "narrative": "<p>THE PRESENCE OF SMALLMOUTH BASS MAY ADVERSELY AFFECT TROUT MANAGEMENT EFFORTS BY DIRECT PREDA- TION ON STOCKED TROUT AND BY COMPETITION FOR AVAILABLE FORAGE. MOSS LAKE WAS RECLAIMED IN 1970 FOR MANAGEMENT AS A LAKE TROUT LAKE, AND HAS BEEN STOCKED WITH LAKE TROUT REGULARLY SINCE. LAKE TROUT ARE PRESENTLY ABUNDANT, AND SHOW GOOD AVERAGE SIZE. STRONGEST YEAR CLASSES ARE 1982 AND 1984, BOTH YEARS IN WHICH LAKE TROUT WERE STOCKED. SOME NATURAL REPRODUCTION IS INDICATED BY THE PRESENCE OF A FAIRLY STRONG 1983 YEAR CLASS. LAKE TROUT GROWTH IS SLOW BY STATE STANDARDS. NO RAINBOW TROUT WERE TAKEN, AND THE STATUS OF THE RAINBOW TROUT POPULATION IS QUESTIONABLE. THE 1982 YEARLING STOCKING IS THE ONLY ONE WHICH HAS SHOWN UP IN AN ASSESSMENT (1986); THEREFORE, THE SUCCESS OF FINGERLING STOCKINGS IS DOUBTFUL. SMALLMOUTH BASS AND WHITE SUCKER HAVE BOTH APPEARED FOR THE FIRST TIME SINCE RECLAMATION IN THIS ASSESSMENT. ALL SMALLMOUTH BASS TAKEN WERE AGE III+, AND SHOWED THE FAST GROWTH TYPICAL OF INITIAL SMALLMOUTH INTRODUCTIONS. IT IS PROBABLE THAT A FEW ADULT SMALLMOUTH BASS WERE INTRODUCED IN 1983 OR 1984 AND SUCCESSFULLY SPAWNED IN 1984.</p>",
+        "surveyDate": "1987-10-01",
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_name": "Moss",
+          "id_date": "1987-10-01",
+          "county": "Cook",
+          "survey_id": "110060",
+          "wb_type": "Lake",
+          "wb_id": "16023400",
+          "wb_alt_name": ""
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Lake trout were relatively abundant, with most between 13 and 19 inches in length, and four to six years of age.  Lake trout growth rates had been about average for the area.  There was good evidence for some natural reproduction of lake trout, but also a good chance that stocking had contributed substantially to the population.  Stocked year classes (but not necessarily stocked fish) accounted for 58% of the catch, and unstocked year classes the remaining 42%. No rainbow trout were found, and it was unlikely that any fish would have survived from the last stocking, done in 1993.The smallmouth bass catch was within the normal range for lakes of this class.  Smallmouth bass were reproducing naturally, and exhibited average growth rates.</p>",
+        "surveyID": "110999",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.8-4.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.02",
+            "gearCount": 6,
+            "CPUE": "6.33",
+            "quartileWeight": "1.2-3.1",
+            "totalWeight": 34903,
+            "species": "LAT",
+            "totalCatch": 38
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-2.2",
+            "CPUE": "1.00",
+            "gearCount": 6,
+            "averageWeight": "0.52",
+            "quartileWeight": "0.7-1.4",
+            "totalCatch": 6,
+            "totalWeight": 1407,
+            "species": "SMB"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-5.0",
+            "CPUE": "2.17",
+            "averageWeight": "2.89",
+            "gearCount": 6,
+            "quartileWeight": "1.6-2.4",
+            "totalCatch": 13,
+            "species": "WTS",
+            "totalWeight": 17050
+          }
+        ],
+        "lengths": {
+          "LAT": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                9
+              ],
+              [
+                19,
+                7
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 7
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                8,
+                2
+              ]
+            ],
+            "maximum_length": 13,
+            "minimum_length": 8
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 17
+          }
+        },
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "16023400",
+          "wb_type": "Lake",
+          "survey_id": "110999",
+          "county": "Cook",
+          "id_date": "1998-09-21",
+          "wb_name": "Moss",
+          "survey_type": "Population Assessment"
+        },
+        "surveyDate": "1998-09-21"
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Moss Lake on August 6th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 80.4 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 39.4 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L at 80.4 feet at the time of sampling. The thickness of this layer of water in the water column was 41.0 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 6.8 degrees C (44.2 degrees F), was substituted as TDO3. TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2022 and 2023 also indicate suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 2024. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.</p>",
+        "surveyID": "21872425647200199",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "16023400",
+          "wb_type": "Lake",
+          "survey_id": "21872425647200199",
+          "county": "Cook",
+          "id_date": "2024-08-06",
+          "wb_name": "Moss",
+          "survey_type": "Targeted Survey"
+        },
+        "lengths": {},
+        "surveyDate": "2024-08-06",
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey"
+      },
+      {
+        "narrative": "<p>Compared to previous assessments in Moss Lake and other lakes of the same class, lake trout abundance appeared to be relatively high and average size was small.  Four-year-old lake trout averaging 13-14 in long made up over half the catch.  Half of this year class had been stocked.  Twenty-five (34%) of the 73 lake trout caught had been stocked; 48 (66%) were the result of natural reproduction.  Stocking of lake trout is currently planned for every third year.White sucker were relatively few in number but large in size.  No other fish species were collected; however, Moss Lake is known to support fairly high numbers of smallmouth bass.</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.8-4.3",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "averageWeight": "1.14",
+            "CPUE": "12.17",
+            "quartileWeight": "1.2-3.1",
+            "totalWeight": 37642,
+            "species": "LAT",
+            "totalCatch": 73
+          },
+          {
+            "totalCatch": 7,
+            "totalWeight": 9482,
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "CPUE": "1.17",
+            "averageWeight": "2.99",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-5.0"
+          }
+        ],
+        "surveyID": "111408",
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "minimum_length": 16,
+            "maximum_length": 22
+          },
+          "LAT": {
+            "minimum_length": 7,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                10,
+                7
+              ],
+              [
+                11,
+                10
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                11
+              ],
+              [
+                15,
+                13
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          }
+        },
+        "headerInfo": {
+          "county": "Cook",
+          "survey_id": "111408",
+          "wb_id": "16023400",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "wb_name": "Moss",
+          "id_date": "2003-09-22"
+        },
+        "surveyDate": "2003-09-22",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2009-09-21",
+        "lengths": {
+          "BKT": {
+            "maximum_length": 15,
+            "minimum_length": 15,
+            "fishCount": [
+              [
+                15,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "maximum_length": 20,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                10
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                7,
+                2
+              ]
+            ]
+          },
+          "SPT": {
+            "minimum_length": 18,
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                18,
+                1
+              ]
+            ]
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 10
+          },
+          "WTS": {
+            "minimum_length": 11,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                20,
+                2
+              ]
+            ]
+          }
+        },
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "16023400",
+          "wb_type": "Lake",
+          "survey_id": "4310926555613000",
+          "county": "Cook",
+          "id_date": "2009-09-21",
+          "wb_name": "Moss",
+          "survey_type": "Population Assessment"
+        },
+        "narrative": "<p>The lake trout catch in 2009 was high for a lake of this type, but not for Moss lake historically.  Lake trout taken in 2009 were average in size for a lake of this type, and for Moss Lake.  Stocking and natural reproduction contributed to the 2009 catch; of the 34 lake trout collected, 12 bore fin clips identifying them as stocked fish.  Even in \"stocked\" year classes, naturally-produced (unclipped) lake trout accounted for 10 of the 22 fish taken.  Lake trout growth had been slow; fish reached an average length of 16.3 inches at the end of their seventh year.  Similarly slow growth was observed for four-year-old lake trout.  Moss Lake is typical of many lake trout lakes in the area where coldwater forage is lacking.  Fish rely on a largely invertebrate diet, limiting their growth and maximum size. <br> \n <br> \nSmallmouth bass continue to maintain a population in Moss Lake, although their numbers appear to have dropped significantly since they first appeared (1987).  Smallmouth bass collected in 2009 were small; their mean weight was below the normal range for the lake class, and was the lowest observed to date in this lake.  Growth of young smallmouth bass had been slow; three-year-old fish reached an average length of just 5.4 inches at the end of their third year. <br> \n <br> \n <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-4.3",
+            "CPUE": "5.67",
+            "averageWeight": "1.55",
+            "gearCount": 6,
+            "quartileWeight": "1.2-3.1",
+            "totalCatch": 34,
+            "totalWeight": 23885,
+            "species": "LAT"
+          },
+          {
+            "CPUE": "0.17",
+            "gearCount": 6,
+            "averageWeight": "1.85",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "species": "SPT",
+            "totalWeight": 840,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "0.3-2.2",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "averageWeight": "0.19",
+            "CPUE": "1.17",
+            "quartileWeight": "0.7-1.4",
+            "species": "SMB",
+            "totalWeight": 591,
+            "totalCatch": 7
+          },
+          {
+            "totalCatch": 1,
+            "species": "BKT",
+            "totalWeight": 803,
+            "quartileWeight": "N/A",
+            "CPUE": "0.17",
+            "averageWeight": "1.77",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "gearCount": 6,
+            "averageWeight": "2.90",
+            "CPUE": "1.00",
+            "quartileCount": "1.7-5.0",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "totalWeight": 7904,
+            "totalCatch": 6,
+            "quartileWeight": "1.6-2.4"
+          }
+        ],
+        "surveyID": "4310926555613000"
+      },
+      {
+        "headerInfo": {
+          "survey_id": "110562",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "16023400",
+          "wb_name": "Moss",
+          "survey_type": "Population Assessment",
+          "id_date": "1995-10-03"
+        },
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 13
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                7
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                12
+              ],
+              [
+                15,
+                13
+              ],
+              [
+                16,
+                13
+              ],
+              [
+                17,
+                10
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                6
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 19
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 13
+          },
+          "RBT": {
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "minimum_length": 18,
+            "maximum_length": 19
+          }
+        },
+        "surveyDate": "1995-10-03",
+        "surveyID": "110562",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 2300,
+            "species": "RBT",
+            "totalCatch": 2,
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.54",
+            "gearCount": 6,
+            "CPUE": "0.33"
+          },
+          {
+            "CPUE": "12.83",
+            "averageWeight": "1.21",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-4.3",
+            "totalCatch": 77,
+            "totalWeight": 42112,
+            "species": "LAT",
+            "quartileWeight": "1.2-3.1"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-2.2",
+            "CPUE": "0.50",
+            "gearCount": 6,
+            "averageWeight": "0.24",
+            "quartileWeight": "0.7-1.4",
+            "totalCatch": 3,
+            "species": "SMB",
+            "totalWeight": 333
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "totalCatch": 20,
+            "species": "WTS",
+            "totalWeight": 24763,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-5.0",
+            "CPUE": "3.33",
+            "gearCount": 6,
+            "averageWeight": "2.73"
+          }
+        ],
+        "narrative": "<p>The lake trout catch in this assessment was above the normal range for lakes of this type, and was the highest ever observed in Moss Lake.  It appeared that lake trout were reproducing quite successfully in the lake, although stocking may also have contributed to the population.  Lake trout growth was slow, compared to lake trout in other Cook County lakes, and most of the fish collected were under 18 inches.  Some smallmouth bass were still present in the lake, but their reproductive success seemed to be poor.  A few fairly large rainbow trout remained from stockings done in 1989-1991.</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>LAKE TROUT NUMBERS ARE VERY GOOD. ALL LAKE TROUT WERE AGES 3,4 OR 5. THE AGE 3 FISH REPRESENT EITHER NATURAL REPRODUCTION, OR MISAGED AGE 2 STOCKED FISH. GROWTH IS ABOUT AVERAGE. THE RAINBOW TROUT IS A SURVIVOR FROM THE 1982 YRL STOCKING. RAINBOW TROUT FROM OTHER STOCKINGS ARE KNOWN TO BE PRESENT, FROM ANGLER REPORTS. NO ROUGHFISH TAKEN.</p>",
+        "surveyID": "109962",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 5,
+            "averageWeight": "5.50",
+            "CPUE": "0.20",
+            "quartileWeight": "N/A",
+            "species": "RBT",
+            "totalWeight": 5.5,
+            "totalCatch": 1
+          },
+          {
+            "CPUE": "7.00",
+            "averageWeight": "1.21",
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-4.3",
+            "totalCatch": 35,
+            "totalWeight": 42.31,
+            "species": "LAT",
+            "quartileWeight": "1.2-3.1"
+          }
+        ],
+        "surveyDate": "1986-05-27",
+        "lengths": {},
+        "headerInfo": {
+          "county": "Cook",
+          "survey_id": "109962",
+          "wb_id": "16023400",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "wb_name": "Moss",
+          "id_date": "1986-05-27"
+        }
+      },
+      {
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "16023400",
+          "survey_id": "20042324234553022",
+          "county": "Cook",
+          "id_date": "2023-08-01",
+          "wb_name": "Moss",
+          "survey_type": "Targeted Survey"
+        },
+        "lengths": {},
+        "surveyDate": "2023-08-01",
+        "fishCatchSummaries": [],
+        "surveyID": "20042324234553022",
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Moss Lake on August 1st, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 13 feet. Dissolved oxygen decreased to below 3.0 mg/L at 77.6 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.1\u00b0C (41.2\u00b0F). <br> \n <br> \nTDO3 values cooler than 8.8\u00b0C, indicate that oxythermal conditions are favorable for Lake Trout. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for Lake Trout was available across a range of depths at the time of sampling. Data collected in 1999 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is available, Lake Trout are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "SMB": {
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 16,
+            "minimum_length": 6
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                9
+              ],
+              [
+                12,
+                9
+              ],
+              [
+                13,
+                19
+              ],
+              [
+                14,
+                23
+              ],
+              [
+                15,
+                18
+              ],
+              [
+                16,
+                10
+              ],
+              [
+                17,
+                16
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 22
+          },
+          "WTS": {
+            "maximum_length": 17,
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ]
+            ]
+          }
+        },
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "16023400",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_id": "12911701039746000",
+          "id_date": "2016-09-26",
+          "survey_type": "Standard Survey",
+          "wb_name": "Moss"
+        },
+        "surveyDate": "2016-09-26",
+        "narrative": "<p>Moss is a medium-sized, deep, cold-water Lake Trout lake that has been managed primarily for Lake Trout since at least 1933.  It was stocked regularly with Lake Trout (fry or fingerlings) from 1933 through 1958, and was rehabilitated for further trout management in the fall of 1969.  From 1970 through 2011 it was regularly stocked with Lake Trout (fingerlings or yearlings), and sometimes stocked with Rainbow Trout.  All Lake Trout stocked in 1995-2011 were fin-clipped so stocked fish could more easily be identified.  Lake Trout stocking was discontinued after 2011 due to what appeared to have been high levels of natural reproduction (high numbers of young, un-clipped fish).  This was the first of two surveys scheduled in the current (2011) lake management plan to determine whether goals for Lake Trout could be met in the absence of any stocking.  The goal for Lake Trout in this lake is to maintain relatively high numbers of fish (a minimum gill net catch of 4.0 fish/net), with no size goal established. <br> \n <br> \nLake Trout in Moss Lake were abundant, but small, in 2016.  The gill net catch was high for a lake of this type, and for this lake historically.  It was in fact one of the highest Lake Trout catches ever seen in any lake in this area.  It easily met the long range goal for the species, even if none of the fin-clipped (stocked) fish were counted in the catch.  The mean weight for Lake Trout taken in 2016, while low for a lake of this type, was similar to weights seen in many past surveys of this lake.   <br> \n <br> \nStocking and natural reproduction both contributed to the 2016 catch, but of the 119 Lake Trout collected, only 14 bore fin clips identifying them as stocked fish.  All stocking done since 1999 was represented in the catch, at some level, but several strong natural year classes had been produced as well, including some produced in stocked years.  Lake Trout growth had been very slow; fish reached an average length of just 11.3 inches by the end of their sixth year, compared to an area mean of 16.2 inches.  Moss Lake is typical of many Lake Trout lakes in the area where coldwater forage is lacking.  Fish rely on a largely invertebrate diet, limiting growth and maximum attainable size.  Only one of 118 Lake Trout examined during this survey had any fish remains in its stomach; the rest had been feeding on small invertebrates.  Slow growth should not be surprising at the high population densities suggested by the results of this survey, and would have been exacerbated by competition for invertebrate forage from White Sucker and Smallmouth Bass. <br> \n <br> \nThere does not appear to be any need to resume stocking in Moss Lake.   The 2003 and 2009 assessments also showed high levels of natural reproduction.  The catch of unclipped fish alone in 2009 (3.67 unclipped fish/gill net set) would nearly have met the long range goal for the lake then, and far more were seen in 2016.  Creel surveys done in the winter and summer of 2014 estimated Lake Trout harvests to have been 308 and 112 fish, respectively, for an estimated annual harvest of 420 fish, and an estimated annual yield of 2.5 pounds/acre.  We do not know if such a high harvest can be sustained in this lake, or even if it was typical for the lake, because we lack historic creel survey data.  <br> \n <br> \nSmallmouth Bass were still present in Moss Lake in 2016.  Although gill net catches do not always do a good job of describing bass populations, Smallmouth Bass numbers and average size appeared to have dropped significantly since they first appeared in this lake in 1987.   Smallmouth Bass collected in 2016 were small; their mean weight was below normal for a lake of this type, and most of the fish taken were under 10 inches in length.   Growth of young Smallmouth Bass had been slow; the average length for fish at the end of their fourth year was just 7.0 inches, compared to an area mean of 9.1 inches.  Similarly slow growth was observed among fish taken in the 2009 survey. <br> \n <br> \nAlthough anglers interviewed during the 2014 creel surveys reporting catch a few Smallmouth Bass, none were reported to have been harvested.  All of the Smallmouth Bass reported to have been caught in 2014 were said to have been 17-20-inch fish.  Moss Lake can still produce some bass of that size, as evidenced by the two larger fish taken in this survey. <br> \n <br> \nWhite Sucker, eliminated in the 1969 rehabilitation, first reappeared in Moss Lake survey catches in 1987.  Since then their numbers have remained fairly low.  Fish taken in 2016 would have been too large to have been consumed by any but the largest Lake Trout present in this lake. </p>",
+        "surveyID": "12911701039746000",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.8-4.3",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "averageWeight": "1.11",
+            "CPUE": "19.83",
+            "quartileWeight": "1.2-3.1",
+            "totalWeight": 59739,
+            "species": "LAT",
+            "totalCatch": 119
+          },
+          {
+            "quartileCount": "0.3-2.2",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "averageWeight": "0.53",
+            "CPUE": "1.67",
+            "quartileWeight": "0.7-1.4",
+            "species": "SMB",
+            "totalWeight": 2389,
+            "totalCatch": 10
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "totalWeight": 7960,
+            "totalCatch": 13,
+            "quartileCount": "1.7-5.0",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "averageWeight": "1.35",
+            "CPUE": "2.17"
+          }
+        ]
+      }
+    ],
+    "averageWaterClarity": "19.4",
+    "officeCode": "F218",
+    "county": "Cook",
+    "meanDepthFeet": 41.9,
+    "sampledPlants": [],
+    "areaAcres": 253.89,
+    "littoralAcres": 64
+  }
+}

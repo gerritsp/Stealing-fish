@@ -1,0 +1,88 @@
+{
+  "result": {
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "1.00",
+            "totalCatch": 3,
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.25",
+            "totalWeight": 0.75,
+            "quartileCount": "N/A"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "species": "GSF",
+            "gearCount": 3,
+            "totalCatch": 18,
+            "CPUE": "6.00",
+            "quartileCount": "N/A",
+            "averageWeight": "0.08",
+            "totalWeight": 1.5
+          },
+          {
+            "CPUE": "6.67",
+            "totalCatch": 20,
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.45",
+            "totalWeight": 9,
+            "quartileCount": "N/A"
+          }
+        ],
+        "surveyDate": "1980-07-09",
+        "surveyID": "109788",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "headerInfo": {
+          "survey_id": "109788",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "id_date": "1980-07-09",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_name": "Everett",
+          "wb_id": "16059900"
+        },
+        "narrative": "<p>Fish populations extremely small and individual specimens in poor condition.  Visual examination showed numerous forage fishes are available.</p>"
+      }
+    ],
+    "DOWNumber": "16059900",
+    "averageWaterClarity": "11.0",
+    "maxDepthFeet": 55,
+    "littoralAcres": 0,
+    "areaAcres": 40.66,
+    "county": "Cook",
+    "waterClarity": [
+      [
+        "07/08/1980",
+        "11"
+      ]
+    ],
+    "sampledPlants": [],
+    "lakeName": "Everett",
+    "shoreLengthMiles": 1.9,
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "location": "Bushwhack portage from Gotter Lake.  Lake is inside the BWCAW.",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "PRMIT"
+      }
+    ],
+    "meanDepthFeet": 0
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285923
+}

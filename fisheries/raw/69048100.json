@@ -1,0 +1,508 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790286070,
+  "result": {
+    "officeCode": "F217",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "CA",
+        "location": "Portage trails and canoe from Lac LaCroix through North; South; and Eugene Lakes",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "surveys": [
+      {
+        "surveyDate": "2007-08-28",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "survey_id": "650724355303000",
+          "county": "St. Louis",
+          "wb_type": "Lake",
+          "id_date": "2007-08-28",
+          "wb_id": "69048100",
+          "wb_name": "Fat"
+        },
+        "fishCatchSummaries": [
+          {
+            "gear": "Deep gill nets",
+            "gearCount": 4,
+            "averageWeight": "2.22",
+            "totalWeight": 32170,
+            "CPUE": "8.00",
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "totalCatch": 32,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 4,
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "species": "LAT",
+            "totalCatch": 78,
+            "CPUE": "19.50",
+            "quartileCount": "N/A",
+            "averageWeight": "1.44",
+            "totalWeight": 51120
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "LAT": {
+            "maximum_length": 19,
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                26
+              ],
+              [
+                17,
+                23
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 12,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                7
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                10
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyID": "650724355303000",
+        "narrative": "<p>Fat Lake is located south of Lac La Croix within the Boundary Waters Canoe Area Wilderness. Fat Lake can be reached by paddling and portaging through North, South, Steep, and Eugene lakes. Fat Lake is relatively small, with a surface area of 102 acres and a maximum depth of 50 feet. <br> \n <br> \nFat Lake has a self-sustaining population of  lake trout and white sucker. No other fish species have been sampled in the 5 investigations that have been done since 1965. Lake trout have high abundance, but are relatively small and slow growing. Lake trout abundance in 2007 was the highest ever observed at 19.5 per net. <br> \n <br> \nLake trout live a long time in Fat Lake. Ten of the fish sampled were 15 years or older; the oldest fish was 24 years old. Lake trout sampled ranged from 9.5 to 20.0 inches and the average length was only 16.3 inches.</p>"
+      },
+      {
+        "surveyDate": "2024-08-04",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_name": "Fat",
+          "wb_id": "69048100",
+          "wb_type": "Lake",
+          "id_date": "2024-08-04",
+          "county": "St. Louis",
+          "survey_id": "19222423339426250",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": ""
+        },
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Fat Lake on August 4th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 47.9 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 37.1 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 42.1 feet at the time of sampling. The thickness of this layer of water in the water column was 5.0 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 7.5 degrees C (45.5 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Fat Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th).  When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "surveyID": "19222423339426250",
+        "lengths": {}
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "survey_id": "-277",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "wb_id": "69048100",
+          "wb_name": "Fat",
+          "id_date": "2025-07-30",
+          "wb_type": "Lake",
+          "county": "St. Louis"
+        },
+        "fishCatchSummaries": [],
+        "surveyDate": "2025-07-30",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Fat Lake on July 30th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 49.2 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 31.6 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 40.2 feet at the time of sampling. The thickness of this layer of water in the water column was 8.6 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.5 degrees C (43.7 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates suitable oxythermal habitat. The least favorable conditions were recorded in 2024 when the suitable oxythermal habitat layer was 5.0 feet thick. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "lengths": {},
+        "surveyID": "-277",
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "narrative": "<p>Lake trout abundance is good on Fat Lake.  Lake trout per net has been 5.8, 12.1, and 9.3 in 1974, 83, and 86, respectively.  All sizes were represented in the catch.  White sucker abundance is holding steady throughout the years of assessment.</p>",
+        "lengths": {},
+        "surveyID": "111633",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "survey_id": "111633",
+          "wb_alt_name": "",
+          "wb_name": "Fat",
+          "wb_id": "69048100",
+          "county": "St. Louis",
+          "wb_type": "Lake",
+          "id_date": "1986-08-20"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 93.8,
+            "averageWeight": "1.44",
+            "quartileCount": "1.0-4.5",
+            "CPUE": "9.29",
+            "species": "LAT",
+            "totalCatch": 65,
+            "quartileWeight": "0.9-4.3",
+            "gear": "Standard gill nets",
+            "gearCount": 7
+          },
+          {
+            "quartileWeight": "0.6-2.0",
+            "totalCatch": 36,
+            "species": "WTS",
+            "quartileCount": "1.5-10.4",
+            "CPUE": "5.14",
+            "totalWeight": 76.1,
+            "averageWeight": "2.11",
+            "gearCount": 7,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyDate": "1986-08-20"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "69048100",
+          "wb_name": "Fat",
+          "id_date": "1996-08-12",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "survey_id": "111867",
+          "survey_type": "Re-Survey",
+          "wb_alt_name": ""
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "0.9-4.3",
+            "species": "LAT",
+            "totalCatch": 66,
+            "CPUE": "16.50",
+            "quartileCount": "1.0-4.5",
+            "averageWeight": "1.31",
+            "totalWeight": 39185,
+            "gearCount": 4,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "totalCatch": 20,
+            "species": "WTS",
+            "quartileWeight": "0.6-2.0",
+            "averageWeight": "2.62",
+            "totalWeight": 23775,
+            "CPUE": "5.00",
+            "quartileCount": "1.5-10.4"
+          }
+        ],
+        "surveyDate": "1996-08-12",
+        "lengths": {
+          "LAT": {
+            "maximum_length": 18,
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                13,
+                7
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                13
+              ],
+              [
+                16,
+                16
+              ],
+              [
+                17,
+                16
+              ],
+              [
+                18,
+                8
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 9
+          }
+        },
+        "surveyID": "111867",
+        "surveySubType": "Re-Survey",
+        "narrative": "<p>Fat Lake contains a fairly large population of slow growing wild lake trout.  The average size of lake trout from the 1996 survey was 16.3 inches, and the largest lake trout was 18.8\".  The numbers and size structure have remained essentially the same since netting began in 1965.  Lake trout were tested for mercury in 1996.  Consult the MN Department of Health Fish Consumption Advisories for more details.</p>"
+      },
+      {
+        "narrative": "<p>Fat Lake is a 108 acre located approximately 12 miles east of Crane Lake in the Boundary Waters Canoe Area Wilderness (BWCAW). Fat Lake has a maximum depth of 50 feet with few shallow water areas. Fat Lake has characteristics similar to other trout lakes in Northeastern Minnesota, such as low fertility, soft water, good transparency, cool temperatures, well-oxygenated water, and rocky shoals. No motors are allowed on Fat Lake. Anglers must boat up the Loon River to Snow Bay on Lac La Croix, then paddle and portage a canoe through North, South, Steep, and Eugene lakes to reach Fat Lake. Anglers can also access Fat Lake by portaging a canoe through Little Loon Lake and Slim Lake. The United States Forest Service maintains one campsite located on the southeast shore. A standard survey was completed in Fat Lake in early September of 2023.  <br> \n <br> \nFat Lake has no special regulations. Fishing regulations follow statewide regulations for inland water. Previous management plans identify several long-range goals, including providing a self-sustaining Lake Trout population with Lake Trout as the primary management species. <br> \n <br> \nLake Trout gill net catch rate was 20.0 fish per net, which was above average compared to previous surveys. Total length ranged from 11.1 to 20.5 inches with an average length of 16.5 inches. Average weight was 1.4 pounds, which was similar to previous surveys, but below average compared to other International Falls Area Lake Trout lakes. A total of 15 year-classes were present and ranged from 2-21 years. The 2019 year-class (age-4) represented 29% of the total sample. Although the Lake Trout in Fat Lake are relatively small and do not reach large sizes Fat Lake has the highest catch rates compared to other Lake Trout lakes in the area.  <br> \n <br> \nWhite Suckers were also present during the survey and likely provide a forage base to Lake Trout at certain times of the year, but Lake Trout diets are likely dominated by invertebrates.  <br> \n</p>",
+        "surveySubType": "Standard Survey",
+        "surveyID": "19162307557164142",
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                6
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 6
+          },
+          "LAT": {
+            "minimum_length": 11,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                11,
+                3
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                12
+              ],
+              [
+                16,
+                30
+              ],
+              [
+                17,
+                17
+              ],
+              [
+                18,
+                9
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyDate": "2023-09-12",
+        "fishCatchSummaries": [
+          {
+            "species": "WTS",
+            "totalCatch": 22,
+            "quartileWeight": "N/A",
+            "totalWeight": 14660,
+            "averageWeight": "1.47",
+            "quartileCount": "N/A",
+            "CPUE": "5.50",
+            "gear": "Deep gill nets",
+            "gearCount": 4
+          },
+          {
+            "gearCount": 4,
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "CPUE": "20.00",
+            "totalWeight": 50320,
+            "averageWeight": "1.39",
+            "quartileWeight": "N/A",
+            "totalCatch": 80,
+            "species": "LAT"
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Fat",
+          "wb_id": "69048100",
+          "county": "St. Louis",
+          "id_date": "2023-09-12",
+          "wb_type": "Lake",
+          "survey_type": "Standard Survey",
+          "survey_id": "19162307557164142",
+          "wb_alt_name": ""
+        },
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "lakeName": "Fat",
+    "county": "St. Louis",
+    "littoralAcres": 26,
+    "waterClarity": [
+      [
+        "08/28/2007",
+        "15.5"
+      ],
+      [
+        "08/04/2024",
+        "17"
+      ],
+      [
+        "07/30/2025",
+        "21.3"
+      ],
+      [
+        "09/12/2023",
+        "16"
+      ]
+    ],
+    "sampledPlants": [],
+    "maxDepthFeet": 50,
+    "meanDepthFeet": 21.8,
+    "shoreLengthMiles": 1.94,
+    "averageWaterClarity": "17.5",
+    "DOWNumber": "69048100",
+    "areaAcres": 108.3
+  },
+  "message": "Normal execution."
+}

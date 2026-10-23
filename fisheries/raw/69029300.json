@@ -1,0 +1,95 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "location": "Portage from Glenmore Lake or Palmquist Road.",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " "
+      }
+    ],
+    "county": "St. Louis",
+    "littoralAcres": 11,
+    "shoreLengthMiles": 1.03,
+    "lakeName": "Unnamed",
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_name": "Unnamed",
+          "wb_alt_name": "Serell",
+          "county": "St. Louis",
+          "survey_id": "108134",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_id": "69029300",
+          "id_date": "1979-07-10"
+        },
+        "surveyID": "108134",
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Composed of low populations of northern pike, walleye, yellow perch, and sucker.</p>",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "gearCount": 2,
+            "CPUE": "0.50",
+            "quartileCount": "1.0-3.0",
+            "averageWeight": "4.20",
+            "totalCatch": 1,
+            "quartileWeight": "2.2-3.8",
+            "gear": "Standard gill nets",
+            "totalWeight": 4.2
+          },
+          {
+            "totalWeight": 2.2,
+            "averageWeight": "2.20",
+            "quartileWeight": "0.9-3.2",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "CPUE": "0.50",
+            "gearCount": 2,
+            "quartileCount": "0.5-4.3",
+            "species": "WAE"
+          },
+          {
+            "species": "YEP",
+            "quartileCount": "1.0-8.0",
+            "CPUE": "1.00",
+            "gearCount": 2,
+            "totalCatch": 2,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.00",
+            "totalWeight": 0
+          },
+          {
+            "CPUE": "0.50",
+            "gearCount": 2,
+            "quartileCount": "1.5-10.4",
+            "species": "WTS",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "quartileWeight": "0.6-2.0",
+            "totalCatch": 1,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyDate": "1979-07-10"
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "sampledPlants": [],
+    "maxDepthFeet": 34,
+    "areaAcres": 34.99,
+    "officeCode": "F214",
+    "lakeAltName": "Serell",
+    "meanDepthFeet": 0,
+    "DOWNumber": "69029300",
+    "waterClarity": []
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285565
+}

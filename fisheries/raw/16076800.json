@@ -1,0 +1,245 @@
+{
+  "timestamp": 1790286001,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "surveys": [
+      {
+        "narrative": "<p>Lake Trout and Walleye populations appear to be maintaining themselves.  Other fish are low in numbers, however, Bass may be present in fair numbers since nets do not always sample them accurately.  There appears to be a good Whitefish population that can provide fly fishing in season.</p>",
+        "surveyDate": "1972-08-11",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "survey_id": "109820",
+          "wb_id": "16076800",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "id_date": "1972-08-11",
+          "wb_name": "Jasper"
+        },
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "averageWeight": "2.40",
+            "quartileCount": "0.2-1.0",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "totalWeight": 2.4,
+            "totalCatch": 1,
+            "CPUE": "0.25",
+            "quartileWeight": "0.6-1.5"
+          },
+          {
+            "species": "LAT",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "averageWeight": "1.94",
+            "quartileCount": "0.4-3.7",
+            "totalWeight": 9.7,
+            "CPUE": "1.25",
+            "totalCatch": 5,
+            "quartileWeight": "1.5-4.0"
+          },
+          {
+            "quartileWeight": "2.1-4.9",
+            "totalCatch": 1,
+            "CPUE": "0.25",
+            "totalWeight": 3.5,
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.6-2.4",
+            "averageWeight": "3.50",
+            "species": "NOP"
+          },
+          {
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "totalWeight": 2.4,
+            "quartileCount": "0.3-1.4",
+            "averageWeight": "2.40",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "species": "SMB"
+          },
+          {
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.00",
+            "quartileCount": "1.2-5.2",
+            "totalWeight": 4,
+            "species": "WAE",
+            "quartileWeight": "1.0-2.0",
+            "totalCatch": 4,
+            "CPUE": "1.00"
+          },
+          {
+            "totalWeight": 33.7,
+            "averageWeight": "2.11",
+            "quartileCount": "1.6-15.5",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "species": "LKW",
+            "quartileWeight": "1.0-2.1",
+            "totalCatch": 16,
+            "CPUE": "4.00"
+          },
+          {
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "averageWeight": "2.30",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "totalWeight": 4.6,
+            "totalCatch": 2,
+            "CPUE": "0.50",
+            "quartileWeight": "1.1-2.5"
+          }
+        ],
+        "surveyID": "109820"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyID": "110682",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "2.38",
+            "quartileCount": "0.2-1.0",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalWeight": 4.75,
+            "species": "BUB",
+            "quartileWeight": "0.6-1.5",
+            "totalCatch": 2,
+            "CPUE": "0.33"
+          },
+          {
+            "species": "LAT",
+            "averageWeight": "3.25",
+            "quartileCount": "0.4-3.7",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalWeight": 16.25,
+            "totalCatch": 5,
+            "CPUE": "0.83",
+            "quartileWeight": "1.5-4.0"
+          },
+          {
+            "quartileCount": "0.3-1.4",
+            "averageWeight": "0.88",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalWeight": 1.75,
+            "species": "SMB",
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "0.33",
+            "totalCatch": 2
+          },
+          {
+            "totalWeight": 1.5,
+            "quartileCount": "1.2-5.2",
+            "averageWeight": "0.75",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "species": "WAE",
+            "quartileWeight": "1.0-2.0",
+            "totalCatch": 2,
+            "CPUE": "0.33"
+          },
+          {
+            "totalCatch": 22,
+            "CPUE": "3.67",
+            "quartileWeight": "1.0-2.1",
+            "species": "LKW",
+            "totalWeight": 61.75,
+            "quartileCount": "1.6-15.5",
+            "averageWeight": "2.81",
+            "gearCount": 6,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 1,
+            "CPUE": "0.17",
+            "quartileWeight": "1.1-2.5",
+            "species": "WTS",
+            "totalWeight": 3,
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileCount": "0.8-5.3",
+            "averageWeight": "3.00"
+          }
+        ],
+        "narrative": "<p>The lake trout CPUE in this assessment was well within the normal range for lakes of this ecological class.  Although the sample size was small, it appeared that lake trout growth was about average, compared to other area lakes.  Several naturally produced year classes were included in the catch, but none were strong.  The length frequency distributions for lake trout collected in the 1972 survey and this assessment were similar.  The walleye catch in this assessment was low, and was below the normal range for lakes of this class.  Growth of the two walleye collected had been above average by area standards.  The good growth exhibited by the walleye collected indicated that forage was not limiting, despite the absence of yellow perch in the catch.</p>",
+        "surveyDate": "1992-07-27",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "16076800",
+          "survey_id": "110682",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_name": "Jasper",
+          "id_date": "1992-07-27",
+          "county": "Cook",
+          "wb_alt_name": ""
+        }
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Jasper Lake, on August 6, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Lake Whitefish also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 36.4 feet, and the dissolved oxygen concentration never decreased to 3.0 mg/L at the time of sampling. The thickness of this layer in the water column was 55.4 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because the dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. The temperature at the bottom of the lake was 5.8 degrees C (42.4 degrees F). Instances in which the dissolved oxygen does not reach below 3.0 mg/L and temperature remains below 8.8 degrees C, indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 1972 and 1992 during the late summer thermal stress period indicate suitable oxythermal habitat in years surveyed, with the least favorable conditions recorded in 1992, when the suitable habitat layer thickness was 29.9 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "surveyDate": "2024-08-06",
+        "lengths": {},
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_name": "Jasper",
+          "id_date": "2024-08-06",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "wb_id": "16076800",
+          "survey_id": "21872426148214232",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey"
+        },
+        "surveySubType": "Targeted Survey",
+        "surveyID": "21872426148214232",
+        "fishCatchSummaries": []
+      }
+    ],
+    "officeCode": "F218",
+    "maxDepthFeet": 125,
+    "DOWNumber": "16076800",
+    "accesses": [
+      {
+        "lakeAccessComments": "Lake is entirely inside the BWCAW.  Access by portage from Alpine Lake.  Approx. UTM.",
+        "accessTypeId": "O",
+        "location": "A 40 rod portage trail from Alpine L. provides access to NE tip of Jasper Lake.  Entirely inside BWCAW.",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "littoralAcres": 86,
+    "meanDepthFeet": 31,
+    "averageWaterClarity": "12.4",
+    "shoreLengthMiles": 6.57,
+    "sampledPlants": [],
+    "areaAcres": 245.78,
+    "county": "Cook",
+    "lakeName": "Jasper",
+    "waterClarity": [
+      [
+        "08/11/1972",
+        "13"
+      ],
+      [
+        "07/29/1992",
+        "12.5"
+      ],
+      [
+        "08/06/2024",
+        "11.8"
+      ]
+    ]
+  }
+}

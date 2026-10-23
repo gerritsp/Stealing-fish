@@ -1,0 +1,114 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "waterClarity": [
+      [
+        "06/23/2014",
+        "3"
+      ]
+    ],
+    "averageWaterClarity": "3.0",
+    "lakeName": "Griddle",
+    "sampledPlants": [
+      "Alder Group (Alnus sp.)",
+      "Arrowhead Group (Sagittaria sp.)",
+      "Bladderwort Group (Utricularia sp.)",
+      "Blue Flag Iris (Iris versicolor)",
+      "Cattail Group (Typha sp.)",
+      "Floating-leaf Burreed Group (Sparganium sp. )",
+      "Grass Group  (Gramineae/Poaceae Family)",
+      "Sedge Group (Carex sp.)",
+      "Sphagnum Moss Group (Sphagnum sp.)",
+      "Swamp Candles Group (Lysimachia sp.)",
+      "Swamp Fivefinger (Potentilla palustris)",
+      "White Waterlily Group (Nymphaea sp.)",
+      "Yellow Waterlily Group (Nuphar sp.)",
+      "bog laurel (Kalmia polifolia)",
+      "jewelweed (Impatiens capensis)",
+      "laborador tea (Rhododendron groenlandicum)",
+      "large-leaved pondweed (Potamogeton amplifolius)",
+      "leatherleaf (Chamaedaphne calyculata)",
+      "marsh St. John's wort (Triadenum fraseri)",
+      "sweet gale (Myrica gale)",
+      "three-way sedge (Dulichium arundinaceum)",
+      "watershield (Brasenia schreberi)"
+    ],
+    "DOWNumber": "38062900",
+    "officeCode": "F214",
+    "littoralAcres": 0,
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 0.84,
+    "surveys": [
+      {
+        "narrative": "<p>Griddle Lake is located approximately 17 miles NE of Ely in the Superior National Forest. This small, remote lake is shallow with bog stained water. The surrounding shoreline is mostly bog with black spruce and tamarack commonly found. <br> \n <br> \nThere is no designated public access present and the lake receives little use. No campsites were observed. The nearby BSA base maintains a trail system near the lake for hiking and cross country skiing. <br> \n <br> \nTwo gill nets and three minnow traps were used to sampled fish. The gill nets were both empty and the minnow traps sampled 4 species of fish along with a crayfish. <br> \n <br> \nNorthern redbelly dace were the most common fish specie sampled. Finescale dace and fathead minnow were found in lesser but equal relative abundances. Brook stickleback were also sampled in low numbers. Dace are often referred to as \"rainbow chubs\" in the bait industry.</p>",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "6851429630946000",
+          "wb_name": "Griddle",
+          "wb_type": "Lake",
+          "id_date": "2014-06-23",
+          "wb_id": "38062900"
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "gear": "Minnow traps",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "totalCatch": 70,
+            "species": "FND",
+            "quartileCount": "N/A",
+            "CPUE": "23.33",
+            "gearCount": 3
+          },
+          {
+            "quartileWeight": "N/A",
+            "gear": "Minnow traps",
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "totalCatch": 70,
+            "species": "FHM",
+            "gearCount": 3,
+            "CPUE": "23.33"
+          },
+          {
+            "totalCatch": 500,
+            "species": "NRD",
+            "quartileCount": "N/A",
+            "CPUE": "166.67",
+            "gearCount": 3,
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "CPUE": "2.67",
+            "gearCount": 3,
+            "species": "BST",
+            "totalCatch": 8,
+            "quartileCount": "N/A",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyDate": "2014-06-23",
+        "surveyID": "6851429630946000"
+      }
+    ],
+    "maxDepthFeet": 5.5,
+    "areaAcres": 26.77,
+    "accesses": [],
+    "county": "Lake"
+  },
+  "timestamp": 1790285739,
+  "message": "Normal execution."
+}

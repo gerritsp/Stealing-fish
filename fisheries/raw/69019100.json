@@ -1,0 +1,49 @@
+{
+  "result": {
+    "maxDepthFeet": 5,
+    "shoreLengthMiles": 2,
+    "waterClarity": [],
+    "averageWaterClarity": "N/A",
+    "areaAcres": 118.67,
+    "littoralAcres": 118.67,
+    "officeCode": "F214",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "location": "DUCK LAKE LIES ENTIRELY WITHIN THE BWCAW ON STATE AND FEDERAL LAND AND IS ACCESSIBLE FROM PORTAGE LAKE",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "lakeName": "Duck",
+    "DOWNumber": "69019100",
+    "surveys": [
+      {
+        "surveyID": "108332",
+        "fishCatchSummaries": [],
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyDate": "1986-08-03",
+        "narrative": "<p>No gamefish were taken in the test nets. Minnows are appearently present. </p>",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_name": "Duck",
+          "id_date": "1986-08-03",
+          "survey_id": "108332",
+          "wb_id": "69019100",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "survey_type": "Initial Survey"
+        }
+      }
+    ],
+    "sampledPlants": [],
+    "county": "St. Louis",
+    "meanDepthFeet": 0
+  },
+  "timestamp": 1790285588,
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

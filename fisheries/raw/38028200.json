@@ -1,0 +1,72 @@
+{
+  "result": {
+    "shoreLengthMiles": 0.62,
+    "waterClarity": [],
+    "areaAcres": 10.75,
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyDate": "1991-08-29",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "id_date": "1991-08-29",
+          "wb_name": "Orchid",
+          "wb_type": "Lake",
+          "wb_id": "38028200",
+          "wb_alt_name": "",
+          "survey_id": "112465",
+          "county": "Lake"
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.1-2.0",
+            "quartileCount": "4.0-15.0",
+            "totalWeight": 15.5,
+            "gearCount": 2,
+            "totalCatch": 10,
+            "CPUE": "5.00",
+            "averageWeight": "1.55",
+            "gear": "Standard gill nets",
+            "species": "NOP"
+          },
+          {
+            "gearCount": 2,
+            "totalCatch": 5,
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "2.0-15.0",
+            "totalWeight": 1.1,
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "CPUE": "2.50",
+            "averageWeight": "0.22"
+          }
+        ],
+        "surveyID": "112465",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>There is no past history of the fish population in Orchid Lake but present Northern Pike densities of 5/gillnet lift are typical for lakes in this classification. Low numbers of Yellow Perch are reflected in the small average size of the Northern Pike. (17.7\"). </p>"
+      }
+    ],
+    "littoralAcres": 10.75,
+    "lakeName": "Orchid",
+    "officeCode": "F215",
+    "accesses": [
+      {
+        "location": "N.W. FROM USFS R.D#356 IN SEC. 14 FOR 1.8 MILES ON UNMARKED OVERGROWN LOGGING RD  THEN WEST FOR 250YD",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "DOWNumber": "38028200",
+    "sampledPlants": [],
+    "maxDepthFeet": 8,
+    "county": "Lake",
+    "averageWaterClarity": "N/A",
+    "meanDepthFeet": 0
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285529
+}

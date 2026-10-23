@@ -1,0 +1,271 @@
+{
+  "timestamp": 1790285606,
+  "result": {
+    "officeCode": "F215",
+    "lakeName": "Wonder",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "surveyID": "520822055208000",
+        "fishCatchSummaries": [
+          {
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.60",
+            "quartileCount": "N/A",
+            "totalWeight": 274,
+            "CPUE": "0.17",
+            "species": "NOP",
+            "totalCatch": 1,
+            "gearCount": 6
+          },
+          {
+            "totalWeight": 18288,
+            "CPUE": "10.67",
+            "gearCount": 3,
+            "totalCatch": 32,
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.3-2.5",
+            "averageWeight": "1.26",
+            "quartileCount": "2.0-6.0"
+          },
+          {
+            "species": "YEP",
+            "totalCatch": 2,
+            "gearCount": 6,
+            "totalWeight": 1,
+            "CPUE": "0.33",
+            "averageWeight": "0.00",
+            "quartileCount": "N/A",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A"
+          },
+          {
+            "averageWeight": "0.07",
+            "quartileCount": "4.7-15.8",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-0.3",
+            "gearCount": 3,
+            "species": "YEP",
+            "totalCatch": 8,
+            "totalWeight": 266,
+            "CPUE": "2.67"
+          },
+          {
+            "species": "WTS",
+            "totalCatch": 40,
+            "gearCount": 3,
+            "CPUE": "13.33",
+            "totalWeight": 32853,
+            "quartileCount": "3.0-11.0",
+            "averageWeight": "1.81",
+            "quartileWeight": "1.4-2.4",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Wonder",
+          "county": "Cook",
+          "id_date": "2008-08-11",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "survey_id": "520822055208000",
+          "wb_alt_name": "Plouff",
+          "wb_id": "16066400"
+        },
+        "lengths": {
+          "WTS": {
+            "minimum_length": 7,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                7
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                1,
+                1
+              ],
+              [
+                2,
+                1
+              ],
+              [
+                5,
+                6
+              ],
+              [
+                6,
+                2
+              ]
+            ],
+            "maximum_length": 6,
+            "minimum_length": 1
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                7
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                39,
+                1
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "maximum_length": 39,
+            "minimum_length": 9
+          }
+        },
+        "surveySubType": "Initial Survey",
+        "surveyDate": "2008-08-11",
+        "narrative": "<p>The northern pike population in Wonder Lake was above average for the lake class.  The average length sampled was 16 inches; the largest northern pike in the sample was 39.2 inches.   The present northern pike population should provide an opportunity for campers to catch a meal, with a chance to catch a trophy pike.  Yellow perch are present in low numbers; the fish are typically less than 7 inches. <br> \n <br> \nWonder Lake is located within the Boundary Waters Canoe Area Wilderness (BWCAW).  The BWCAW is administered by the U.S. Forest Service, there is a fee for overnight camping and a day-use permit is required for shorter trips.  Access to Wonder Lake is a portage trail (220 rods) from the south end of Alton Lake; there are two campsites on the lake.  The U.S. Forest Service offices can provide information and maps regarding the Wonder Lake and Alton Lake areas. <br> \n</p>"
+      }
+    ],
+    "averageWaterClarity": "8.0",
+    "lakeAltName": "Plouff",
+    "DOWNumber": "16066400",
+    "littoralAcres": 79.69,
+    "shoreLengthMiles": 3.03,
+    "meanDepthFeet": 0,
+    "areaAcres": 79.69,
+    "county": "Cook",
+    "sampledPlants": [
+      "Bladderwort Group (Utricularia sp.)",
+      "Blue Flag Iris (Iris versicolor)",
+      "Bulrush Group (Scirpus sp.)",
+      "Filamentous algae (Eukaryotic)",
+      "Floating-leaf Burreed Group (Sparganium sp. )",
+      "Grass Group  (Gramineae/Poaceae Family)",
+      "Horsetail Group (Equisetum sp.)",
+      "Little White Waterlily (Nymphaea leibergii)",
+      "Muskgrass Group (Chara sp.)",
+      "Quillwort Group  (Isoetes sp.)",
+      "Sedge Group (Carex sp.)",
+      "Small-leaved milfoil (Myriophyllum farwellii)",
+      "Spikerush Group (Eleocharis sp.)",
+      "St. John's-wort Group (Hypericum sp.)",
+      "Yellow Waterlily Group (Nuphar sp.)",
+      "broad-leaved cattail (Typha latifolia)",
+      "flat-stemmed pondweed (Potamogeton zosteriformis)",
+      "large-leaved pondweed (Potamogeton amplifolius)",
+      "leatherleaf (Chamaedaphne calyculata)",
+      "northern wild rice (Zizania palustris (aquatica))",
+      "ribbon-leaved pondweed (Potamogeton epihydrus)",
+      "sweet gale (Myrica gale)",
+      "water marigold (Bidens beckii)",
+      "white-stemmed pondweed (Potamogeton praelongus)"
+    ],
+    "maxDepthFeet": 10,
+    "waterClarity": [
+      [
+        "08/11/2008",
+        "8"
+      ]
+    ],
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "location": " ",
+        "lakeAccessComments": "A 220 rod portage trail from the south end of Alton Lake.",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "PRMIT"
+      }
+    ]
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

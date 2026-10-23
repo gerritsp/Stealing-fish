@@ -1,0 +1,146 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "littoralAcres": 14.17,
+    "areaAcres": 14.17,
+    "surveys": [
+      {
+        "surveySubType": "Population Assessment",
+        "surveyID": "6851332633704000",
+        "narrative": "<p>Meat Lake is located approximately 12 miles NW of Ely and is entirely within the BWCAW. It has a surface area of 25 acres and a maximum depth of 23 ft. In recent years the water level has been low with very little fluctation. There is no outlet present. The shoreline is primarily gravel and rubble with little vegetative cover. The current fish community is represented by northern pike and yellow perch. <br> \n <br> \nAccess is by portaging from Sprite Lake (90 rods) or Clark Lake (48 rods). There is one designated USFS campsite present.  <br> \n <br> \nNorthern pike numbers in 2013 (6.5/gill net) were slightly higher compared to similar lakes in the area. Pike growth rates were slow by area standards and the average pike sampled was 20.6 inches long and about 6 or 7 years old. The largest pike sampled was 25 inches long. <br> \n <br> \nYellow perch numbers in 2013 (7.0/gill net) were comparable to similar lakes in the area. The average perch sampled was 6.6 inches and the largest sampled was 8.0 inches.</p>",
+        "lengths": {
+          "NOP": {
+            "maximum_length": 25,
+            "fishCount": [
+              [
+                16,
+                2
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ]
+            ],
+            "minimum_length": 16
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                9
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 5
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "2013-06-24",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "totalCatch": 13,
+            "quartileWeight": "1.2-2.4",
+            "totalWeight": 10054,
+            "species": "NOP",
+            "quartileCount": "3.9-9.4",
+            "CPUE": "6.50",
+            "averageWeight": "1.71"
+          },
+          {
+            "CPUE": "7.00",
+            "averageWeight": "0.11",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 14,
+            "species": "YEP",
+            "totalWeight": 699,
+            "quartileCount": "2.0-23.0",
+            "gear": "Standard gill nets",
+            "gearCount": 2
+          }
+        ],
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_alt_name": "Nixon",
+          "survey_type": "Population Assessment",
+          "wb_name": "Meat",
+          "survey_id": "6851332633704000",
+          "wb_id": "69030500",
+          "wb_type": "Lake",
+          "id_date": "2013-06-24"
+        }
+      }
+    ],
+    "meanDepthFeet": 4,
+    "DOWNumber": "69030500",
+    "officeCode": "F214",
+    "county": "St. Louis",
+    "averageWaterClarity": "6.0",
+    "waterClarity": [
+      [
+        "06/24/2013",
+        "6"
+      ]
+    ],
+    "lakeAltName": "Nixon",
+    "lakeName": "Meat",
+    "maxDepthFeet": 24,
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "lakeAccessComments": "90 rod portage from Sprite Lake.",
+        "publicUseAuthCode": "OPEN"
+      },
+      {
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "48 rod portage from Clark Lake.",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "accessTypeId": "CA"
+      }
+    ],
+    "shoreLengthMiles": 1.3,
+    "sampledPlants": []
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285560
+}

@@ -1,0 +1,717 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285901,
+  "message": "Normal execution.",
+  "result": {
+    "lakeName": "Missing Link",
+    "county": "Cook",
+    "littoralAcres": 25,
+    "meanDepthFeet": 12.4,
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "06/12/1991",
+        "14.5"
+      ],
+      [
+        "06/05/2012",
+        "10.5"
+      ],
+      [
+        "06/08/2016",
+        "12.2"
+      ],
+      [
+        "09/06/2016",
+        "7.5"
+      ],
+      [
+        "07/07/1959",
+        "13"
+      ]
+    ],
+    "officeCode": "F218",
+    "maxDepthFeet": 25,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "location": "Portage trails from Round; Snipe; Mavis; and Contest Lakes. Entirely inside the BWCAW.",
+        "accessTypeId": "O"
+      },
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "location": "",
+        "accessTypeId": "PO"
+      }
+    ],
+    "surveys": [
+      {
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.80",
+            "quartileCount": "N/A",
+            "totalWeight": 9,
+            "gearCount": 5,
+            "species": "BKT",
+            "CPUE": "1.00",
+            "totalCatch": 5,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 21,
+            "quartileWeight": "0.7-2.3",
+            "gear": "Standard gill nets",
+            "CPUE": "4.20",
+            "totalWeight": 17.25,
+            "gearCount": 5,
+            "species": "WTS",
+            "quartileCount": "1.7-12.5",
+            "averageWeight": "0.82"
+          }
+        ],
+        "surveyID": "109856",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1985-06-03",
+        "headerInfo": {
+          "id_date": "1985-06-03",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_id": "16052900",
+          "survey_id": "109856",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_name": "Missing Link"
+        },
+        "narrative": "<p>THE TROUT POPULATIONS IN MISSING LINK APPEAR TO BE WEAK, DESPITE CONTINOUS ALTERNATING STOCKINGS OF RAINBOW TROUT AND BROOK TROUT SINCE 1979. RAINBOW TROUT HAVE, HOWEVER, BEEN DIFFICULT TO ASSESS ACCURATELY. A LARGE SUCKER POPULATION IS PRESENT, AND THIS MAY BE A MANAGEMENT PROBLEM.</p>",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "id_date": "1991-06-12",
+          "wb_type": "Lake",
+          "wb_name": "Missing Link",
+          "survey_id": "110194",
+          "county": "Cook",
+          "wb_id": "16052900",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment"
+        },
+        "narrative": "<p>BKT ABUNDANCE WAS HIGH, AND THEIR SIZE WAS GOOD, WITH ALL FISH COLLECTED RANGING FROM 11 TO 14 IN. ALL BUT ONE OF THE FISH COLLECTED WERE FROM THE 1989 FINGERLING STOCKING; ONE FISH FROM THE 1988 STOCKING WAS COLLECTED.  BKT GROWTH WAS ABOUT AVERAGE, WITH AGE II FISH REACHING A MEAN LENGTH OF 10.4 IN AT LAST ANNULUS FORMATION, COMPARED TO THE COOK COUNTY AVERAGE FOR BKT IN LAKES OF 9.6 IN.  NO RBT WERE COLLECTED, ALTHOUGH THEY WERE STOCKED IN 1989 AND 1988.  RBT HAVE BEEN DIFFICULT TO ASSESS IN GILL NETS IN OTHER AREA LAKES.  WTS ABUNDANCE WAS ABOUT NORMAL FOR THIS LAKE, AND NO OTHER UNDESIREABLE SPECIES WERE COLLECTED.</p>",
+        "surveyDate": "1991-06-12",
+        "surveyType": "Standard Survey",
+        "surveyID": "110194",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 30.75,
+            "species": "BKT",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "averageWeight": "0.88",
+            "totalCatch": 35,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "11.67"
+          },
+          {
+            "quartileWeight": "0.7-2.3",
+            "gear": "Standard gill nets",
+            "totalCatch": 12,
+            "CPUE": "4.00",
+            "species": "WTS",
+            "gearCount": 3,
+            "totalWeight": 14.25,
+            "quartileCount": "1.7-12.5",
+            "averageWeight": "1.19"
+          }
+        ],
+        "lengths": {}
+      },
+      {
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 14,
+            "minimum_length": 6
+          },
+          "WTS": {
+            "minimum_length": 9,
+            "maximum_length": 13,
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyDate": "2012-06-05",
+        "surveyID": "4311209642879019",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.77",
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "gearCount": 4,
+            "totalWeight": 4176,
+            "CPUE": "3.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 12
+          },
+          {
+            "CPUE": "1.25",
+            "totalCatch": 5,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-2.3",
+            "averageWeight": "0.59",
+            "quartileCount": "1.7-12.5",
+            "totalWeight": 1338,
+            "species": "WTS",
+            "gearCount": 4
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Missing Link is a designated stream trout lake, first stocked with trout in 1933.  It is currently managed for brook trout, with a long range goal of maintaining a population that provides two catchable-sized year classes (fish 10 inches or larger), with some fish up to 16 inches.  This was the third of three assessments scheduled in the 2001 lake management plan to determine whether the long range goal could be met with a reduced stocking rate (reduced from 3,000 fgl annually to 2,000 fgl annually, beginning in 2003).  The current management plan will be reviewed and revised in January 2014. <br> \n <br> \nGoals for brook trout in this lake were barely met in the 2012 assessment.  The brook trout catch was the lowest seen in this lake since 1986, due largely to the near-failure of the 2010 stocking.  Although two catchable-sized year classes were present (2009 and 2010), neither seemed to have been present in very high numbers.   Most of the brook trout collected were one-year-old fish from the 2011 fingerling stocking.  Growth for the three three-year-old fish taken had been average; they reached at mean length of 12.5 inches at the end of their third year. <br> \n <br> \nThe white sucker gill net catch was the lowest seen to date in this lake, and was below the normal range for spring assessments of stream trout lakes in this area (2.83-14.33 fish/set).  White sucker compete with brook trout for invertebrate forage, but their abundance in Missing Link Lake may have been low enough in 2012 to minimize their effect on brook trout performance.  No other undesirable fish species were taken in this assessment.  <br> \n <br> \n</p>",
+        "headerInfo": {
+          "survey_id": "4311209642879019",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_name": "Missing Link",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "wb_id": "16052900",
+          "id_date": "2012-06-05"
+        },
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "id_date": "1996-06-13",
+          "wb_id": "16052900",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_name": "Missing Link",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_id": "110694"
+        },
+        "narrative": "<p>The brook trout catch was within the normal range for stream trout lakes in the Grand Marais area.  Survival and growth of brook stocked in 1993 was good - fish from that stocking ranged from 14.7 to 15.6 inches in length.  Few fish from the 1995 stocking were seen, but they were probably still too small to be sampled by the gear used in this assessment.</p>",
+        "lengths": {
+          "WTS": {
+            "minimum_length": 11,
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                3
+              ]
+            ]
+          },
+          "BKT": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                10
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 15
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "110694",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 20,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "6.67",
+            "totalWeight": 12778,
+            "species": "BKT",
+            "gearCount": 3,
+            "averageWeight": "1.41",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 7,
+            "quartileWeight": "0.7-2.3",
+            "gear": "Standard gill nets",
+            "CPUE": "2.33",
+            "totalWeight": 5140,
+            "gearCount": 3,
+            "species": "WTS",
+            "quartileCount": "1.7-12.5",
+            "averageWeight": "1.62"
+          }
+        ],
+        "surveyDate": "1996-06-13"
+      },
+      {
+        "headerInfo": {
+          "id_date": "2004-06-07",
+          "wb_id": "16052900",
+          "wb_alt_name": "",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "wb_name": "Missing Link",
+          "survey_id": "111496",
+          "county": "Cook"
+        },
+        "narrative": "<p>Brook trout were present in average numbers and sizes in June 2004, compared to other stream trout lakes in this area.  The catch was lower than usual for this lake, however, and there appeared to have been fewer catchable size fish present than usually seen in this lake.  Most of the brook trout collected were six to seven-inch fish from a 2003 fingerling stocking, although two larger (16 to 17-inch) fish from the 2001 stocking were also taken.  White sucker were also present, but not in unusually high numbers for this lake.  No other undesirable fish species were found in 2004.</p>",
+        "surveySubType": "Re-Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.63",
+            "totalWeight": 3415,
+            "gearCount": 3,
+            "species": "BKT",
+            "CPUE": "4.00",
+            "totalCatch": 12,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A"
+          },
+          {
+            "averageWeight": "0.36",
+            "quartileCount": "1.7-12.5",
+            "totalWeight": 993,
+            "gearCount": 3,
+            "species": "WTS",
+            "CPUE": "2.00",
+            "totalCatch": 6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-2.3"
+          }
+        ],
+        "surveyID": "111496",
+        "surveyType": "Standard Survey",
+        "surveyDate": "2004-06-07",
+        "lengths": {
+          "BKT": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                6,
+                7
+              ],
+              [
+                7,
+                3
+              ]
+            ],
+            "maximum_length": 17
+          },
+          "WTS": {
+            "minimum_length": 7,
+            "maximum_length": 14,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                2
+              ]
+            ]
+          }
+        }
+      },
+      {
+        "lengths": {},
+        "surveyDate": "1986-05-13",
+        "surveyType": "Standard Survey",
+        "surveyID": "109963",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "totalCatch": 7,
+            "CPUE": "1.75",
+            "species": "BKT",
+            "gearCount": 4,
+            "totalWeight": 1.19,
+            "quartileCount": "N/A",
+            "averageWeight": "0.17"
+          },
+          {
+            "quartileCount": "1.7-12.5",
+            "averageWeight": "0.54",
+            "totalWeight": 7.5,
+            "species": "WTS",
+            "gearCount": 4,
+            "CPUE": "3.50",
+            "totalCatch": 14,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-2.3"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "county": "Cook",
+          "survey_id": "109963",
+          "wb_name": "Missing Link",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_id": "16052900",
+          "id_date": "1986-05-13"
+        },
+        "narrative": "<p>BROOK TROUT FROM THE 1985 STOCKING ARE STILL QUITE SMALL, BUT THERE HAS BEEN LITTLE OPPORTUNITY FOR GROWTH SINCE THEY WERE STOCKED. NO RAINBOW TROUT WERE TAKEN. THERE ARE FEW REPORTS FROM THIS LAKE, AND THE STATUS OF THE RAINBOW TROUT FISHERY IS KNOWN. WHITE SUCKERS ARE FAIRLY ABUNDANT.</p>"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_name": "Missing Link",
+          "survey_id": "110068",
+          "county": "Cook",
+          "wb_id": "16052900",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "id_date": "1988-06-07"
+        },
+        "narrative": "<p>BROOK TROUT ABUNDANCE IS HIGH. THERE HAS BEEN GOOD SURVIVAL OF THE 1987 BROOK TROUT STOCKING, AND SOME LARGE BROOK TROUT FROM THE 1985 STOCKING ARE STILL PRESENT. BROOK TROUT GROWTH SEEMS TO BE GOOD. THIS LAKE SHOULD PROVIDE SOME GOOD FISHING IN 1989. SURVIVAL OF STOCKED RAINBOW TROUT APPEARS TO BE VERY POOR. NO RAINBOW TROUT WERE TAKEN IN ASSESS- MENTS IN 1985, 1986 OR 1988, DESPITE CONTINUED STOCKING. WHITE SUCKER ARE PRESENT, BUT NOT VERY ABUNDANT.</p>",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "18.00",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "totalCatch": 54,
+            "averageWeight": "0.44",
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "species": "BKT",
+            "totalWeight": 23.75
+          },
+          {
+            "quartileCount": "1.7-12.5",
+            "averageWeight": "1.64",
+            "totalWeight": 14.75,
+            "gearCount": 3,
+            "species": "WTS",
+            "CPUE": "3.00",
+            "totalCatch": 9,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-2.3"
+          }
+        ],
+        "surveyID": "110068",
+        "surveyDate": "1988-06-07"
+      },
+      {
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                7,
+                16
+              ],
+              [
+                8,
+                10
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "maximum_length": 18,
+            "minimum_length": 6
+          },
+          "WTS": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                3
+              ]
+            ],
+            "minimum_length": 10
+          }
+        },
+        "surveyDate": "2000-06-07",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.56",
+            "totalWeight": 10469,
+            "gearCount": 3,
+            "species": "BKT",
+            "CPUE": "13.67",
+            "totalCatch": 41,
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 10,
+            "quartileWeight": "0.7-2.3",
+            "gear": "Standard gill nets",
+            "CPUE": "3.33",
+            "totalWeight": 7011,
+            "gearCount": 3,
+            "species": "WTS",
+            "averageWeight": "1.55",
+            "quartileCount": "1.7-12.5"
+          }
+        ],
+        "surveyID": "111233",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "county": "Cook",
+          "survey_id": "111233",
+          "wb_name": "Missing Link",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_id": "16052900",
+          "id_date": "2000-06-07"
+        },
+        "narrative": "<p>The brook trout catch in this assessment was relatively high, compared to other stream trout lakes in the Grand Marais area.  One-year-old fish from the 1999 fingerling stocking accounted for 83% of the catch, with three-year olds from the 1997 stocking accounting for the remainder.  Brook trout survival appeared to have been good, and growth rates had been somewhat faster than average for the area.  One and three-year-old fish averaged 8.3 and 17.2 inches in length when they were collected in early June.The white sucker catch, although close to the average for the lake class, was actually relatively low for lakes managed for stream trout in this area.  The 2000 catch of 3.33 fish/gill net was below the normal range of 4.0 to 23.0 fish/gill net in spring assessments of Grand Marais-area stream trout lakes.  The 2000 catch was similar to catches seen in this lake historically.  The presence of white sucker in these relatively low numbers does not appear to have hade a serious effect on brook trout growth or survival in this lake.</p>"
+      },
+      {
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_name": "Missing Link",
+          "survey_id": "15281619756547315",
+          "county": "Cook",
+          "wb_id": "16052900",
+          "survey_type": "Standard Survey",
+          "wb_alt_name": "",
+          "id_date": "2016-06-08"
+        },
+        "narrative": "<p>Missing Link is a designated stream trout lake that has been stocked with Rainbow or Brook Trout on a regular basis since at least 1933.  Since 2003 Brook Trout fingerlings have been stocked annually.  The current goal for Brook Trout in this lake is to maintain a population consisting of at least two year classes of fish 10-inches or larger, with some fish over 16 inches present.  This survey was the first of two scheduled in the 2014 lake management plan to complete an evaluation of the shift to annual stocking that began in 2003. <br> \n <br> \nGiven the low number of net sets typically used in surveys of this small lake, the gill net catch in a single survey may not be a good indicator of fish abundance, or of changes in abundance.  The Brook Trout gill net catch in 2016 fell within the normal range (2.7-13.8 fish/net) seen in spring surveys of stream trout lakes in this area (data through 2014), and was similar other catches seen in this lake since 1991.  Management goals for the lake were met in 2016; three year classes contributed fish larger than 10 inches, and one fish over 16 inches in length was taken.  Long-term survival seemed to have been good, with fish as old as four years present, and no recently stocked year classes were missing.  Brook Trout growth appeared to have been fairly good; fish reached a mean length of 9.7 inches by the end of their second year, compared to an area average of 9.1 inches. <br> \n <br> \nBrook Trout in this lake must compete with White Sucker for invertebrate forage; however, White Sucker abundance has not been excessive.  The 2016 White Sucker gill net catch was close to the average (6.5 fish/set) seen in spring surveys of stream trout lakes in this area. <br> \n <br> \nA temperature-oxygen profile measured on September 6 2016, by a crew on their way into Mavis Lake, found optimal conditions for Brook Trout (water temperature < 68 F, dissolved oxygen > 5.0 ppm) at depths of 10-17 feet.  Since lakes in this area have typically started to cool by early September, and water temperatures were barely within the optimal range at that time, it is likely that more stressful conditions would have prevailed in this lake in August.</p>",
+        "surveySubType": "Standard Survey",
+        "lengths": {
+          "WTS": {
+            "minimum_length": 7,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                5
+              ]
+            ]
+          },
+          "BKT": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "minimum_length": 8
+          }
+        },
+        "surveyDate": "2016-06-08",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "6.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 12,
+            "averageWeight": "1.10",
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "gearCount": 2,
+            "totalWeight": 5989
+          },
+          {
+            "CPUE": "6.00",
+            "totalCatch": 12,
+            "quartileWeight": "0.7-2.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.60",
+            "quartileCount": "1.7-12.5",
+            "totalWeight": 3292,
+            "species": "WTS",
+            "gearCount": 2
+          }
+        ],
+        "surveyID": "15281619756547315",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "averageWaterClarity": "11.5",
+    "DOWNumber": "16052900",
+    "shoreLengthMiles": 1.87,
+    "areaAcres": 37.34
+  }
+}

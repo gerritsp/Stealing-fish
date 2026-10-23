@@ -1,0 +1,767 @@
+{
+  "result": {
+    "meanDepthFeet": 0,
+    "county": "Lake",
+    "DOWNumber": "38051600",
+    "littoralAcres": 22,
+    "officeCode": "F214",
+    "maxDepthFeet": 78,
+    "shoreLengthMiles": 2.49,
+    "lakeName": "Ahsub",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_id": "38051600",
+          "survey_id": "109335",
+          "id_date": "1985-06-05",
+          "wb_name": "Ahsub",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment"
+        },
+        "surveySubType": "Population Assessment",
+        "lengths": {},
+        "narrative": "<p>Composed of an above average population of stream trout consisting of brook trout, lake trout and splake. At the present time, the splake and lake trout are providing an excellent opportunity for catching larger sized individuals. The sucker population is very high and may have adversely affected the rainbow trout population. However, brook trout, splake and lake trout appear to be doing quite well. </p>",
+        "surveyDate": "1985-06-05",
+        "surveyID": "109335",
+        "fishCatchSummaries": [
+          {
+            "species": "LAT",
+            "averageWeight": "1.09",
+            "quartileCount": "0.4-3.7",
+            "CPUE": "1.75",
+            "gearCount": 4,
+            "quartileWeight": "1.5-4.0",
+            "totalWeight": 7.6,
+            "totalCatch": 7,
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "2.25",
+            "averageWeight": "1.71",
+            "quartileCount": "N/A",
+            "species": "SPT",
+            "totalCatch": 9,
+            "totalWeight": 15.4,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "gearCount": 4
+          },
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.44",
+            "species": "BKT",
+            "CPUE": "2.75",
+            "gearCount": 4,
+            "totalCatch": 11,
+            "totalWeight": 4.8,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "1.1-2.5",
+            "totalCatch": 62,
+            "totalWeight": 40.5,
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "CPUE": "15.50",
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "averageWeight": "0.65"
+          }
+        ]
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_name": "Ahsub",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "38051600",
+          "survey_id": "109336",
+          "county": "Lake",
+          "id_date": "1988-06-02"
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "109336",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "quartileWeight": "1.5-4.0",
+            "totalCatch": 1,
+            "totalWeight": 3.4,
+            "gear": "Standard gill nets",
+            "species": "LAT",
+            "quartileCount": "0.4-3.7",
+            "averageWeight": "3.40",
+            "CPUE": "0.33"
+          },
+          {
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "totalCatch": 15,
+            "totalWeight": 27.3,
+            "gear": "Standard gill nets",
+            "species": "SPT",
+            "averageWeight": "1.82",
+            "quartileCount": "N/A",
+            "CPUE": "5.00"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 8,
+            "totalWeight": 7.3,
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "CPUE": "2.67",
+            "species": "BKT",
+            "averageWeight": "0.91",
+            "quartileCount": "N/A"
+          },
+          {
+            "gearCount": 3,
+            "quartileWeight": "1.1-2.5",
+            "totalWeight": 45.4,
+            "totalCatch": 74,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "averageWeight": "0.61",
+            "CPUE": "24.67"
+          }
+        ],
+        "surveyDate": "1988-06-02",
+        "narrative": "<p>Brook trout, lake trout and splake are present with a combined gillnet CPUE of 8.0 - above agerage age numbers. Sizes are good, with Splake averaging17.1. Sucker are numberous and appear to be increasing. </p>",
+        "lengths": {}
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_name": "Ahsub",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "county": "Lake",
+          "wb_id": "38051600",
+          "survey_id": "109337",
+          "id_date": "1991-09-10"
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "109337",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 12.6,
+            "totalCatch": 7,
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "CPUE": "2.33",
+            "species": "SPT",
+            "quartileCount": "N/A",
+            "averageWeight": "1.80"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 42,
+            "totalWeight": 25.5,
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "CPUE": "14.00",
+            "species": "BKT",
+            "quartileCount": "N/A",
+            "averageWeight": "0.61"
+          },
+          {
+            "CPUE": "10.33",
+            "averageWeight": "1.57",
+            "quartileCount": "0.8-5.3",
+            "species": "WTS",
+            "totalWeight": 48.8,
+            "totalCatch": 31,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 3
+          }
+        ],
+        "narrative": "<p>The fish population consists of high numbers of white suckers and brook trout. A few splake are also present. Examination of the length frequency of brook trout indicates that the fall fingerlings stocked in 1990 grew to an average of 9.6 their second summer of growth when captured during this assessment. The fall fingerlings stocked in 1989 grew to an average length of 14 end of their third summer of growth. The splake captured were stocked as fall fingerlings in 1988 and grew to an average length of 17.2 each at the end of their fourth summer growth.</p>",
+        "surveyDate": "1991-09-10",
+        "lengths": {}
+      },
+      {
+        "lengths": {},
+        "surveyDate": "1982-07-08",
+        "narrative": "<p>Composed of above average populations of splake and white suckers.  Brook trout are present in average numbers and lake trout in low numbers.</p>",
+        "surveyID": "109334",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "totalWeight": 1,
+            "totalCatch": 1,
+            "quartileWeight": "1.5-4.0",
+            "averageWeight": "1.00",
+            "quartileCount": "0.4-3.7",
+            "species": "LAT",
+            "CPUE": "0.25"
+          },
+          {
+            "gearCount": 4,
+            "totalCatch": 37,
+            "totalWeight": 36.8,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "averageWeight": "0.99",
+            "species": "SPT",
+            "CPUE": "9.25"
+          },
+          {
+            "totalCatch": 19,
+            "totalWeight": 3.4,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "CPUE": "4.75",
+            "quartileCount": "N/A",
+            "averageWeight": "0.18",
+            "species": "BKT"
+          },
+          {
+            "CPUE": "9.00",
+            "species": "WTS",
+            "averageWeight": "1.07",
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "totalCatch": 36,
+            "totalWeight": 38.5,
+            "gear": "Standard gill nets",
+            "gearCount": 4
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_id": "38051600",
+          "survey_id": "109334",
+          "id_date": "1982-07-08",
+          "wb_name": "Ahsub",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment"
+        }
+      },
+      {
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "wb_id": "38051600",
+          "survey_id": "109535",
+          "id_date": "2005-05-31",
+          "wb_name": "Ahsub",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment"
+        },
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "species": "BKT",
+            "averageWeight": "0.37",
+            "quartileCount": "N/A",
+            "CPUE": "3.67",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "totalWeight": 1835,
+            "totalCatch": 11,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 54099,
+            "totalCatch": 35,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 3,
+            "CPUE": "11.67",
+            "quartileCount": "0.8-5.3",
+            "averageWeight": "3.41",
+            "species": "WTS"
+          }
+        ],
+        "surveyID": "109535",
+        "lengths": {
+          "WTS": {
+            "minimum_length": 15,
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                15
+              ],
+              [
+                20,
+                7
+              ],
+              [
+                21,
+                6
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ]
+            ]
+          },
+          "BKT": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                6,
+                5
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 6
+          }
+        },
+        "surveyDate": "2005-05-31",
+        "narrative": "<p>Ahsub Lake is in Ecological Lake Class 3, which consists of 72 lakes in northeast Minnesota that are deep, have irregularly shaped shorelines, and have clear and soft (unmineralized) water.  Ahsub Lake is smaller than most of the lakes in this lake class.Ahsub Lake was thermally stratified on 05/31/2005 with a surface temperature of 63 F and a bottom temperature of 39 F.  Good oxygen for trout (more than 5 ppm) was retained to a depth of 40 ft, where the temperature was 41 F.  Ahsub Lake has no inlets.  The outlet has a filter barrier (which is in disrepair) and a beaver dam with a 3 ft head that limits fish movement upstream from Jitterbug Lake.  Bottom substrates along the shoreline of Ahsub Lake are 40% ledgerock, 40% boulder, 10% rubble, and 10% muck.  Aquatic plants are sparse and grow to a depth of 15 ft; there is a concentration of plants in the shallow outlet bay.Ahsub lake was first surveyed with gillnets in 1966, and was poisoned in 1967 to remove populations of northern pike, white sucker, and yellow perch.  Trout stocking began in 1969.  Eight subsequent trout assessments each consisted of 2-4 gillnets, mostly done in late May or early June, or in October.  Trapnetting has not been done in this lake due to the difficult portage access, and shoreline seining has not been done due to the lack of suitable seining areas.Fish species captured in 2005 were brook trout and white sucker.  A dozen smallmouth bass nests were observed by the survey crew, and one of these nests was occupied.  Smallmouth bass were first reported in Ahsub Lake by anglers in 1997.Brook trout biomass in 2005 (1.4 lb/gillnet) was lower than the average trout catch of 7.7 lb/gillnet (all species) in previous assessments on this lake and was also lower than the median trout catch of 3.9 lb/gillnet (all species) in recent assessments of 25 stream trout lakes (excluding mine pit lakes) in the Tower Fisheries Management Area.Ten of 11 brook trout captured in 2005 ranged in size from 6\" to 8\" and had been stocked the previous fall as fingerlings.  One 18\" brook trout was also captured.  The stomachs of the small trout were empty, while the stomach of the large brook trout contained chironomids and dragonfly larvae.White sucker numbers in 2005 (11.7/gillnet) were similar to the average catch of 11.9/gillnet in previous trout assessments on this lake.</p>"
+      },
+      {
+        "headerInfo": {
+          "wb_id": "38051600",
+          "survey_id": "20162426027382000",
+          "county": "Lake",
+          "id_date": "2024-09-16",
+          "wb_name": "Ahsub",
+          "survey_type": "Standard Survey",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "surveyID": "20162426027382000",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "totalWeight": 206,
+            "totalCatch": 6,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "averageWeight": "0.08",
+            "species": "HSF",
+            "CPUE": "1.50"
+          },
+          {
+            "CPUE": "0.25",
+            "species": "NOP",
+            "quartileCount": "0.6-2.4",
+            "averageWeight": "9.80",
+            "quartileWeight": "2.1-4.9",
+            "totalWeight": 4444,
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "gearCount": 4
+          },
+          {
+            "gearCount": 4,
+            "quartileWeight": "0.6-1.5",
+            "totalCatch": 2,
+            "totalWeight": 775,
+            "gear": "Standard gill nets",
+            "species": "SMB",
+            "averageWeight": "0.85",
+            "quartileCount": "0.3-1.4",
+            "CPUE": "0.50"
+          },
+          {
+            "CPUE": "2.75",
+            "species": "YEP",
+            "quartileCount": "0.4-3.7",
+            "averageWeight": "0.13",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 672,
+            "totalCatch": 11,
+            "gear": "Standard gill nets",
+            "gearCount": 4
+          },
+          {
+            "CPUE": "6.50",
+            "averageWeight": "1.45",
+            "quartileCount": "0.8-5.3",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalWeight": 17136,
+            "totalCatch": 26,
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 4
+          },
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.07",
+            "species": "BLG",
+            "CPUE": "7.75",
+            "gearCount": 4,
+            "totalWeight": 965,
+            "totalCatch": 31,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyDate": "2024-09-16",
+        "narrative": "<p>Ahsub is a 60-acre designated stream trout lake located 24 miles northeast of Ely in the Boundary Waters Canoe Area Wilderness. It is deep, clear, and rather unproductive. Two windstorms have torn down much of the forest surrounding the lake, but a few scattered mature trees punctuate the regenerating hardwoods and scrubby oaks. <br> \n <br> \nTrout stocking in Ahsub was discontinued after 2010 following reductions in the state stream trout program. The presence of smallmouth bass, and corresponding decreases in assessment catches, result in the decision to cease stocking. Previously rainbow trout, lake trout, splake, and brook trout had been stocked. <br> \n <br> \nAccess to Ahsub is from either a 26-rod portage to Disappointment Lake or a 24-rod portage to Jitterbug Lake. Two USFS maintained campsites are present. This is a busy travel route, and campers can expect plenty of canoe traffic during peak season. Although Ahsub is no longer managed for stream trout it is still listed as a designated trout lake. Anglers wishing to pursue other species are required to possess a trout stamp. <br> \n <br> \nThe 2024 survey consisted of four gillnet sets. Bluegill (7.8/net), white sucker (6.5/net), and yellow perch (2.8/net) represented the bulk of the catch. Hybrid sunfish (1.5/net) and smallmouth bass (0.5/net) were present in low numbers. A single 35.5 inch northern pike was captured as well. This was the first-time bluegill, hybrid sunfish, or northern pike had been sampled in Ahsub. The bluegills were small, ranging from about 4-6 inches with an average length of 4.5 inches. Smallmouth bass lengths were 6.5 and 14 inches. Smallmouth bass were likely more abundant than gill nets suggest.  <br> \n</p>",
+        "lengths": {
+          "HSF": {
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 3
+          },
+          "NOP": {
+            "minimum_length": 35,
+            "fishCount": [
+              [
+                35,
+                1
+              ]
+            ],
+            "maximum_length": 35
+          },
+          "SMB": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 14
+          },
+          "YEP": {
+            "minimum_length": 6,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                6,
+                7
+              ],
+              [
+                7,
+                4
+              ]
+            ]
+          },
+          "BLG": {
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                18
+              ],
+              [
+                5,
+                11
+              ]
+            ],
+            "minimum_length": 3
+          },
+          "WTS": {
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                10
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "maximum_length": 21
+          }
+        }
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "id_date": "1979-06-19",
+          "county": "Lake",
+          "wb_id": "38051600",
+          "survey_id": "109333",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Re-Survey",
+          "wb_name": "Ahsub"
+        },
+        "surveyID": "109333",
+        "fishCatchSummaries": [
+          {
+            "species": "RBT",
+            "quartileCount": "N/A",
+            "averageWeight": "3.33",
+            "CPUE": "0.75",
+            "gearCount": 4,
+            "quartileWeight": "N/A",
+            "totalWeight": 10,
+            "totalCatch": 3,
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "1.37",
+            "quartileCount": "0.8-5.3",
+            "species": "WTS",
+            "CPUE": "15.00",
+            "gearCount": 4,
+            "totalWeight": 82,
+            "gear": "Standard gill nets",
+            "totalCatch": 60,
+            "quartileWeight": "1.1-2.5"
+          }
+        ],
+        "lengths": {},
+        "surveyDate": "1979-06-19",
+        "narrative": "<p>Composed of a low population of rainbow trout. Suckers are present in very high numbers.</p>"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "species": "SMB",
+            "quartileCount": "0.3-1.4",
+            "averageWeight": "1.19",
+            "CPUE": "1.00",
+            "gearCount": 3,
+            "quartileWeight": "0.6-1.5",
+            "totalCatch": 3,
+            "totalWeight": 1616,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 9400,
+            "gear": "Standard gill nets",
+            "totalCatch": 14,
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "CPUE": "4.67",
+            "averageWeight": "1.48",
+            "quartileCount": "N/A",
+            "species": "BKT"
+          },
+          {
+            "gearCount": 3,
+            "quartileWeight": "1.1-2.5",
+            "totalCatch": 19,
+            "totalWeight": 18922,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "averageWeight": "2.20",
+            "quartileCount": "0.8-5.3",
+            "CPUE": "6.33"
+          }
+        ],
+        "surveyID": "109338",
+        "narrative": "<p>Ahusb Lake is in Ecological Lake Class 3, which consists of 72 lakes in northeast Minnesota that are deep, have irregularly shaped shorelines, and have clear and soft (unmineralized) water.  Ahsub Lake is smaller (58 acres) than the lake class average size of 263 acres.Ahusb Lake was thermally stratified on 09/07/99 and retained good oxygen for trout (more than 5 ppm) to a depth of 33 ft, where the temperature was 43 F.  Ahusb Lake has no inlets; the outlet has a beaver dam and an artificial rock barrier at the outlet which prevent fish movement upstream from Jitterbug Lake.  Lake bottom substrates are mostly ledgerock and boulder.  Aquatic plants are sparse and grow to a depth of 15 ft; mostly in the shallow outlet bay.  Ahsub Lake was poisoned in 1967 to remove populations of northern pike, white sucker, and yellow perch.  Some sucker apparently survived the 1967 poisoning and have been present, along with stocked trout.  Trout stocking began in 1969.Fish species captured in the 1999 assessment were brook trout, white sucker, and smallmouth bass.The weight of brook trout captured in 1999 (6.9 lb/gillnet) was similar to the average catch of 7.8 lb trout/gillnet captured in six previous assessments since trout stocking began.  The 1999 trout catch was also near the median trout catch of 5.4 lb trout/gillnet (all trout species) in recent assessments of 25 stream trout lakes in the Ely Management Area.Brook trout sizes in 1999 averaged 14.8\"; the largest was 16.8\".  Two of eleven brook trout stomachs examined contained insects and zooplankton; the remaining nine were empty.White sucker numbers in 1999 (6.3/gillnet) were lower than the average catch of 12.8/gillnet in previous assessments after the 1967 poisoning.  Sucker sizes averaged 17.2\"; the largest was 19.3\".Smallmouth bass have been reported by anglers in Ahsub Lake beginning in 1997.  Three smallmouth bass were captured in 1999 assessment; the smallest was 11.4\" and the largest was 16.6\".</p>",
+        "surveyDate": "1999-09-07",
+        "lengths": {
+          "SMB": {
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                16,
+                1
+              ]
+            ],
+            "minimum_length": 11
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "maximum_length": 19,
+            "minimum_length": 14
+          },
+          "BKT": {
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                9
+              ],
+              [
+                16,
+                1
+              ]
+            ],
+            "maximum_length": 16
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Ahsub",
+          "id_date": "1999-09-07",
+          "survey_id": "109338",
+          "wb_id": "38051600",
+          "county": "Lake"
+        },
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "location": "1/8 mile portage from Disappointment Lake in the BWCAW.",
+        "accessTypeId": "CA"
+      },
+      {
+        "ownerTypeId": "USF",
+        "location": "1/8 mile portage from Jitterbug Lake in the BWCAW.",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "CA"
+      }
+    ],
+    "areaAcres": 60.33,
+    "sampledPlants": [],
+    "averageWaterClarity": "18.0",
+    "waterClarity": [
+      [
+        "09/16/2024",
+        "18"
+      ]
+    ]
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285743
+}

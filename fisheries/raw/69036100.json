@@ -1,0 +1,72 @@
+{
+  "result": {
+    "surveys": [
+      {
+        "surveyID": "108164",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_id": "69036100",
+          "id_date": "1981-08-01",
+          "wb_type": "Lake",
+          "wb_name": "Chase",
+          "survey_id": "108164",
+          "county": "St. Louis",
+          "wb_alt_name": ""
+        },
+        "surveyDate": "1981-08-01",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 0.5,
+            "totalCatch": 4,
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "averageWeight": "0.12",
+            "species": "YEP",
+            "CPUE": "1.33"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "totalCatch": 108,
+            "totalWeight": 122,
+            "species": "WTS",
+            "CPUE": "36.00",
+            "averageWeight": "1.13",
+            "quartileCount": "N/A"
+          }
+        ],
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Intact for many years because when it gave way - it left normally emergent plants out of the water, dropping the water level 3 feet. Composed of a very high population of suckers and a low population of perch.</p>",
+        "surveySubType": "Initial Survey"
+      }
+    ],
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "location": "Portage ~1/8 mi.-no trail~ from Rocky Lake in BWCAW  non-motorized route.",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "lakeName": "Chase",
+    "waterClarity": [],
+    "littoralAcres": 15.98,
+    "DOWNumber": "69036100",
+    "meanDepthFeet": 0,
+    "county": "St. Louis",
+    "areaAcres": 15.98,
+    "sampledPlants": [],
+    "maxDepthFeet": 15,
+    "officeCode": "F214",
+    "shoreLengthMiles": 0.75,
+    "averageWaterClarity": "N/A"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790286059
+}

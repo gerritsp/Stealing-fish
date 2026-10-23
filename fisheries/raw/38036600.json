@@ -1,0 +1,72 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285811,
+  "message": "Normal execution.",
+  "result": {
+    "littoralAcres": 27,
+    "accesses": [
+      {
+        "location": "Portages from Fraser and Ahmakose lake in the BWCA on a non-motor route.",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " "
+      }
+    ],
+    "waterClarity": [],
+    "shoreLengthMiles": 2.62,
+    "officeCode": "F214",
+    "maxDepthFeet": 85,
+    "averageWaterClarity": "N/A",
+    "surveys": [
+      {
+        "lengths": {},
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Composed of below average populations of northern pike and suckers.</p>",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "totalCatch": 3,
+            "totalWeight": 10,
+            "quartileCount": "0.6-2.4",
+            "quartileWeight": "2.1-4.9",
+            "CPUE": "1.00",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "averageWeight": "3.33"
+          },
+          {
+            "totalCatch": 6,
+            "gearCount": 3,
+            "CPUE": "2.00",
+            "quartileWeight": "1.1-2.5",
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 7,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.17",
+            "species": "WTS"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyDate": "1980-07-23",
+        "surveyID": "107987",
+        "headerInfo": {
+          "survey_id": "107987",
+          "county": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "id_date": "1980-07-23",
+          "wb_id": "38036600",
+          "wb_type": "Lake",
+          "wb_name": "Gerund"
+        }
+      }
+    ],
+    "lakeName": "Gerund",
+    "areaAcres": 89.69,
+    "DOWNumber": "38036600",
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "county": "Lake"
+  }
+}

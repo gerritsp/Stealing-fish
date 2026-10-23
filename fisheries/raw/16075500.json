@@ -1,0 +1,312 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "areaAcres": 120.79,
+    "littoralAcres": 17,
+    "officeCode": "F218",
+    "waterClarity": [
+      [
+        "07/30/1980",
+        "11"
+      ],
+      [
+        "08/07/2024",
+        "6.6"
+      ],
+      [
+        "07/16/1992",
+        "14.5"
+      ]
+    ],
+    "maxDepthFeet": 130,
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "surveyDate": "1980-08-01",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 4,
+            "totalCatch": 9,
+            "gearCount": 4,
+            "quartileCount": "0.2-1.0",
+            "quartileWeight": "0.6-1.5",
+            "species": "BUB",
+            "gear": "Standard gill nets",
+            "CPUE": "2.25",
+            "averageWeight": "0.44"
+          },
+          {
+            "species": "LAT",
+            "totalWeight": 8,
+            "totalCatch": 3,
+            "gearCount": 4,
+            "quartileWeight": "1.5-4.0",
+            "quartileCount": "0.4-3.7",
+            "averageWeight": "2.67",
+            "CPUE": "0.75",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "YEP",
+            "quartileCount": "0.4-3.7",
+            "gearCount": 4,
+            "totalCatch": 4,
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 0.35,
+            "gear": "Standard gill nets",
+            "CPUE": "1.00",
+            "averageWeight": "0.09"
+          },
+          {
+            "quartileCount": "0.8-5.3",
+            "gearCount": 4,
+            "totalCatch": 7,
+            "quartileWeight": "1.1-2.5",
+            "totalWeight": 2.25,
+            "species": "WTS",
+            "averageWeight": "0.32",
+            "CPUE": "1.75",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>The Lake Trout population appears small and top heavy from this sampling, however, another more intensive assessment of this population should be done in the near future.  The Burbot population appears large with below average populations of Perch and Suckers.</p>",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "headerInfo": {
+          "county": "Cook",
+          "wb_id": "16075500",
+          "wb_name": "French",
+          "survey_id": "109816",
+          "wb_alt_name": "",
+          "id_date": "1980-08-01",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey"
+        },
+        "surveyID": "109816"
+      },
+      {
+        "narrative": "<p>Lake trout abundance was low, as it has been in the past on this lake.  Reproduction appeared to have been limited.  Only the catch of burbot was within the normal range for lakes of this class; catches of all other species were unusually low.</p>",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_id": "110699",
+          "county": "Cook",
+          "wb_name": "French",
+          "wb_id": "16075500",
+          "survey_type": "Population Assessment",
+          "id_date": "1996-07-10",
+          "wb_type": "Lake",
+          "wb_alt_name": ""
+        },
+        "lengths": {
+          "BUB": {
+            "minimum_length": 11,
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 11
+          },
+          "LAT": {
+            "minimum_length": 16,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 7
+          }
+        },
+        "surveyID": "110699",
+        "surveyDate": "1996-07-10",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 4,
+            "gearCount": 6,
+            "quartileWeight": "0.6-1.5",
+            "quartileCount": "0.2-1.0",
+            "totalWeight": 1873,
+            "species": "BUB",
+            "averageWeight": "1.03",
+            "gear": "Standard gill nets",
+            "CPUE": "0.67"
+          },
+          {
+            "species": "LAT",
+            "quartileWeight": "1.5-4.0",
+            "gearCount": 6,
+            "totalCatch": 2,
+            "quartileCount": "0.4-3.7",
+            "totalWeight": 1894,
+            "CPUE": "0.33",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.09"
+          },
+          {
+            "averageWeight": "0.13",
+            "CPUE": "0.33",
+            "gear": "Standard gill nets",
+            "totalWeight": 121,
+            "gearCount": 6,
+            "totalCatch": 2,
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "0.4-3.7",
+            "species": "YEP"
+          },
+          {
+            "averageWeight": "0.41",
+            "gear": "Standard gill nets",
+            "CPUE": "0.50",
+            "species": "WTS",
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 6,
+            "totalCatch": 3,
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 564
+          }
+        ],
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in French Lake on August 7, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 22.8 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 131.7 feet at the time of sampling. The thickness of this layer in the water column was 108.9 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.9 degrees C (40.8 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 1980 during the late summer thermal stress period indicated suitable oxythermal habitat that year. Data were also collected outside the thermal maximum period in 1992, this data indicated suitable conditions during that sampling period. The least favorable oxythermal habitat conditions were recorded in 1980, during the peak summer stress period, when the suitable habitat layer thickness was 21.9 feet.  <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveyID": "21872425631962041",
+        "headerInfo": {
+          "county": "Cook",
+          "wb_id": "16075500",
+          "wb_name": "French",
+          "survey_id": "21872425631962041",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "id_date": "2024-08-07",
+          "wb_type": "Lake"
+        },
+        "lengths": {},
+        "surveyDate": "2024-08-07",
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "lengths": {},
+        "surveyID": "110679",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "id_date": "1992-07-14",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_id": "16075500",
+          "wb_name": "French",
+          "survey_id": "110679"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Catches of all species were lower in this assessment than they had been in the 1980 survey, and they were lower than normal for lakes of this ecological class.  The single lake trout collected was an age-6 fish, and was a mature male.  No white sucker were collected in this assessment; however, several were taken in the 1980 survey.</p>",
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1992-07-14",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "0.75",
+            "averageWeight": "1.13",
+            "species": "BUB",
+            "gearCount": 4,
+            "quartileCount": "0.2-1.0",
+            "totalCatch": 3,
+            "quartileWeight": "0.6-1.5",
+            "totalWeight": 3.38
+          },
+          {
+            "species": "LAT",
+            "totalCatch": 1,
+            "gearCount": 4,
+            "quartileWeight": "1.5-4.0",
+            "quartileCount": "0.4-3.7",
+            "totalWeight": 2.5,
+            "gear": "Standard gill nets",
+            "CPUE": "0.25",
+            "averageWeight": "2.50"
+          },
+          {
+            "quartileCount": "0.4-3.7",
+            "gearCount": 4,
+            "totalCatch": 1,
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 0.19,
+            "species": "YEP",
+            "CPUE": "0.25",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.19"
+          }
+        ]
+      }
+    ],
+    "averageWaterClarity": "10.7",
+    "accesses": [
+      {
+        "location": "Entirely inside the BWCAW.  Portages from Gillis; Powell; Peter; and Seahorse Lakes.",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "shoreLengthMiles": 2.63,
+    "meanDepthFeet": 0,
+    "county": "Cook",
+    "lakeName": "French",
+    "DOWNumber": "16075500"
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285898
+}

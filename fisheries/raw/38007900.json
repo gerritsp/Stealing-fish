@@ -1,0 +1,737 @@
+{
+  "result": {
+    "lakeName": "Watonwan",
+    "shoreLengthMiles": 2.96,
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "PRMIT",
+        "location": "Portage trail is east of access to Kawishiwi Lake, there is a small parking area.  Then a 0.94 mile portage from USFS Rd #354 to lake.",
+        "lakeAccessComments": "Portage trail east of access to Kawishiwi Lake, small parking area.  Then 0.94 mile portage from USFS Rd #354 to lake. Access is west of largest island. ",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/21/2017",
+        "4"
+      ]
+    ],
+    "DOWNumber": "38007900",
+    "lakeAltName": "Long",
+    "areaAcres": 58.47,
+    "littoralAcres": 46.8,
+    "sampledPlants": [],
+    "county": "Lake",
+    "averageWaterClarity": "4.0",
+    "surveys": [
+      {
+        "surveyDate": "2017-08-21",
+        "surveySubType": "Standard Survey",
+        "surveyID": "11951727929958005",
+        "headerInfo": {
+          "survey_type": "Standard Survey",
+          "county": "Lake",
+          "id_date": "2017-08-21",
+          "wb_name": "Watonwan",
+          "wb_alt_name": "Long",
+          "survey_id": "11951727929958005",
+          "wb_id": "38007900",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Watonwan Lake is located approximately 20 miles northeast of Isabella and lies completely within the Boundary Waters Canoe Area Wilderness (BWCAW).  Access to the lake is a 0.95 mile long portage trail.  The trail starts east of the parking lot for the BWCAW entry point #37, Kawishiwi Lake.    <br> \n <br> \nThe 2017 survey was conducted to monitor the status of the fish community in Watonwan Lake. Walleye catch was below average relative to similar lakes in northeast Minnesota.  The average size was 18.2 inches and 2.4 pounds.  Age analysis suggests inconsistent natural reproduction occurs in the lake.   <br> \n <br> \nThe Northern Pike catch was below average compared to similar lakes in the area.  The length of pike ranged from 20.0 to 30.4 inches. <br> \n <br> \nYellow Perch were also sampled in low numbers and size ranged from 2.4 to 9.5 inches.  White Sucker, Iowa Darter, Blacknose Shiner, Golden Shiner, Green Sunfish, and Tadpole Madtom were also sampled during the survey.   <br> \n <br> \nWatonwan Lake is a scenic and remote BWCAW lake.  Access is moderately difficult, yet the lake provides an opportunity to fish for Walleye and Northern Pike for anglers in a wilderness environment.  All anglers and visitors to Watonwan Lake must abide by the BWCAW regulations and the lake is entirely non-motorized.  <br> \n</p>",
+        "lengths": {
+          "GSF": {
+            "maximum_length": 1,
+            "fishCount": [
+              [
+                1,
+                1
+              ]
+            ],
+            "minimum_length": 1
+          },
+          "NOP": {
+            "minimum_length": 20,
+            "fishCount": [
+              [
+                20,
+                2
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                30,
+                1
+              ]
+            ],
+            "maximum_length": 30
+          },
+          "WTS": {
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                7
+              ],
+              [
+                8,
+                5
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 6
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "minimum_length": 13,
+            "maximum_length": 21
+          },
+          "YEP": {
+            "minimum_length": 1,
+            "fishCount": [
+              [
+                1,
+                10
+              ],
+              [
+                2,
+                28
+              ],
+              [
+                3,
+                36
+              ],
+              [
+                4,
+                22
+              ],
+              [
+                5,
+                9
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 9
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "gear": "Special trap nets",
+            "totalCatch": 106,
+            "averageWeight": "0.01",
+            "quartileWeight": "N/A",
+            "species": "YEP",
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "totalWeight": 692,
+            "CPUE": "35.33"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "averageWeight": "3.14",
+            "quartileWeight": "1.4-2.7",
+            "species": "NOP",
+            "gearCount": 4,
+            "quartileCount": "2.0-8.5",
+            "totalWeight": 5690,
+            "CPUE": "1.00"
+          },
+          {
+            "species": "WTS",
+            "gearCount": 4,
+            "quartileCount": "1.6-8.4",
+            "totalWeight": 6045,
+            "CPUE": "6.25",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.53",
+            "totalCatch": 25,
+            "quartileWeight": "0.9-2.3"
+          },
+          {
+            "totalWeight": 520,
+            "species": "NOP",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "CPUE": "0.33",
+            "averageWeight": "1.15",
+            "totalCatch": 1,
+            "gear": "Special trap nets",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Special trap nets",
+            "totalCatch": 2,
+            "averageWeight": "0.88",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "species": "WTS",
+            "totalWeight": 801,
+            "CPUE": "0.67"
+          },
+          {
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00",
+            "totalCatch": 3,
+            "gear": "Special trap nets",
+            "CPUE": "1.00",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "species": "TPM"
+          },
+          {
+            "CPUE": "4.00",
+            "totalWeight": 253,
+            "species": "YEP",
+            "gearCount": 1,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.14",
+            "totalCatch": 4,
+            "gear": "Open-water angling"
+          },
+          {
+            "totalCatch": 7,
+            "averageWeight": "2.39",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-1.9",
+            "totalWeight": 7585,
+            "species": "WAE",
+            "quartileCount": "2.2-10.5",
+            "gearCount": 4,
+            "CPUE": "1.75"
+          },
+          {
+            "species": "GOS",
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "totalWeight": 0,
+            "CPUE": "2.33",
+            "gear": "Special trap nets",
+            "averageWeight": "0.00",
+            "totalCatch": 7,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "gear": "Special trap nets",
+            "averageWeight": "0.00",
+            "totalCatch": 1,
+            "CPUE": "0.33",
+            "species": "IOD",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "totalWeight": 0
+          },
+          {
+            "species": "GSF",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "totalWeight": 2,
+            "CPUE": "0.33",
+            "gear": "Special trap nets",
+            "averageWeight": "0.00",
+            "totalCatch": 1,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 7,
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "CPUE": "3.50",
+            "totalWeight": 0,
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "species": "YEP"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 9,
+            "averageWeight": "0.00",
+            "gear": "Special trap nets",
+            "CPUE": "3.00",
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "species": "BNS"
+          },
+          {
+            "totalCatch": 1,
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "CPUE": "0.50"
+          },
+          {
+            "CPUE": "1.00",
+            "species": "YEP",
+            "gearCount": 4,
+            "quartileCount": "2.5-14.3",
+            "totalWeight": 150,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.08",
+            "totalCatch": 4
+          }
+        ]
+      },
+      {
+        "surveySubType": "Re-Survey",
+        "surveyDate": "1995-08-07",
+        "headerInfo": {
+          "id_date": "1995-08-07",
+          "wb_name": "Watonwan",
+          "wb_alt_name": "Long",
+          "county": "Lake",
+          "survey_type": "Re-Survey",
+          "wb_type": "Lake",
+          "wb_id": "38007900",
+          "survey_id": "112671"
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "112671",
+        "lengths": {
+          "WAE": {
+            "maximum_length": 22,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                8,
+                6
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                5,
+                6
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 11
+          },
+          "NOP": {
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                24,
+                3
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                29,
+                1
+              ]
+            ],
+            "maximum_length": 29
+          },
+          "WTS": {
+            "maximum_length": 21,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                8
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          }
+        },
+        "narrative": "<p>A lake survey in 1995 found an average abundance of walleye in Watonwan Lake. Quality in terms of size is good with over one half of the fish sampled being 16 inches or larger. Walleye up to 22 inches (4 pounds) were sampled. The walleye population is maintained thru natural reproduction and as is the case with many similar small lakes may experience frequent reproduction failures.     Northern pike abundance is fairly high compared to other lakes in this class. Average size of northern pike sampled in the 1995 survey was 1.8 pounds with nearly one half of the fish in the 1.7 pound to 2.3 pound range. Fish up to 30 inches were sampled in the survey though they do not appear to be common.     Access to the lake requires a one mile hike on a unmarked trail. Because of this and the relative unfamiliarity of the lake with anglers fishing pressure is light.</p>",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "6.25",
+            "species": "NOP",
+            "gearCount": 4,
+            "quartileCount": "2.0-8.5",
+            "totalWeight": 20919,
+            "quartileWeight": "1.4-2.7",
+            "gear": "Standard gill nets",
+            "totalCatch": 25,
+            "averageWeight": "1.84"
+          },
+          {
+            "species": "WAE",
+            "quartileCount": "2.2-10.5",
+            "gearCount": 4,
+            "totalWeight": 14261,
+            "CPUE": "5.75",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.37",
+            "totalCatch": 23,
+            "quartileWeight": "1.1-1.9"
+          },
+          {
+            "species": "YEP",
+            "gearCount": 4,
+            "quartileCount": "2.5-14.3",
+            "totalWeight": 915,
+            "CPUE": "2.50",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.20",
+            "totalCatch": 10,
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "averageWeight": "1.57",
+            "totalCatch": 60,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.9-2.3",
+            "totalWeight": 42738,
+            "species": "WTS",
+            "gearCount": 4,
+            "quartileCount": "1.6-8.4",
+            "CPUE": "15.00"
+          }
+        ]
+      },
+      {
+        "lengths": {},
+        "narrative": "<p>Watonwan Lake is a 66 acre, very soft-water lake in the Kawishiwi Watershed. The lake lies within the roadless and airspace reservation zone of the Superior National Forest, and is accessible from a restricted logging road. There is some possibility of access through streams connecting to Watonwan Lake, but these routes are difficult and probably never used. The lake has a maximum depth of 25 feet, and a median depth of 6 feet, three inlets and an outlet. Shoal soils are mostly boulders with limited areas of muck, rubble, gravel, sand, and ledge rock. Forest land and marshes completely surround the lake.     At the time of the survey, there were sufficient amounts of dissolved oxygen for fish life to a depth of about 14 feet. The water was brown (secchi 5.0 feet), and moderate amounts of aquatic plants were present in bays and protected areas, to depths of 6 feet. Test netting took fair numbers of White Sucker, Northern Pike, Yellow Perch and Walleye. Shiners, Tadpole Madtom, Green Sunfish and Yellow Perch were taken in shoal water seining and minnow trapping.     Spawning facilities are rated \"good to excellent\" for Northern Pike, \"good\" for Walleye and Smallmouth Bass, and \"fair\" for Largemouth Bass and centrarchid panfish.     Watonwan Lake appears to be rarely fished, but a few residents in the area reported catching Walleye and Northern Pike in the past.</p>",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.00",
+            "totalCatch": 43,
+            "gear": "Standard trap nets",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 0,
+            "quartileCount": "0.6-6.3",
+            "gearCount": 5,
+            "species": "YEP",
+            "CPUE": "8.60"
+          },
+          {
+            "CPUE": "0.20",
+            "gearCount": 5,
+            "quartileCount": "0.3-2.0",
+            "species": "WAE",
+            "totalWeight": 0,
+            "quartileWeight": "1.4-2.8",
+            "gear": "Standard trap nets",
+            "totalCatch": 1,
+            "averageWeight": "0.00"
+          },
+          {
+            "quartileWeight": "1.0-2.6",
+            "gear": "Standard trap nets",
+            "totalCatch": 11,
+            "averageWeight": "0.00",
+            "CPUE": "2.20",
+            "species": "WTS",
+            "quartileCount": "0.3-2.2",
+            "gearCount": 5,
+            "totalWeight": 0
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 12,
+            "averageWeight": "0.00",
+            "quartileWeight": "1.4-2.7",
+            "gearCount": 4,
+            "quartileCount": "2.0-8.5",
+            "species": "NOP",
+            "totalWeight": 0,
+            "CPUE": "3.00"
+          },
+          {
+            "quartileWeight": "1.1-1.9",
+            "totalCatch": 9,
+            "averageWeight": "0.00",
+            "gear": "Standard gill nets",
+            "CPUE": "2.25",
+            "totalWeight": 0,
+            "species": "WAE",
+            "gearCount": 4,
+            "quartileCount": "2.2-10.5"
+          },
+          {
+            "CPUE": "0.75",
+            "totalWeight": 0,
+            "gearCount": 4,
+            "quartileCount": "2.5-14.3",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 3,
+            "averageWeight": "0.00",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "1.6-8.4",
+            "gearCount": 4,
+            "species": "WTS",
+            "totalWeight": 0,
+            "CPUE": "5.25",
+            "gear": "Standard gill nets",
+            "totalCatch": 21,
+            "averageWeight": "0.00",
+            "quartileWeight": "0.9-2.3"
+          },
+          {
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "gearCount": 5,
+            "species": "NOP",
+            "CPUE": "2.60",
+            "averageWeight": "0.00",
+            "totalCatch": 13,
+            "gear": "Standard trap nets",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1962-08-01",
+        "headerInfo": {
+          "wb_name": "Watonwan",
+          "wb_alt_name": "Long",
+          "id_date": "1962-08-01",
+          "county": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_id": "38007900",
+          "wb_type": "Lake",
+          "survey_id": "112700"
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "112700"
+      }
+    ],
+    "maxDepthFeet": 25,
+    "officeCode": "F215"
+  },
+  "timestamp": 1790285600,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

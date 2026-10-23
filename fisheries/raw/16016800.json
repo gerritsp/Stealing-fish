@@ -1,0 +1,54 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285751,
+  "result": {
+    "shoreLengthMiles": 0.9,
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>NO FISH WERE TAKEN OR OBSERVED. IF THE BARRIER ON THE OUTLET CAN BE PASSED, THERE IS POTENTIAL FOR YELLOW PERCH, BROOK TROUT, BROWN TROUT SPLAKE AND WHITE SUCKER TO BE PRESENT, THROUGH MIGRATION FROM DISLOCATION LAKE.</p>",
+        "headerInfo": {
+          "survey_id": "110064",
+          "id_date": "1987-08-24",
+          "wb_id": "16016800",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "Kroft",
+          "survey_type": "Initial Survey",
+          "county": "Cook"
+        },
+        "surveyID": "110064",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyDate": "1987-08-24"
+      }
+    ],
+    "averageWaterClarity": "6.5",
+    "officeCode": "F218",
+    "lakeName": "Kroft",
+    "DOWNumber": "16016800",
+    "waterClarity": [
+      [
+        "08/24/1987",
+        "6.5"
+      ]
+    ],
+    "maxDepthFeet": 12,
+    "county": "Cook",
+    "areaAcres": 23.84,
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "location": "NONE",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O"
+      }
+    ],
+    "littoralAcres": 23.84,
+    "meanDepthFeet": 0
+  }
+}

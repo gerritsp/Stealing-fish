@@ -1,0 +1,83 @@
+{
+  "result": {
+    "DOWNumber": "38037600",
+    "lakeName": "Muskrat",
+    "meanDepthFeet": 0,
+    "waterClarity": [],
+    "averageWaterClarity": "N/A",
+    "county": "Lake",
+    "surveys": [
+      {
+        "surveyID": "107992",
+        "headerInfo": {
+          "wb_name": "Muskrat",
+          "survey_id": "107992",
+          "survey_type": "Initial Survey",
+          "county": "Lake",
+          "id_date": "1975-07-12",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38037600"
+        },
+        "lengths": {},
+        "narrative": "<p>Consists of an average population of sucker and low population of walleyes and perch.</p>",
+        "surveyDate": "1975-07-12",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 1,
+            "averageWeight": "2.50",
+            "quartileWeight": "0.4-1.9",
+            "totalWeight": 2.5,
+            "totalCatch": 1,
+            "CPUE": "1.00",
+            "quartileCount": "2.4-16.0",
+            "species": "WAE"
+          },
+          {
+            "totalWeight": 0,
+            "gear": "Standard gill nets",
+            "gearCount": 1,
+            "averageWeight": "0.00",
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "1.1-12.4",
+            "species": "YEP",
+            "totalCatch": 1,
+            "CPUE": "1.00"
+          },
+          {
+            "quartileCount": "1.0-8.9",
+            "species": "WTS",
+            "totalCatch": 9,
+            "CPUE": "9.00",
+            "totalWeight": 7.5,
+            "gearCount": 1,
+            "averageWeight": "0.83",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.4-1.7"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "areaAcres": 24.72,
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "location": "Portage from Fraser Lake in BWCA on a non-motor route.",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O"
+      }
+    ],
+    "littoralAcres": 18,
+    "shoreLengthMiles": 1.32,
+    "maxDepthFeet": 18
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285783,
+  "message": "Normal execution."
+}

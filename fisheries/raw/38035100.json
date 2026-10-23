@@ -1,0 +1,617 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "areaAcres": 1465.19,
+    "sampledPlants": [],
+    "lakeName": "Thomas",
+    "county": "Lake",
+    "maxDepthFeet": 110,
+    "littoralAcres": 441,
+    "officeCode": "F214",
+    "meanDepthFeet": 0,
+    "surveys": [
+      {
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>This assessment shows average populations lake trout, cisco, and suckers.  Northern pike are present in relatively low numbers.  The 1976 survey showed an average population of northern pike and an above average population of walleye.</p>",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Lake",
+          "survey_type": "Population Assessment",
+          "id_date": "1976-08-03",
+          "wb_type": "Lake",
+          "wb_name": "Thomas",
+          "survey_id": "107985",
+          "wb_id": "38035100"
+        },
+        "surveyDate": "1976-08-03",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-4.3",
+            "gearCount": 6,
+            "totalWeight": 24.5,
+            "totalCatch": 8,
+            "species": "LAT",
+            "CPUE": "1.33",
+            "averageWeight": "3.06",
+            "quartileWeight": "1.2-3.1"
+          },
+          {
+            "quartileWeight": "2.7-5.3",
+            "averageWeight": "3.75",
+            "CPUE": "0.67",
+            "species": "NOP",
+            "gearCount": 6,
+            "totalWeight": 15,
+            "totalCatch": 4,
+            "quartileCount": "0.3-1.0",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 23,
+            "gearCount": 6,
+            "totalCatch": 9,
+            "quartileCount": "1.7-5.0",
+            "CPUE": "1.50",
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "averageWeight": "2.56"
+          },
+          {
+            "species": "TLC",
+            "CPUE": "5.33",
+            "averageWeight": "0.10",
+            "quartileWeight": "0.1-0.7",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.4-17.4",
+            "gearCount": 6,
+            "totalCatch": 32,
+            "totalWeight": 3.2
+          }
+        ],
+        "surveyID": "107985"
+      },
+      {
+        "surveyDate": "1986-09-12",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_name": "Thomas",
+          "survey_id": "108321",
+          "wb_id": "38035100",
+          "wb_alt_name": "",
+          "id_date": "1986-09-12",
+          "county": "Lake",
+          "survey_type": "Population Assessment"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Cisco and lake trout are present in above average numbers; northern pike, white sucker, rock bass, yellow perch, and walleye are present in below average numbers. Bluegill sunfish are also present. Burbot were capture in previous assessments. The cisco present are the walleye growth is above average. Many young lake trout were captured; only one was over 20.</p>",
+        "surveySubType": "Population Assessment",
+        "surveyID": "108321",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.3-1.0",
+            "gearCount": 6,
+            "totalCatch": 3,
+            "totalWeight": 14.1,
+            "gear": "Standard gill nets",
+            "averageWeight": "4.70",
+            "quartileWeight": "2.7-5.3",
+            "species": "NOP",
+            "CPUE": "0.50"
+          },
+          {
+            "gearCount": 6,
+            "totalCatch": 4,
+            "totalWeight": 0.7,
+            "quartileCount": "0.4-5.1",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-0.4",
+            "averageWeight": "0.17",
+            "CPUE": "0.67",
+            "species": "RKB"
+          },
+          {
+            "quartileCount": "0.6-9.7",
+            "totalWeight": 30.1,
+            "gearCount": 6,
+            "totalCatch": 14,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.15",
+            "quartileWeight": "1.1-3.3",
+            "species": "WAE",
+            "CPUE": "2.33"
+          },
+          {
+            "CPUE": "0.17",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.10",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalWeight": 0.1,
+            "totalCatch": 1,
+            "quartileCount": "0.3-2.8"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 20.3,
+            "gearCount": 6,
+            "totalCatch": 13,
+            "quartileCount": "1.7-5.0",
+            "CPUE": "2.17",
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "averageWeight": "1.56"
+          },
+          {
+            "totalWeight": 0.3,
+            "gearCount": 6,
+            "totalCatch": 3,
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.10",
+            "CPUE": "0.50",
+            "species": "BLG"
+          }
+        ],
+        "lengths": {}
+      },
+      {
+        "lengths": {
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                3
+              ]
+            ],
+            "maximum_length": 6
+          },
+          "TLC": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                6,
+                38
+              ],
+              [
+                7,
+                50
+              ],
+              [
+                8,
+                29
+              ],
+              [
+                9,
+                7
+              ]
+            ],
+            "maximum_length": 10,
+            "minimum_length": 6
+          },
+          "WTS": {
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                5
+              ]
+            ],
+            "maximum_length": 20
+          },
+          "NOP": {
+            "minimum_length": 18,
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                27,
+                2
+              ],
+              [
+                30,
+                1
+              ]
+            ],
+            "maximum_length": 30
+          },
+          "RKB": {
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                5,
+                3
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 5
+          },
+          "WAE": {
+            "minimum_length": 7,
+            "maximum_length": 25,
+            "fishCount": [
+              [
+                7,
+                7
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                7
+              ],
+              [
+                16,
+                8
+              ],
+              [
+                17,
+                12
+              ],
+              [
+                18,
+                18
+              ],
+              [
+                19,
+                11
+              ],
+              [
+                20,
+                6
+              ],
+              [
+                21,
+                7
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                25,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                35,
+                1
+              ]
+            ],
+            "maximum_length": 35
+          }
+        },
+        "surveyID": "4271232534800019",
+        "fishCatchSummaries": [
+          {
+            "species": "LAT",
+            "CPUE": "1.88",
+            "averageWeight": "3.41",
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "gearCount": 8,
+            "totalWeight": 23233,
+            "totalCatch": 15
+          },
+          {
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "totalCatch": 5,
+            "gearCount": 6,
+            "totalWeight": 321,
+            "species": "RKB",
+            "CPUE": "0.83",
+            "averageWeight": "0.14",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 4,
+            "gearCount": 6,
+            "totalWeight": 169,
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.09",
+            "CPUE": "0.67",
+            "species": "YEP"
+          },
+          {
+            "quartileCount": "N/A",
+            "totalWeight": 671,
+            "gearCount": 6,
+            "totalCatch": 15,
+            "gear": "Shallow gill nets",
+            "averageWeight": "0.10",
+            "quartileWeight": "N/A",
+            "species": "TLC",
+            "CPUE": "2.50"
+          },
+          {
+            "totalCatch": 8,
+            "gearCount": 6,
+            "totalWeight": 12240,
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "3.37",
+            "CPUE": "1.33",
+            "species": "NOP"
+          },
+          {
+            "averageWeight": "1.02",
+            "quartileWeight": "N/A",
+            "species": "WTS",
+            "CPUE": "4.17",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "totalWeight": 11546,
+            "totalCatch": 25,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "species": "WAE",
+            "CPUE": "13.67",
+            "averageWeight": "2.36",
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "totalWeight": 87662,
+            "totalCatch": 82
+          },
+          {
+            "averageWeight": "0.11",
+            "quartileWeight": "N/A",
+            "species": "TLC",
+            "CPUE": "13.75",
+            "quartileCount": "N/A",
+            "gearCount": 8,
+            "totalWeight": 5512,
+            "totalCatch": 110,
+            "gear": "Deep gill nets"
+          },
+          {
+            "gear": "Deep gill nets",
+            "gearCount": 8,
+            "totalCatch": 2,
+            "totalWeight": 4635,
+            "quartileCount": "N/A",
+            "CPUE": "0.25",
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "averageWeight": "5.11"
+          },
+          {
+            "CPUE": "0.38",
+            "species": "WTS",
+            "quartileWeight": "N/A",
+            "averageWeight": "2.52",
+            "gear": "Deep gill nets",
+            "gearCount": 8,
+            "totalWeight": 3433,
+            "totalCatch": 3,
+            "quartileCount": "N/A"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Thomas Lake is located approximately 27 miles northeast of Ely and is entirely within the BWCAW. It has a surface area of 1,721 acres and a maximum depth of 110 feet. Access is by several portages which typically take at least one day of travel time. There are eighteen designated USFS campsites located around the lake. <br> \n <br> \nWalleye numbers in 2012 (13.7/gill net) were higher than the long term average for all assessments on this lake. Walleye were from nine different year classes but were mostly 3 to 7 years old and between 15 to 22 inches long. The largest walleye sampled was 25.6 inches long.  <br> \n <br> \nLake trout numbers in 2012 (1.9/gill net) were similar to the long term average for all assessments on this lake. The average lake trout sampled was 19.1 inches long which is larger than average for all assessments on this lake. The largest lake trout sampled was 35.0 inches long. Lake trout growth rates appear to be slow compared to other similar lakes. <br> \n <br> \nOther fish species present in 2012 include northern pike, yellow perch, rock bass, cisco and white sucker. Northern pike (1.3/gill net) are present in low numbers. Cisco are a key forage species and are relatively abundant in the deeper basins. <br> \n</p>",
+        "surveyDate": "2012-09-10",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "county": "Lake",
+          "id_date": "2012-09-10",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_name": "Thomas",
+          "wb_id": "38035100",
+          "survey_id": "4271232534800019"
+        },
+        "surveyType": "Standard Survey"
+      },
+      {
+        "fishCatchSummaries": [],
+        "surveyID": "22122522056450105",
+        "lengths": {},
+        "headerInfo": {
+          "id_date": "2025-08-03",
+          "county": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "survey_id": "22122522056450105",
+          "wb_id": "38035100",
+          "wb_type": "Lake",
+          "wb_name": "Thomas"
+        },
+        "surveyType": "Targeted Survey",
+        "surveyDate": "2025-08-03",
+        "surveySubType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Thomas Lake on August 3rd, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 100.0 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 36.9 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L for the entire sampled depth. This layer in the water column was 63.1 feet, indicating oxythermal habitat for Lake Trout was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 5.2 degrees C (41.4 degrees F), was substituted as TDO3. TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>"
+      }
+    ],
+    "averageWaterClarity": "14.0",
+    "DOWNumber": "38035100",
+    "shoreLengthMiles": 26.2,
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "lakeAccessComments": "Series of short portages from Hatchet Lk.",
+        "location": " ",
+        "publicUseAuthCode": "PRMIT"
+      },
+      {
+        "lakeAccessComments": "Navigable channel from Fraser Lk.",
+        "publicUseAuthCode": "PRMIT",
+        "location": " ",
+        "ownerTypeId": "DNR",
+        "accessTypeId": "C"
+      },
+      {
+        "lakeAccessComments": "15 rod portage from Harmony Lk.",
+        "location": " ",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO"
+      },
+      {
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "lakeAccessComments": "15 rod portage Kiana Lk.",
+        "location": " ",
+        "publicUseAuthCode": "PRMIT"
+      },
+      {
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT",
+        "location": " ",
+        "lakeAccessComments": "240 rod portage from Cacabic Lk."
+      }
+    ],
+    "waterClarity": [
+      [
+        "09/11/2012",
+        "14"
+      ],
+      [
+        "08/03/2025",
+        "14"
+      ]
+    ]
+  },
+  "timestamp": 1790285768
+}

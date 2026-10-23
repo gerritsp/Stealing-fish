@@ -1,0 +1,94 @@
+{
+  "timestamp": 1790285936,
+  "result": {
+    "officeCode": "F214",
+    "meanDepthFeet": 0,
+    "waterClarity": [],
+    "averageWaterClarity": "N/A",
+    "areaAcres": 86.95,
+    "DOWNumber": "69009500",
+    "accesses": [
+      {
+        "location": "In BWCA  non-motor route.  Portages from Angleworm and Gull Lakes.",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O"
+      }
+    ],
+    "littoralAcres": 0,
+    "sampledPlants": [],
+    "county": "St. Louis",
+    "shoreLengthMiles": 2.23,
+    "surveys": [
+      {
+        "lengths": {},
+        "headerInfo": {
+          "wb_name": "Home",
+          "survey_id": "108100",
+          "wb_id": "69009500",
+          "id_date": "1979-08-29",
+          "county": "St. Louis",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey"
+        },
+        "narrative": "<p>Composed of low populations of walleye and yellow perch.  Northern pike and suckers are present in about average numbers.</p>",
+        "surveyDate": "1979-08-29",
+        "surveyType": "Standard Survey",
+        "surveyID": "108100",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "3.00",
+            "quartileWeight": "N/A",
+            "totalCatch": 9,
+            "quartileCount": "N/A",
+            "averageWeight": "1.67",
+            "totalWeight": 15,
+            "species": "NOP",
+            "gearCount": 3
+          },
+          {
+            "totalWeight": 7.25,
+            "species": "WAE",
+            "gearCount": 3,
+            "totalCatch": 4,
+            "quartileCount": "N/A",
+            "averageWeight": "1.81",
+            "CPUE": "1.33",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "0.33",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "averageWeight": "0.10",
+            "totalWeight": 0.1,
+            "species": "YEP",
+            "gearCount": 3
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "CPUE": "6.67",
+            "averageWeight": "2.25",
+            "quartileCount": "N/A",
+            "totalCatch": 20,
+            "gearCount": 3,
+            "species": "WTS",
+            "totalWeight": 45
+          }
+        ]
+      }
+    ],
+    "maxDepthFeet": 24,
+    "lakeName": "Home"
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

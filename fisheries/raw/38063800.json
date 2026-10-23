@@ -1,0 +1,141 @@
+{
+  "timestamp": 1790285627,
+  "message": "Normal execution.",
+  "result": {
+    "county": "Lake",
+    "lakeName": "Clearwater",
+    "officeCode": "F214",
+    "areaAcres": 640.18,
+    "maxDepthFeet": 46,
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "12.9",
+    "waterClarity": [
+      [
+        "07/30/2024",
+        "13.45"
+      ],
+      [
+        "07/29/2025",
+        "12.3"
+      ]
+    ],
+    "surveys": [
+      {
+        "fishCatchSummaries": [],
+        "surveyID": "16152423257103120",
+        "lengths": {},
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Clearwater Lake, on July 30, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased to below 17.2 degrees C (63.0 degrees F) at 28.2 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 27.5 feet at the time of sampling. The water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Lake Whitefish.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 17.4 degrees C (63.3 degrees F). TDO3 values warmer than 21.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were unsuitable for Lake Whitefish at the time of the survey. <br> \n <br> \nThis is the first survey completed on Clearwater Lake during the late summer period of maximum oxythermal stress. When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "survey_id": "16152423257103120",
+          "county": "Lake",
+          "wb_id": "38063800",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "Clearwater",
+          "survey_type": "Targeted Survey",
+          "id_date": "2024-07-30"
+        },
+        "surveyDate": "2024-07-30",
+        "surveyType": "Targeted Survey"
+      },
+      {
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "gearCount": 8,
+            "species": "NOP",
+            "quartileCount": "1.8-5.5",
+            "quartileWeight": "1.9-3.7",
+            "averageWeight": "3.50",
+            "totalWeight": 108.5,
+            "CPUE": "3.88",
+            "totalCatch": 31,
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "YEP",
+            "gearCount": 8,
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "1.7-14.1",
+            "CPUE": "0.50",
+            "averageWeight": "0.11",
+            "totalWeight": 0.45,
+            "totalCatch": 4,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 7,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.00",
+            "totalWeight": 14,
+            "CPUE": "0.88",
+            "quartileCount": "9.5-43.0",
+            "quartileWeight": "0.3-1.4",
+            "gearCount": 8,
+            "species": "LKW"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalCatch": 34,
+            "CPUE": "4.25",
+            "totalWeight": 46,
+            "averageWeight": "1.35",
+            "quartileWeight": "1.5-2.2",
+            "quartileCount": "2.3-8.7",
+            "gearCount": 8,
+            "species": "WTS"
+          }
+        ],
+        "surveyID": "108038",
+        "surveySubType": "Re-Survey",
+        "narrative": "<p>Composed of an above average population of northern pike, average populations of suckers and whitefish, and a below average population of perch.</p>",
+        "headerInfo": {
+          "wb_name": "Clearwater",
+          "survey_type": "Re-Survey",
+          "id_date": "1977-07-21",
+          "survey_id": "108038",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "38063800"
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "1977-07-21"
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Clearwater Lake on July 29th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 42.7 feet), the water temperature decreased below 17.2 degrees C (63.0 degrees F) at 26.8 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 29.5 feet at the time of sampling. The thickness of this layer of water in the water column was 2.7 feet, indicating that oxythermal habitat was present but marginal for Lake Whitefish. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 15.4 degrees C (59.7 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were marginally suitable for Lake Whitefish at the time of the survey as the available habitat layer was confined to less than 3 feet of suitable habitat. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 indicates unsuitable oxythermal habitat. When adequate oxythermal habitat is unavailable, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "surveyID": "-275",
+        "fishCatchSummaries": [],
+        "surveyDate": "2025-07-29",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "id_date": "2025-07-29",
+          "survey_type": "Targeted Survey",
+          "wb_name": "Clearwater",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38063800",
+          "county": "Lake",
+          "survey_id": "-275"
+        }
+      }
+    ],
+    "DOWNumber": "38063800",
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "location": "Lake is within non-motorized zone of BWCA.  Three USFS portage trails include Turtle  Cambre  and Rock Island Lakes",
+        "lakeAccessComments": " "
+      }
+    ],
+    "littoralAcres": 173,
+    "shoreLengthMiles": 7.59,
+    "sampledPlants": []
+  },
+  "status": "SUCCESS"
+}

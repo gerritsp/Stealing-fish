@@ -1,0 +1,99 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285862,
+  "result": {
+    "DOWNumber": "16030700",
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "areaAcres": 350.92,
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "Entirely inside the BWCAW.  Access by portage from Caribou and Poplar Lakes.",
+        "lakeAccessComments": " "
+      }
+    ],
+    "averageWaterClarity": "7.5",
+    "officeCode": "F218",
+    "shoreLengthMiles": 8.51,
+    "waterClarity": [
+      [
+        "09/24/1986",
+        "7.5"
+      ]
+    ],
+    "littoralAcres": 142,
+    "lakeName": "Meeds",
+    "maxDepthFeet": 41,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "quartileCount": "1.2-3.9",
+            "totalCatch": 1,
+            "totalWeight": 1.5,
+            "CPUE": "0.17",
+            "quartileWeight": "1.5-2.4",
+            "gearCount": 6,
+            "averageWeight": "1.50"
+          },
+          {
+            "averageWeight": "1.82",
+            "quartileWeight": "0.7-1.3",
+            "gearCount": 6,
+            "CPUE": "3.17",
+            "totalWeight": 34.5,
+            "quartileCount": "3.0-13.2",
+            "totalCatch": 19,
+            "species": "WAE",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "YEP",
+            "quartileCount": "0.5-2.8",
+            "totalCatch": 8,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.3",
+            "gearCount": 6,
+            "averageWeight": "0.22",
+            "totalWeight": 1.75,
+            "CPUE": "1.33"
+          },
+          {
+            "CPUE": "5.33",
+            "totalWeight": 90.5,
+            "averageWeight": "2.83",
+            "gearCount": 6,
+            "quartileWeight": "1.7-2.4",
+            "gear": "Standard gill nets",
+            "totalCatch": 32,
+            "quartileCount": "2.6-11.7",
+            "species": "WTS"
+          }
+        ],
+        "headerInfo": {
+          "county": "Cook",
+          "survey_id": "109981",
+          "wb_name": "Meeds",
+          "wb_type": "Lake",
+          "id_date": "1986-09-24",
+          "wb_alt_name": "",
+          "wb_id": "16030700",
+          "survey_type": "Initial Survey"
+        },
+        "surveyID": "109981",
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>THE WALLEYE POPULATION APPEARS TO BE IN GOOD SHAPE SEVERAL AGE CLASSES ARE PRESENT, AND AVERAGE SIZE IS GOOD. GROWTH IS SOMEWHAT BELOW STATE AVERAGE. THERE ARE SOME PERCH AVAILABLE AS FORAGE.</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1986-09-24",
+        "lengths": {}
+      }
+    ],
+    "county": "Cook"
+  },
+  "status": "SUCCESS"
+}

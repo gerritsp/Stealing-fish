@@ -1,0 +1,386 @@
+{
+  "timestamp": 1790285677,
+  "message": "Normal execution.",
+  "result": {
+    "shoreLengthMiles": 5.91,
+    "sampledPlants": [
+      "Arrowhead Group (Sagittaria sp.)",
+      "Bladderwort Group (Utricularia sp.)",
+      "Blue Flag Iris (Iris versicolor)",
+      "Floating-leaf Burreed Group (Sparganium sp. )",
+      "Horsetail Group (Equisetum sp.)",
+      "Joe pye weed group (Eutrochium sp.)",
+      "Rice Group (Zizania sp.)",
+      "Sedge Group (Cyperaceae sp.)",
+      "Spikerush  (Eleocharis palustris)",
+      "Water (wild) Celery (Vallisneria americana)",
+      "White Waterlily Group (Nymphaea sp.)",
+      "Yellow Waterlily Group (Nuphar sp.)",
+      "large-leaved pondweed (Potamogeton amplifolius)",
+      "ribbon-leaved pondweed (Potamogeton epihydrus)",
+      "sweet gale (Myrica gale)",
+      "three-way sedge (Dulichium arundinaceum)",
+      "watershield (Brasenia schreberi)",
+      "white meadowsweet (Spiraea alba)"
+    ],
+    "county": "Lake",
+    "lakeName": "Koma",
+    "areaAcres": 250.09,
+    "maxDepthFeet": 14,
+    "DOWNumber": "38009800",
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "Portage from Lake Polly along (or near) the Kawishiwi River. Coordinates given are approximate.",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "location": " "
+      },
+      {
+        "location": " ",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "Portage from Koma to Malberg by the Kawishiwi River. Coordinates are approximate",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO"
+      }
+    ],
+    "surveys": [
+      {
+        "narrative": "<p>Koma Lake is 250 acres and has a maximum depth of 15.5 feet.  The lake is located over 20 miles northeast of Isabella, Minnesota and entirely within the Boundary Waters Canoe Area and Wilderness.  The lake is accessible via 2 portage routes.  The first access being a series of three portages (24 rods, 48 rods, and 129 rods) from Polly Lake.  The second is a 24 rod portage along the Kawishiwi River from Malberg Lake.  There are 5 campsites along the shore and 3 islands in the lake. <br> \n  <br> \nKoma Lake has been surveyed twice (1963 and 2013) using gill nets.  Species collected during the surveys were Bluegill, Burbot, Lake Whitefish, Tulibees (Cisco), Northern Pike, Rock Bass, Walleye, White Sucker, and Yellow Perch.  The fish species composition has not changed much over the course of 40 years.  The 1963 survey sampled Tulibees (Cisco) while the 2013 survey did not collect any Tulibees.  The 2013 survey was the first time that Burbot were sampled in the lake.  <br> \n   <br> \nThe Walleye catch rate was 7.83 fish/lift which is around the average for the lake class.  Walleye size ranged from 6.1 to 17.4 inches in length averaging 11.5 inches with an average weight of 0.58 pounds.  The Walleye population in the lake has high numbers but a small average size.  Growth of Walleye is slower than average by Finland Area standards.  Walleye are maintained in the lake by natural reproduction with 7 year classes present in the survey.  <br> \n <br> \nNorthern Pike gill net catch rate was below average in number of fish with 1.0/lift.  Weight was above average for the lake class with 2.3 pounds/fish.  Pike sizes ranged from 19.6 to 28.1inches, averaging a length of 22.9inches.  Growth of Northern Pike was average and 3 age classes were represented.   <br> \n <br> \nLake Whitefish numbers were slightly below average at 6.0/lift.  They averaged 1.7 pounds and 16.5 inches.  Sizes ranged from 14.5 to 18.5 inches.  Eight year classes from age-4 to age-13 were present in the sample.  Age-5 Whitefish were the most represented ages accounting for 15 of 36 whitefish collected.  Growth of Lake White fish was above average for the lake class. <br> \n <br> \nYellow Perch, Bluegill, Rock Bass, and Burbot were also sampled in the lake but at low numbers.  Six Yellow Perch were collect and ranged in size from 5.5 to 7.2 inches with an average weight of 0.12 pound.  Two Bluegills were sampled and averaged 0.06 pounds (5.06 inches).  Four Rock Bass were sampled ranging in size 6.26 to 8.11 inches and averaged 0.37 pound.  A single Burbot was sampled weighing 0.11 pounds and 8.15 inches in length. <br> \n <br> \nWhite Sucker gill net catch rate was near the average with 7.8 fish/lift.  This was higher than what was sampled in 1963 when the rate was 4.2 fish/lift.  Average size of the White Suckers was 2.5 pounds and 17.83 inches. <br> \n <br> \nAll anglers on Koma Lake must abide by the BWCAW regulations at all times; the lake is entirely non-motorized.  <br> \n</p>",
+        "surveyID": "6071400752522000",
+        "headerInfo": {
+          "wb_name": "Koma",
+          "wb_alt_name": "",
+          "id_date": "2013-07-26",
+          "wb_id": "38009800",
+          "wb_type": "Lake",
+          "survey_type": "Re-Survey",
+          "survey_id": "6071400752522000",
+          "county": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "0.2",
+            "species": "BUB",
+            "totalCatch": 1,
+            "gearCount": 6,
+            "totalWeight": 50,
+            "gear": "Standard gill nets",
+            "CPUE": "0.17",
+            "averageWeight": "0.11",
+            "quartileCount": "0.5"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 6290,
+            "totalCatch": 6,
+            "gearCount": 6,
+            "CPUE": "1.00",
+            "averageWeight": "2.31",
+            "quartileCount": "2.0-6.3",
+            "quartileWeight": "1.3-2.4",
+            "species": "NOP"
+          },
+          {
+            "quartileWeight": "0.2-0.4",
+            "species": "RKB",
+            "quartileCount": "0.3-2.0",
+            "averageWeight": "0.37",
+            "CPUE": "0.67",
+            "gear": "Standard gill nets",
+            "totalWeight": 675,
+            "gearCount": 6,
+            "totalCatch": 4
+          },
+          {
+            "quartileWeight": "0.9-1.6",
+            "species": "WAE",
+            "quartileCount": "3.0-9.8",
+            "averageWeight": "0.58",
+            "CPUE": "7.83",
+            "gear": "Standard gill nets",
+            "totalWeight": 12366,
+            "gearCount": 6,
+            "totalCatch": 47
+          },
+          {
+            "averageWeight": "0.12",
+            "CPUE": "1.00",
+            "quartileCount": "2.2-14.6",
+            "gear": "Standard gill nets",
+            "totalWeight": 330,
+            "totalCatch": 6,
+            "gearCount": 6,
+            "quartileWeight": "0.1-0.2",
+            "species": "YEP"
+          },
+          {
+            "totalWeight": 27945,
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalCatch": 36,
+            "quartileCount": "7.7",
+            "CPUE": "6.00",
+            "averageWeight": "1.71",
+            "quartileWeight": "0.7",
+            "species": "LKW"
+          },
+          {
+            "quartileWeight": "1.5-2.4",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalWeight": 49900,
+            "totalCatch": 44,
+            "gearCount": 6,
+            "CPUE": "7.33",
+            "averageWeight": "2.50",
+            "quartileCount": "3.6-14.1"
+          },
+          {
+            "gearCount": 6,
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "totalWeight": 115,
+            "quartileCount": "N/A",
+            "CPUE": "0.33",
+            "averageWeight": "0.13",
+            "quartileWeight": "N/A",
+            "species": "BLG"
+          }
+        ],
+        "lengths": {
+          "BLG": {
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                1
+              ]
+            ],
+            "maximum_length": 5
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                4
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 7
+          },
+          "BUB": {
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                8
+              ],
+              [
+                9,
+                9
+              ]
+            ],
+            "maximum_length": 17,
+            "minimum_length": 6
+          },
+          "RKB": {
+            "minimum_length": 6,
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "LKW": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                10
+              ],
+              [
+                16,
+                12
+              ],
+              [
+                17,
+                10
+              ],
+              [
+                18,
+                2
+              ]
+            ],
+            "minimum_length": 14
+          },
+          "WTS": {
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                8
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                11
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                5
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                2
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "NOP": {
+            "minimum_length": 19,
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                28,
+                1
+              ]
+            ],
+            "maximum_length": 28
+          }
+        },
+        "surveySubType": "Re-Survey",
+        "surveyDate": "2013-07-26"
+      }
+    ],
+    "waterClarity": [
+      [
+        "07/27/2013",
+        "3"
+      ]
+    ],
+    "averageWaterClarity": "3.0",
+    "littoralAcres": 250.09,
+    "officeCode": "F215"
+  },
+  "status": "SUCCESS"
+}

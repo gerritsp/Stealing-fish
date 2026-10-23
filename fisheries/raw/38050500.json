@@ -1,0 +1,61 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790285829,
+  "status": "SUCCESS",
+  "result": {
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "location": "Portage from Boot ~10 yards~ or Abinodji ~1/4 mi.~BWCAW non motorized route",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O"
+      }
+    ],
+    "surveys": [
+      {
+        "narrative": "<p>Composed of an above average population of northern pike according to gillnetting.</p>",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1982-07-23",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 56.5,
+            "gearCount": 2,
+            "totalCatch": 24,
+            "species": "NOP",
+            "averageWeight": "2.35",
+            "CPUE": "12.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.0",
+            "quartileCount": "4.0-15.0"
+          }
+        ],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_id": "108011",
+          "wb_id": "38050500",
+          "wb_name": "Haven",
+          "county": "Lake",
+          "id_date": "1982-07-23",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey"
+        },
+        "surveyID": "108011"
+      }
+    ],
+    "waterClarity": [],
+    "county": "Lake",
+    "shoreLengthMiles": 0.84,
+    "maxDepthFeet": 7,
+    "sampledPlants": [],
+    "lakeName": "Haven",
+    "DOWNumber": "38050500",
+    "areaAcres": 14.44,
+    "meanDepthFeet": 0,
+    "officeCode": "F214",
+    "littoralAcres": 14.44,
+    "averageWaterClarity": "N/A"
+  }
+}

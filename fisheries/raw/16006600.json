@@ -1,0 +1,88 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285888,
+  "result": {
+    "shoreLengthMiles": 1.69,
+    "meanDepthFeet": 0,
+    "lakeName": "Kiowa",
+    "sampledPlants": [],
+    "averageWaterClarity": "7.0",
+    "surveys": [
+      {
+        "surveyID": "109601",
+        "lengths": {},
+        "surveyDate": "1980-08-20",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Kiowa",
+          "wb_id": "16006600",
+          "survey_type": "Initial Survey",
+          "survey_id": "109601",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "id_date": "1980-08-20"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 9,
+            "quartileWeight": "N/A",
+            "totalWeight": 1.25,
+            "CPUE": "4.50",
+            "averageWeight": "0.14",
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "species": "YEP",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 2,
+            "averageWeight": "0.12",
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "species": "GSF",
+            "quartileCount": "N/A",
+            "totalCatch": 2,
+            "totalWeight": 0.25,
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 84,
+            "quartileWeight": "N/A",
+            "totalWeight": 47.65,
+            "CPUE": "42.00",
+            "averageWeight": "0.57",
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>There is a large population of Suckers with all sizes well represented.  Some Perch and Grn Snfsh are present with apparently a large population of Northern Redbelly dace.</p>",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "maxDepthFeet": 29,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "location": "In BWCAW and has no portage trails to it.  Must bushwhack from Shelf of Lake.",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "areaAcres": 30.62,
+    "waterClarity": [
+      [
+        "08/20/1980",
+        "7"
+      ]
+    ],
+    "officeCode": "F218",
+    "DOWNumber": "16006600",
+    "littoralAcres": 0,
+    "county": "Cook"
+  }
+}

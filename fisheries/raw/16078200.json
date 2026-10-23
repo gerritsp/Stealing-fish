@@ -1,0 +1,66 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "wb_id": "16078200",
+          "id_date": "1986-07-15",
+          "wb_name": "Glee",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "survey_id": "109975"
+        },
+        "surveyDate": "1986-07-15",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.4-2.5",
+            "totalWeight": 13.25,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "averageWeight": "1.10",
+            "gearCount": 2,
+            "CPUE": "6.00",
+            "totalCatch": 12,
+            "quartileCount": "4.0-14.5"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "surveyID": "109975",
+        "narrative": "<p>LAKE IS POPULATED ENTIRELY WITH ROUGH FISH (SUCKERS).</p>"
+      }
+    ],
+    "littoralAcres": 48.3,
+    "waterClarity": [
+      [
+        "07/16/1986",
+        "7"
+      ]
+    ],
+    "areaAcres": 48.3,
+    "sampledPlants": [],
+    "averageWaterClarity": "7.0",
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "location": "NONE"
+      }
+    ],
+    "officeCode": "F218",
+    "county": "Cook",
+    "lakeName": "Glee",
+    "DOWNumber": "16078200",
+    "shoreLengthMiles": 2.48,
+    "maxDepthFeet": 8
+  },
+  "timestamp": 1790285927,
+  "status": "SUCCESS"
+}

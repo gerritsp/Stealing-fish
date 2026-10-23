@@ -1,0 +1,661 @@
+{
+  "message": "Normal execution.",
+  "timestamp": 1790286064,
+  "status": "SUCCESS",
+  "result": {
+    "officeCode": "F217",
+    "meanDepthFeet": 0,
+    "areaAcres": 167.01,
+    "lakeName": "Little Loon",
+    "surveys": [
+      {
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                29,
+                1
+              ]
+            ],
+            "minimum_length": 21,
+            "maximum_length": 29
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 19,
+            "maximum_length": 20
+          },
+          "SMB": {
+            "maximum_length": 19,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "CIS": {
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                23
+              ],
+              [
+                8,
+                13
+              ],
+              [
+                9,
+                6
+              ]
+            ],
+            "maximum_length": 16,
+            "minimum_length": 6
+          },
+          "LKW": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 12,
+            "maximum_length": 20
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ]
+            ],
+            "maximum_length": 23,
+            "minimum_length": 22
+          },
+          "WAE": {
+            "minimum_length": 15,
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                2
+              ]
+            ]
+          }
+        },
+        "surveyID": "19762406130018071",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Little Loon Lake is a 167-acre lake located within the Boundary Waters Canoe Area (BWCA). The Lake is relatively long with a north-south fetch of over a mile. Maximum depth is 68 feet and other than the north end, the shoreline drops off quickly. No motors are allowed on Little Loon Lake. Boating through Little Vermilion Lake, the Loon River and Loon Lake (a motorized route) will provide access to Little Loon Lake. Little Loon Lake also lies on a popular canoe route into the BWCA and can be accessed by a portage trail from Slim Lake located in the northeast corner of Little Loon Lake. There are two USFS campsites located on Little Loon Lake and several campsites on Loon Lake that are a short paddle away. A standard survey was conducted in Little Loon Lake in early August of 2024.  <br> \n <br> \nLittle Loon Lake has no special regulations. Fishing regulations follow statewide regulations for inland waters. Previous management plans identify several long-range goals, including providing a self-sustaining fish community with Walleye as the primary management species and Northern Pike as the secondary management species. <br> \n <br> \nWalleye gill net catch rate was 2.2 fish per net, which was above average compared to similar lakes. Total length ranged from 15.2 to 23.7 inches with an average length of 20.0 inches. The mean weight was 2.5 pounds, which was well above average compared to similar lakes. A total of nine year-classes were present and ages ranged from 5 to 16 years. While Little Loon Lake may not have a high-density Walleye population, the quality size provides an excellent opportunity for anglers. <br> \n  <br> \nNorthern Pike gill net catch rate was 1.7 fish per net, which was below average compared to similar lakes. Total length ranged from 21.9 to 29.3 inches with an average length of 24.9 inches. The mean weight was 3.0 pounds, which was above average compared to similar lakes. A total of five year-classes were present and ages ranged from 3 to 9 years. Similar to Walleye, Little Loon Lake provides a low-density and high-quality Northern Pike fishery.  <br> \n <br> \nSmallmouth bass gill net catch rate was 1.2 fish per net, which was above average compared to similar lakes. Total length ranged from 14.1 to 19.6 inches with an average length of 16.2 inches. The mean weight was 2.1 pounds, which was above average compared to similar lakes. A total of seven year-classes were present and ages ranged from 3 to 17 years.  <br> \n <br> \nOther species sampled during the 2024 surveys included Burbot, Cisco, Lake Whitefish, and White Sucker. These species provide excellent forage for top predators in Little Loon Lake.  <br> \n</p>",
+        "surveyDate": "2024-08-05",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "species": "BUB",
+            "totalWeight": 3609,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.65",
+            "quartileCount": "0.2-1.4",
+            "CPUE": "0.50",
+            "quartileWeight": "0.3-2.7",
+            "totalCatch": 3
+          },
+          {
+            "CPUE": "6.00",
+            "quartileWeight": "N/A",
+            "totalCatch": 12,
+            "quartileCount": "N/A",
+            "averageWeight": "0.92",
+            "gear": "Open-water angling",
+            "totalWeight": 5034,
+            "gearCount": 2,
+            "species": "SMB"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 13625,
+            "species": "NOP",
+            "gearCount": 6,
+            "totalCatch": 10,
+            "quartileWeight": "1.6-3.1",
+            "CPUE": "1.67",
+            "quartileCount": "1.3-5.3",
+            "averageWeight": "3.00"
+          },
+          {
+            "species": "SMB",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalWeight": 5779,
+            "averageWeight": "1.82",
+            "totalCatch": 7,
+            "quartileWeight": "0.4-1.5",
+            "CPUE": "1.17",
+            "quartileCount": "0.3-1.0"
+          },
+          {
+            "gearCount": 6,
+            "species": "WAE",
+            "totalWeight": 14824,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.51",
+            "quartileCount": "0.8-3.8",
+            "CPUE": "2.17",
+            "quartileWeight": "1.1-2.3",
+            "totalCatch": 13
+          },
+          {
+            "averageWeight": "1.55",
+            "totalCatch": 3,
+            "CPUE": "0.50",
+            "quartileWeight": "3.2",
+            "quartileCount": "0.2",
+            "species": "LKW",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalWeight": 2112
+          },
+          {
+            "totalCatch": 3,
+            "CPUE": "0.50",
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.2-4.9",
+            "averageWeight": "3.23",
+            "gear": "Standard gill nets",
+            "totalWeight": 4391,
+            "species": "WTS",
+            "gearCount": 6
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 7048,
+            "gearCount": 6,
+            "species": "CIS",
+            "quartileWeight": "N/A",
+            "CPUE": "9.17",
+            "totalCatch": 55,
+            "quartileCount": "N/A",
+            "averageWeight": "0.28"
+          }
+        ],
+        "surveySubType": "Standard Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "69048400",
+          "county": "St. Louis",
+          "survey_type": "Standard Survey",
+          "survey_id": "19762406130018071",
+          "id_date": "2024-08-05",
+          "wb_alt_name": "",
+          "wb_name": "Little Loon"
+        }
+      },
+      {
+        "surveyID": "3030916333615000",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "minimum_length": 11,
+            "maximum_length": 22
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                29,
+                1
+              ]
+            ],
+            "maximum_length": 29,
+            "minimum_length": 16
+          },
+          "SMB": {
+            "maximum_length": 17,
+            "minimum_length": 14,
+            "fishCount": [
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ]
+            ]
+          },
+          "BUB": {
+            "minimum_length": 17,
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                17,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ]
+          },
+          "LKW": {
+            "fishCount": [
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 8
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "minimum_length": 14,
+            "maximum_length": 21
+          },
+          "TLC": {
+            "minimum_length": 6,
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                6,
+                13
+              ],
+              [
+                7,
+                5
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          }
+        },
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "county": "St. Louis",
+          "survey_id": "3030916333615000",
+          "survey_type": "Initial Survey",
+          "id_date": "2009-06-22",
+          "wb_name": "Little Loon",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_id": "69048400"
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "species": "BUB",
+            "gear": "Standard gill nets",
+            "totalWeight": 6602,
+            "averageWeight": "2.08",
+            "CPUE": "1.17",
+            "quartileWeight": "0.3-2.7",
+            "totalCatch": 7,
+            "quartileCount": "0.2-1.4"
+          },
+          {
+            "quartileCount": "1.3-5.3",
+            "CPUE": "3.33",
+            "quartileWeight": "1.6-3.1",
+            "totalCatch": 20,
+            "averageWeight": "2.34",
+            "totalWeight": 21189,
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "species": "NOP"
+          },
+          {
+            "totalCatch": 4,
+            "CPUE": "0.67",
+            "quartileWeight": "0.4-1.5",
+            "quartileCount": "0.3-1.0",
+            "averageWeight": "2.04",
+            "gear": "Standard gill nets",
+            "totalWeight": 3704,
+            "species": "SMB",
+            "gearCount": 6
+          },
+          {
+            "CPUE": "1.83",
+            "quartileWeight": "1.1-2.3",
+            "totalCatch": 11,
+            "quartileCount": "0.8-3.8",
+            "averageWeight": "1.88",
+            "gear": "Standard gill nets",
+            "totalWeight": 9385,
+            "gearCount": 6,
+            "species": "WAE"
+          },
+          {
+            "species": "LKW",
+            "gearCount": 6,
+            "totalWeight": 66,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.15",
+            "quartileCount": "0.2",
+            "totalCatch": 1,
+            "CPUE": "0.17",
+            "quartileWeight": "3.2"
+          },
+          {
+            "totalCatch": 3,
+            "CPUE": "0.50",
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.2-4.9",
+            "averageWeight": "3.08",
+            "gear": "Standard gill nets",
+            "totalWeight": 4192,
+            "species": "WTS",
+            "gearCount": 6
+          },
+          {
+            "totalWeight": 1005,
+            "gear": "Standard gill nets",
+            "species": "TLC",
+            "gearCount": 6,
+            "quartileCount": "1.3-7.6",
+            "totalCatch": 20,
+            "quartileWeight": "0.3-0.8",
+            "CPUE": "3.33",
+            "averageWeight": "0.11"
+          }
+        ],
+        "narrative": "<p>Little Loon is a 167-acre lake located within the Wilderness of the Boundary Waters Canoe Area (BWCA).  The lake is relatively long with a north-south fetch of over a mile.  Maximum depth is 68 feet and other than the north end, the shoreline drops off quickly.  The lake has a bog-stain tint to its waters but otherwise is relatively clear (Secchi disk of 9.0 feet). Substrates are dominated by boulder and rubble-sized rock.  Like Loon Lake downstream, however, sand is also common in Little Loon.  Aquatic vegetation is  scarce. <br> \n <br> \nLittle Loon lies on a popular canoe route into the BWCAW.  The Slim Lake portage, located in the northeast corner of Little Loon is well traveled.   There are two USFS campsites on the lake. <br> \n <br> \nNorthern pike were the most common gamefish species caught during this survey.  The gill-net abundance (3.33/net) was above average compared to other Minnesota lakes in the same classification.  Lengths of northern pike averaged 21.9 inches.  The largest pike caught was 29.6 inches long.   <br> \n <br> \nWalleye gill-net abundance (1.83/net) was below average for lakes similar to Little Loon. The walleye caught, however, were relatively large, ranging in length from 14.1 to 21.3 inches and averaging 1.9 pounds.  Fifty-five percent of the catch were longer than 17 inches.  Growth rates of Little Loon Lake walleye were slow. <br> \n <br> \nSmallmouth bass were also present in Little Loon Lake.  The gill-net abundance (0.67/net) was typical for lakes in the same classification as Little Loon.  The average size of bass caught however, exceed two pounds and was exceptional.   <br> \n <br> \nSeveral other species were caught in Little Loon Lake. These species included burbot, lake whitefish and cisco.  Cisco appear to be the primary forage species in this lake.</p>",
+        "surveyDate": "2009-06-22"
+      }
+    ],
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "OPEN",
+        "location": "",
+        "lakeAccessComments": "Access by boat (non motorized) from Loon."
+      },
+      {
+        "location": "173 rod portage from Slim Lake.  Portage shows signs of high use.",
+        "lakeAccessComments": " ",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "county": "St. Louis",
+    "averageWaterClarity": "8.5",
+    "DOWNumber": "69048400",
+    "shoreLengthMiles": 3.04,
+    "maxDepthFeet": 68,
+    "littoralAcres": 61,
+    "waterClarity": [
+      [
+        "08/05/2024",
+        "8"
+      ],
+      [
+        "06/29/2009",
+        "9"
+      ]
+    ],
+    "sampledPlants": [
+      "Alder Group (Alnus sp.)",
+      "Arrowhead Group (Sagittaria sp.)",
+      "Blue Flag Iris (Iris versicolor)",
+      "Bushy Pondweed  (Najas flexilis)",
+      "Dwarf Water milfoil (Myriophyllum tenellum)",
+      "Filamentous algae (Eukaryotic)",
+      "Grass Group  (Gramineae/Poaceae Family)",
+      "Monkey flower (Mimulus ringens)",
+      "Sedge Group (Carex sp.)",
+      "Spikerush Group (Eleocharis sp.)",
+      "St. John's-wort (Hypericum ellipticum)",
+      "Swamp Candle (Lysimachia terrestris)",
+      "Swamp Fivefinger (Potentilla palustris)",
+      "Swamp Horsetail (Equisetum fluviatile)",
+      "Variable -leaf Pondweed (Potamogeton gramineus)",
+      "White Waterlily Group (Nymphaea sp.)",
+      "Yellow Waterlily Group (Nuphar sp.)",
+      "floating bur-reed (Sparganium fluctuans)",
+      "large-leaved pondweed (Potamogeton amplifolius)",
+      "narrow-leaved bur-reed (Sparganium angustifolium)",
+      "pickerelweed (Pontederia cordata)",
+      "ribbon-leaved pondweed (Potamogeton epihydrus)",
+      "sweet gale (Myrica gale)",
+      "three-way sedge (Dulichium arundinaceum)",
+      "water lobelia (Lobelia dortmanna)",
+      "water parsnip (Sium suave)",
+      "watershield (Brasenia schreberi)"
+    ]
+  }
+}

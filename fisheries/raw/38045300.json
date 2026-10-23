@@ -1,0 +1,105 @@
+{
+  "timestamp": 1790285622,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "averageWaterClarity": "N/A",
+    "waterClarity": [],
+    "areaAcres": 63.64,
+    "lakeName": "South Wilder",
+    "surveys": [
+      {
+        "narrative": "<p>South Wilder Lake is a 61 acre soft-water lake in the Kawishiwi River Watershed. It lies within the roadless area and airspace reservation zone of the Superior National Forest and is entirely surrounded by federal land. Access can be gained to the lake by portage from North Wilder, or Marathon Lake. The lake has a maximum depth of 36 feet, a median depth of 16 feet and 45% (28 acres) of the total area is shallower than 15 feet. There are two inlets (one intermittant) and an outlet. Beaver have blocked off the main inlet and the outlet. The soils of the immediate watershed are mainly gravel with much rock outcrop. Vegetative cover consists of a birch, aspen and pine forest, with some marsh area. Shoal water soils consist mainly of boulder, and boulder and muck with a small amount of sand. The shoreline is undeveloped.     There was sufficient dissolved oxygen to sustain fish life to a depth of about 25 feet at the time of the survey. The water had a brown color created by stain from the soils which limited the secchi disc reading to 4 feet.     Aquatic vegetation is quite sparse with emergent vegetation found scattered along much of the shoreline in the narrow-shoal area. Submerged vegetation is scattered along much of the shoreline and at the outlet.     Northern Pike, Walleye, Bluegill and Rock Bass were the gamefish taken in test netting. White Sucker, Yellow Perch and Johnny Darter were also taken. All species were taken in below average numbers for this watershed.     Spawning facilities are rated \"good\" for Smallmouth Bass. \"fair\" to \"good\" for Walleye and \"fair\" for Northern Pike, Largemouth Bass and centrarchid panfish.     Fishing pressure appears light at present. A local resident reports good Walleye fishing in the past.</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "id_date": "1966-08-15",
+          "wb_name": "South Wilder",
+          "county": "Lake",
+          "wb_id": "38045300",
+          "wb_type": "Lake",
+          "survey_id": "112809"
+        },
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "averageWeight": "0.00",
+            "totalCatch": 4,
+            "totalWeight": 0,
+            "quartileCount": "1.3-5.3",
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileWeight": "1.6-3.1"
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "CPUE": "0.25",
+            "quartileWeight": "0.2-0.4",
+            "totalCatch": 1,
+            "averageWeight": "0.00",
+            "species": "RKB",
+            "totalWeight": 0,
+            "quartileCount": "0.3-2.3"
+          },
+          {
+            "totalCatch": 6,
+            "species": "WAE",
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "quartileCount": "0.8-3.8",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "CPUE": "1.50",
+            "quartileWeight": "1.1-2.3"
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "CPUE": "1.25",
+            "totalWeight": 0,
+            "quartileCount": "1.2-4.9",
+            "totalCatch": 5,
+            "species": "WTS",
+            "averageWeight": "0.00"
+          },
+          {
+            "averageWeight": "0.00",
+            "species": "BLG",
+            "totalCatch": 7,
+            "quartileCount": "N/A",
+            "totalWeight": 0,
+            "CPUE": "1.75",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyID": "112809",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "surveyDate": "1966-08-15"
+      }
+    ],
+    "officeCode": "F215",
+    "DOWNumber": "38045300",
+    "shoreLengthMiles": 3.21,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "accessTypeId": "O",
+        "location": "BWCAW access via canoe routes; no motorized access allowed.",
+        "lakeAccessComments": " "
+      }
+    ],
+    "sampledPlants": [],
+    "meanDepthFeet": 16,
+    "littoralAcres": 28.6,
+    "county": "Lake",
+    "maxDepthFeet": 36
+  }
+}

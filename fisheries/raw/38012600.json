@@ -1,0 +1,83 @@
+{
+  "status": "SUCCESS",
+  "result": {
+    "DOWNumber": "38012600",
+    "maxDepthFeet": 53,
+    "sampledPlants": [],
+    "county": "Lake",
+    "officeCode": "F214",
+    "areaAcres": 124.22,
+    "lakeName": "Elton",
+    "littoralAcres": 84,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 1,
+            "totalWeight": 3,
+            "quartileWeight": "0.3-1.8",
+            "species": "BUB",
+            "quartileCount": "0.1-0.5",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "CPUE": "0.25",
+            "averageWeight": "3.00"
+          },
+          {
+            "CPUE": "7.00",
+            "averageWeight": "2.46",
+            "quartileCount": "1.2-3.9",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "quartileWeight": "1.5-2.4",
+            "totalWeight": 69,
+            "totalCatch": 28
+          },
+          {
+            "totalWeight": 74.5,
+            "totalCatch": 37,
+            "species": "WTS",
+            "quartileWeight": "1.7-2.4",
+            "quartileCount": "2.6-11.7",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "CPUE": "9.25",
+            "averageWeight": "2.01"
+          }
+        ],
+        "surveyID": "107928",
+        "lengths": {},
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "38012600",
+          "wb_name": "Elton",
+          "survey_id": "107928",
+          "survey_type": "Initial Survey",
+          "county": "Lake",
+          "id_date": "1980-06-20",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "1980-06-20",
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>(sounding on 9/12/72.  So water level flct. (are probably great. Composed of above average populations of Northern Pike and Suckers.  Burbot are present.</p>"
+      }
+    ],
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "lakeAccessComments": " ",
+        "location": "Portage from Little Saganaga Lake or Makwa Lake."
+      }
+    ],
+    "waterClarity": [],
+    "averageWaterClarity": "N/A",
+    "shoreLengthMiles": 5.33,
+    "meanDepthFeet": 0
+  },
+  "timestamp": 1790285810,
+  "message": "Normal execution."
+}

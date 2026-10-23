@@ -1,0 +1,77 @@
+{
+  "timestamp": 1790286034,
+  "result": {
+    "county": "Cook",
+    "waterClarity": [
+      [
+        "08/31/1972",
+        "6"
+      ]
+    ],
+    "DOWNumber": "16061800",
+    "accesses": [
+      {
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "",
+        "accessTypeId": "CA"
+      }
+    ],
+    "lakeName": "Ambush",
+    "shoreLengthMiles": 1.4,
+    "maxDepthFeet": 15,
+    "areaAcres": 31.26,
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "narrative": "<p>Ambush Lk has a large N Pike population with a good distribution of sizes.  A forage species. Yel Perch are abundant with a good proportion of angling size, 10-12 inches.</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "wb_name": "Ambush",
+          "id_date": "1972-09-01",
+          "county": "Cook",
+          "wb_id": "16061800",
+          "survey_id": "109800",
+          "wb_type": "Lake"
+        },
+        "surveyID": "109800",
+        "surveyDate": "1972-09-01",
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "quartileCount": "3.9-9.4",
+            "quartileWeight": "1.2-2.4",
+            "totalCatch": 28,
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "averageWeight": "1.32",
+            "CPUE": "9.33",
+            "totalWeight": 37.1
+          },
+          {
+            "species": "YEP",
+            "quartileCount": "2.0-23.0",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 40,
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "averageWeight": "0.35",
+            "CPUE": "13.33",
+            "totalWeight": 14
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "averageWaterClarity": "6.0",
+    "officeCode": "F218",
+    "littoralAcres": 31.26
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

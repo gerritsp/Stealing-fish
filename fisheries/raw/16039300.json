@@ -1,0 +1,95 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790285730,
+  "message": "Normal execution.",
+  "result": {
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "areaAcres": 69.94,
+    "waterClarity": [],
+    "shoreLengthMiles": 3.26,
+    "surveys": [
+      {
+        "narrative": "<p>WALLEYE ARE PRESENT IN LOW NUMBERS, WITH FAIR AVERAGE SIZE. WALLEYE ABUNDANCE HAS APPARENTLY NOT CHANGED SIGNIFICANTLY SINCE 1971. SMALLMOUTH BASS ABUNDANCE AND AVERAGE SIZE ARE GOOD, AND HAVE BOTH IMPROVED SINCE 1971. FORAGE FOR GAMEFISH APPEARS TO BE LIMITED TO MINNOWS.</p>",
+        "surveyType": "Standard Survey",
+        "surveyID": "110032",
+        "surveyDate": "1987-07-28",
+        "fishCatchSummaries": [
+          {
+            "species": "NOP",
+            "totalCatch": 3,
+            "averageWeight": "3.08",
+            "totalWeight": 9.25,
+            "quartileCount": "2.0-8.5",
+            "CPUE": "0.60",
+            "quartileWeight": "1.4-2.7",
+            "gear": "Standard gill nets",
+            "gearCount": 5
+          },
+          {
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-2.1",
+            "quartileCount": "1.6-3.5",
+            "CPUE": "1.60",
+            "totalWeight": 17.75,
+            "species": "SMB",
+            "averageWeight": "2.22",
+            "totalCatch": 8
+          },
+          {
+            "quartileCount": "2.2-10.5",
+            "CPUE": "0.80",
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-1.9",
+            "species": "WAE",
+            "averageWeight": "2.69",
+            "totalCatch": 4,
+            "totalWeight": 10.75
+          },
+          {
+            "totalCatch": 5,
+            "averageWeight": "2.50",
+            "species": "WTS",
+            "totalWeight": 12.5,
+            "CPUE": "1.00",
+            "quartileCount": "1.6-8.4",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.9-2.3",
+            "gearCount": 5
+          }
+        ],
+        "headerInfo": {
+          "survey_id": "110032",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "South Cone",
+          "id_date": "1987-07-28",
+          "wb_id": "16039300",
+          "wb_type": "Lake",
+          "wb_name": "Lower Cone"
+        },
+        "surveySubType": "Population Assessment",
+        "lengths": {}
+      }
+    ],
+    "county": "Cook",
+    "averageWaterClarity": "N/A",
+    "maxDepthFeet": 21,
+    "accesses": [
+      {
+        "location": "NONE",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "lakeName": "Lower Cone",
+    "lakeAltName": "South Cone",
+    "DOWNumber": "16039300",
+    "littoralAcres": 58
+  }
+}

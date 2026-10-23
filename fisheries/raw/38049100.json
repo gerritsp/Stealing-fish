@@ -1,0 +1,744 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285914,
+  "result": {
+    "surveys": [
+      {
+        "lengths": {
+          "WTS": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                18,
+                23
+              ],
+              [
+                19,
+                13
+              ],
+              [
+                20,
+                23
+              ],
+              [
+                21,
+                7
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "maximum_length": 22
+          },
+          "WAE": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 24
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.0-2.0",
+            "totalWeight": 27982,
+            "averageWeight": "1.87",
+            "gearCount": 6,
+            "totalCatch": 33,
+            "CPUE": "5.50",
+            "quartileCount": "1.2-5.2",
+            "species": "WAE",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "CPUE": "16.17",
+            "totalCatch": 97,
+            "gearCount": 6,
+            "averageWeight": "2.64",
+            "totalWeight": 116229,
+            "quartileWeight": "1.1-2.5"
+          }
+        ],
+        "surveyDate": "2015-06-08",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Vera Lake is located within the Boundary Waters Canoe Area Wilderness (BWCAW) within the Superior National Forest and is a non-motorized lake.  It is approximately 26 miles northeast of Ely.  There are three accesses, all of which are portages from surrounding area lakes.  Accesses consist of a 0.6 mile portage from Ensign Lake on the west side, a 0.6 mile portage from Knife Lake on the northeast side, and a 0.25 mile portage from Trader Lake on the east side.  Vera is a 245 acre lake with no major inlets and one outlet on the west side that flows to Ensign Lake.  The 245 acre lake has a maximum depth of 55 feet and the water color at the time of this survey was light green.\n\nOn June 8, 2015 Vera Lake was thermally stratified with a surface temperature of 65 F and a bottom temperature of 41 F.  Oxygen levels for gamefish were adequate to a depth of 44 feet.  Lake bottom substrates along the shoreline of Vera are mostly boulder with muck in the bays.  Aquatic plants are sparse and only grow in some of the shallow bays.  Most of the shorelines are lined with white cedar, spruce, and balsam fir.  Vera Lake is on a popular travel route with the possibility of several visitors a day.  The week this survey was conducted, most visitors were traveling through; few groups were spending time actively angling.  \n\nWalleye had been stocked as fry and fingerlings in Vera Lake dating back to 1981.  From 1981 to 1983 fry were stocked each year.  In 1985 and 1986 fingerlings were used.  Since 1986, the lake has sustained its walleye population through natural reproduction only.  \n\nThe 2015 gillnet catch consisted of only two species of fish, walleye and white sucker.  Thirty-three walleye were sampled for a catch rate of 5.5 fish/gill net, which is very good compared to other similar lakes throughout the state.  Walleye lengths ranged from 10 to 25 inches with an average of 17 inches.  The average weight was nearly 2 pounds which is also very good when compared to other similar lakes.  Growth rates were average compared to other walleye lakes in the area.  Walleye ages ranged from 3 to 17 with good representation from the 2007, 2009, and 2012 year classes.  Although growth rates were good, some fish were skinny.  Available forage fish may be a limiting factor in their growth and survival as the only other species captured in this survey was white sucker.  Yellow perch and cisco were both very prevalent in previous surveys; however, this is the first survey of Vera Lake that neither of these species was sampled.  The most recent previous survey occured in 1995 and was already showing a major decline for those two species.  When looking at walleye stomachs, most fish were feeding primarily on northern clearwater crayfish, which are native to this area. \n\nThe white sucker gillnet catch was 16.2 fish/net which is very high when compared to other similar lakes in the state but around average when compared to other surveys from Vera Lake.  The average weight was 2.6 pounds and lengths ranged from 8 to 22 inches.  \n</p>",
+        "surveyID": "12231515439670000",
+        "headerInfo": {
+          "id_date": "2015-06-08",
+          "survey_id": "12231515439670000",
+          "county": "Lake",
+          "wb_id": "38049100",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Vera",
+          "survey_type": "Standard Survey"
+        },
+        "surveySubType": "Standard Survey"
+      },
+      {
+        "lengths": {},
+        "surveyDate": "1984-08-13",
+        "fishCatchSummaries": [
+          {
+            "species": "YEP",
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets",
+            "totalCatch": 97,
+            "CPUE": "16.17",
+            "averageWeight": "0.17",
+            "gearCount": 6,
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 16.2
+          },
+          {
+            "averageWeight": "0.10",
+            "gearCount": 6,
+            "quartileWeight": "N/A",
+            "totalWeight": 0.8,
+            "species": "GSF",
+            "quartileCount": "0.2-0.9",
+            "gear": "Standard gill nets",
+            "totalCatch": 8,
+            "CPUE": "1.33"
+          },
+          {
+            "totalCatch": 16,
+            "CPUE": "2.67",
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.5",
+            "totalWeight": 26.2,
+            "averageWeight": "1.64",
+            "gearCount": 6
+          },
+          {
+            "averageWeight": "0.13",
+            "gearCount": 6,
+            "quartileWeight": "0.2-1.0",
+            "totalWeight": 5.2,
+            "species": "TLC",
+            "quartileCount": "3.2-20.2",
+            "gear": "Standard gill nets",
+            "totalCatch": 39,
+            "CPUE": "6.50"
+          },
+          {
+            "CPUE": "4.33",
+            "totalCatch": 26,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.1",
+            "species": "LMB",
+            "totalWeight": 15,
+            "quartileWeight": "0.3-1.4",
+            "gearCount": 6,
+            "averageWeight": "0.58"
+          }
+        ],
+        "surveyID": "108271",
+        "narrative": "<p>Vera Lake has above average numbers of yellow perch and largemouth bass. Cisco and white suckers are present in average numbers. Other top predators such as northern pike or walleye are notably absent. Gillnet captures of ciscoes, white suckers and yellow perch have fluctuated widely in the past, but are quite high.</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "38049100",
+          "county": "Lake",
+          "survey_id": "108271",
+          "id_date": "1984-08-13",
+          "wb_name": "Vera",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment"
+        }
+      },
+      {
+        "surveyID": "21872425654849322",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Vera Lake on July 30th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 52.5 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 17.5 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 33.7 feet at the time of sampling. The thickness of this layer of water in the water column was 16.2 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 8.7 degrees C (47.7 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Vera Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.</p>",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Vera",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "id_date": "2024-07-30",
+          "survey_id": "21872425654849322",
+          "wb_id": "38049100",
+          "county": "Lake"
+        },
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "surveyDate": "2024-07-30",
+        "fishCatchSummaries": []
+      },
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Tullibee appear to be overcrowded and stunted; predators few, if any.  White sucker and tullibee population are very high.</p>",
+        "surveyID": "108007",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "id_date": "1972-06-26",
+          "survey_id": "108007",
+          "county": "Lake",
+          "wb_id": "38049100",
+          "survey_type": "Initial Survey",
+          "wb_name": "Vera",
+          "wb_alt_name": ""
+        },
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 2,
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 9,
+            "averageWeight": "0.18",
+            "CPUE": "1.22",
+            "totalCatch": 11,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-3.7",
+            "species": "YEP"
+          },
+          {
+            "averageWeight": "0.10",
+            "gearCount": 9,
+            "quartileWeight": "N/A",
+            "totalWeight": 0.1,
+            "species": "GSF",
+            "quartileCount": "0.2-0.9",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "CPUE": "0.11"
+          },
+          {
+            "CPUE": "15.33",
+            "totalCatch": 138,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-5.3",
+            "species": "WTS",
+            "totalWeight": 164,
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 9,
+            "averageWeight": "1.19"
+          },
+          {
+            "totalWeight": 42.2,
+            "quartileWeight": "0.2-1.0",
+            "gearCount": 9,
+            "averageWeight": "0.12",
+            "CPUE": "37.67",
+            "totalCatch": 339,
+            "gear": "Standard gill nets",
+            "species": "TLC",
+            "quartileCount": "3.2-20.2"
+          }
+        ],
+        "surveyDate": "1972-06-26"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>The water quality of Vera Lake is good, with clear water and good oxygen to a depth of 35' in midsummer.  Vera Lake is shallower (55' maximum depth) than other Lake Class 3 lakes and has higher chemical fertility and acid-buffering capacity.Fish populations in Vera Lake are dominated by walleye and white sucker.  Walleye were introduced in 1985 and 1986.  They are now naturally reproducing and their numbers are very high.  Cisco and yellow perch are also present although their numbers have declined since the introduction of walleye.  Notable by their absence in this lake are northern pike and lake trout which are common in other Lake Class 3 lakes.Largemouth bass were present in good numbers in two assessments prior to the introduction of walleye, but have not been captured since.  Green sunfish, pumpkinseed sunfish, and slimy sculpins were occasionally captured in low numbers in previous assessments, but were not captured in 1995.</p>",
+        "surveyID": "108912",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Vera",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "survey_id": "108912",
+          "id_date": "1995-06-26",
+          "county": "Lake",
+          "wb_id": "38049100"
+        },
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                6
+              ],
+              [
+                11,
+                7
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                8
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                15
+              ],
+              [
+                18,
+                8
+              ],
+              [
+                19,
+                14
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                16
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 6
+          },
+          "TLC": {
+            "fishCount": [
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 7,
+            "minimum_length": 7
+          },
+          "YEP": {
+            "minimum_length": 6,
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                6,
+                6
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ]
+            ]
+          },
+          "WAE": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                15
+              ],
+              [
+                12,
+                19
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                9
+              ],
+              [
+                19,
+                9
+              ],
+              [
+                20,
+                8
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                3
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                7,
+                9
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 25
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "averageWeight": "1.56",
+            "totalWeight": 66355,
+            "quartileWeight": "1.0-2.0",
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "quartileCount": "1.2-5.2",
+            "CPUE": "15.67",
+            "totalCatch": 94
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 1538,
+            "averageWeight": "0.24",
+            "gearCount": 6,
+            "totalCatch": 14,
+            "CPUE": "2.33",
+            "species": "YEP",
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 99,
+            "CPUE": "16.50",
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.5",
+            "totalWeight": 141572,
+            "averageWeight": "3.15",
+            "gearCount": 6
+          },
+          {
+            "totalCatch": 1,
+            "CPUE": "0.17",
+            "species": "TLC",
+            "quartileCount": "3.2-20.2",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-1.0",
+            "totalWeight": 139,
+            "averageWeight": "0.31",
+            "gearCount": 6
+          }
+        ],
+        "surveyDate": "1995-06-26"
+      },
+      {
+        "lengths": {},
+        "surveyDate": "2025-08-19",
+        "fishCatchSummaries": [],
+        "surveyID": "-344",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Vera Lake on August 19th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 52.5 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 17.5 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 27.6 feet at the time of sampling. The thickness of this layer of water in the water column was 10.1 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 10.2 degrees C (50.4 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) also indicated suitable oxythermal habitat in 2024, with a larger layer thickness and colder TDO3 (16.2 and 8.7 respectively). When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "wb_name": "Vera",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "survey_id": "-344",
+          "id_date": "2025-08-19",
+          "wb_id": "38049100",
+          "county": "Lake",
+          "wb_type": "Lake"
+        }
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_name": "Vera",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "survey_id": "108357",
+          "id_date": "1987-05-30",
+          "wb_id": "38049100",
+          "county": "Lake",
+          "wb_type": "Lake"
+        },
+        "surveyID": "108357",
+        "narrative": "<p>Cisco, white sucker, and yellow perch are present in above average numbers; walleye are present in average numbers. Green sunfish and largemouth bass are also present. Pumpkinseed sunfish and sculpins were observed in previous assessments, but not the present one. All walleye are from the 1985 year-class and corresponds to a fingerling plant. Growth and condition are good.</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1987-05-30",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "quartileCount": "1.2-5.2",
+            "CPUE": "4.17",
+            "totalCatch": 25,
+            "gearCount": 6,
+            "averageWeight": "0.45",
+            "totalWeight": 11.3,
+            "quartileWeight": "1.0-2.0"
+          },
+          {
+            "CPUE": "0.50",
+            "totalCatch": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.2-0.9",
+            "species": "GSF",
+            "totalWeight": 0.3,
+            "quartileWeight": "N/A",
+            "gearCount": 6,
+            "averageWeight": "0.10"
+          },
+          {
+            "averageWeight": "0.11",
+            "gearCount": 6,
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 26.7,
+            "quartileCount": "0.4-3.7",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "totalCatch": 242,
+            "CPUE": "40.33"
+          },
+          {
+            "CPUE": "11.50",
+            "totalCatch": 69,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 129,
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 6,
+            "averageWeight": "1.87"
+          },
+          {
+            "totalCatch": 113,
+            "CPUE": "18.83",
+            "quartileCount": "3.2-20.2",
+            "species": "TLC",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-1.0",
+            "totalWeight": 18,
+            "averageWeight": "0.16",
+            "gearCount": 6
+          },
+          {
+            "quartileWeight": "0.3-1.4",
+            "totalWeight": 2.9,
+            "averageWeight": "0.97",
+            "gearCount": 6,
+            "totalCatch": 3,
+            "CPUE": "0.50",
+            "species": "LMB",
+            "quartileCount": "0.3-1.1",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "lengths": {}
+      }
+    ],
+    "sampledPlants": [],
+    "shoreLengthMiles": 6.24,
+    "DOWNumber": "38049100",
+    "areaAcres": 250.39,
+    "officeCode": "F214",
+    "littoralAcres": 86,
+    "lakeName": "Vera",
+    "maxDepthFeet": 55,
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "06/09/2015",
+        "14"
+      ],
+      [
+        "07/30/2024",
+        "16.4"
+      ],
+      [
+        "08/19/2025",
+        "19.7"
+      ]
+    ],
+    "county": "Lake",
+    "averageWaterClarity": "16.7",
+    "accesses": [
+      {
+        "lakeAccessComments": "Portage to Knife Lake.",
+        "location": "0.6 mile portage",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF"
+      },
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "Portage to Trader Lake.",
+        "location": "0.25 mile portage",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO"
+      },
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "Portage to Ensign Lake.",
+        "accessTypeId": "PO",
+        "location": "0.6 mile portage",
+        "publicUseAuthCode": "OPEN"
+      }
+    ]
+  }
+}

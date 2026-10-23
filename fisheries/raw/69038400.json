@@ -1,0 +1,77 @@
+{
+  "result": {
+    "DOWNumber": "69038400",
+    "shoreLengthMiles": 2.2,
+    "accesses": [
+      {
+        "location": "Lies in BWCA-Loon Lake in Upper Pauness Lake to Lower Pauness to Shell Lake.",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O"
+      }
+    ],
+    "surveys": [
+      {
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_id": "69038400",
+          "wb_name": "Little Shell",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "id_date": "2024-08-05",
+          "survey_id": "19222423338345198"
+        },
+        "surveyDate": "2024-08-05",
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Little Shell Lake on August 5th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 36.1 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 11.3 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 27.8 feet at the time of sampling. The thickness of this layer of water in the water column was 16.5 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 7.3 degrees C (45.1 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Little Shell Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyID": "19222423338345198",
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey"
+      },
+      {
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "69038400",
+          "county": "St. Louis",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "wb_name": "Little Shell",
+          "id_date": "2025-07-28",
+          "survey_id": "-311"
+        },
+        "surveyDate": "2025-07-28",
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Little Shell Lake on July 28th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 39.4 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 11.7 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 30.4 feet at the time of sampling. The thickness of this layer of water in the water column was 18.8 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.1 degrees C (41.2 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates suitable oxythermal habitat. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyID": "-311",
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey"
+      }
+    ],
+    "maxDepthFeet": 0,
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "08/05/2024",
+        "10"
+      ],
+      [
+        "07/28/2025",
+        "9.8"
+      ]
+    ],
+    "county": "St. Louis",
+    "areaAcres": 91.24,
+    "sampledPlants": [],
+    "averageWaterClarity": "9.9",
+    "officeCode": "F217",
+    "littoralAcres": 0,
+    "lakeName": "Little Shell"
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285961,
+  "status": "SUCCESS"
+}

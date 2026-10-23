@@ -1,0 +1,153 @@
+{
+  "result": {
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "county": "Lake",
+    "meanDepthFeet": 0,
+    "lakeName": "Mueller",
+    "maxDepthFeet": 36,
+    "areaAcres": 23.6,
+    "littoralAcres": 23.6,
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "location": "80 rod portage from Ogishkemuncie Lake",
+        "ownerTypeId": "USF"
+      },
+      {
+        "location": "100 rod portage from Agamok Lake.",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA"
+      }
+    ],
+    "DOWNumber": "38019300",
+    "waterClarity": [],
+    "shoreLengthMiles": 1.51,
+    "surveys": [
+      {
+        "narrative": "<p>Mueller Lake is in Ecological Lake Class 14, which consists of 92 lakes in northeast Minnesota that are small, shallow, and have very soft (unmineralized) water.  Mueller Lake is deeper and has a more irregular shoreline shape than most of the lakes in this lake class.  With water chemistry showing total phosphorus of 21 ppb, chlorophyll-a of 3.7 ppb, and Secchi water clarity of 3.1 m, Mueller Lake ranks as mesotrophic, according to Carlson's Trophic State Index.  Mueller Lake was not thermally stratified on 09/11/2001 and retained oxygen at saturation to the bottom.The inlet (from Agamok Lake) drains the Gabimichigami and Little Saganaga lakes system to the southeast and has a large flow.  The outlet is to Ogishkemuncie Lake.  Both the inlet and outlet have rapids and falls along their watercourses.  Lake bottom substrates along the shoreline are mostly ledgerock, boulder, and rubble.  Aquatic plants are sparse,Mueller Lake is within the Boundary Waters Canoe Area Wilderness on a no-motor route.  Access is difficult: about ten miles of paddling and portaging from the Gunflint Trail.  There are two campsites on the lake.Fish sampling in this fisheries lake survey consisted of two gillnet sets.  Trapnets were not set due to the difficult access, and shoreline seining was not done due to the lack of suitable areas to seine and difficult access.The total catch of fish (all species combined) in the gillnets in 2001 of 11.0 fish/net (13.1 lb/net) was in the second quartile for this lake class.  Flowage-type lakes like Mueller Lake often have rather poor fish populations.  Fish species captured in 2001 were white sucker, northern pike, and yellow perch.Sucker numbers in 2001 (6.0/gillnet) were near the median for this lake class.  Sucker sizes averaged 14.1\" (1.3 lb), which was also near the median for this lake class.Northern pike numbers in 2001 (1.5/gillnet) were in the first quartile for this lake class.  Pike sizes averaged 23.7\" (3.2 lb), which was in the fourth quartile for this lake class.  Pike growth was normal by area standards.Yellow perch numbers in 2001 (3.5/gillnet) were in the second quartile for this lake class.  Perch sizes averaged 6.5\" (0.1 lb), which was in the first quartile for this lake class.  Perch growth was normal by area standards.</p>",
+        "surveyDate": "2001-09-11",
+        "surveyID": "109427",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "3.9-9.4",
+            "averageWeight": "3.23",
+            "CPUE": "1.50",
+            "gearCount": 2,
+            "totalWeight": 4400,
+            "quartileWeight": "1.2-2.4",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "totalCatch": 3
+          },
+          {
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "totalCatch": 7,
+            "quartileCount": "2.0-23.0",
+            "averageWeight": "0.09",
+            "CPUE": "3.50",
+            "gearCount": 2,
+            "totalWeight": 294,
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalCatch": 12,
+            "quartileCount": "2.6-17.5",
+            "averageWeight": "1.38",
+            "CPUE": "6.00",
+            "gearCount": 2,
+            "totalWeight": 7488,
+            "quartileWeight": "0.8-2.3"
+          }
+        ],
+        "lengths": {
+          "NOP": {
+            "minimum_length": 23,
+            "fishCount": [
+              [
+                23,
+                3
+              ]
+            ],
+            "maximum_length": 23
+          },
+          "YEP": {
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                6,
+                7
+              ]
+            ],
+            "minimum_length": 6
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 19
+          }
+        },
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "survey_id": "109427",
+          "id_date": "2001-09-11",
+          "wb_type": "Lake",
+          "wb_id": "38019300",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "wb_name": "Mueller"
+        }
+      }
+    ],
+    "averageWaterClarity": "N/A"
+  },
+  "timestamp": 1790285971,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

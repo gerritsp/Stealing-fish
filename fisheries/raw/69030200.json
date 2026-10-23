@@ -1,0 +1,248 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "38 rod portage from Phantom Lake.",
+        "location": " ",
+        "accessTypeId": "CA"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "littoralAcres": 63.41,
+    "county": "St. Louis",
+    "shoreLengthMiles": 2.89,
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.39",
+            "gearCount": 2,
+            "totalCatch": 18,
+            "quartileWeight": "1.6-3.1",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.3-5.3",
+            "CPUE": "9.00",
+            "species": "NOP",
+            "totalWeight": 25
+          },
+          {
+            "quartileCount": "1.2-4.9",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "averageWeight": "1.60",
+            "quartileWeight": "1.6-2.4",
+            "totalCatch": 5,
+            "CPUE": "2.50",
+            "species": "WTS",
+            "totalWeight": 8
+          }
+        ],
+        "surveyID": "108140",
+        "lengths": {},
+        "narrative": "<p>Consists of a high population of northern pike and an average population of yellow perch.</p>",
+        "headerInfo": {
+          "wb_id": "69030200",
+          "survey_type": "Population Assessment",
+          "id_date": "1979-07-12",
+          "wb_type": "Lake",
+          "survey_id": "108140",
+          "county": "St. Louis",
+          "wb_alt_name": "",
+          "wb_name": "Boulder"
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "1979-07-12",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyDate": "2013-07-15",
+        "narrative": "<p>Boulder Lake is located approximately 12 miles NW of Ely and is entirely within the BWCAW. It has a surface area of 68 acres and a maximum depth of 41 feet. The water is brown and bog stained. Dissolved oxygen was adequate to a depth of 27 feet. <br> \n <br> \nAccess is by portage from Phantom Lake (38 rods). There is one designated USFS campsite located on the NW end of the island. <br> \n <br> \nNorthern pike numbers in 2013 (3.7/gill net) were slightly above average compared to other area pike lakes. The average pike sampled was 20.8 inches long and about 6 years old. The largest pike sampled was 23.9 inches long. <br> \n <br> \nSeveral large bluegill up to 9.3 inches long were sampled. One 22 inch walleye was sampled and found to be 14 years old. Walleye were last stocked in 1979. Low numbers of largemouth bass, yellow perch and white sucker are also present.</p>",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_name": "Boulder",
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "survey_id": "6851331737204093",
+          "wb_id": "69030200",
+          "survey_type": "Population Assessment",
+          "id_date": "2013-07-15"
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "3.67",
+            "species": "NOP",
+            "totalWeight": 8194,
+            "gearCount": 3,
+            "averageWeight": "1.64",
+            "quartileWeight": "1.6-3.1",
+            "totalCatch": 11,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.3-5.3"
+          },
+          {
+            "quartileCount": "0.8-3.8",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.1-2.3",
+            "totalCatch": 1,
+            "gearCount": 3,
+            "averageWeight": "3.97",
+            "totalWeight": 1800,
+            "species": "WAE",
+            "CPUE": "0.33"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.5-7.0",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 1,
+            "gearCount": 3,
+            "averageWeight": "0.10",
+            "totalWeight": 46,
+            "CPUE": "0.33",
+            "species": "YEP"
+          },
+          {
+            "CPUE": "0.67",
+            "species": "WTS",
+            "totalWeight": 2900,
+            "gearCount": 3,
+            "averageWeight": "3.20",
+            "totalCatch": 2,
+            "quartileWeight": "1.6-2.4",
+            "quartileCount": "1.2-4.9",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "0.5-1.5",
+            "totalCatch": 1,
+            "averageWeight": "1.74",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-1.8",
+            "totalWeight": 788,
+            "CPUE": "0.33",
+            "species": "LMB"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "totalCatch": 9,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.64",
+            "gearCount": 3,
+            "totalWeight": 2608,
+            "species": "BLG",
+            "CPUE": "3.00"
+          }
+        ],
+        "lengths": {
+          "BLG": {
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                7
+              ]
+            ],
+            "minimum_length": 8
+          },
+          "LMB": {
+            "maximum_length": 14,
+            "fishCount": [
+              [
+                14,
+                1
+              ]
+            ],
+            "minimum_length": 14
+          },
+          "NOP": {
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ]
+            ],
+            "minimum_length": 19
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 6,
+            "minimum_length": 6
+          },
+          "WAE": {
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                22,
+                1
+              ]
+            ],
+            "minimum_length": 22
+          },
+          "WTS": {
+            "minimum_length": 17,
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ],
+            "maximum_length": 18
+          }
+        },
+        "surveyID": "6851331737204093"
+      }
+    ],
+    "maxDepthFeet": 51,
+    "areaAcres": 63.41,
+    "waterClarity": [
+      [
+        "07/15/2013",
+        "3.5"
+      ]
+    ],
+    "officeCode": "F214",
+    "lakeName": "Boulder",
+    "DOWNumber": "69030200",
+    "averageWaterClarity": "3.5"
+  },
+  "status": "SUCCESS",
+  "timestamp": 1790285561
+}

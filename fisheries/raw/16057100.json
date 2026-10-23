@@ -1,0 +1,291 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "location": "Entire lake is inside the BWCAW.  Access by portage trails from Gordon Lake and the Frost River flowage.",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "maxDepthFeet": 88,
+    "surveys": [
+      {
+        "surveyID": "110678",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_id": "16057100",
+          "survey_id": "110678",
+          "wb_name": "Frost",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "1992-07-27"
+        },
+        "narrative": "<p>The lake trout catch in gill nets was within the normal range for lakes of this ecological class, and slightly higher than the 1982 initial survey catch.  Frost Lake has not been stocked and all year classes appear strong.  Lake trout growth may be somewhat below normal for this area.The northern pike catch in gill nets was below the normal range for lakes of this ecological lake class, and below the 1982 initial survey catch.  Both northern pike caught were age-4 fish.  Northern pike growth appeared to be much above normal for this area, and there was a possibility that the northern pike collected were incorrectly aged.</p>",
+        "lengths": {},
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "species": "BUB",
+            "quartileWeight": "0.6-1.5",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.50",
+            "gearCount": 6,
+            "quartileCount": "0.2-1.0",
+            "totalWeight": 1.5,
+            "CPUE": "0.50",
+            "totalCatch": 3
+          },
+          {
+            "totalWeight": 43.56,
+            "totalCatch": 23,
+            "CPUE": "3.83",
+            "gearCount": 6,
+            "quartileCount": "0.4-3.7",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.89",
+            "species": "LAT",
+            "quartileWeight": "1.5-4.0"
+          },
+          {
+            "averageWeight": "8.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "2.1-4.9",
+            "species": "NOP",
+            "CPUE": "0.33",
+            "totalCatch": 2,
+            "totalWeight": 16,
+            "quartileCount": "0.6-2.4",
+            "gearCount": 6
+          },
+          {
+            "averageWeight": "0.45",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "2.33",
+            "totalCatch": 14,
+            "totalWeight": 6.31,
+            "quartileCount": "0.8-5.3",
+            "gearCount": 6
+          }
+        ],
+        "surveyDate": "1992-07-27"
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "surveyID": "-371",
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyDate": "2025-08-05",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Frost Lake on August 5th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 75.4 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 26.1 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L at 75.4 feet at the time of sampling. The thickness of this layer of water in the water column was 49.4 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 6.4 degrees C (43.5 degrees F), was substituted as TDO3. TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024, 1982, and 1992 also indicate suitable oxythermal habitat in all years surveyed. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "headerInfo": {
+          "wb_name": "Frost",
+          "survey_id": "-371",
+          "wb_id": "16057100",
+          "county": "Cook",
+          "survey_type": "Targeted Survey",
+          "id_date": "2025-08-05",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        }
+      },
+      {
+        "narrative": "<p>Lake trout abundance appeared to have been about average for lakes of this class, but the 1998 catch was low compared to past assessments in this lake.  No aging results were available, but from the length frequency distribution it appeared that several naturally produced year classes were present in 1998.  Lake trout growth in this lake has been described as slower than average (1992 assessment).The 1998 catch of northern pike was low for this lake, and for lakes of this class.  Catches of white sucker and burbot were similar to past catches in this lake.  No walleye or smallmouth bass were found in 1998; they are not native to this area, and have never been found in this lake.</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "0.6-1.5",
+            "species": "BUB",
+            "averageWeight": "0.60",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.2-1.0",
+            "gearCount": 6,
+            "totalCatch": 4,
+            "CPUE": "0.67",
+            "totalWeight": 1085
+          },
+          {
+            "averageWeight": "1.98",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-4.0",
+            "species": "LAT",
+            "totalCatch": 9,
+            "CPUE": "1.50",
+            "totalWeight": 8089,
+            "quartileCount": "0.4-3.7",
+            "gearCount": 6
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "2.67",
+            "species": "NOP",
+            "quartileWeight": "2.1-4.9",
+            "totalWeight": 1210,
+            "CPUE": "0.17",
+            "totalCatch": 1,
+            "gearCount": 6,
+            "quartileCount": "0.6-2.4"
+          },
+          {
+            "totalWeight": 25816,
+            "CPUE": "3.83",
+            "totalCatch": 23,
+            "gearCount": 6,
+            "quartileCount": "0.8-5.3",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.47",
+            "quartileWeight": "1.1-2.5",
+            "species": "WTS"
+          }
+        ],
+        "surveyDate": "1998-08-10",
+        "lengths": {
+          "NOP": {
+            "maximum_length": 24,
+            "minimum_length": 24,
+            "fishCount": [
+              [
+                24,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "maximum_length": 23,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 12,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                9
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                2
+              ]
+            ]
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ],
+            "maximum_length": 15,
+            "minimum_length": 11
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_name": "Frost",
+          "survey_id": "110907",
+          "wb_id": "16057100",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "id_date": "1998-08-10",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "110907"
+      }
+    ],
+    "lakeName": "Frost",
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "waterClarity": [
+      [
+        "07/29/1992",
+        "11.5"
+      ],
+      [
+        "08/10/1982",
+        "13"
+      ],
+      [
+        "08/05/2025",
+        "10.2"
+      ]
+    ],
+    "shoreLengthMiles": 4.21,
+    "county": "Cook",
+    "averageWaterClarity": "11.6",
+    "meanDepthFeet": 0,
+    "DOWNumber": "16057100",
+    "littoralAcres": 62,
+    "areaAcres": 283.91
+  },
+  "timestamp": 1790285777,
+  "status": "SUCCESS"
+}

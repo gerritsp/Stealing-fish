@@ -1,0 +1,965 @@
+{
+  "timestamp": 1790286010,
+  "result": {
+    "sampledPlants": [],
+    "littoralAcres": 497,
+    "maxDepthFeet": 210,
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "accessTypeId": "PO",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "USF",
+        "location": ""
+      },
+      {
+        "ownerTypeId": "CAN",
+        "lakeAccessComments": "Ontario-owned boat launch and camping area on the west end of the north (Ontario) side of the lake.",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "G",
+        "location": " "
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/02/1982",
+        "30"
+      ],
+      [
+        "08/18/1955",
+        "30"
+      ],
+      [
+        "09/10/1992",
+        "22.5"
+      ],
+      [
+        "08/25/1939",
+        "23"
+      ],
+      [
+        "09/19/2011",
+        "28"
+      ],
+      [
+        "08/24/2024",
+        "27"
+      ],
+      [
+        "08/23/2023",
+        "21.3"
+      ],
+      [
+        "08/12/2025",
+        "24.6"
+      ]
+    ],
+    "averageWaterClarity": "25.8",
+    "DOWNumber": "16009300",
+    "areaAcres": 1992.66,
+    "shoreLengthMiles": 35.69,
+    "meanDepthFeet": 0,
+    "county": "Cook",
+    "lakeName": "Mountain",
+    "surveys": [
+      {
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "CPUE": "10.50",
+            "totalCatch": 63,
+            "gearCount": 6,
+            "totalWeight": 121,
+            "gear": "Standard gill nets",
+            "species": "LAT",
+            "quartileCount": "0.8-4.3",
+            "averageWeight": "1.92",
+            "quartileWeight": "1.2-3.1"
+          },
+          {
+            "species": "WTS",
+            "quartileCount": "0.5-3.4",
+            "averageWeight": "0.23",
+            "quartileWeight": "1.1-2.0",
+            "CPUE": "7.62",
+            "totalCatch": 61,
+            "gearCount": 8,
+            "totalWeight": 13.8,
+            "gear": "Standard trap nets"
+          },
+          {
+            "quartileWeight": "1.6-2.4",
+            "averageWeight": "0.51",
+            "quartileCount": "1.7-5.0",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalWeight": 24.9,
+            "totalCatch": 49,
+            "CPUE": "8.17"
+          }
+        ],
+        "surveyDate": "1982-08-02",
+        "narrative": "<p>THE LAKE TROUT POPULATION IN MOUNTAIN LAKE IS PROBABLY ONE OF THE BEST SELF-SUSTAINING POPULA- TIONS IN THE STATE. THE AVERAGE SIZE IS SMALL BUT LARGE INDIVIDUALS ARE PRESENT ONE THIRTY-SEVEN POUND LAKE TROUT WAS TAKEN DURING THIS SURVEY. THE SUCCESS OF THE LAKE TROUT POPULATION IS PROBABLY DUE TO THE SIMPLE SPECIES COMPOSITION WITH NO CENTRARCHIDS PERCIDS OR OTHER SALMONIDS PRESENT.</p>",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "survey_type": "Re-Survey",
+          "county": "Cook",
+          "id_date": "1982-08-02",
+          "survey_id": "110097",
+          "wb_name": "Mountain",
+          "wb_id": "16009300",
+          "wb_type": "Lake",
+          "wb_alt_name": ""
+        },
+        "surveyID": "110097",
+        "surveySubType": "Re-Survey"
+      },
+      {
+        "surveyID": "110669",
+        "surveySubType": "Re-Survey",
+        "surveyDate": "1992-09-08",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 184.8,
+            "gearCount": 6,
+            "totalCatch": 134,
+            "CPUE": "22.33",
+            "quartileWeight": "1.2-3.1",
+            "averageWeight": "1.38",
+            "quartileCount": "0.8-4.3",
+            "species": "LAT"
+          },
+          {
+            "totalCatch": 75,
+            "CPUE": "12.50",
+            "gear": "Standard gill nets",
+            "totalWeight": 25,
+            "gearCount": 6,
+            "quartileCount": "1.7-5.0",
+            "species": "WTS",
+            "quartileWeight": "1.6-2.4",
+            "averageWeight": "0.33"
+          }
+        ],
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "16009300",
+          "wb_name": "Mountain",
+          "survey_id": "110669",
+          "county": "Cook",
+          "id_date": "1992-09-08",
+          "survey_type": "Re-Survey"
+        },
+        "narrative": "<p>The lake trout catch in this assessment was over 15 times the median catch for lakes of this ecological class, and was far higher than the normal range; however, it was not unusually high for this lake.  The white sucker catch was also unusually high for lakes of this class, but not for this lake.  Most of the white sucker collected were small, and could have provided forage for lake trout.During this assessment, an angler reported that he knew of other anglers who had recently caught smallmouth bass in Mountain Lake.</p>",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyDate": "2011-09-19",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "averageWeight": "3.20",
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "gear": "Deep gill nets",
+            "totalWeight": 13070,
+            "gearCount": 6,
+            "totalCatch": 9,
+            "CPUE": "1.50"
+          },
+          {
+            "CPUE": "2.67",
+            "totalCatch": 16,
+            "totalWeight": 10045,
+            "gearCount": 6,
+            "gear": "Shallow gill nets",
+            "species": "LAT",
+            "quartileCount": "N/A",
+            "averageWeight": "1.38",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalWeight": 14,
+            "gearCount": 6,
+            "gear": "Deep gill nets",
+            "CPUE": "0.17",
+            "totalCatch": 1,
+            "averageWeight": "0.03",
+            "quartileWeight": "N/A",
+            "species": "SCU",
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "0.83",
+            "totalCatch": 5,
+            "totalWeight": 1428,
+            "gearCount": 6,
+            "gear": "Shallow gill nets",
+            "species": "SMB",
+            "quartileCount": "N/A",
+            "averageWeight": "0.63",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 6,
+            "totalWeight": 51472,
+            "gear": "Deep gill nets",
+            "CPUE": "9.50",
+            "totalCatch": 57,
+            "averageWeight": "1.99",
+            "quartileWeight": "N/A",
+            "species": "LAT",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "SMB",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.64",
+            "totalCatch": 3,
+            "CPUE": "0.25",
+            "gear": "1/4-in trap nets",
+            "gearCount": 12,
+            "totalWeight": 873
+          },
+          {
+            "totalWeight": 26587,
+            "gearCount": 6,
+            "gear": "Shallow gill nets",
+            "CPUE": "4.17",
+            "totalCatch": 25,
+            "averageWeight": "2.34",
+            "quartileWeight": "N/A",
+            "species": "WTS",
+            "quartileCount": "N/A"
+          }
+        ],
+        "lengths": {
+          "SCU": {
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                5
+              ]
+            ],
+            "minimum_length": 10,
+            "maximum_length": 11
+          },
+          "WTS": {
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                10
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                8
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                2
+              ]
+            ],
+            "maximum_length": 20
+          },
+          "LAT": {
+            "maximum_length": 40,
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                18
+              ],
+              [
+                16,
+                24
+              ],
+              [
+                17,
+                12
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                40,
+                1
+              ]
+            ]
+          }
+        },
+        "headerInfo": {
+          "wb_id": "16009300",
+          "wb_name": "Mountain",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "survey_id": "4311125734680000",
+          "county": "Cook",
+          "id_date": "2011-09-19"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>This was the first of three assessments scheduled in the 2010 lake management plan to determine the effects (if any) of the recent appearance of smallmouth bass in this lake.    Because this assessment was done fairly late in September, surface waters had already begun to cool (water temperature was 61.9 degrees F at the surface).  Lake trout were collected in deep and shallow net sets. <br> \n <br> \nLake trout remained abundant in Mountain Lake in 2011, even though the gill net catch was the lowest seen to date in this lake, and fell short of the long range goal in the 2010 lake management plan (8.0 fish/set).  Although low for this lake historically, the 2011 catch was nevertheless above the normal range for the lake class.  As has been the case in most assessments of this lake, most of the lake trout collected were under 18 inches in length.  One much larger fish (40.9 inches) was included in the catch, and the presence of that fish resulted in a higher-than-usual mean weight for lake trout taken in 2011.   Most of the 2011 lake trout catch consisted of mature fish.  All female lake trout 14.9 inches long or longer were mature, as were all male lake trout with lengths equal to or greater than 12.9 inches.  <br> \n <br> \nAll lake trout collected in 2011 had been produced naturally.  Several year classes contributed to the catch, which included fish as old as 23 years.  Relatively strong year classes had apparently been produced in 2006, 2005, and 2004.  Growth of young lake trout had been close to average for the area, but growth rates for older fish had been below average.  Lake trout in this lake must feed primarily on invertebrates, since no other forage is available.  Some of the larger lake trout may feed on other lake trout, and on white sucker. <br> \n <br> \nThe smallmouth bass gill net catch fell within the normal range for a Class 1 lake, and was similar to catches seen in this lake since the species first appeared in the 1990s.  All smallmouth bass collected were five to seven years of age, and growth had apparently been slow.  Fish reached an average length of just 8.6 inches by the end of their fifth year, compared to an average of 10.8 inches in similar lakes in this area.   <br> \n <br> \nThe 2011 white sucker gill net catch was, by a small margin, the lowest seen in this lake to date, although it still fell within the normal range for the lake class.  From the length frequency distribution it appeared that at least three year classes may have contributed to the catch.  Most of the white sucker collected would have been too large to have been used as forage by any but the largest lake trout. <br> \n <br> \nOnly smallmouth bass were taken in 0.25-in-mesh trap net sets.  Sampling with that gear in 1997 and 1992 had yielded catches of white sucker, spottail shiner, fathead minnow, pearl dace, finescale dace, and brook stickleback.  Although not well documented by assessment data,  there has been a dramatic drop in abundance and diversity of minnows in this lake since smallmouth bass became established.  <br> \n <br> \n</p>",
+        "surveyID": "4311125734680000",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveyDate": "2024-08-24",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "headerInfo": {
+          "wb_name": "Mountain",
+          "wb_id": "16009300",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "county": "Cook",
+          "id_date": "2024-08-24",
+          "survey_id": "21072424145776000"
+        },
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Mountain Lake on August 24th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 167.3 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 38.9 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L at 167.3 feet at the time of sampling. The thickness of this layer of water in the water column was 128.4 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 5.1 degrees C (41.2 degrees F), was substituted as TDO3. TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2023, 1955, 1956 also indicate suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 1956 when the suitable oxythermal habitat layer was 23.6 feet thick. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress <br> \n</p>",
+        "surveyID": "21072424145776000",
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "surveySubType": "Targeted Survey",
+        "surveyID": "20512322952535006",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Mountain",
+          "wb_id": "16009300",
+          "id_date": "2023-08-23",
+          "county": "Cook",
+          "survey_id": "20512322952535006",
+          "survey_type": "Targeted Survey"
+        },
+        "narrative": "<p>A temperature-dissolved oxygen profile was collected in the deepest basin on Mountain Lake August 23rd, 2023 to evaluate the amount of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout. Based on the profile, the top of the thermocline (i.e., the location in the water column with the sharpest transition from warm to cold water) occurred at approximately 20 feet. Dissolved oxygen decreased to below 3.0 mg/L at 160.8 feet, which was below the thermocline, at the time of sampling. The temperature at which dissolved oxygen decreased to below 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.2\u00b0C (39.6\u00b0F). <br> \n <br> \nTDO3 values cooler than 8.8\u00b0C indicate that oxythermal conditions are favorable for Lake Trout. Dissolved oxygen concentrations below the thermocline indicate that suitable oxythermal habitat for Lake Trout was available across a range of depths at the time of sampling. Data collected in 1954-1956 also indicated suitable oxythermal habitat in all years, with the least favorable conditions recorded in 1954. When adequate oxythermal habitat is available, Lake Trout are not squeezed into unfavorable, warmer water conditions and therefore do not experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveyDate": "2023-08-23",
+        "lengths": {},
+        "fishCatchSummaries": []
+      },
+      {
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Mountain Lake on August 12th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 167.3 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 34.2 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L throughout the entire sampled depth. This layer in the water column was 133.0 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 4.6 degrees C (40.3 degrees F), was substituted as TDO3. TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) from 1955-2024, also indicate suitable oxythermal habitat in the four years surveyed. When adequate oxythermal habitat is unavailable, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "headerInfo": {
+          "wb_name": "Mountain",
+          "wb_id": "16009300",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "id_date": "2025-08-12",
+          "county": "Cook",
+          "survey_id": "-298"
+        },
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyDate": "2025-08-12",
+        "surveySubType": "Targeted Survey",
+        "surveyID": "-298"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyID": "110808",
+        "headerInfo": {
+          "wb_name": "Mountain",
+          "wb_id": "16009300",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "id_date": "1997-09-08",
+          "survey_id": "110808"
+        },
+        "narrative": "<p>As has been the case in past assessments in this lake, lake trout abundance was high, with catches well above the normal range for lakes of this class.  The lake trout population was supported entirely through natural reproduction.  Growth of lake trout was slow, and most of the fish collected were less than 16 inches in length (typical for this lake).Smallmouth bass have been introduced to Mountain Lake, probably from nearby lakes.  The catch in 1997 was within the normal range for lakes of this type, and included several naturally-produced year classes.  Smallmouth bass growth had been somewhat faster than average for this area, which would not be unexpected in a recently introduced population.  Experience on similar lakes suggests that growth will slow over the years following the introduction, so the best smallmouth bass fishing opportunities in this lake may come over the next four or five years.</p>",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1997-09-08",
+        "lengths": {
+          "SMB": {
+            "minimum_length": 2,
+            "fishCount": [
+              [
+                2,
+                3
+              ],
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                5
+              ]
+            ],
+            "maximum_length": 16
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                28
+              ],
+              [
+                11,
+                45
+              ],
+              [
+                12,
+                23
+              ],
+              [
+                13,
+                16
+              ],
+              [
+                14,
+                12
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                6,
+                15
+              ],
+              [
+                7,
+                32
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                20
+              ]
+            ],
+            "maximum_length": 17
+          },
+          "LAT": {
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                10,
+                8
+              ],
+              [
+                11,
+                18
+              ],
+              [
+                12,
+                25
+              ],
+              [
+                13,
+                10
+              ],
+              [
+                14,
+                23
+              ],
+              [
+                15,
+                19
+              ],
+              [
+                16,
+                8
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                9,
+                6
+              ]
+            ],
+            "minimum_length": 9
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 84,
+            "CPUE": "14.00",
+            "gear": "Deep gill nets",
+            "gearCount": 6,
+            "totalWeight": 31785,
+            "quartileCount": "N/A",
+            "species": "LAT",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.83"
+          },
+          {
+            "gear": "1/4-in trap nets",
+            "gearCount": 12,
+            "totalWeight": 0,
+            "totalCatch": 11,
+            "CPUE": "0.92",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00",
+            "quartileCount": "N/A",
+            "species": "SPO"
+          },
+          {
+            "CPUE": "0.08",
+            "totalCatch": 1,
+            "gearCount": 12,
+            "totalWeight": 0,
+            "gear": "1/4-in trap nets",
+            "species": "FHM",
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A"
+          },
+          {
+            "averageWeight": "0.72",
+            "quartileWeight": "N/A",
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "totalWeight": 9159,
+            "gearCount": 12,
+            "gear": "1/4-in trap nets",
+            "CPUE": "2.33",
+            "totalCatch": 28
+          },
+          {
+            "averageWeight": "0.51",
+            "quartileWeight": "N/A",
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "totalWeight": 28422,
+            "gearCount": 6,
+            "gear": "Shallow gill nets",
+            "CPUE": "20.33",
+            "totalCatch": 122
+          },
+          {
+            "gearCount": 12,
+            "totalWeight": 13679,
+            "gear": "Standard trap nets",
+            "CPUE": "4.17",
+            "totalCatch": 50,
+            "averageWeight": "0.60",
+            "quartileWeight": "1.1-2.0",
+            "species": "WTS",
+            "quartileCount": "0.5-3.4"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "gearCount": 6,
+            "totalWeight": 16894,
+            "totalCatch": 42,
+            "CPUE": "7.00",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.89",
+            "quartileCount": "N/A",
+            "species": "LAT"
+          },
+          {
+            "averageWeight": "0.01",
+            "quartileWeight": "N/A",
+            "species": "SMB",
+            "quartileCount": "N/A",
+            "totalWeight": 8,
+            "gearCount": 12,
+            "gear": "1/4-in trap nets",
+            "CPUE": "0.25",
+            "totalCatch": 3
+          },
+          {
+            "gear": "Shallow gill nets",
+            "gearCount": 6,
+            "totalWeight": 5200,
+            "totalCatch": 9,
+            "CPUE": "1.50",
+            "quartileWeight": "N/A",
+            "averageWeight": "1.27",
+            "quartileCount": "N/A",
+            "species": "SMB"
+          },
+          {
+            "CPUE": "0.33",
+            "totalCatch": 2,
+            "totalWeight": 272,
+            "gearCount": 6,
+            "gear": "Deep gill nets",
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "averageWeight": "0.30",
+            "quartileWeight": "N/A"
+          },
+          {
+            "species": "SMB",
+            "quartileCount": "0.6-3.5",
+            "averageWeight": "0.46",
+            "quartileWeight": "0.2-0.6",
+            "CPUE": "0.92",
+            "totalCatch": 11,
+            "gearCount": 12,
+            "totalWeight": 2309,
+            "gear": "Standard trap nets"
+          }
+        ]
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyID": "111419",
+        "narrative": "<p>The number of lake trout caught in this assessment was somewhat less than in the 1997 assessment, but was well above average for the lake class.  Average size increased since 1997, but was still small for the lake class.  All the lake trout had been naturally produced.  Ages 3 through 11 were identified.  The 1993 and 1992 year classes (ages 10 and 11) appeared to be particularly abundant, and averaged 15-16 inches long.  Growth of lake trout had been slower than average for the lake class and for the area.The catch and average size of smallmouth bass changed little compared to the 1997 assessment, and were typical for the lake class.  Growth of smallmouth bass had been slightly slow for the lake class, and slower still for area lakes in general.  Five-year-old smallmouth bass averaged 10.6 inches long when captured.</p>",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "16009300",
+          "wb_name": "Mountain",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "survey_id": "111419",
+          "county": "Cook",
+          "id_date": "2003-09-08"
+        },
+        "lengths": {
+          "SMB": {
+            "maximum_length": 12,
+            "fishCount": [
+              [
+                10,
+                7
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 18
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                13
+              ],
+              [
+                15,
+                14
+              ],
+              [
+                16,
+                19
+              ],
+              [
+                17,
+                9
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 20
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 6626,
+            "gearCount": 6,
+            "gear": "Shallow gill nets",
+            "CPUE": "1.83",
+            "totalCatch": 11,
+            "averageWeight": "1.33",
+            "quartileWeight": "N/A",
+            "species": "LAT",
+            "quartileCount": "N/A"
+          },
+          {
+            "species": "SMB",
+            "quartileCount": "N/A",
+            "averageWeight": "0.44",
+            "quartileWeight": "N/A",
+            "CPUE": "0.67",
+            "totalCatch": 4,
+            "totalWeight": 794,
+            "gearCount": 6,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "CPUE": "10.50",
+            "totalCatch": 63,
+            "totalWeight": 34211,
+            "gearCount": 6,
+            "gear": "Deep gill nets",
+            "species": "LAT",
+            "quartileCount": "N/A",
+            "averageWeight": "1.20",
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "averageWeight": "1.28",
+            "quartileCount": "N/A",
+            "species": "WTS",
+            "gear": "Shallow gill nets",
+            "gearCount": 6,
+            "totalWeight": 26193,
+            "totalCatch": 45,
+            "CPUE": "7.50"
+          },
+          {
+            "species": "SMB",
+            "quartileCount": "N/A",
+            "averageWeight": "0.09",
+            "quartileWeight": "N/A",
+            "CPUE": "0.17",
+            "totalCatch": 1,
+            "gearCount": 6,
+            "totalWeight": 40,
+            "gear": "Deep gill nets"
+          },
+          {
+            "quartileWeight": "0.2-0.6",
+            "averageWeight": "0.47",
+            "quartileCount": "0.6-3.5",
+            "species": "SMB",
+            "gear": "Standard trap nets",
+            "gearCount": 12,
+            "totalWeight": 2971,
+            "totalCatch": 14,
+            "CPUE": "1.17"
+          }
+        ],
+        "surveyDate": "2003-09-08"
+      }
+    ]
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS"
+}

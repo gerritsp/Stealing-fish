@@ -1,0 +1,479 @@
+{
+  "result": {
+    "county": "Cook",
+    "sampledPlants": [],
+    "officeCode": "F218",
+    "averageWaterClarity": "6.7",
+    "DOWNumber": "16033500",
+    "accesses": [
+      {
+        "location": "Carry-in on an old logging road through the BWCAW; from the Mayhew Lake access road; or portage from Dunn or South Lakes.  Inside the BWCAW.",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O"
+      }
+    ],
+    "shoreLengthMiles": 0.95,
+    "meanDepthFeet": 0,
+    "lakeName": "Sock",
+    "maxDepthFeet": 23,
+    "waterClarity": [
+      [
+        "06/26/1991",
+        "8"
+      ],
+      [
+        "08/01/1956",
+        "8"
+      ],
+      [
+        "06/17/2025",
+        "4.5"
+      ],
+      [
+        "07/16/1970",
+        "6.25"
+      ]
+    ],
+    "littoralAcres": 16,
+    "areaAcres": 20.42,
+    "surveys": [
+      {
+        "narrative": "<p>ALL THE BROOK TROUT IN THIS SAMPLE APPEAR TO BE FROM THE 1984 STOCKING. IF ANY 1982 YEAR-CLASS FISH ARE PRESENT IN THIS SAMPLE, THEY ARE UN- USUALLY SLOW GROWING. RAINBOW TROUT HAVE BEEN STOCKED REGULARLY, BUT DO NOT APPEAR IN THIS ASSESSMENT.</p>",
+        "lengths": {},
+        "headerInfo": {
+          "id_date": "1985-09-19",
+          "wb_id": "16033500",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_name": "Sock",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "survey_id": "111142"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 21,
+            "averageWeight": "0.50",
+            "quartileCount": "N/A",
+            "CPUE": "10.50",
+            "species": "BKT",
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 10.5
+          }
+        ],
+        "surveyDate": "1985-09-19",
+        "surveyID": "111142"
+      },
+      {
+        "headerInfo": {
+          "county": "Cook",
+          "wb_id": "16033500",
+          "id_date": "1991-06-26",
+          "survey_type": "Population Assessment",
+          "survey_id": "111152",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Sock"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyID": "111152",
+        "fishCatchSummaries": [
+          {
+            "species": "RBT",
+            "CPUE": "0.50",
+            "quartileCount": "N/A",
+            "averageWeight": "1.25",
+            "totalCatch": 1,
+            "totalWeight": 1.25,
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 2
+          },
+          {
+            "averageWeight": "0.58",
+            "quartileCount": "N/A",
+            "totalCatch": 76,
+            "CPUE": "38.00",
+            "species": "BKT",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "totalWeight": 43.75
+          }
+        ],
+        "surveyDate": "1991-06-26",
+        "narrative": "<p>BKT WERE ABUNDANT, AND GROWTH AND SURVIVAL OF STOCKED FISH WERE GOOD.  SOME AGE III BKT WERE COLLECTED, BUT MOST OF THE BKT SAMPLED WERE AGE II.  THE SINGLE RBT COLLECTED WAS PROBABLY A SURVIVOR OF EITHER THE 1988 OR 1989 FINGERLING STOCKINGS.</p>",
+        "lengths": {}
+      },
+      {
+        "surveyID": "111170",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.1",
+            "totalWeight": 1451,
+            "totalCatch": 34,
+            "averageWeight": "0.09",
+            "quartileCount": "0.5-9.3",
+            "CPUE": "17.00",
+            "species": "GOS"
+          },
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.85",
+            "totalCatch": 51,
+            "CPUE": "25.50",
+            "species": "BKT",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "totalWeight": 19586
+          }
+        ],
+        "surveyDate": "1995-05-25",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_name": "Sock",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "111170",
+          "survey_type": "Population Assessment",
+          "wb_id": "16033500",
+          "id_date": "1995-05-25",
+          "county": "Cook"
+        },
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "BKT": {
+            "minimum_length": 8,
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                11,
+                15
+              ],
+              [
+                12,
+                19
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "GOS": {
+            "fishCount": [
+              [
+                5,
+                19
+              ],
+              [
+                6,
+                14
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 5
+          }
+        },
+        "narrative": "<p>Sock Lake supports high numbers of brook trout up to 17 inches long.  The relatively remote location (within the Boundary Waters Canoe Area Wilderness) may account for the apparent low to moderate harvest.  This probably allows many brook trout to reach maximum age and size before harvest, thus providing good numbers of fairly large fish to the occasional angler.</p>"
+      },
+      {
+        "lengths": {
+          "BKT": {
+            "maximum_length": 15,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ]
+          },
+          "GOS": {
+            "minimum_length": 5,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                5,
+                29
+              ],
+              [
+                6,
+                9
+              ],
+              [
+                7,
+                3
+              ]
+            ]
+          }
+        },
+        "narrative": "<p>The brook trout catch was the second lowest since the species was introduced, but ranked near the middle of the range for spring assessments of area stream trout lakes.  The average size of brook trout caught ranked in the middle of the historical range for this lake, but exceeded the average size observed in most assessments of area stream trout lakes.  The relatively large average size occurred because most brook trout were three years old, and few were two years old.  Normally a population includes more younger fish than older fish, but, apparently, and for some unknown reason, brook trout stocked in 2002 survived in greater numbers than did those stocked in 2003.  The growth rate of brook trout roughly equaled the average for the area.The golden shiner catch was the highest observed from the lake, and was unusually high for the lake class.  Most of those caught were too large to serve as prey for the brook trout.</p>",
+        "surveyID": "111524",
+        "surveyDate": "2005-06-16",
+        "fishCatchSummaries": [
+          {
+            "species": "GOS",
+            "CPUE": "21.00",
+            "totalCatch": 42,
+            "averageWeight": "0.07",
+            "quartileCount": "0.5-9.3",
+            "totalWeight": 1422,
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.1"
+          },
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "1.02",
+            "totalCatch": 14,
+            "species": "BKT",
+            "CPUE": "7.00",
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "totalWeight": 6508
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "16033500",
+          "id_date": "2005-06-16",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_name": "Sock",
+          "survey_type": "Population Assessment",
+          "survey_id": "111524",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                8
+              ],
+              [
+                14,
+                9
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 16
+          }
+        },
+        "narrative": "<p>Sock Lake supports high numbers of brook trout up to 17 inches long.  Sock Lake is within the Boundary Waters Canoe Area Wilderness.  Its remoteness probably accounts for a low harvest rate, allowing many brook trout to reach old age and fairly large size.</p>",
+        "surveyDate": "1999-06-07",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "gear": "Minnow traps",
+            "gearCount": 4,
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "totalCatch": 516,
+            "species": "FHM",
+            "CPUE": "129.00"
+          },
+          {
+            "quartileWeight": "N/A",
+            "gear": "Minnow traps",
+            "gearCount": 4,
+            "totalWeight": 0,
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "totalCatch": 2,
+            "species": "GOS",
+            "CPUE": "0.50"
+          },
+          {
+            "totalWeight": 16835,
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "quartileWeight": "N/A",
+            "CPUE": "15.00",
+            "species": "BKT",
+            "totalCatch": 30,
+            "averageWeight": "1.24",
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "0.75",
+            "species": "BST",
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "totalCatch": 3,
+            "totalWeight": 0,
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "gear": "Minnow traps"
+          }
+        ],
+        "surveyID": "111215",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_name": "Sock",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "111215",
+          "survey_type": "Population Assessment",
+          "id_date": "1999-06-07",
+          "wb_id": "16033500",
+          "county": "Cook"
+        },
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "narrative": "<p>Sock Lake is a small, 20-acre lake with a maximum depth of 23.0 feet and is located completely within the Boundary Waters Canoe Area Wilderness (BWCAW). Access to the lake is considered difficult, with an approximate two-mile portage across arduous terrain from the Mayhew Lake Road spur trail. Water temperatures and dissolved oxygen concentrations in Sock Lake have supported conditions that are suitable for stocked trout during the summer. Sock Lake is currently managed for brook trout and is stocked with 1,500 fingerlings during the fall of odd-numbered years. The long-range goal for brook trout is to maintain a minimum gillnet catch of 5.0 fish/net with two-year classes of fish greater than 10.0 inches present. In 2025, a standard survey was conducted on Sock Lake to assess the brook trout fishery. <br> \n <br> \nThe 2025 brook trout catch rate from gillnets was 7.5 fish/net and met the management objective for the lake. Although the 2025 survey was similar to the previous survey in 2005, it was below the long-term average for the lake. Brook trout lengths ranged from 10.4 to 16.1 inches, with an average length of 13.9 inches. Over half the catch was greater than 13.0 inches, providing anglers with the opportunity to catch quality sized brook trout. Age analysis found age two- and four-year-old fish from the 2023 and 2021 stocking events. Brook trout growth in Sock Lake was moderate, with age-2 fish reaching 11.3 inches and age-4 fish reaching 14.8 inches on average. Temperature and dissolved oxygen conditions within Sock Lake remained suitable for brook trout; however, there were signs of stress during the summer months with limited habitat available for the species. Anglers looking to fish Sock Lake should expect to work hard hiking/portaging into the lake but be rewarded with moderate catch rates of larger sized brook trout. <br> \n <br> \nMinnesota Lakes within Cook County continue to be susceptible to aquatic invasive species introductions. Invasive species have the potential to significantly alter fish communities and overall lake health. Anglers should clean watercraft and fishing gear, drain all water, and dispose of unused bait in the trash to prevent accidental introductions. <br> \n</p>",
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                2
+              ]
+            ],
+            "minimum_length": 10,
+            "maximum_length": 16
+          }
+        },
+        "headerInfo": {
+          "id_date": "2025-06-17",
+          "wb_id": "16033500",
+          "county": "Cook",
+          "wb_name": "Sock",
+          "wb_alt_name": "",
+          "survey_id": "22222516355123001",
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "BKT",
+            "CPUE": "7.50",
+            "totalCatch": 15,
+            "averageWeight": "1.08",
+            "quartileCount": "N/A",
+            "totalWeight": 7346,
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyDate": "2025-06-17",
+        "surveyID": "22222516355123001"
+      }
+    ]
+  },
+  "timestamp": 1790285983,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

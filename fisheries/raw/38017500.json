@@ -1,0 +1,72 @@
+{
+  "result": {
+    "averageWaterClarity": "N/A",
+    "shoreLengthMiles": 1.26,
+    "lakeName": "Clam",
+    "areaAcres": 21.98,
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "location": "By portage only-in BWCA  USFS land.",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "county": "Lake",
+    "maxDepthFeet": 10,
+    "DOWNumber": "38017500",
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_name": "Clam",
+          "survey_id": "107952",
+          "id_date": "1973-07-13",
+          "wb_id": "38017500",
+          "county": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "1973-07-13",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "GSF",
+            "gearCount": 2,
+            "quartileCount": "0.3-0.5",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.10",
+            "totalWeight": 0.1,
+            "CPUE": "0.50",
+            "totalCatch": 1
+          },
+          {
+            "gearCount": 2,
+            "quartileCount": "2.0-23.0",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "totalWeight": 10,
+            "CPUE": "30.50",
+            "totalCatch": 61,
+            "averageWeight": "0.16",
+            "quartileWeight": "0.1-0.2"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>Consists of numerous small perch and a small number of green sunfish.</p>",
+        "lengths": {},
+        "surveyID": "107952"
+      }
+    ],
+    "littoralAcres": 21.98,
+    "waterClarity": []
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790286019,
+  "status": "SUCCESS"
+}

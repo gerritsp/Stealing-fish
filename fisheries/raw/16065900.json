@@ -1,0 +1,232 @@
+{
+  "timestamp": 1790285616,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "county": "Cook",
+    "surveys": [
+      {
+        "lengths": {
+          "SMB": {
+            "maximum_length": 12,
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                10,
+                31
+              ],
+              [
+                11,
+                12
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                5,
+                9
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                18
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 14,
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                14,
+                2
+              ],
+              [
+                17,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                1,
+                1
+              ]
+            ],
+            "minimum_length": 1,
+            "maximum_length": 1
+          },
+          "WTS": {
+            "minimum_length": 21,
+            "maximum_length": 24,
+            "fishCount": [
+              [
+                21,
+                1
+              ],
+              [
+                24,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Beth Lake is 170 acres with a maximum depth of 22 feet and is located 21 miles north of Schroeder completely within the BWCAW. The lake is accessed by one of three portage routes. Alton Lake, to the east, is a 144 rod portage, or about half of a mile. Ella Lake, to the north, is a 72 rod portage, about 0.2 miles. Grace Lake, to the west, is a 285 rod portage, or about 0.9 miles. The half mile portage from Alton Lake crosses the Laurentian divide and is a particularly arduous portage. Four remote campsites are present with latrines and cooking grates. <br> \n <br> \nThe 2012 resurvey showed Beth to be a very soft water lake with low fertility. Water quality analysis revealed a secchi disc reading of 14 feet in clear water. Temperature and oxygen remained nearly constant throughout the water column. Substrates were dominated by boulder and interspersed with rubble, gravel and ledge rock. Spawning habitat was rated poor for northern pike, yellow perch and white sucker and good for smallmouth bass. Twenty-one different aquatic plant species or species groups were identified. Vegetation was very sparse and was observed growing to a depth of only 2.5 feet. The majority of submerged or floating leaf vegetation consisted of quillwort, pipewort, water lobelia, floating burreed and water lily. One small inlet with intermittent flow is present on the northwest portion of the lake originating from Ella Lake. The small channel was dry and braided across large boulders at the mouth. One outlet is present on the west end of the lake flowing into Grace Lake.  <br> \n <br> \nBeth Lake offers the angler small but plentiful small smallmouth bass.  Smallmouth bass gill net catch rates were well above average for the lake class at 13.7/lift. Average size was small at 0.48 pounds/fish. The average length of fish sampled was 9.7 inches with the largest fish only 12.76 inches. Growth of smallmouth bass is slower than average by Finland Area standards.  Smallmouth bass are maintained in the lake by natural reproduction with 10 different year classes present during the last sample.  However, the majority of the catch (85%) came from three different year classes. <br> \n <br> \nNorthern pike gill net catch rate was well below average both in numbers and size, 0.5/lift and 0.8 pounds/fish. Average length was 15.7 inches with the largest fish only 17.9 inches. All three fish that were sampled were two years old and growth was average by Finland Area standards. <br> \n <br> \nWhite sucker and yellow perch were also sampled but in very low numbers.  All anglers on Beth Lake must abide by BWCAW regulations at all times; the lake is entirely non-motorized.  <br> \n</p>",
+        "surveyDate": "2012-08-07",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "1.4-2.2",
+            "gearCount": 6,
+            "averageWeight": "0.82",
+            "species": "NOP",
+            "CPUE": "0.50",
+            "quartileCount": "2.3-5.1",
+            "totalWeight": 1120,
+            "gear": "Standard gill nets",
+            "totalCatch": 3
+          },
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "gearCount": 4,
+            "quartileWeight": "N/A",
+            "species": "YEP",
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "totalWeight": 0,
+            "gear": "Minnow traps"
+          },
+          {
+            "totalWeight": 17911,
+            "gear": "Standard gill nets",
+            "totalCatch": 82,
+            "quartileWeight": "0.5-1.5",
+            "gearCount": 6,
+            "averageWeight": "0.48",
+            "species": "SMB",
+            "CPUE": "13.67",
+            "quartileCount": "1.0-4.1"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 3640,
+            "totalCatch": 2,
+            "CPUE": "0.33",
+            "species": "WTS",
+            "averageWeight": "4.01",
+            "gearCount": 6,
+            "quartileWeight": "0.7-2.3",
+            "quartileCount": "1.7-12.5"
+          }
+        ],
+        "surveyID": "4331222628086000",
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Re-Survey",
+          "county": "Cook",
+          "survey_id": "4331222628086000",
+          "id_date": "2012-08-07",
+          "wb_id": "16065900",
+          "wb_name": "Beth"
+        }
+      },
+      {
+        "lengths": {},
+        "narrative": "<p>Beth Lake is a 182 acre, very soft-water lake in the Kawishiwi River Watershed. The lake lies within the roadless area and airspace reservation zone of the Superior National Forest, and is completely surrounded by federal forest land. Beth Lake is a canoe-route lake and is accessible by portages from Alton, Grace or Ella Lakes.     The maximum depth of Beth Lake is 22 feet, and there are three areas of intermittent drainage into the lake and one outlet from the lake. Shoal soils are mostly boulders, but there are also limited amounts of rubble, ledgerock, gravel and sand, and muck. Areas of shoreline marsh are present along the outlet and the edge of the northwest bay.     At the time of the survey, there was a temperature difference of only 1 degree F. from the surface to the bottom (22 feet). Sufficient amounts of dissolvedd oxygen for fish life were present at all depths. Water color was light greenish, and aquatic vegetation was scarce. Northern pike and white sucker were the only species of fish taken in gillnetting. Both species appeared to have low to moderate abundance. Minnows, darters, white sucker, and yellow perch were taken in shoreline seining. Spawning facilities were rated \"fair to good\" for northern pike, \"poor to fair\" for walleye and smallmouth bass, \"poor\" for largemouth bass and centrarchid panfish.     Occasionally, good northern pike catches have been reported from Beth Lake.     Three unimproved campsites were present on the lake at the time of the survey.</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "id_date": "1963-08-26",
+          "wb_id": "16065900",
+          "wb_name": "Beth",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "survey_id": "112813"
+        },
+        "surveyID": "112813",
+        "surveyDate": "1963-08-26",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.3-5.1",
+            "averageWeight": "0.00",
+            "quartileWeight": "1.4-2.2",
+            "gearCount": 12,
+            "species": "NOP",
+            "CPUE": "1.17",
+            "totalCatch": 14,
+            "totalWeight": 0,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "1.7-12.5",
+            "CPUE": "7.75",
+            "species": "WTS",
+            "gearCount": 12,
+            "quartileWeight": "0.7-2.3",
+            "averageWeight": "0.00",
+            "totalCatch": 93,
+            "gear": "Standard gill nets",
+            "totalWeight": 0
+          }
+        ]
+      }
+    ],
+    "lakeName": "Beth",
+    "accesses": [
+      {
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "Portage trail from Alton Lake is 144 rods (~0.5 mile). East end of lake.",
+        "location": " ",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF"
+      },
+      {
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "Portage trail from Grace Lake is 285 rods (~0.9 mile). West end, outlet bay.",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "location": " "
+      },
+      {
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "location": " ",
+        "lakeAccessComments": "Portage trail from Ella Lake is 72 rods (~0.2 mile). NE corner of finger bay on NW portion of the lake.",
+        "publicUseAuthCode": "OPEN"
+      }
+    ],
+    "averageWaterClarity": "14.0",
+    "waterClarity": [
+      [
+        "08/07/2012",
+        "14"
+      ]
+    ],
+    "sampledPlants": [],
+    "DOWNumber": "16065900",
+    "littoralAcres": 101,
+    "shoreLengthMiles": 4.41,
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 22,
+    "officeCode": "F215",
+    "areaAcres": 170.05
+  }
+}

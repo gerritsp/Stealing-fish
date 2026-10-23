@@ -1,0 +1,761 @@
+{
+  "result": {
+    "lakeAltName": "Duck",
+    "county": "Cook",
+    "maxDepthFeet": 61,
+    "surveys": [
+      {
+        "surveyID": "4311008152146018",
+        "surveyDate": "2010-06-17",
+        "lengths": {
+          "WTS": {
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "minimum_length": 10
+          },
+          "BKT": {
+            "minimum_length": 11,
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ]
+            ]
+          }
+        },
+        "headerInfo": {
+          "wb_id": "16008700",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "id_date": "2010-06-17",
+          "wb_name": "Gogebic",
+          "county": "Cook",
+          "wb_alt_name": "Duck",
+          "survey_id": "4311008152146018"
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "totalCatch": 11,
+            "species": "BKT",
+            "quartileWeight": "N/A",
+            "totalWeight": 12210,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.45",
+            "quartileCount": "N/A",
+            "CPUE": "3.67"
+          },
+          {
+            "species": "WTS",
+            "totalCatch": 22,
+            "gearCount": 3,
+            "totalWeight": 18656,
+            "quartileWeight": "0.6-2.0",
+            "averageWeight": "1.87",
+            "gear": "Standard gill nets",
+            "CPUE": "7.33",
+            "quartileCount": "1.5-10.4"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>The 2010 brook trout catch was below average for this lake but was within the normal range for lakes in this area.  The average size of brook trout was large, since most fish collected were three or four years of age.  No stocking in 2009 resulted in no one-year-old fish being present to bring down the overall mean weight.  Growth of brook trout had been good - three-year-old fish reached an average length of 13.4 inches at the end of their third year.\n\nWhite sucker were present, and the catch in 2010 was about average for this lake, and for stream trout lakes in this area supporting the species.  No other undesirable fish species were found.\n\nBeginning in 2010 brook trout will be stocked only in even years.  As a result, one and three-year-old fish will be present in odd years, and two and four-year-old fish will be available in even years.   Brook trout usually die of natural causes before they reach five years of age.\n</p>",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "species": "FND",
+            "totalCatch": 528,
+            "gearCount": 4,
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "CPUE": "132.00",
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "4.75",
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "totalCatch": 19,
+            "species": "PRD",
+            "gearCount": 4
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "78.00",
+            "gear": "Minnow traps",
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "totalCatch": 312,
+            "species": "FHM",
+            "gearCount": 4
+          },
+          {
+            "CPUE": "3.00",
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "totalCatch": 12,
+            "species": "BND",
+            "gearCount": 4
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 10492,
+            "totalCatch": 10,
+            "species": "BKT",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "CPUE": "3.33",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.31"
+          },
+          {
+            "gearCount": 3,
+            "totalCatch": 18,
+            "species": "WTS",
+            "quartileWeight": "0.6-2.0",
+            "totalWeight": 18177,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.23",
+            "quartileCount": "1.5-10.4",
+            "CPUE": "6.00"
+          }
+        ],
+        "surveyID": "12821817829407000",
+        "surveyDate": "2018-06-11",
+        "headerInfo": {
+          "id_date": "2018-06-11",
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "wb_id": "16008700",
+          "wb_alt_name": "Duck",
+          "survey_id": "12821817829407000",
+          "county": "Cook",
+          "wb_name": "Gogebic"
+        },
+        "lengths": {
+          "BKT": {
+            "minimum_length": 15,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                3
+              ]
+            ],
+            "maximum_length": 19
+          },
+          "WTS": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 20
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Standard Survey",
+        "narrative": "<p>Gogebic is a designated stream trout lake that has been regularly stocked with Splake or Brook Trout since 1957.  Goals for the lake, from the current (2009) lake management plan are to maintain a Brook Trout population with at least two catchable-sized (over 10 inch) year classes, with a minimum gill net catch of 4.0 fish/set, and with some fish reaching 16 inches in length.  This was the first of two surveys scheduled in the 2009 plan to evaluate a reduction in stocking frequency (and increase in stocking quota) that began after 2010.  The next survey is scheduled for 2022 or 2024. <br> \n <br> \nGogebic Lake seemed to support fair numbers of large Brook Trout in 2018.  The 2018 Brook Trout gill net catch fell short of the long range goal for this lake, but it remained within the normal range (2.7-13.8 fish/set) for catches in stream trout lakes in this area.  Only one year class (four-year-old fish) contributed to the catch, but for fish of that age, numbers were fairly high.  The survey crew checked all sampled fish for adipose-fin clips that would have identified fish stocked as small yearlings in the spring of 2016 (three-year-olds in 2018), but none were seen.  It appeared that survival of that stocking was low.  Brook Trout sampled in 2018 ranged in length from 15.8 to 19.4 inches.  Growth had been somewhat faster than average, with fish reaching a mean length at the end of their fourth year of 16.2 inches, compared to an area mean of 15.4 inches. <br> \n <br> \nWhite Sucker were the only undesirable fish species taken in this survey.  White Sucker were first sampled in this lake in 1972.  Catches were high in the 1970s and 1980s, but have been lower since 1991.  The 2018 gill net catch was similar to others seen in the lake since 1991, and was close to the average (6.5 fish/set) for stream trout lakes in this area.  White Sucker compete with Brook Trout for invertebrate forage; however, in this lake that may have been offset by the availability of several minnow species.  Minnow traps set during this survey captured relatively high numbers of Fathead Minnow and Finescale Dace, species that have supported good trout growth in other area stream trout lakes. <br> \n</p>"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>BKT ABUNDANCE AND SIZE WERE GOOD, WITH ALL FISH COLLECTED RANGING FROM 11 TO 14 IN.  TWO YEAR CLASSES, 1989 AND 1988, WERE REPRESENTED IN THE SAMPLE.  GROWTH WAS SOMEWHAT BELOW AVERAGE FOR COOK COUNTY, WITH AGE III BKT AVERAGING 11.9 IN AT LAST ANNULUS FORMATION, COMPARED TO THE COUNTY AVERAGE OF 13.7 IN AT AGE III FOR BKT IN LAKES. WTS WERE ABUNDANT, BUT LARGER FISH WERE IN POOR CONDITION.  WTS COLLECTED RANGED FROM 6 TO 19 IN.</p>",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.05",
+            "quartileCount": "N/A",
+            "CPUE": "0.33",
+            "gearCount": 3,
+            "totalCatch": 1,
+            "species": "PRD",
+            "totalWeight": 0.05,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "0.85",
+            "quartileCount": "N/A",
+            "CPUE": "16.00",
+            "gearCount": 3,
+            "species": "BKT",
+            "totalCatch": 48,
+            "quartileWeight": "N/A",
+            "totalWeight": 41
+          },
+          {
+            "CPUE": "6.67",
+            "quartileCount": "1.5-10.4",
+            "averageWeight": "0.99",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-2.0",
+            "totalWeight": 19.8,
+            "species": "WTS",
+            "totalCatch": 20,
+            "gearCount": 3
+          }
+        ],
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "id_date": "1991-06-18",
+          "wb_id": "16008700",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_alt_name": "Duck",
+          "survey_id": "110183",
+          "wb_name": "Gogebic"
+        },
+        "surveyDate": "1991-06-18",
+        "surveyID": "110183"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>The brook trout catch in 2004 was low for this lake, and all but one of the trout taken were smaller than eight inches.  It appeared that a 2001 stocking that should have supplied this lake's usually-high number of 12 to 16-inch fish had failed completely.  A single 21.5-fish, from the 1999 fingerling stocking, was the only catchable-size fish taken in the 2004 assessment.  White sucker were also taken in 2004, but not in unsually high numbers.</p>",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 3176,
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "totalCatch": 8,
+            "species": "BKT",
+            "CPUE": "2.67",
+            "quartileCount": "N/A",
+            "averageWeight": "0.88",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 9112,
+            "quartileWeight": "0.6-2.0",
+            "totalCatch": 8,
+            "species": "WTS",
+            "gearCount": 3,
+            "quartileCount": "1.5-10.4",
+            "CPUE": "2.67",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.51"
+          }
+        ],
+        "lengths": {
+          "WTS": {
+            "minimum_length": 16,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                2
+              ]
+            ],
+            "maximum_length": 19
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                21,
+                1
+              ],
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                4
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 6
+          }
+        },
+        "headerInfo": {
+          "county": "Cook",
+          "wb_alt_name": "Duck",
+          "survey_id": "111454",
+          "wb_name": "Gogebic",
+          "survey_type": "Population Assessment",
+          "id_date": "2004-06-17",
+          "wb_id": "16008700",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "2004-06-17",
+        "surveyID": "111454"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Gogebic Lake is located entirely within the Boundary Waters Canoe Area Wilderness and can be accessed via a portage trail from West Pike Lake, or from the Border Route Trail which intersects the portage trail between Clearwater Lake and West Pike Lake. Because the Border Route Trail follows the western shoreline of the lake, there are a fair number of shore fishing opportunities compared to other remote BWCA lakes. Gogebic is a designated stream trout lake that has been regularly stocked with Brook Trout since 1957. Goals for the lake from the current (2009) lake management plan are to maintain a Brook Trout population with a minimum gill net catch of 4.0 fish/set, at least two catchable sized (over 10 inch) year classes, and the presence of some fish over 16 inches in length. This was the last of two surveys scheduled in the 2009 plan to evaluate a reduction in stocking frequency (to alternate years) that began after 2010. <br> \n <br> \nAlthough the 2009 plan increased the stocking quota to 3,500 Brook Trout fingerlings/stocking to accommodate for the reduced stocking frequency, hatchery shortages in 2018 and 2020 resulted in those quotas being reduced to 2,000 fingerlings. Despite these reductions, the 2022 Brook Trout gill net catch easily met the long-range goal and was the highest catch rate observed since 1991. Age-2 Brook Trout from the 2020 stocking comprised about 75% the catch, although good numbers of four-year-old fish were also sampled. Brook Trout sampled in this survey ranged from 13.5 to 19.0 inches. Therefore, the population goals for catchable year classes and the availability of quality sized fish were also met in 2022. Growth of Brook Trout appeared faster than average, with fish reaching a mean length of 12.6 inches by age-2, compared to an average of 9.0 inches from other stocked trout lakes in the area.  <br> \n <br> \nWhite Sucker can compete with Brook Trout for invertebrate forage and are considered an undesirable fish species for stream trout lake management. White Sucker were first sampled in this lake in 1972 and have appeared very abundant at times, although a declining trend has surfaced since the 1990s. The 2022 gill net catch (1.0 fish/set) was the lowest observed since the species became established in the lake. Low White Sucker abundance may be reflected in the fast growth demonstrated by Brook Trout in this survey; however, the lake also appears to support an abundant minnow population would provide a quality forage base for Brook Trout. <br> \n</p>",
+        "surveySubType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "CPUE": "9.50",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.36",
+            "totalWeight": 11702,
+            "quartileWeight": "N/A",
+            "gearCount": 2,
+            "species": "BKT",
+            "totalCatch": 19
+          },
+          {
+            "quartileCount": "1.5-10.4",
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "averageWeight": "2.01",
+            "quartileWeight": "0.6-2.0",
+            "totalWeight": 1823,
+            "gearCount": 2,
+            "species": "WTS",
+            "totalCatch": 2
+          }
+        ],
+        "headerInfo": {
+          "survey_type": "Standard Survey",
+          "id_date": "2022-06-13",
+          "wb_id": "16008700",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "survey_id": "19182218136780027",
+          "wb_alt_name": "Duck",
+          "wb_name": "Gogebic"
+        },
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                6
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                18,
+                1
+              ]
+            ],
+            "maximum_length": 18,
+            "minimum_length": 13
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ],
+            "maximum_length": 18,
+            "minimum_length": 14
+          }
+        },
+        "surveyID": "19182218136780027",
+        "surveyDate": "2022-06-13"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "averageWeight": "2.26",
+            "quartileCount": "N/A",
+            "CPUE": "1.00",
+            "totalCatch": 3,
+            "species": "BKT",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "totalWeight": 3069
+          },
+          {
+            "totalWeight": 6300,
+            "quartileWeight": "0.6-2.0",
+            "totalCatch": 7,
+            "species": "WTS",
+            "gearCount": 3,
+            "quartileCount": "1.5-10.4",
+            "CPUE": "2.33",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.98"
+          }
+        ],
+        "surveyDate": "1996-06-17",
+        "surveyID": "110693",
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                2
+              ]
+            ],
+            "maximum_length": 17,
+            "minimum_length": 15
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 13
+          }
+        },
+        "headerInfo": {
+          "wb_name": "Gogebic",
+          "county": "Cook",
+          "survey_id": "110693",
+          "wb_alt_name": "Duck",
+          "wb_id": "16008700",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "id_date": "1996-06-17"
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>The brook trout catch in 1996 was low for this lake historically, and it was low compared to other stream trout lakes in the area.  All the brook trout collected were survivors of a 1993 fingerling stocking, and had exhibited fairly fast growth.  Brook trout were also stocked in fall, 1995, but no fish from that stocking were found.  The white sucker catch was also low for this lake historically, and compared to other stream trout lakes.Survival of brook trout beyond three years of age is probably limited in Gogebic Lake.  Because the lake is stocked only in odd years, populations probably alternate between years with moderate numbers of medium-sized age-2 fish, and years with large numbers of small age-1 fish and a few large age-3 fish (as should have been the case in 1996).</p>"
+      },
+      {
+        "narrative": "<p>THERE IS GOOD SURVIVAL OF BOTH THE 1985 AND 1983 STOCKINGS OF BROOK TROUT. GROWTH APPEARS TO BE GOOD. THE LARGE WHITE SUCKER POPULATION MAY BE A CAUSE FOR SOME CONCERN IN THE FUTURE.</p>",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "headerInfo": {
+          "wb_name": "Gogebic",
+          "county": "Cook",
+          "wb_alt_name": "Duck",
+          "survey_id": "110011",
+          "wb_id": "16008700",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "id_date": "1986-06-17"
+        },
+        "surveyDate": "1986-06-17",
+        "surveyID": "110011",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "2.06",
+            "gear": "Standard gill nets",
+            "CPUE": "4.50",
+            "quartileCount": "N/A",
+            "gearCount": 2,
+            "totalCatch": 9,
+            "species": "BKT",
+            "totalWeight": 18.5,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 2,
+            "totalCatch": 32,
+            "species": "WTS",
+            "quartileWeight": "0.6-2.0",
+            "totalWeight": 44.25,
+            "averageWeight": "1.38",
+            "gear": "Standard gill nets",
+            "CPUE": "16.00",
+            "quartileCount": "1.5-10.4"
+          }
+        ]
+      },
+      {
+        "surveyID": "111229",
+        "surveyDate": "2000-06-15",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "16008700",
+          "id_date": "2000-06-15",
+          "survey_type": "Population Assessment",
+          "wb_name": "Gogebic",
+          "survey_id": "111229",
+          "wb_alt_name": "Duck",
+          "county": "Cook"
+        },
+        "lengths": {
+          "WTS": {
+            "minimum_length": 9,
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                7
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "maximum_length": 18,
+            "minimum_length": 7
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 3381,
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "totalCatch": 14,
+            "gearCount": 3,
+            "CPUE": "4.67",
+            "quartileCount": "N/A",
+            "averageWeight": "0.53",
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "1.5-10.4",
+            "CPUE": "4.67",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.80",
+            "totalWeight": 11450,
+            "quartileWeight": "0.6-2.0",
+            "totalCatch": 14,
+            "species": "WTS",
+            "gearCount": 3
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>The catch of brook trout during this assessment was about average for lakes in the Grand Marais area that are managed for stream trout.  Growth of brook trout appeared to be faster than normal for lakes in this area.The catch of white sucker was average for lakes of this class.</p>",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "lakeName": "Gogebic",
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "06/17/2010",
+        "13"
+      ],
+      [
+        "06/12/2018",
+        "13"
+      ],
+      [
+        "06/18/1991",
+        "13"
+      ],
+      [
+        "06/13/2022",
+        "12"
+      ],
+      [
+        "08/20/1956",
+        "17"
+      ]
+    ],
+    "areaAcres": 62.47,
+    "DOWNumber": "16008700",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "",
+        "publicUseAuthCode": "PRMIT",
+        "ownerTypeId": "DNR",
+        "accessTypeId": "PO"
+      }
+    ],
+    "officeCode": "F218",
+    "averageWaterClarity": "13.6",
+    "sampledPlants": [],
+    "littoralAcres": 0,
+    "shoreLengthMiles": 1.52
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285985
+}

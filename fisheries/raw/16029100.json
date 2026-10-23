@@ -1,0 +1,88 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "waterClarity": [
+      [
+        "08/27/1973",
+        "7.5"
+      ]
+    ],
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "PRMIT",
+        "location": "",
+        "accessTypeId": "CA"
+      }
+    ],
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "7.5",
+    "shoreLengthMiles": 1.1,
+    "officeCode": "F218",
+    "lakeName": "Whale",
+    "sampledPlants": [],
+    "county": "Cook",
+    "areaAcres": 24.5,
+    "DOWNumber": "16029100",
+    "surveys": [
+      {
+        "surveyID": "109700",
+        "headerInfo": {
+          "wb_name": "Whale",
+          "wb_id": "16029100",
+          "county": "Cook",
+          "survey_id": "109700",
+          "wb_alt_name": "",
+          "id_date": "1973-08-27",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey"
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 2,
+            "averageWeight": "1.06",
+            "quartileWeight": "1.2-2.4",
+            "gear": "Standard gill nets",
+            "CPUE": "5.00",
+            "quartileCount": "3.9-9.4",
+            "totalCatch": 10,
+            "species": "NOP",
+            "totalWeight": 10.6
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.10",
+            "gearCount": 2,
+            "totalCatch": 7,
+            "quartileCount": "2.0-23.0",
+            "totalWeight": 0.7,
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "CPUE": "3.50"
+          },
+          {
+            "totalCatch": 47,
+            "quartileCount": "2.6-17.5",
+            "totalWeight": 78.7,
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "CPUE": "23.50",
+            "quartileWeight": "0.8-2.3",
+            "averageWeight": "1.67",
+            "gearCount": 2
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Whale Lake has a fair population of N Pike, mostly of a small size.  Rough fish include a very large population of Suckers of all sizes and a small number of Perch.</p>",
+        "lengths": {},
+        "surveyDate": "1973-08-27"
+      }
+    ],
+    "littoralAcres": 24.5,
+    "maxDepthFeet": 10
+  },
+  "timestamp": 1790285644,
+  "status": "SUCCESS"
+}

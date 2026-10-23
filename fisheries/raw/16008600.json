@@ -1,0 +1,764 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "waterClarity": [
+      [
+        "08/09/1989",
+        "20.5"
+      ],
+      [
+        "08/09/1989",
+        "20.9"
+      ],
+      [
+        "08/04/2023",
+        "21"
+      ],
+      [
+        "08/06/1956",
+        "18.4"
+      ],
+      [
+        "08/10/1977",
+        "21.4"
+      ],
+      [
+        "08/04/1955",
+        "30"
+      ]
+    ],
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.83",
+            "totalCatch": 41,
+            "CPUE": "5.12",
+            "species": "BUB",
+            "quartileCount": "0.3-1.3",
+            "gearCount": 8,
+            "totalWeight": 74.99,
+            "quartileWeight": "0.7-1.9",
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "3.08",
+            "totalCatch": 37,
+            "gearCount": 8,
+            "quartileCount": "0.8-4.3",
+            "species": "LAT",
+            "CPUE": "4.62",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.2-3.1",
+            "totalWeight": 114
+          },
+          {
+            "species": "SMB",
+            "CPUE": "2.38",
+            "quartileCount": "0.3-2.2",
+            "gearCount": 8,
+            "totalWeight": 18,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-1.4",
+            "averageWeight": "0.95",
+            "totalCatch": 19
+          },
+          {
+            "totalCatch": 37,
+            "averageWeight": "2.48",
+            "totalWeight": 91.7,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-2.4",
+            "species": "WTS",
+            "CPUE": "4.62",
+            "gearCount": 8,
+            "quartileCount": "1.7-5.0"
+          },
+          {
+            "quartileCount": "1.4-17.4",
+            "gearCount": 8,
+            "CPUE": "0.25",
+            "species": "TLC",
+            "quartileWeight": "0.1-0.7",
+            "gear": "Standard gill nets",
+            "totalWeight": 0.25,
+            "averageWeight": "0.12",
+            "totalCatch": 2
+          }
+        ],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "id_date": "1989-08-09",
+          "wb_id": "16008600",
+          "county": "Cook",
+          "wb_name": "West Pike",
+          "survey_id": "110116"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyID": "110116",
+        "narrative": "<p>LAKE TROUT ABUNDANCE WAS GOOD AND A WIDE RANGE OF AGE CLASSES WERE PRESENT. GROWTH WAS AVERAGE COOK COUNTY LAKES. NORTHERN CISCO ARE THE POPULATIONS ARE LOW. LAKE TROUT WERE PREYING ON YOY NORTHERN CISCO EXTENSIVELY DURING THIS SURVEY. SMALLMOUTH BASS ABUNDANCE WAS GOOD WITH A WIDE RANGE OF AGE CLASSES PRESENT. AGE V SMALLMOUTH BASS WERE NOT SAMPLED. SMALLMOUTH BASS GROWTH WAS SLOW WHICH IS TYPICAL OF MANY COOK COUNTY LAKES. WHITE SUCKER AND BURBOT WERE FAIRLY ABUNDANT. WHITE SUCKER LESS THEN 15 INCHES WERE RARE INDICA- TING A SENILE POPULATION. SIZE DISTRIBUTION OF BURBOT INCLUDED A WIDE RANGE OF LENGTHS FROM 13 TO 28 INCHES.</p>",
+        "surveyDate": "1989-08-09"
+      },
+      {
+        "surveyID": "110754",
+        "narrative": "<p>Lake trout were fairly abundant, and fish as large as 30 inches were collected.  Most of the lake trout collected ranged from 20 to 25 inches, and most were eight years of age or older.  All (with the possible exception of one fish) had been produced naturally.  Lake trout growth had been about average for the area.  Smallmouth bass were present in fair numbers.  Only large, old (age 7-9) smallmouth bass were taken.  The catch of northern cisco was low for this lake historically, and for lakes of this class.  Northern cisco in this lake are a dwarf variety, and most may not have been catchable in the sampling gear used.Readers should be aware that fish catches reported in the standard lake information report for West Pike Lake in 1996 are for shallow gill net sets only, and do not include the catch in deep gill nets set to sample lake trout.  The combined catch in deep and shallow gill nets in 1996 was:Species\t\t\tNumber/net\tAverage weight (lb)Burbot\t\t\t3.42\t\t1.29Lake trout\t\t2.75\t\t3.84Smallmouth bass\t\t0.58\t\t1.69Northern cisco\t\t0.17\t\t0.07White sucker\t\t4.17\t\t2.33</p>",
+        "surveyDate": "1996-08-05",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "gearCount": 9,
+            "species": "LAT",
+            "CPUE": "3.22",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 53662,
+            "averageWeight": "4.08",
+            "totalCatch": 29
+          },
+          {
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "totalWeight": 2495,
+            "gearCount": 9,
+            "quartileCount": "N/A",
+            "CPUE": "0.33",
+            "species": "SMB",
+            "totalCatch": 3,
+            "averageWeight": "1.83"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 37,
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "species": "TLC",
+            "CPUE": "0.33",
+            "totalCatch": 1,
+            "averageWeight": "0.08"
+          },
+          {
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "species": "BUB",
+            "CPUE": "0.67",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 633,
+            "averageWeight": "0.70",
+            "totalCatch": 2
+          },
+          {
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "CPUE": "8.67",
+            "species": "WTS",
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "totalWeight": 29409,
+            "averageWeight": "2.49",
+            "totalCatch": 26
+          },
+          {
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "CPUE": "1.33",
+            "species": "LAT",
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "totalWeight": 3777,
+            "averageWeight": "2.08",
+            "totalCatch": 4
+          },
+          {
+            "averageWeight": "1.32",
+            "totalCatch": 39,
+            "CPUE": "4.33",
+            "species": "BUB",
+            "quartileCount": "N/A",
+            "gearCount": 9,
+            "totalWeight": 23388,
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets"
+          },
+          {
+            "averageWeight": "0.05",
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "gearCount": 9,
+            "CPUE": "0.11",
+            "species": "TLC",
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "totalWeight": 23
+          },
+          {
+            "totalCatch": 4,
+            "averageWeight": "1.58",
+            "totalWeight": 2875,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "CPUE": "1.33",
+            "species": "SMB",
+            "quartileCount": "N/A",
+            "gearCount": 3
+          },
+          {
+            "averageWeight": "2.16",
+            "totalCatch": 24,
+            "quartileCount": "N/A",
+            "gearCount": 9,
+            "CPUE": "2.67",
+            "species": "WTS",
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "totalWeight": 23517
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "West Pike",
+          "survey_id": "110754",
+          "id_date": "1996-08-05",
+          "wb_id": "16008600",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "TLC": {
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                6,
+                2
+              ]
+            ],
+            "minimum_length": 6
+          },
+          "LAT": {
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                7
+              ],
+              [
+                21,
+                6
+              ],
+              [
+                22,
+                9
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                30,
+                1
+              ]
+            ],
+            "maximum_length": 30
+          },
+          "BUB": {
+            "maximum_length": 24,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                10
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ]
+            ],
+            "minimum_length": 13
+          },
+          "WTS": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                6
+              ],
+              [
+                18,
+                9
+              ],
+              [
+                19,
+                10
+              ],
+              [
+                20,
+                7
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                7,
+                5
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 22
+          },
+          "SMB": {
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                4
+              ]
+            ],
+            "maximum_length": 15
+          }
+        }
+      },
+      {
+        "surveyID": "22222522445606053",
+        "surveyDate": "2025-08-12",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in West Pike Lake on August 11th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 99.1 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 32.5 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L for the entire sampled depth. This layer in the water column was 66.6 feet, indicating oxythermal habitat for Lake Trout was present. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 6.3 degrees C (43.3 degrees F), was substituted as TDO3. TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 6 years, between 1955-2023, also indicated suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 1955 when the suitable oxythermal habitat layer was 15.6 feet thick. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "wb_name": "West Pike",
+          "survey_id": "22222522445606053",
+          "county": "Cook",
+          "id_date": "2025-08-12",
+          "wb_id": "16008600",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey"
+        },
+        "fishCatchSummaries": [],
+        "lengths": {}
+      },
+      {
+        "surveyDate": "2023-09-18",
+        "narrative": "<p>West Pike Lake is 788-acre remote Boundary Waters Canoe Area Wilderness lake connected to Clearwater Lake. Public access is through various portages from Pine, Clearwater, East Pike and Gogebic lakes. The only gamefish species native to the lake are lake trout. Smallmouth bass were found in West Pike, beginning in 1971. West Pike is primarily managed for lake trout.  <br> \n <br> \nLake trout abundance fell below the current management goal and is the lowest value recorded for West Pike Lake. Changes in net sets made it hard to compare data across years. However, lake trout catch was above the average for lake trout populations in similar area lakes. Lake trout ranged in size between 10.8 and 26.0 inches with an average length of 22.3 inches and 4.1 lbs. Aging results indicated the presence of 10 naturally reproduced year classes with the oldest individuals appearing to be 20 years old. There were many missing year classes that show inconsistent recruitment. Growth appears to be relatively fast likely due to cisco populations that provide excellent forage. Survey results suggests that West Pike Lake continues to support a naturally reproducing fast growing lake trout population. Large sized lake trout may would be of interest to anglers. Naturally reproducing lake trout populations are unique in Minnesota lakes, anglers targeting lake trout should consider catch and release practices with safe handling procedures.  <br> \n <br> \nSmallmouth bass abundance was historically low in West Pike Lake. Smallmouth bass ranged from 12.1 to 15.4 inches with a mean length of 14.1 inches and 1.52 lbs, meeting the size goal. Smallmouth bass may provide an angling opportunity but could compete with native lake trout for forage. <br> \n <br> \nBurbot catch rates were low, but slightly higher than local area lakes. Burbot were relatively large and ranged between 15.4 and 21.9 inches with a mean length of 18.6 inches. Burbot can provide great table fare for anglers if they are able to locate them.  <br> \n <br> \nCisco abundance is comparable to other recent surveys, but much lower than other lakes in the area. Cisco provide an excellent native forage base for lake trout.   <br> \n <br> \nWhite sucker relative abundance was the lowest recorded for this lake.  <br> \n <br> \nCook County, Minnesota lakes continue to be susceptible to aquatic invasive species introductions. Invasive species have the potential to significantly alter fish communities and overall lake health. Anglers should clean watercraft and fishing gear, drain all water, and dispose of unused bait in the trash to prevent accidental introductions.  <br> \n</p>",
+        "surveyID": "20302331831759000",
+        "lengths": {
+          "LAT": {
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                24,
+                6
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                26,
+                1
+              ]
+            ],
+            "maximum_length": 26
+          },
+          "TLC": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                7
+              ],
+              [
+                8,
+                3
+              ]
+            ],
+            "maximum_length": 8
+          },
+          "BUB": {
+            "minimum_length": 15,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                3
+              ]
+            ],
+            "maximum_length": 21
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 17,
+            "maximum_length": 20
+          },
+          "SMB": {
+            "maximum_length": 15,
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                2
+              ]
+            ]
+          }
+        },
+        "surveySubType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 2540,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "CPUE": "0.33",
+            "species": "LAT",
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "totalCatch": 1,
+            "averageWeight": "5.60"
+          },
+          {
+            "averageWeight": "0.14",
+            "totalCatch": 10,
+            "CPUE": "1.11",
+            "species": "TLC",
+            "quartileCount": "N/A",
+            "gearCount": 9,
+            "totalWeight": 650,
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets"
+          },
+          {
+            "totalCatch": 5,
+            "averageWeight": "1.52",
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "totalWeight": 3440,
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "CPUE": "1.67",
+            "species": "SMB"
+          },
+          {
+            "gearCount": 9,
+            "quartileCount": "N/A",
+            "species": "BUB",
+            "CPUE": "1.67",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 10911,
+            "averageWeight": "1.60",
+            "totalCatch": 15
+          },
+          {
+            "totalWeight": 26101,
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "CPUE": "1.56",
+            "species": "LAT",
+            "quartileCount": "N/A",
+            "gearCount": 9,
+            "totalCatch": 14,
+            "averageWeight": "4.11"
+          },
+          {
+            "totalCatch": 6,
+            "averageWeight": "2.55",
+            "totalWeight": 6945,
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "species": "WTS",
+            "CPUE": "2.00",
+            "gearCount": 3,
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "0.33",
+            "species": "TLC",
+            "gearCount": 3,
+            "quartileCount": "N/A",
+            "totalWeight": 62,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "averageWeight": "0.14",
+            "totalCatch": 1
+          },
+          {
+            "gearCount": 9,
+            "quartileCount": "N/A",
+            "species": "SMB",
+            "CPUE": "0.11",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 990,
+            "averageWeight": "2.18",
+            "totalCatch": 1
+          }
+        ],
+        "headerInfo": {
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "id_date": "2023-09-18",
+          "wb_id": "16008600",
+          "survey_id": "20302331831759000",
+          "wb_name": "West Pike"
+        },
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Re-Survey",
+        "headerInfo": {
+          "wb_name": "West Pike",
+          "survey_id": "109610",
+          "county": "Cook",
+          "wb_id": "16008600",
+          "id_date": "1977-08-10",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Re-Survey"
+        },
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "1.63",
+            "totalCatch": 33,
+            "quartileCount": "0.3-1.3",
+            "gearCount": 8,
+            "CPUE": "4.12",
+            "species": "BUB",
+            "quartileWeight": "0.7-1.9",
+            "gear": "Standard gill nets",
+            "totalWeight": 53.8
+          },
+          {
+            "totalWeight": 67,
+            "quartileWeight": "1.2-3.1",
+            "gear": "Standard gill nets",
+            "CPUE": "2.38",
+            "species": "LAT",
+            "gearCount": 8,
+            "quartileCount": "0.8-4.3",
+            "totalCatch": 19,
+            "averageWeight": "3.53"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-1.4",
+            "totalWeight": 30.5,
+            "gearCount": 8,
+            "quartileCount": "0.3-2.2",
+            "species": "SMB",
+            "CPUE": "2.38",
+            "totalCatch": 19,
+            "averageWeight": "1.61"
+          },
+          {
+            "totalCatch": 21,
+            "averageWeight": "2.36",
+            "quartileWeight": "1.6-2.4",
+            "gear": "Standard gill nets",
+            "totalWeight": 49.6,
+            "quartileCount": "1.7-5.0",
+            "gearCount": 8,
+            "CPUE": "2.62",
+            "species": "WTS"
+          },
+          {
+            "quartileWeight": "0.1-0.7",
+            "gear": "Standard gill nets",
+            "totalWeight": 1.3,
+            "gearCount": 8,
+            "quartileCount": "1.4-17.4",
+            "CPUE": "1.12",
+            "species": "TLC",
+            "totalCatch": 9,
+            "averageWeight": "0.14"
+          }
+        ],
+        "lengths": {},
+        "surveyID": "109610",
+        "surveyDate": "1977-08-10",
+        "narrative": "<p>Comp. w. Lk srvys-'55/'56 and one tst nttng in '71 shws that the Lk Trt pop. is lwr than before, but is still well abv avg for area w. a fair range of szs rprsntd.  SMB-not prsnt in either of the old srvys, but were abundant in 1971 and 1977 samples.  Sucker pop. shwng a gen. dcln.  Burbot have incrsd & Dwarf Herring are more abund. than sample indic.</p>"
+      }
+    ],
+    "averageWaterClarity": "22.0",
+    "county": "Cook",
+    "areaAcres": 788.2,
+    "shoreLengthMiles": 10.04,
+    "meanDepthFeet": 0,
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "CA",
+        "location": "Portage trails from Pine; Clearwater; East Pike; and Gogebic Lakes. Entirely inside the BWCAW."
+      }
+    ],
+    "sampledPlants": [],
+    "lakeName": "West Pike",
+    "maxDepthFeet": 120,
+    "DOWNumber": "16008600",
+    "littoralAcres": 224
+  },
+  "timestamp": 1790285992,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,217 @@
+{
+  "result": {
+    "lakeName": "Erickson",
+    "officeCode": "F214",
+    "lakeAltName": "Bass",
+    "waterClarity": [
+      [
+        "09/02/2014",
+        "8.5"
+      ]
+    ],
+    "maxDepthFeet": 0,
+    "sampledPlants": [],
+    "areaAcres": 96.85,
+    "DOWNumber": "69007200",
+    "shoreLengthMiles": 4.75,
+    "surveys": [
+      {
+        "surveyDate": "2014-09-02",
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "SMB": {
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 6
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "minimum_length": 18,
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                21,
+                5
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                26,
+                1
+              ]
+            ],
+            "maximum_length": 26
+          },
+          "LMB": {
+            "maximum_length": 15,
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ]
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 19,
+            "quartileWeight": "1.4-2.7",
+            "quartileCount": "2.0-8.5",
+            "species": "NOP",
+            "CPUE": "3.17",
+            "averageWeight": "2.01",
+            "gearCount": 6,
+            "totalWeight": 17310,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 8,
+            "quartileCount": "1.6-3.5",
+            "quartileWeight": "1.5-2.1",
+            "species": "SMB",
+            "CPUE": "1.33",
+            "totalWeight": 1915,
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.53"
+          },
+          {
+            "species": "WTS",
+            "quartileCount": "1.6-8.4",
+            "quartileWeight": "0.9-2.3",
+            "totalCatch": 2,
+            "gearCount": 6,
+            "totalWeight": 2750,
+            "gear": "Standard gill nets",
+            "averageWeight": "3.03",
+            "CPUE": "0.33"
+          },
+          {
+            "CPUE": "1.00",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalWeight": 2805,
+            "averageWeight": "1.03",
+            "totalCatch": 6,
+            "quartileWeight": "0.3-1.8",
+            "quartileCount": "0.3-2.3",
+            "species": "LMB"
+          }
+        ],
+        "headerInfo": {
+          "wb_id": "69007200",
+          "county": "St. Louis",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "survey_id": "6851423949528008",
+          "wb_name": "Erickson",
+          "wb_alt_name": "Bass",
+          "id_date": "2014-09-02"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Erickson Lake is located approximately 10 miles N of Ely and is entirely within the BWCAW. Lake levels at the time of the assessment were approximately 1.5 feet below average and the shoreline was defined by woody debris with exposed boulders and muck. <br> \n <br> \nAccess is by a 180 rod portage from North Hegman Lake. There are 3 designated USFS campsites on the lake. Campsite use appears to be low compared to other lakes in the area. <br> \n <br> \nFish sampling during the 2014 population assessment consisted of 6 gill nets. The catch was comprised of northern pike, smallmouth bass, largemouth bass and white sucker. <br> \n <br> \nNorthern pike numbers in 2014 (3.2/gill net) were slightly below average when compared to other similar area lakes. Pike were 21 inches long on average but the largest pike was nearly 27 inches. <br> \n <br> \nSmallmouth bass numbers in 2014 (1.3/gill net) were below average when compared to similar  lakes. Smallmouth averaged about 10 inches long and 6 years old. The largest smallmouth sampled was nearly 16 inches long and 9 years old. <br> \n <br> \nLargemouth bass numbers in 2014 (1.0/gill net) were slightly above average when compared to other similar area lakes. The average largemouth was 12 inches long and about 4 years old. The largest largemouth was 15 inches long and about 14 years old.</p>",
+        "surveyID": "6851423949528008"
+      }
+    ],
+    "averageWaterClarity": "8.5",
+    "littoralAcres": 0,
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "location": "",
+        "lakeAccessComments": " ",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN"
+      }
+    ],
+    "county": "St. Louis"
+  },
+  "timestamp": 1790285595,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

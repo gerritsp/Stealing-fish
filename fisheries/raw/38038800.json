@@ -1,0 +1,359 @@
+{
+  "timestamp": 1790285970,
+  "message": "Normal execution.",
+  "result": {
+    "accesses": [
+      {
+        "location": "15 rods",
+        "lakeAccessComments": "Portage to flowages to Sema Lake.",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF"
+      },
+      {
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "lakeAccessComments": "Portage to Bonnie Lake.",
+        "location": "25 rods",
+        "publicUseAuthCode": "OPEN"
+      },
+      {
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "location": "20 rods",
+        "lakeAccessComments": "Portage to Dix Lake.",
+        "publicUseAuthCode": "OPEN"
+      },
+      {
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "location": "25 rods",
+        "lakeAccessComments": "Portage to Pickle Lake."
+      }
+    ],
+    "areaAcres": 255.85,
+    "shoreLengthMiles": 7.54,
+    "meanDepthFeet": 0,
+    "littoralAcres": 87,
+    "surveys": [
+      {
+        "headerInfo": {
+          "id_date": "1972-08-07",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "county": "Lake",
+          "survey_id": "107995",
+          "wb_name": "Spoon",
+          "wb_id": "38038800",
+          "wb_type": "Lake"
+        },
+        "narrative": "<p>Northern pike are the only gamefish present in this lake, and they are below average in numbers. Cisco and suckers are present in above average numbers.</p>",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1972-08-07",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets",
+            "quartileWeight": "2.1-4.9",
+            "gearCount": 6,
+            "CPUE": "1.17",
+            "species": "NOP",
+            "totalCatch": 7,
+            "averageWeight": "4.13",
+            "totalWeight": 28.9
+          },
+          {
+            "totalWeight": 0.4,
+            "averageWeight": "0.20",
+            "CPUE": "0.33",
+            "gearCount": 6,
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 2,
+            "species": "RKB",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-1.2"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-3.7",
+            "averageWeight": "0.15",
+            "totalWeight": 0.3,
+            "species": "YEP",
+            "totalCatch": 2,
+            "gearCount": 6,
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "0.33"
+          },
+          {
+            "averageWeight": "2.32",
+            "totalWeight": 74.3,
+            "quartileWeight": "1.1-2.5",
+            "gearCount": 6,
+            "CPUE": "5.33",
+            "species": "WTS",
+            "totalCatch": 32,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-5.3"
+          },
+          {
+            "totalCatch": 36,
+            "species": "TLC",
+            "quartileWeight": "0.2-1.0",
+            "gearCount": 6,
+            "CPUE": "6.00",
+            "averageWeight": "0.54",
+            "totalWeight": 19.3,
+            "quartileCount": "3.2-20.2",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveyID": "107995"
+      },
+      {
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-08-02",
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "lengths": {},
+        "surveyID": "22122522745671063",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "38038800",
+          "wb_name": "Spoon",
+          "survey_id": "22122522745671063",
+          "county": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "id_date": "2025-08-02"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Spoon Lake on August 2nd, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake. Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 80.0 feet), the water temperature decreased to 17.2 degrees C (63.0 degrees F) at 21.0 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 39.4 feet at the time of sampling. This layer in the water column was 18.4 feet, indicating oxythermal habitat for Lake Whitefish was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.4 degrees C (41.7 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "LKW": {
+            "fishCount": [
+              [
+                11,
+                22
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                12
+              ],
+              [
+                14,
+                13
+              ],
+              [
+                15,
+                6
+              ],
+              [
+                16,
+                1
+              ]
+            ],
+            "maximum_length": 16,
+            "minimum_length": 11
+          },
+          "WTS": {
+            "minimum_length": 9,
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                24,
+                5
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                32,
+                1
+              ]
+            ],
+            "maximum_length": 32,
+            "minimum_length": 15
+          }
+        },
+        "surveyID": "12231525659347000",
+        "surveyDate": "2015-09-14",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 2435,
+            "averageWeight": "2.68",
+            "species": "WTS",
+            "totalCatch": 2,
+            "CPUE": "0.67",
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "averageWeight": "0.71",
+            "totalWeight": 15458,
+            "gearCount": 3,
+            "quartileWeight": "N/A",
+            "CPUE": "16.00",
+            "totalCatch": 48,
+            "species": "LKW",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "averageWeight": "3.50",
+            "totalWeight": 22225,
+            "totalCatch": 14,
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "gearCount": 6,
+            "CPUE": "2.33",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalWeight": 4811,
+            "averageWeight": "1.06",
+            "species": "LKW",
+            "totalCatch": 10,
+            "CPUE": "1.67",
+            "gearCount": 6,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "species": "WTS",
+            "totalCatch": 14,
+            "gearCount": 6,
+            "quartileWeight": "N/A",
+            "CPUE": "2.33",
+            "averageWeight": "0.87",
+            "totalWeight": 5500
+          },
+          {
+            "averageWeight": "3.58",
+            "totalWeight": 3250,
+            "totalCatch": 2,
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "CPUE": "0.67",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A"
+          }
+        ],
+        "surveySubType": "Standard Survey",
+        "narrative": "<p>Spoon Lake is located within the Boundary Waters Canoe Area Wilderness (BWCAW) within the Superior National Forest and is a non-motorized lake.  It is approximately 30 miles northeast of Ely and is accessible by a 15 rod portage off the flowage toward Sema Lake, a 25 rod portage from Bonnie Lake, a 20 rod portage from Dix Lake, and a 25 rod portage from Pickle Lake.  It is 223 acres with a maximum depth of 85 feet and clear water.  \n\nSpoon Lake was thermally stratified on September 14, 2015 with a surface temperature of 67 F and a bottom temperature of 40 F.  Oxygen levels were good enough to support most fish to a depth of 37 feet.  There are four small inlets that drain lakes and wetlands from the west and south.  One major outlet flows out the east end and after two longstanding beaver impoundments, empties into Knife Lake.  Several active beaver lodges dot the rocky shoreline of Spoon Lake.  Much of the north shore was heavily affected by the 1999 blowdown and has since been burned.  Small shrubs and trees have come back but there is still a lot of exposed bedrock.  The south shore is heavily wooded with cedar, birch, and balsam fir.  \n\nSpoon Lake was stocked in 1978 with 500,000 walleye fry.  This is the only stocking event recorded for the lake and this is the first survey done on the lake since that stocking took place.  \n\nLake whitefish, northern pike, and white sucker were the only species of fish captured in the 2015 assessment.  The 2015 gillnet catch rate for lake whitefish was 16 fish/net.  This rate is very good compared to other whitefish lakes in the area.  Sizes ranged from 11 to nearly 17 inches with an average of 13 inches.  The average fish weighed just under a pound.  Overall, sizes are somewhat small when compared to other whitefish populations.  Fish were between 2 and 15 years old with most of the catch being on the younger end.  \n\nThe northern pike gillnet catch rate was just over 2 fish/net.  Sizes were decent with an average length of 24 inches and the largest pike nearly 33 inches long.  The average fish weighed almost 4 pounds.  Although no exceptionally large pike were captured, the many good habitat features and high quality food provide an environment that should be able to grow trophy sized pike in Spoon Lake.  \n\nWhite suckers were captured at just over 2 fish/net and the average fish weighed just under a pound.  Sizes ranged from 9 to 18 inches.\n\nSeveral different species of minnows were observed including common shiners and redbelly dace.  Small green sunfish and two species of native crayfish were also spotted along the rocky shorelines.  \n</p>",
+        "headerInfo": {
+          "id_date": "2015-09-14",
+          "survey_type": "Standard Survey",
+          "wb_alt_name": "",
+          "wb_name": "Spoon",
+          "survey_id": "12231525659347000",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_id": "38038800"
+        }
+      }
+    ],
+    "DOWNumber": "38038800",
+    "county": "Lake",
+    "averageWaterClarity": "15.0",
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "maxDepthFeet": 85,
+    "lakeName": "Spoon",
+    "waterClarity": [
+      [
+        "08/02/2025",
+        "14"
+      ],
+      [
+        "09/14/2015",
+        "16"
+      ]
+    ]
+  },
+  "status": "SUCCESS"
+}

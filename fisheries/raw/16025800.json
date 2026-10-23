@@ -1,0 +1,88 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "maxDepthFeet": 11,
+    "averageWaterClarity": "3.0",
+    "shoreLengthMiles": 1.31,
+    "areaAcres": 26.73,
+    "county": "Cook",
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "DOWNumber": "16025800",
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "location": "Inaccessible-3 mile from nearest road; via airplane to Eagle Lake then 2 portages from Shrike Lake"
+      }
+    ],
+    "officeCode": "F218",
+    "lakeName": "Shrike",
+    "surveys": [
+      {
+        "surveySubType": "Initial Survey",
+        "surveyID": "109692",
+        "headerInfo": {
+          "id_date": "1976-06-22",
+          "wb_name": "Shrike",
+          "wb_id": "16025800",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_id": "109692"
+        },
+        "lengths": {},
+        "narrative": "<p>Shrike Lake has a good population of N Pike, Suckers and Perch.</p>",
+        "surveyDate": "1976-06-22",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "totalWeight": 19,
+            "species": "NOP",
+            "totalCatch": 11,
+            "quartileCount": "2.8-8.5",
+            "gear": "Standard gill nets",
+            "CPUE": "3.67",
+            "quartileWeight": "1.1-2.0",
+            "averageWeight": "1.73"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "2.0-16.0",
+            "totalCatch": 11,
+            "species": "YEP",
+            "totalWeight": 1.5,
+            "gearCount": 3,
+            "averageWeight": "0.14",
+            "CPUE": "3.67",
+            "quartileWeight": "0.1-0.3"
+          },
+          {
+            "gearCount": 3,
+            "species": "WTS",
+            "totalWeight": 46,
+            "totalCatch": 27,
+            "quartileCount": "4.0-14.5",
+            "gear": "Standard gill nets",
+            "CPUE": "9.00",
+            "quartileWeight": "1.4-2.5",
+            "averageWeight": "1.70"
+          }
+        ]
+      }
+    ],
+    "waterClarity": [
+      [
+        "06/22/1976",
+        "3"
+      ]
+    ],
+    "littoralAcres": 26.73
+  },
+  "timestamp": 1790285644
+}

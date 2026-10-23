@@ -1,0 +1,468 @@
+{
+  "timestamp": 1790285864,
+  "message": "Normal execution.",
+  "result": {
+    "meanDepthFeet": 0,
+    "littoralAcres": 109,
+    "shoreLengthMiles": 9.11,
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": ""
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/06/2024",
+        "11.5"
+      ],
+      [
+        "06/21/2016",
+        "14"
+      ],
+      [
+        "07/23/1980",
+        "20"
+      ],
+      [
+        "07/21/1992",
+        "14.3"
+      ]
+    ],
+    "sampledPlants": [],
+    "lakeName": "Crooked",
+    "officeCode": "F218",
+    "maxDepthFeet": 66,
+    "surveys": [
+      {
+        "surveyDate": "1997-07-16",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "species": "BUB",
+            "quartileCount": "0.2-1.0",
+            "quartileWeight": "0.6-1.5",
+            "averageWeight": "0.21",
+            "totalCatch": 1,
+            "totalWeight": 96,
+            "gearCount": 5,
+            "CPUE": "0.20"
+          },
+          {
+            "quartileCount": "0.4-3.7",
+            "quartileWeight": "1.5-4.0",
+            "species": "LAT",
+            "gear": "Standard gill nets",
+            "CPUE": "2.20",
+            "totalWeight": 11685,
+            "gearCount": 5,
+            "totalCatch": 11,
+            "averageWeight": "2.34"
+          },
+          {
+            "quartileWeight": "2.1-4.9",
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "CPUE": "0.20",
+            "totalCatch": 1,
+            "averageWeight": "1.73",
+            "totalWeight": 785,
+            "gearCount": 5
+          },
+          {
+            "totalWeight": 12563,
+            "gearCount": 5,
+            "totalCatch": 16,
+            "averageWeight": "1.73",
+            "CPUE": "3.20",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5"
+          }
+        ],
+        "narrative": "<p>Crooked Lake has a good, reproducing population of lake trout of several age classes.  No stocking has occured since 1949.A few northern pike are also present.</p>",
+        "surveyType": "Standard Survey",
+        "surveyID": "110840",
+        "headerInfo": {
+          "wb_id": "16072300",
+          "county": "Cook",
+          "wb_name": "Crooked",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "id_date": "1997-07-16",
+          "survey_id": "110840",
+          "wb_type": "Lake"
+        },
+        "lengths": {
+          "BUB": {
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ]
+            ],
+            "maximum_length": 10
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ]
+            ],
+            "maximum_length": 23,
+            "minimum_length": 15
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                20,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 9
+          },
+          "NOP": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 20
+          }
+        }
+      },
+      {
+        "surveyID": "21872425446481130",
+        "surveyType": "Targeted Survey",
+        "lengths": {},
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_id": "21872425446481130",
+          "id_date": "2024-08-06",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "wb_name": "Crooked",
+          "wb_id": "16072300",
+          "county": "Cook"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Crooked Lake on August 6, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature dropped below 8.8 degrees C (47.8 degrees F) at 30.5 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 55.8 feet at the time of sampling. The thickness of this layer in the water column was 25.3 feet, indicating that oxythermal habitat was present for Lake Trout.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.4 degrees C (43.5 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey.  <br> \n <br> \nThis is the first survey completed on Crooked Lake during the late summer thermal stress period, however, data collected outside the thermal maximum period from 1980-2016 indicated suitable oxythermal habitat during those sampling periods. The least favorable conditions were recorded in 2016 when the suitable habitat layer thickness was 20.7 feet. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>",
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2024-08-06"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gear": "15-ft beach seine",
+            "species": "IOD",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "gearCount": 4,
+            "CPUE": "0.25"
+          },
+          {
+            "species": "BUB",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.6-1.5",
+            "quartileCount": "0.2-1.0",
+            "totalWeight": 160,
+            "gearCount": 6,
+            "totalCatch": 1,
+            "averageWeight": "0.35",
+            "CPUE": "0.17"
+          },
+          {
+            "gearCount": 6,
+            "totalWeight": 26500,
+            "averageWeight": "2.43",
+            "totalCatch": 24,
+            "CPUE": "4.00",
+            "species": "LAT",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.4-3.7",
+            "quartileWeight": "1.5-4.0"
+          },
+          {
+            "totalCatch": 47,
+            "averageWeight": "0.00",
+            "gearCount": 4,
+            "totalWeight": 0,
+            "CPUE": "11.75",
+            "gear": "15-ft beach seine",
+            "species": "BND",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A"
+          },
+          {
+            "CPUE": "1.50",
+            "gearCount": 6,
+            "totalWeight": 9531,
+            "averageWeight": "2.33",
+            "totalCatch": 9,
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "species": "WTS",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyDate": "2016-06-21",
+        "surveySubType": "Standard Survey",
+        "surveyType": "Standard Survey",
+        "surveyID": "15281618245349000",
+        "lengths": {
+          "LAT": {
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                5
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 22
+          },
+          "WTS": {
+            "minimum_length": 6,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "BUB": {
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ]
+            ],
+            "minimum_length": 11
+          }
+        },
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Crooked",
+          "county": "Cook",
+          "wb_id": "16072300",
+          "survey_id": "15281618245349000",
+          "id_date": "2016-06-21",
+          "wb_type": "Lake",
+          "survey_type": "Standard Survey"
+        },
+        "narrative": "<p>Crooked is a medium-sized, moderately deep native Lake Trout lake.  Although it has been managed primarily for Lake Trout, it also supports a small Northern Pike population.  Because the lake is remote, it has been difficult to complete scheduled surveys; the last was done in 1997.  This was the first of two standard surveys scheduled in the current (2016) lake management plan to update habitat information and monitor Lake Trout abundance, age and size at maturity, health, and growth. <br> \n <br> \nLake Trout were abundant in Crooked Lake in 2016, with most in the 18 to 20-inch length range.  The Lake Trout gill net catch in 2016 was the highest seen to date in this lake, and exceeded the goal for the species in the 2016 plan (2.0 fish/net).  Lake Trout collected in 2016 had a mean weight of 2.4 lb/fish, which exceeded the size goal (2.0 lb/fish) in the 2016 plan.  Twelve year classes, all naturally produced, contributed to the 2016 catch, and most of the fish taken were mature adults.  The high number of Lake Trout taken, and the high proportion of adult fish, suggested exploitation in this lake had been minimal.  Lake Trout growth at early ages appeared to have been slow; fish reached a mean length of 11.9 inches at the end of their fifth year, compared to an area average of 14.9 inches.  Early-summer temperature-oxygen conditions measured during this survey showed conditions suitable for Lake Trout (water temperature < 55 F, dissolved oxygen > 5.0 ppm) at depths of about 19 to at least 48 ft (the deepest tested); however, conditions would have deteriorated as the summer progressed.  Plans to measure a temperature-oxygen profile in late August were not fulfilled due to a shortage of staff and funding. <br> \n <br> \nNorthern Pike have never been abundant in this lake.  None were taken in this survey, but the survey crew did catch a small number of smaller fish (under 20 inches) by angling in the evenings. <br> \n <br> \nNo other gamefish species has ever been sampled in Crooked Lake.  Walleye and Smallmouth Bass are not native to this part of the state, and neither species has been stocked in, or otherwise made it to, this lake.  Neither species is considered desirable in native Lake Trout lakes in this area.      <br> \n <br> \nWhite Sucker were present in 2016, but their numbers did not seem to have been high.  The gill net catch was similar to past catches seen in this lake, and fell below the median for a lake of this class.  Most of the White Sucker seen in this survey were too large to have been taken by any of the Lake Trout sampled. <br> \n <br> \nPrior to 2016, no Yellow Perch had been taken in any survey of this lake.  None were collected in 2016 survey nets either, but Yellow Perch were observed in the shallows, and one was seen in a Lake Trout stomach.  It is likely their numbers in this lake are very low.  A few Burbot were also present, and were represented by a single fish taken in 2016 survey nets.  Seining done as part of this survey added Iowa Darter and Western Blacknose Dace to the short list of fish species known to be present in this lake.   <br> \n <br> \n</p>"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveyID": "109812",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "survey_id": "109812",
+          "id_date": "1980-07-22",
+          "county": "Cook",
+          "wb_id": "16072300",
+          "wb_alt_name": "",
+          "wb_name": "Crooked"
+        },
+        "lengths": {},
+        "narrative": "<p>Crooked Lake has a good self-reproducing Lake Trout population.  A faie number of different age classes seem to be present, but no small Lake Trout less than 14 population is about average with some Burbot present.</p>",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "species": "BUB",
+            "quartileWeight": "0.6-1.5",
+            "quartileCount": "0.2-1.0",
+            "averageWeight": "0.80",
+            "totalCatch": 1,
+            "gearCount": 6,
+            "totalWeight": 0.8,
+            "CPUE": "0.17"
+          },
+          {
+            "quartileWeight": "1.5-4.0",
+            "quartileCount": "0.4-3.7",
+            "species": "LAT",
+            "gear": "Standard gill nets",
+            "CPUE": "3.50",
+            "gearCount": 6,
+            "totalWeight": 41.8,
+            "totalCatch": 21,
+            "averageWeight": "1.99"
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "totalCatch": 20,
+            "averageWeight": "1.80",
+            "gearCount": 6,
+            "totalWeight": 36,
+            "CPUE": "3.33"
+          }
+        ],
+        "surveyDate": "1980-07-22",
+        "surveySubType": "Initial Survey"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1992-07-20",
+        "fishCatchSummaries": [
+          {
+            "CPUE": "3.67",
+            "totalCatch": 22,
+            "averageWeight": "2.62",
+            "totalWeight": 57.56,
+            "gearCount": 6,
+            "quartileCount": "0.4-3.7",
+            "quartileWeight": "1.5-4.0",
+            "gear": "Standard gill nets",
+            "species": "LAT"
+          },
+          {
+            "CPUE": "1.33",
+            "totalWeight": 23.16,
+            "gearCount": 6,
+            "totalCatch": 8,
+            "averageWeight": "2.90",
+            "quartileWeight": "1.1-2.5",
+            "quartileCount": "0.8-5.3",
+            "species": "WTS",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>The number of lake trout collected in 1992 was very similar to the number taken in the 1980 survey.  By both number and weight, the catch exceeded the third quartile for Cook County lakes in ecological class 3 (1992 version).  Age classes 2 through 7 were represented in the catch, along with one older fish.  Growth rates were about average for Cook County.The catch of white sucker was less than in 1980.  The number and weight per gill net set were between the first and second quartile values for this species in Class 3 lakes.  No burbot were collected; however, one was taken in the 1980 survey.</p>",
+        "lengths": {},
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "id_date": "1992-07-20",
+          "survey_id": "110672",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_id": "16072300",
+          "wb_name": "Crooked",
+          "wb_alt_name": ""
+        },
+        "surveyID": "110672",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "county": "Cook",
+    "DOWNumber": "16072300",
+    "areaAcres": 244.35,
+    "averageWaterClarity": "15.0"
+  },
+  "status": "SUCCESS"
+}

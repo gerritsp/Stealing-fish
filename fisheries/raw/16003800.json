@@ -1,0 +1,83 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285908,
+  "result": {
+    "meanDepthFeet": 13,
+    "lakeName": "Long",
+    "littoralAcres": 98,
+    "areaAcres": 147.76,
+    "sampledPlants": [],
+    "waterClarity": [],
+    "shoreLengthMiles": 5.53,
+    "averageWaterClarity": "N/A",
+    "maxDepthFeet": 24,
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "location": "A 0.5 mile portage trail from Pine Lake provides access to the lake.",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "county": "Cook",
+    "surveys": [
+      {
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "narrative": "<p>There is a high population of N Pike but mostly small fish, also Suckers are abundant.</p>",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "id_date": "1972-08-22",
+          "county": "Cook",
+          "wb_name": "Long",
+          "wb_id": "16003800",
+          "survey_id": "109587"
+        },
+        "surveyDate": "1972-08-22",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "CPUE": "16.75",
+            "totalWeight": 80.2,
+            "quartileCount": "1.2-3.9",
+            "totalCatch": 67,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.20",
+            "quartileWeight": "1.5-2.4",
+            "species": "NOP"
+          },
+          {
+            "species": "GSF",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.10",
+            "totalCatch": 1,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-0.3",
+            "totalWeight": 0.1,
+            "CPUE": "0.25",
+            "gearCount": 4
+          },
+          {
+            "quartileCount": "2.6-11.7",
+            "totalWeight": 55.3,
+            "CPUE": "10.25",
+            "gearCount": 4,
+            "averageWeight": "1.35",
+            "quartileWeight": "1.7-2.4",
+            "species": "WTS",
+            "totalCatch": 41,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "surveyID": "109587"
+      }
+    ],
+    "DOWNumber": "16003800"
+  }
+}

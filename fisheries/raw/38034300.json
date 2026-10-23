@@ -1,0 +1,54 @@
+{
+  "result": {
+    "littoralAcres": 92,
+    "sampledPlants": [],
+    "DOWNumber": "38034300",
+    "surveys": [
+      {
+        "headerInfo": {
+          "survey_id": "22122521953365077",
+          "wb_id": "38034300",
+          "wb_name": "Fishdance",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "county": "Lake",
+          "id_date": "2025-08-04",
+          "wb_alt_name": ""
+        },
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-08-04",
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyID": "22122521953365077",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Fishdance Lake on August 4th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 46.9 feet), the water temperature decreased to 17.2 degrees C (63.0 degrees F) at 12.6 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 33.1 feet at the time of sampling. This layer in the water column was 20.5 feet, indicating oxythermal habitat for Lake Whitefish was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.5 degrees C (41.9 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. Lake Whitefish and Cisco were sampled well in 1964, the only gill net survey to be conducted on Fishdance Lake. When adequate oxythermal habitat is not available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>"
+      }
+    ],
+    "lakeName": "Fishdance",
+    "shoreLengthMiles": 8.31,
+    "waterClarity": [
+      [
+        "08/04/2025",
+        "6"
+      ]
+    ],
+    "officeCode": "F214",
+    "meanDepthFeet": 14,
+    "county": "Lake",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "location": "Lake is within the Superior National Forest Roadless area.  Access is by navigating. from Kawishiwi River.",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "maxDepthFeet": 50,
+    "areaAcres": 162,
+    "averageWaterClarity": "6.0"
+  },
+  "timestamp": 1790285659,
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

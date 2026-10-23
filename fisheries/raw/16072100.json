@@ -1,0 +1,145 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "surveys": [
+      {
+        "headerInfo": {
+          "survey_id": "110935",
+          "survey_type": "Initial Survey",
+          "wb_alt_name": "",
+          "id_date": "1998-08-03",
+          "wb_id": "16072100",
+          "wb_name": "Elm",
+          "county": "Cook",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "1998-08-03",
+        "lengths": {
+          "NOP": {
+            "minimum_length": 19,
+            "maximum_length": 29,
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                29,
+                2
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 12,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                19,
+                4
+              ],
+              [
+                20,
+                7
+              ],
+              [
+                21,
+                2
+              ]
+            ]
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "surveyID": "110935",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "CPUE": "1.83",
+            "gearCount": 6,
+            "species": "NOP",
+            "totalWeight": 18232,
+            "averageWeight": "3.65",
+            "quartileCount": "N/A",
+            "totalCatch": 11
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "3.33",
+            "gearCount": 6,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalCatch": 20,
+            "species": "WTS",
+            "totalWeight": 25660,
+            "averageWeight": "2.83"
+          }
+        ],
+        "narrative": "<p>This was an initial survey of Elm Lake.  No sounding map was available, but the lake was found to have a maximum depth of at least 77 ft.  Only northern pike and white sucker were collected in survey gill nets; however, the presence of a small number of lake trout could not be ruled out.  The lake had temperature-oxygen conditions capable of supporting lake trout, and lake trout are found in other lakes in the vicinity.Northern pike appeared to have been relatively abundant, and fish as large as 29 inches were collected.  Northern pike growth rates had been fairly fast, despite the lack of any forage other than white sucker.</p>"
+      }
+    ],
+    "county": "Cook",
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 4.04,
+    "areaAcres": 109.21,
+    "officeCode": "F218",
+    "maxDepthFeet": 77,
+    "waterClarity": [],
+    "DOWNumber": "16072100",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK",
+        "location": "Inside the BWCAW; access by a rough trail from Little Saganaga Lake."
+      }
+    ],
+    "averageWaterClarity": "N/A",
+    "sampledPlants": [],
+    "littoralAcres": 0,
+    "lakeName": "Elm"
+  },
+  "timestamp": 1790285853,
+  "status": "SUCCESS"
+}

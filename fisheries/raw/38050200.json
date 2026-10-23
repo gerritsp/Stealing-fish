@@ -1,0 +1,148 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285833,
+  "result": {
+    "surveys": [
+      {
+        "surveyID": "21872427031546010",
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "id_date": "2024-07-29",
+          "survey_id": "21872427031546010",
+          "county": "Lake",
+          "wb_id": "38050200",
+          "wb_alt_name": "",
+          "wb_name": "Ashigan",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey"
+        },
+        "surveyType": "Targeted Survey",
+        "surveyDate": "2024-07-29",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Ashigan Lake on July 27, 2024 to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased to below 21.2 degrees C (70.2 degrees F) at 17.2 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 34 feet at the time of sampling. The thickness of this layer of water in the water column was 16.8 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 9.2 degrees C (48.6 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey.  <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey on Ashigan Lake during the late summer period of maximum oxythermal stress. If inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. </p>",
+        "fishCatchSummaries": [],
+        "lengths": {}
+      },
+      {
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "38050200",
+          "county": "Lake",
+          "survey_id": "112149",
+          "id_date": "1974-07-30",
+          "survey_type": "Initial Survey",
+          "wb_name": "Ashigan",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "112149",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1974-07-30",
+        "narrative": "<p>The Gamefish present consists of a very high population of small smallmouth bass. In addition moderate population of perch and tullibee are present.  The sucker population is fairly low for this area.</p>",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "CPUE": "10.33",
+            "totalCatch": 31,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.5-1.4",
+            "totalWeight": 11,
+            "averageWeight": "0.35",
+            "species": "SMB",
+            "quartileCount": "0.5-2.1"
+          },
+          {
+            "totalCatch": 10,
+            "gear": "Standard gill nets",
+            "CPUE": "3.33",
+            "gearCount": 3,
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "1.7-14.1",
+            "species": "YEP",
+            "averageWeight": "0.28",
+            "totalWeight": 2.8
+          },
+          {
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "totalCatch": 4,
+            "CPUE": "1.33",
+            "gearCount": 3,
+            "quartileCount": "0.5-2.4",
+            "species": "GSF",
+            "averageWeight": "0.10",
+            "totalWeight": 0.4
+          },
+          {
+            "species": "WTS",
+            "quartileCount": "2.3-8.7",
+            "totalWeight": 19.5,
+            "averageWeight": "2.79",
+            "quartileWeight": "1.5-2.2",
+            "totalCatch": 7,
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "CPUE": "2.33"
+          },
+          {
+            "quartileCount": "1.4-13.1",
+            "species": "TLC",
+            "averageWeight": "0.33",
+            "totalWeight": 6,
+            "quartileWeight": "0.3-1.0",
+            "gear": "Standard gill nets",
+            "totalCatch": 18,
+            "CPUE": "6.00",
+            "gearCount": 3
+          }
+        ],
+        "lengths": {}
+      },
+      {
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Ashigan Lake on August 19th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 54.1 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 18.0 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 29.8 feet at the time of sampling. The thickness of this layer of water in the water column was 11.8 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 8.4 degrees C (47.1 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates suitable oxythermal habitat, with 16.8 feet of suitable oxythermal habitat. When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyDate": "2025-08-19",
+        "surveySubType": "Targeted Survey",
+        "surveyID": "-382",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_id": "38050200",
+          "county": "Lake",
+          "id_date": "2025-08-19",
+          "survey_id": "-382",
+          "survey_type": "Targeted Survey",
+          "wb_name": "Ashigan",
+          "wb_type": "Lake"
+        }
+      }
+    ],
+    "averageWaterClarity": "13.7",
+    "meanDepthFeet": 0,
+    "officeCode": "F214",
+    "county": "Lake",
+    "littoralAcres": 9,
+    "shoreLengthMiles": 3.52,
+    "sampledPlants": [],
+    "DOWNumber": "38050200",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "location": "USFS portages from Ensign Lake and Gibson Lake BWCA  motors allowed.",
+        "accessTypeId": "O"
+      }
+    ],
+    "waterClarity": [
+      [
+        "07/29/2024",
+        "13.7"
+      ]
+    ],
+    "maxDepthFeet": 59,
+    "lakeName": "Ashigan",
+    "areaAcres": 153.33
+  }
+}

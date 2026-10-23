@@ -1,0 +1,903 @@
+{
+  "timestamp": 1790285593,
+  "status": "SUCCESS",
+  "result": {
+    "shoreLengthMiles": 3.46,
+    "officeCode": "F214",
+    "maxDepthFeet": 76,
+    "littoralAcres": 24,
+    "county": "St. Louis",
+    "averageWaterClarity": "7.7",
+    "lakeName": "Mudro",
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "publicUseAuthCode": "PRMIT",
+        "location": "Paddle 1/2mi. downstream to lake.",
+        "lakeAccessComments": "135 yd. portage from Picket Lk. parking area.",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO"
+      },
+      {
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "1/4mile portage from Sandpit Lk.",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "PRMIT",
+        "location": " "
+      },
+      {
+        "publicUseAuthCode": "PRMIT",
+        "location": " ",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "Approx. 1/2mile total portage distance (over three portages) from Fourtown Lk.",
+        "accessTypeId": "PO"
+      }
+    ],
+    "surveys": [
+      {
+        "narrative": "<p>Mudro Lake is located approximately 10 miles north of Ely in the BWCAW. This lake is a popular entry point and receives alot of use from visitors travelling through to other destinations. There is one designated USFS campsite located on the north shore. A short portage from the parking area can be eliminated during periods of high water in the inlet from Picket Lake. <br> \n <br> \nSix species of fish were sampled during the 2014 population assessment. Four shallow gill nets and four deep gill nets were used. Northern pike (43%), bluegill (17%), white sucker (35%) and one rock bass were sampled in the shallow nets. Cisco (84%), burbot (7%) and white sucker (9%) were sampled in the deep nets. <br> \n <br> \nNorthern pike abundance in 2014 (2.5/gill net) was similar to past assessments. Pike sizes averaged 24.8 inches and the largest pike was 31.2 inches long. <br> \n <br> \nCisco abundance in 2014 (9.5/gill net) was higher (3.0/gill net) compared to past assessments on this lake. Cisco sizes averaged 6.6 inches and the largest cisco sampled was 7.2 inches long. <br> \n <br> \n <br> \n <br> \n</p>",
+        "surveyID": "12391501448936011",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.05",
+            "species": "BLG",
+            "quartileWeight": "N/A",
+            "totalWeight": 86,
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "totalCatch": 4,
+            "CPUE": "1.00"
+          },
+          {
+            "totalCatch": 4,
+            "CPUE": "1.00",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 5545,
+            "species": "WTS",
+            "averageWeight": "3.06"
+          },
+          {
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "CPUE": "9.50",
+            "totalCatch": 38,
+            "species": "TLC",
+            "averageWeight": "0.08",
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 1343
+          },
+          {
+            "totalCatch": 10,
+            "CPUE": "2.50",
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "totalWeight": 15982,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "averageWeight": "3.52",
+            "species": "NOP"
+          },
+          {
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "totalWeight": 20,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.04",
+            "species": "RKB"
+          },
+          {
+            "CPUE": "0.75",
+            "totalCatch": 3,
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalWeight": 3700,
+            "gear": "Deep gill nets",
+            "species": "BUB",
+            "averageWeight": "2.72"
+          },
+          {
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "CPUE": "2.00",
+            "totalCatch": 8,
+            "averageWeight": "2.49",
+            "species": "WTS",
+            "gear": "Shallow gill nets",
+            "totalWeight": 9018,
+            "quartileWeight": "N/A"
+          }
+        ],
+        "lengths": {
+          "BLG": {
+            "maximum_length": 4,
+            "minimum_length": 3,
+            "fishCount": [
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                2
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                6
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "minimum_length": 15,
+            "maximum_length": 19
+          },
+          "RKB": {
+            "minimum_length": 4,
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ]
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 16
+          },
+          "TLC": {
+            "minimum_length": 5,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                34
+              ],
+              [
+                7,
+                3
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                31,
+                1
+              ]
+            ],
+            "minimum_length": 19,
+            "maximum_length": 31
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "survey_id": "12391501448936011",
+          "county": "St. Louis",
+          "id_date": "2014-08-04",
+          "wb_id": "69007800",
+          "wb_name": "Mudro"
+        },
+        "surveyDate": "2014-08-04",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveyDate": "1988-08-31",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "survey_id": "108385",
+          "wb_id": "69007800",
+          "county": "St. Louis",
+          "id_date": "1988-08-31",
+          "wb_name": "Mudro"
+        },
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "0.3-2.7",
+            "totalWeight": 3.1,
+            "gear": "Standard gill nets",
+            "averageWeight": "3.10",
+            "species": "BUB",
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "quartileCount": "0.2-1.4",
+            "gearCount": 4
+          },
+          {
+            "quartileWeight": "2.1-2.5",
+            "totalWeight": 0.2,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.20",
+            "species": "SHR",
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "quartileCount": "0.2-0.3",
+            "gearCount": 4
+          },
+          {
+            "averageWeight": "2.34",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "totalWeight": 30.4,
+            "quartileWeight": "1.6-3.1",
+            "gearCount": 4,
+            "quartileCount": "1.3-5.3",
+            "totalCatch": 13,
+            "CPUE": "3.25"
+          },
+          {
+            "species": "TLC",
+            "averageWeight": "0.07",
+            "gear": "Standard trap nets",
+            "quartileWeight": "0.1",
+            "totalWeight": 0.8,
+            "quartileCount": "2.8",
+            "gearCount": 4,
+            "totalCatch": 11,
+            "CPUE": "2.75"
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "0.3-2.3",
+            "CPUE": "2.50",
+            "totalCatch": 10,
+            "averageWeight": "0.31",
+            "species": "RKB",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-0.4",
+            "totalWeight": 3.1
+          },
+          {
+            "quartileCount": "0.8-3.8",
+            "gearCount": 4,
+            "totalCatch": 5,
+            "CPUE": "1.25",
+            "species": "WAE",
+            "averageWeight": "1.34",
+            "quartileWeight": "1.1-2.3",
+            "totalWeight": 6.7,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 0.3,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.15",
+            "species": "YEP",
+            "totalCatch": 2,
+            "CPUE": "0.50",
+            "gearCount": 4,
+            "quartileCount": "0.5-7.0"
+          },
+          {
+            "gear": "Standard trap nets",
+            "quartileWeight": "1.5",
+            "totalWeight": 1.5,
+            "averageWeight": "1.50",
+            "species": "BUB",
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "gearCount": 4,
+            "quartileCount": "0.3"
+          }
+        ],
+        "lengths": {},
+        "surveyID": "108385",
+        "narrative": "<p>Northern pike are present in average numbers; rock bass, yellow perch, and walleye are present in below average numbers. Northern redhorse and burbot are also present. Cisco sizes range from 6</p>"
+      },
+      {
+        "headerInfo": {
+          "survey_id": "108233",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "wb_name": "Mudro",
+          "county": "St. Louis",
+          "id_date": "1983-09-15",
+          "wb_id": "69007800"
+        },
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1983-09-15",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Mudro Lake contains below average populations of ciscos, sucker, northern pike, yellow perch, walleye and bluegill. Rock bass are present in average numbers. All fish species show a general decline in numbers and a slight decline in average size. Not enough walleyes were sampled to draw any conclu- sions about age and rate of growth, but some natural reproduction seems to be occurring.</p>",
+        "surveyID": "108233",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 12.5,
+            "quartileWeight": "1.6-3.1",
+            "species": "NOP",
+            "averageWeight": "1.79",
+            "CPUE": "1.75",
+            "totalCatch": 7,
+            "gearCount": 4,
+            "quartileCount": "1.3-5.3"
+          },
+          {
+            "CPUE": "1.00",
+            "totalCatch": 4,
+            "gearCount": 4,
+            "quartileCount": "0.3-2.3",
+            "quartileWeight": "0.2-0.4",
+            "totalWeight": 1.5,
+            "gear": "Standard gill nets",
+            "species": "RKB",
+            "averageWeight": "0.38"
+          },
+          {
+            "quartileCount": "0.8-3.8",
+            "gearCount": 4,
+            "totalCatch": 8,
+            "CPUE": "2.00",
+            "averageWeight": "1.12",
+            "species": "WAE",
+            "totalWeight": 9,
+            "quartileWeight": "1.1-2.3",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "YEP",
+            "averageWeight": "0.10",
+            "totalWeight": 0.2,
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "gearCount": 4,
+            "quartileCount": "0.5-7.0",
+            "CPUE": "0.50",
+            "totalCatch": 2
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-2.4",
+            "totalWeight": 7.3,
+            "averageWeight": "1.46",
+            "species": "WTS",
+            "CPUE": "1.25",
+            "totalCatch": 5,
+            "gearCount": 4,
+            "quartileCount": "1.2-4.9"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.3-0.8",
+            "totalWeight": 0.1,
+            "species": "TLC",
+            "averageWeight": "0.10",
+            "totalCatch": 1,
+            "CPUE": "0.25",
+            "quartileCount": "1.3-7.6",
+            "gearCount": 4
+          },
+          {
+            "totalCatch": 1,
+            "CPUE": "0.25",
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "totalWeight": 0.3,
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.30",
+            "species": "BLG"
+          }
+        ]
+      },
+      {
+        "surveyDate": "1976-07-01",
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "survey_id": "108090",
+          "wb_id": "69007800",
+          "id_date": "1976-07-01",
+          "county": "St. Louis",
+          "wb_name": "Mudro"
+        },
+        "surveyType": "Standard Survey",
+        "surveyID": "108090",
+        "narrative": "<p>Consists of above average populations of cisco, suckers, redhorse, walleye, and rock bass.  Smallmouth bass and northern pike are present in average numbers. Perch are below the average.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "quartileCount": "1.3-7.6",
+            "totalCatch": 16,
+            "CPUE": "5.33",
+            "averageWeight": "0.16",
+            "species": "TLC",
+            "gear": "Standard gill nets",
+            "totalWeight": 2.5,
+            "quartileWeight": "0.3-0.8"
+          },
+          {
+            "CPUE": "2.67",
+            "totalCatch": 8,
+            "quartileCount": "1.3-5.3",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.6-3.1",
+            "totalWeight": 18,
+            "species": "NOP",
+            "averageWeight": "2.25"
+          },
+          {
+            "totalCatch": 12,
+            "CPUE": "4.00",
+            "quartileCount": "1.2-4.9",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "totalWeight": 22,
+            "quartileWeight": "1.6-2.4",
+            "averageWeight": "1.83",
+            "species": "WTS"
+          },
+          {
+            "quartileCount": "4.3-34.3",
+            "gearCount": 3,
+            "totalCatch": 3,
+            "CPUE": "1.00",
+            "species": "BLG",
+            "averageWeight": "0.27",
+            "gear": "Standard trap nets",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 0.8
+          },
+          {
+            "CPUE": "1.67",
+            "totalCatch": 5,
+            "quartileCount": "0.5-2.8",
+            "gearCount": 3,
+            "quartileWeight": "0.2-0.4",
+            "totalWeight": 1.25,
+            "gear": "Standard trap nets",
+            "averageWeight": "0.25",
+            "species": "RKB"
+          },
+          {
+            "gear": "Standard gill nets",
+            "totalWeight": 53,
+            "quartileWeight": "1.1-2.3",
+            "species": "WAE",
+            "averageWeight": "1.47",
+            "totalCatch": 36,
+            "CPUE": "12.00",
+            "quartileCount": "0.8-3.8",
+            "gearCount": 3
+          },
+          {
+            "species": "SMB",
+            "averageWeight": "1.50",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.4-1.5",
+            "totalWeight": 1.5,
+            "quartileCount": "0.3-1.0",
+            "gearCount": 3,
+            "CPUE": "0.33",
+            "totalCatch": 1
+          },
+          {
+            "totalCatch": 9,
+            "CPUE": "3.00",
+            "quartileCount": "0.2-0.3",
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "totalWeight": 18.5,
+            "quartileWeight": "2.1-2.5",
+            "species": "SHR",
+            "averageWeight": "2.06"
+          },
+          {
+            "gearCount": 3,
+            "quartileCount": "0.3-2.7",
+            "totalCatch": 2,
+            "CPUE": "0.67",
+            "species": "WTS",
+            "averageWeight": "1.62",
+            "gear": "Standard trap nets",
+            "quartileWeight": "1.7-3.2",
+            "totalWeight": 3.25
+          },
+          {
+            "species": "SHR",
+            "averageWeight": "2.00",
+            "gear": "Standard trap nets",
+            "quartileWeight": "1.8",
+            "totalWeight": 2,
+            "gearCount": 3,
+            "quartileCount": "0.9",
+            "CPUE": "0.33",
+            "totalCatch": 1
+          },
+          {
+            "gearCount": 3,
+            "quartileCount": "0.5-7.0",
+            "CPUE": "2.00",
+            "totalCatch": 6,
+            "averageWeight": "0.17",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "totalWeight": 1,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 8,
+            "CPUE": "2.67",
+            "gearCount": 3,
+            "quartileCount": "0.3-2.3",
+            "quartileWeight": "0.2-0.4",
+            "totalWeight": 2,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.25",
+            "species": "RKB"
+          }
+        ]
+      },
+      {
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Mudro Lake on August 5th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 72.2 feet), the water temperature decreased to 21.2 degrees C (70.2 degrees F) at 8.5 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 57.4 feet at the time of sampling. This layer in the water column was 48.9 feet, indicating oxythermal habitat for Cisco was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.3 degrees C (39.7 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2014, 2023, 2024 also indicated suitable oxythermal habitat in all years surveyed, with the least favorable conditions recorded in 2024 when the suitable oxythermal habitat layer was 47.5 feet thick. When adequate oxythermal habitat is not available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyID": "22112525137971043",
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "survey_id": "22112525137971043",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "wb_name": "Mudro",
+          "wb_id": "69007800",
+          "county": "St. Louis",
+          "id_date": "2025-08-05"
+        },
+        "surveyDate": "2025-08-05"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalWeight": 1140,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "species": "BUB",
+            "averageWeight": "2.51"
+          },
+          {
+            "CPUE": "1.00",
+            "totalCatch": 4,
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "gear": "Deep gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 176,
+            "averageWeight": "0.10",
+            "species": "CIS"
+          },
+          {
+            "averageWeight": "1.89",
+            "species": "NOP",
+            "totalWeight": 3432,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 4,
+            "CPUE": "1.00"
+          },
+          {
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "CPUE": "0.75",
+            "totalCatch": 3,
+            "species": "WTS",
+            "averageWeight": "2.38",
+            "totalWeight": 3237,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets"
+          },
+          {
+            "totalWeight": 4439,
+            "quartileWeight": "N/A",
+            "gear": "Deep gill nets",
+            "species": "BUB",
+            "averageWeight": "1.96",
+            "totalCatch": 5,
+            "CPUE": "1.25",
+            "quartileCount": "N/A",
+            "gearCount": 4
+          },
+          {
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 3508,
+            "averageWeight": "2.58",
+            "species": "WAE",
+            "CPUE": "0.75",
+            "totalCatch": 3,
+            "quartileCount": "N/A",
+            "gearCount": 4
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 3,
+            "CPUE": "0.75",
+            "averageWeight": "0.09",
+            "species": "TLC",
+            "quartileWeight": "N/A",
+            "totalWeight": 127,
+            "gear": "Deep gill nets"
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "species": "GOS",
+            "averageWeight": "0.10",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "totalWeight": 46
+          },
+          {
+            "species": "SMB",
+            "averageWeight": "0.61",
+            "totalWeight": 277,
+            "quartileWeight": "N/A",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "totalCatch": 1,
+            "CPUE": "0.25"
+          }
+        ],
+        "lengths": {
+          "TLC": {
+            "fishCount": [
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 7
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ]
+            ],
+            "maximum_length": 23,
+            "minimum_length": 16
+          },
+          "WAE": {
+            "minimum_length": 13,
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                23,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 18,
+            "minimum_length": 16,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                2
+              ]
+            ]
+          },
+          "SMB": {
+            "maximum_length": 10,
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ]
+            ]
+          },
+          "GOS": {
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 6
+          },
+          "CIS": {
+            "minimum_length": 6,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                6,
+                3
+              ],
+              [
+                7,
+                1
+              ]
+            ]
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ]
+            ],
+            "maximum_length": 24,
+            "minimum_length": 12
+          }
+        },
+        "narrative": "<p>Mudro Lake is a 94-acre lake located 10 miles north of Ely. The lake is located entirely within the Boundary Waters Canoe Area Wilderness and is accessed via portage from the Picket Lake parking area. The lake has a maximum depth of 76 feet and relatively clear water. <br> \n <br> \nOn August 14, 2023, Mudro Lake was thermally stratified with a surface temperature of 71 F and a bottom temperature of 40 F. Oxygen levels were adequate for gamefish to approximately 70 feet. Lake substrates along the shoreline are mostly boulder and ledge rock, and shoreline drop-offs are steep around the majority of the lake. Four shallow gill nets and four deep gill nets were used in this survey. <br> \n <br> \nCisco were the most abundant species sampled in this survey with a catch rate of 1.8 fish/net. This catch rate was slightly lower than average for Mudro lake. Cisco averaged 6.8 inches in length. <br> \n <br> \nBurbot were sampled in both shallow and deep gill nets resulting in an overall catch rate of 0.8 fish/net. This was the highest catch rate ever recorded for Mudro Lake. Burbot lengths ranged from 16.1 inches to 23.0 inches, which was also the longest burbot ever sampled from the lake. <br> \n <br> \nThe northern pike catch rate was 1.0 fish/shallow net, which was slightly lower than average for the lake. Lengths ranged from 13.0 inches to 24.8 inches with an average of 19.9 inches. <br> \n <br> \nThe walleye catch was just 0.8 fish/shallow net, which was lower than average for the lake. Walleye lengths ranged from 14.0 inches to 23.8 inches and averaged 18.8 inches. <br> \n <br> \nOther species sampled in 2023 included white sucker, smallmouth bass, and golden shiner. <br> \n</p>",
+        "surveyID": "18912334754143048",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "county": "St. Louis",
+          "id_date": "2023-08-14",
+          "wb_id": "69007800",
+          "wb_name": "Mudro",
+          "wb_type": "Lake",
+          "survey_type": "Standard Survey",
+          "wb_alt_name": "",
+          "survey_id": "18912334754143048"
+        },
+        "surveySubType": "Standard Survey",
+        "surveyDate": "2023-08-14"
+      }
+    ],
+    "areaAcres": 93.64,
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "08/04/2014",
+        "7"
+      ],
+      [
+        "08/05/2025",
+        "6"
+      ],
+      [
+        "08/14/2023",
+        "10"
+      ]
+    ],
+    "DOWNumber": "69007800"
+  },
+  "message": "Normal execution."
+}

@@ -1,0 +1,597 @@
+{
+  "timestamp": 1790286034,
+  "status": "SUCCESS",
+  "result": {
+    "waterClarity": [
+      [
+        "08/07/2024",
+        "9.8"
+      ],
+      [
+        "08/16/1978",
+        "10.5"
+      ],
+      [
+        "08/13/2025",
+        "10.7"
+      ]
+    ],
+    "sampledPlants": [],
+    "meanDepthFeet": 26.6,
+    "shoreLengthMiles": 7.31,
+    "areaAcres": 226.65,
+    "averageWaterClarity": "10.3",
+    "county": "Cook",
+    "lakeAltName": "Genesis",
+    "littoralAcres": 78.5,
+    "accesses": [
+      {
+        "ownerTypeId": "DNR",
+        "accessTypeId": "CA",
+        "location": "Accessible via canoe from Devils Elbow Lake; and 0.2 mile portage from Granite Lake.  Minnesota side in BWCAW.",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": " "
+      }
+    ],
+    "DOWNumber": "16061700",
+    "officeCode": "F218",
+    "surveys": [
+      {
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Gneiss Lake on August 7th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Lake Whitefish and Cisco, also known as 'Tullibee', are also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 62.3 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 33.2 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 57.0 feet at the time of sampling. The thickness of this layer of water in the water column was 23.8 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.6 degrees C (43.9 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 1978 also indicates suitable oxythermal habitat, with the least favorable conditions recorded in 1978. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveyType": "Targeted Survey",
+        "surveyDate": "2024-08-07",
+        "surveyID": "21872425638301052",
+        "headerInfo": {
+          "wb_alt_name": "Genesis",
+          "survey_type": "Targeted Survey",
+          "id_date": "2024-08-07",
+          "county": "Cook",
+          "wb_id": "16061700",
+          "wb_name": "Gneiss",
+          "survey_id": "21872425638301052",
+          "wb_type": "Lake"
+        },
+        "surveySubType": "Targeted Survey"
+      },
+      {
+        "lengths": {
+          "PMK": {
+            "minimum_length": 3,
+            "fishCount": [
+              [
+                3,
+                5
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                2
+              ]
+            ],
+            "maximum_length": 5
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                3,
+                7
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 29,
+            "minimum_length": 3
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                5,
+                4
+              ],
+              [
+                6,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                21,
+                1
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 21
+          },
+          "SMB": {
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                14,
+                5
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 8
+          },
+          "CSH": {
+            "maximum_length": 5,
+            "fishCount": [
+              [
+                3,
+                5
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                1
+              ]
+            ],
+            "minimum_length": 3
+          },
+          "NOP": {
+            "maximum_length": 27,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                27,
+                1
+              ]
+            ],
+            "minimum_length": 11
+          },
+          "TLC": {
+            "maximum_length": 17,
+            "fishCount": [
+              [
+                10,
+                18
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                16
+              ],
+              [
+                9,
+                32
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "LKW": {
+            "minimum_length": 9,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                5
+              ]
+            ],
+            "minimum_length": 17
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "3.2-20.2",
+            "totalCatch": 76,
+            "quartileWeight": "0.2-1.0",
+            "CPUE": "12.67",
+            "species": "TLC",
+            "gear": "Standard gill nets",
+            "totalWeight": 11713,
+            "gearCount": 6,
+            "averageWeight": "0.34"
+          },
+          {
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalCatch": 7,
+            "CPUE": "3.50",
+            "averageWeight": "0.00",
+            "gearCount": 2,
+            "totalWeight": 0,
+            "species": "WAE",
+            "gear": "Small-mesh gill nets"
+          },
+          {
+            "quartileCount": "0.6-2.4",
+            "quartileWeight": "2.1-4.9",
+            "totalCatch": 7,
+            "CPUE": "1.17",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.56",
+            "gearCount": 6,
+            "totalWeight": 4938
+          },
+          {
+            "quartileCount": "0.8-5.3",
+            "quartileWeight": "1.1-2.5",
+            "totalCatch": 7,
+            "CPUE": "1.17",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "gearCount": 6,
+            "averageWeight": "2.88",
+            "totalWeight": 9150
+          },
+          {
+            "CPUE": "3.50",
+            "totalWeight": 104,
+            "gearCount": 2,
+            "averageWeight": "0.03",
+            "species": "CSH",
+            "gear": "Small-mesh gill nets",
+            "quartileCount": "N/A",
+            "totalCatch": 7,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "LAT",
+            "totalWeight": 1160,
+            "gearCount": 6,
+            "averageWeight": "2.56",
+            "CPUE": "0.17",
+            "totalCatch": 1,
+            "quartileWeight": "1.5-4.0",
+            "quartileCount": "0.4-3.7"
+          },
+          {
+            "quartileCount": "1.2-5.2",
+            "quartileWeight": "1.0-2.0",
+            "totalCatch": 24,
+            "CPUE": "4.00",
+            "averageWeight": "1.57",
+            "gearCount": 6,
+            "totalWeight": 17110,
+            "species": "WAE",
+            "gear": "Standard gill nets"
+          },
+          {
+            "species": "PMK",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "averageWeight": "0.07",
+            "totalWeight": 315,
+            "CPUE": "1.67",
+            "quartileWeight": "N/A",
+            "totalCatch": 10,
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 8,
+            "quartileWeight": "0.6-1.5",
+            "quartileCount": "0.3-1.4",
+            "totalWeight": 5678,
+            "gearCount": 6,
+            "averageWeight": "1.56",
+            "species": "SMB",
+            "gear": "Standard gill nets",
+            "CPUE": "1.33"
+          },
+          {
+            "quartileWeight": "1.0-2.1",
+            "totalCatch": 14,
+            "quartileCount": "1.6-15.5",
+            "species": "LKW",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "averageWeight": "1.98",
+            "totalWeight": 12556,
+            "CPUE": "2.33"
+          },
+          {
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "averageWeight": "0.08",
+            "gearCount": 6,
+            "totalWeight": 181,
+            "CPUE": "0.83",
+            "quartileWeight": "0.1-0.2",
+            "totalCatch": 5,
+            "quartileCount": "0.4-3.7"
+          }
+        ],
+        "narrative": "<p>Gneiss Lake continues to support a good, naturally-reproducing walleye population.  The catch in 1999 was just above the median for lakes of this class, and included a fairly high proportion of fish over 16 inches.  The lake also continues to support a small number of lake trout, even though water quality appears to be marginal for the species.  Fair numbers of northern pike were taken in 1999, however, northern pike reproduction appeared to have been sporadic recently, and most of the fish taken were only one year old.Major forage species present were yellow perch and northern cisco.  The yellow perch catch was low in 1999, but not unusually low for a lake of this class.  The northern cisco catch was fairly high, and most of the fish taken were small enough to provide excellent forage for walleye, northern pike, and lake trout.</p>",
+        "headerInfo": {
+          "wb_alt_name": "Genesis",
+          "county": "Cook",
+          "id_date": "1999-08-29",
+          "survey_type": "Population Assessment",
+          "survey_id": "111058",
+          "wb_type": "Lake",
+          "wb_id": "16061700",
+          "wb_name": "Gneiss"
+        },
+        "surveyID": "111058",
+        "surveyDate": "1999-08-29",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1978-08-15",
+        "surveyID": "109799",
+        "headerInfo": {
+          "wb_alt_name": "Genesis",
+          "wb_type": "Lake",
+          "survey_id": "109799",
+          "wb_name": "Gneiss",
+          "wb_id": "16061700",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "id_date": "1978-08-15"
+        },
+        "narrative": "<p>There is a good population of N Cisco and fair populations of Walleye and Whitefish.  The other species appear to be in low abundance.  SM Bass are present but were not taken by nets during this survey.</p>",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "CPUE": "0.50",
+            "species": "LAT",
+            "gear": "Standard gill nets",
+            "totalWeight": 36.1,
+            "gearCount": 6,
+            "averageWeight": "12.03",
+            "quartileCount": "0.4-3.7",
+            "totalCatch": 3,
+            "quartileWeight": "1.5-4.0"
+          },
+          {
+            "CPUE": "1.17",
+            "averageWeight": "1.86",
+            "gearCount": 6,
+            "totalWeight": 13,
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "quartileCount": "0.6-2.4",
+            "quartileWeight": "2.1-4.9",
+            "totalCatch": 7
+          },
+          {
+            "totalWeight": 38.75,
+            "gearCount": 6,
+            "averageWeight": "1.55",
+            "species": "WAE",
+            "gear": "Standard gill nets",
+            "CPUE": "4.17",
+            "totalCatch": 25,
+            "quartileWeight": "1.0-2.0",
+            "quartileCount": "1.2-5.2"
+          },
+          {
+            "totalWeight": 0.5,
+            "averageWeight": "0.12",
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "CPUE": "0.67",
+            "totalCatch": 4,
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "0.4-3.7"
+          },
+          {
+            "quartileWeight": "1.0-2.1",
+            "totalCatch": 17,
+            "quartileCount": "1.6-15.5",
+            "averageWeight": "2.07",
+            "gearCount": 6,
+            "totalWeight": 35.25,
+            "gear": "Standard gill nets",
+            "species": "LKW",
+            "CPUE": "2.83"
+          },
+          {
+            "averageWeight": "2.65",
+            "gearCount": 6,
+            "totalWeight": 13.25,
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "CPUE": "0.83",
+            "quartileWeight": "1.1-2.5",
+            "totalCatch": 5,
+            "quartileCount": "0.8-5.3"
+          },
+          {
+            "quartileCount": "3.2-20.2",
+            "quartileWeight": "0.2-1.0",
+            "totalCatch": 155,
+            "CPUE": "25.83",
+            "species": "TLC",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.39",
+            "gearCount": 6,
+            "totalWeight": 60.25
+          }
+        ]
+      },
+      {
+        "surveySubType": "Targeted Survey",
+        "headerInfo": {
+          "wb_alt_name": "Genesis",
+          "id_date": "2025-08-13",
+          "survey_type": "Targeted Survey",
+          "county": "Cook",
+          "wb_name": "Gneiss",
+          "wb_id": "16061700",
+          "wb_type": "Lake",
+          "survey_id": "-302"
+        },
+        "surveyType": "Targeted Survey",
+        "surveyDate": "2025-08-13",
+        "surveyID": "-302",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Gneiss Lake on August 13th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Lake Whitefish and Cisco, also known as 'Tullibee', are also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 68.9 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 34.4 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 50.6 feet at the time of sampling. The thickness of this layer of water in the water column was 16.2 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.9 degrees C (42.6 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 1978 and 2024 also indicated suitable oxythermal habitat. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "fishCatchSummaries": [],
+        "lengths": {}
+      }
+    ],
+    "lakeName": "Gneiss",
+    "maxDepthFeet": 70
+  },
+  "message": "Normal execution."
+}

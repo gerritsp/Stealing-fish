@@ -1,0 +1,1208 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790286041,
+  "result": {
+    "lakeName": "Red Rock",
+    "shoreLengthMiles": 12.92,
+    "averageWaterClarity": "11.0",
+    "maxDepthFeet": 64,
+    "officeCode": "F218",
+    "littoralAcres": 146,
+    "waterClarity": [
+      [
+        "08/07/2025",
+        "9.8"
+      ],
+      [
+        "08/12/1972",
+        "11.5"
+      ],
+      [
+        "07/10/2023",
+        "9.7"
+      ],
+      [
+        "08/06/2024",
+        "13.1"
+      ]
+    ],
+    "surveys": [
+      {
+        "surveyDate": "1998-07-06",
+        "surveySubType": "Re-Survey",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>This survey used gill net sets stratified by depth.  The combined catch in the deep and shallow sets is most comparable to historic catches in this lake and to catches in other lakes in the lake class.  The combined catch in deep and shallow gill nets (total of nine sets) in Red Rock Lake in 1998 was:Burbot   0.67 fish/set, mean weight 1.15 lb/fishLake trout        0.11 fish/set, mean weight 0.11 lb/fishLake whitefish    0.56 fish/set, mean weight 4.47 lb/fishNorthern pike     3.00 fish/net, mean weight 3.00 lb/fishSmallmouth bass   0.44 fish/net, mean weight 1.46 lb/fishNorthern cisco    5.00 fish/net, mean weight 0.79 lb/fishWalleye  1.33 fish/net, mean weight 1.34 lb/fishWhite sucker      0.33 fish/net, mean weight 2.05 lb/fishWalleye abundance appeared to have been fairly low; although natural reproduction had been steady, no exceptionally strong year classes had been produced.  Walleye growth was fast.  Northern pike abundance was high, and good numbers of large fish were present.  Northern pike growth was also fast, no doubt due to the presence of a good coregonid forage base.  Smallmouth bass abundance appeared to have been low, although the fish were fast-growing and some large fish were present.Lake trout were collected for the first time in this lake, probably as a result of reintroductory stocking begun in 1998.  Rainbow smelt were also collected for the first time, in small-mesh gill net sets.  Rainbow smelt have probably been present for many years, but were too small to be taken in standard survey gill nets.</p>",
+        "headerInfo": {
+          "survey_type": "Re-Survey",
+          "wb_alt_name": "",
+          "id_date": "1998-07-06",
+          "wb_id": "16079300",
+          "survey_id": "110927",
+          "wb_type": "Lake",
+          "wb_name": "Red Rock",
+          "county": "Cook"
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "averageWeight": "0.11",
+            "CPUE": "0.25",
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "gearCount": 4,
+            "species": "LAT",
+            "totalCatch": 1,
+            "totalWeight": 51
+          },
+          {
+            "species": "YEP",
+            "totalCatch": 33,
+            "totalWeight": 0,
+            "gear": "Misc. fish",
+            "gearCount": 12,
+            "CPUE": "2.75",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.00",
+            "quartileCount": "N/A"
+          },
+          {
+            "gearCount": 2,
+            "gear": "Small-mesh gill nets",
+            "totalWeight": 650,
+            "species": "RBS",
+            "totalCatch": 31,
+            "averageWeight": "0.05",
+            "quartileWeight": "N/A",
+            "CPUE": "15.50",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 25,
+            "totalWeight": 33144,
+            "species": "NOP",
+            "gear": "Shallow gill nets",
+            "gearCount": 5,
+            "averageWeight": "2.92",
+            "quartileWeight": "N/A",
+            "CPUE": "5.00",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 5,
+            "species": "LKW",
+            "totalWeight": 10150,
+            "gear": "Deep gill nets",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "1.25",
+            "averageWeight": "4.48"
+          },
+          {
+            "totalCatch": 2,
+            "species": "BKT",
+            "totalWeight": 64,
+            "gearCount": 2,
+            "gear": "Small-mesh gill nets",
+            "quartileCount": "N/A",
+            "averageWeight": "0.07",
+            "quartileWeight": "N/A",
+            "CPUE": "1.00"
+          },
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.01",
+            "quartileWeight": "N/A",
+            "CPUE": "27.00",
+            "gear": "Small-mesh gill nets",
+            "gearCount": 2,
+            "species": "LKW",
+            "totalCatch": 54,
+            "totalWeight": 287
+          },
+          {
+            "totalCatch": 3,
+            "species": "WTS",
+            "totalWeight": 2820,
+            "gear": "Shallow gill nets",
+            "gearCount": 5,
+            "quartileWeight": "N/A",
+            "CPUE": "0.60",
+            "averageWeight": "2.07",
+            "quartileCount": "N/A"
+          },
+          {
+            "averageWeight": "1.15",
+            "quartileWeight": "N/A",
+            "CPUE": "1.50",
+            "quartileCount": "N/A",
+            "species": "BUB",
+            "totalCatch": 6,
+            "totalWeight": 3131,
+            "gearCount": 4,
+            "gear": "Deep gill nets"
+          },
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.79",
+            "quartileWeight": "N/A",
+            "CPUE": "11.25",
+            "gearCount": 4,
+            "gear": "Deep gill nets",
+            "species": "TLC",
+            "totalWeight": 16222,
+            "totalCatch": 45
+          },
+          {
+            "CPUE": "2.40",
+            "quartileWeight": "N/A",
+            "averageWeight": "1.34",
+            "quartileCount": "N/A",
+            "totalCatch": 12,
+            "totalWeight": 7298,
+            "species": "WAE",
+            "gearCount": 5,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "0.50",
+            "averageWeight": "0.02",
+            "gearCount": 2,
+            "gear": "Small-mesh gill nets",
+            "totalWeight": 8,
+            "totalCatch": 1,
+            "species": "TLC"
+          },
+          {
+            "averageWeight": "3.76",
+            "quartileWeight": "N/A",
+            "CPUE": "0.50",
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "gearCount": 4,
+            "species": "NOP",
+            "totalCatch": 2,
+            "totalWeight": 3415
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "0.80",
+            "quartileWeight": "N/A",
+            "averageWeight": "1.46",
+            "species": "SMB",
+            "totalCatch": 4,
+            "totalWeight": 2642,
+            "gearCount": 5,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.00",
+            "quartileWeight": "N/A",
+            "CPUE": "0.50",
+            "gearCount": 2,
+            "gear": "Small-mesh gill nets",
+            "totalCatch": 1,
+            "totalWeight": 0,
+            "species": "SCU"
+          }
+        ],
+        "surveyID": "110927",
+        "lengths": {
+          "SMB": {
+            "maximum_length": 16,
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "maximum_length": 19,
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "LKW": {
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                3,
+                52
+              ],
+              [
+                4,
+                2
+              ]
+            ],
+            "minimum_length": 3
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "minimum_length": 12,
+            "maximum_length": 22
+          },
+          "SCU": {
+            "minimum_length": 3,
+            "fishCount": [
+              [
+                3,
+                1
+              ]
+            ],
+            "maximum_length": 3
+          },
+          "NOP": {
+            "maximum_length": 37,
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                4
+              ],
+              [
+                22,
+                7
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                34,
+                1
+              ],
+              [
+                37,
+                1
+              ]
+            ]
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 6
+          },
+          "LAT": {
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "TLC": {
+            "fishCount": [
+              [
+                10,
+                6
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                7
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                7
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "minimum_length": 4,
+            "maximum_length": 19
+          },
+          "RBS": {
+            "fishCount": [
+              [
+                4,
+                5
+              ],
+              [
+                6,
+                25
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 4,
+            "maximum_length": 7
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 13,
+            "maximum_length": 20
+          }
+        }
+      },
+      {
+        "surveyID": "22622521956623000",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_name": "Red Rock",
+          "wb_type": "Lake",
+          "survey_id": "22622521956623000",
+          "wb_id": "16079300",
+          "id_date": "2025-08-07",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "county": "Cook"
+        },
+        "lengths": {},
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2025-08-07",
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Red Rock Lake on August 7th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 57.1 feet), the water temperature decreased to 17.2 degrees C (63.0 degrees F) at 14.3 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 51.2 feet at the time of sampling. This layer in the water column was 37.0 feet, indicating oxythermal habitat for Lake Whitefish was present. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.1 degrees C (41.2 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 1972 and 2024 also indicated suitable oxythermal habitat in all years surveyed, with similar conditions recorded in both surveys.  <br> \n</p>"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1985-07-15",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>THE WALLEYE POPULATION APPEARS TO BE QUITE WEAK. FEW FISH WERE CAUGHT, AND NONE OLDER THAN AGE 4. GROWTH LOOKS GOOD. SMALLMOUTH BASS GROWTH IS SLOW, BUT THE SIZE OF FISH PRESENT IS ADEQUATE. THERE IS A LARGE, HEALTHY CISCO POPULATION, WITH MANY LARGE INDIVIDUALS PRESENT.           A</p>",
+        "surveyID": "109861",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.6-2.4",
+            "CPUE": "2.17",
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "2.21",
+            "species": "NOP",
+            "totalWeight": 28.75,
+            "totalCatch": 13,
+            "gearCount": 6,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "0.50",
+            "averageWeight": "2.25",
+            "quartileCount": "0.3-1.4",
+            "totalWeight": 6.75,
+            "totalCatch": 3,
+            "species": "SMB",
+            "gearCount": 6,
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "1.00",
+            "quartileWeight": "1.0-2.0",
+            "averageWeight": "1.50",
+            "quartileCount": "1.2-5.2",
+            "totalCatch": 6,
+            "species": "WAE",
+            "totalWeight": 9,
+            "gear": "Standard gill nets",
+            "gearCount": 6
+          },
+          {
+            "quartileCount": "1.6-15.5",
+            "quartileWeight": "1.0-2.1",
+            "CPUE": "1.00",
+            "averageWeight": "5.17",
+            "totalCatch": 6,
+            "species": "LKW",
+            "totalWeight": 31,
+            "gearCount": 6,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "totalWeight": 6.25,
+            "species": "WTS",
+            "quartileCount": "0.8-5.3",
+            "averageWeight": "6.25",
+            "quartileWeight": "1.1-2.5",
+            "CPUE": "0.17"
+          },
+          {
+            "CPUE": "7.00",
+            "quartileWeight": "0.2-1.0",
+            "averageWeight": "1.58",
+            "quartileCount": "3.2-20.2",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalCatch": 42,
+            "species": "TLC",
+            "totalWeight": 66.25
+          }
+        ],
+        "headerInfo": {
+          "wb_id": "16079300",
+          "survey_id": "109861",
+          "wb_type": "Lake",
+          "wb_name": "Red Rock",
+          "survey_type": "Population Assessment",
+          "wb_alt_name": "",
+          "id_date": "1985-07-15",
+          "county": "Cook"
+        },
+        "lengths": {}
+      },
+      {
+        "surveyDate": "1972-08-12",
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>There is an excellent Walleye population with a good distribution of sizes.  N Pike and Whitefish populations are also good with large Whitefish present for angling.  SM Bass are present as indicated by young-of-year taken in shrln. seining</p>",
+        "headerInfo": {
+          "county": "Cook",
+          "wb_name": "Red Rock",
+          "wb_type": "Lake",
+          "survey_id": "109821",
+          "wb_id": "16079300",
+          "id_date": "1972-08-12",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey"
+        },
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.75",
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "0.25",
+            "quartileCount": "0.2-1.0",
+            "species": "BUB",
+            "totalWeight": 1.5,
+            "totalCatch": 2,
+            "gear": "Standard gill nets",
+            "gearCount": 8
+          },
+          {
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "1.82",
+            "CPUE": "2.75",
+            "quartileCount": "0.6-2.4",
+            "gear": "Standard gill nets",
+            "gearCount": 8,
+            "totalCatch": 22,
+            "species": "NOP",
+            "totalWeight": 40.1
+          },
+          {
+            "quartileCount": "1.2-5.2",
+            "averageWeight": "1.29",
+            "quartileWeight": "1.0-2.0",
+            "CPUE": "8.00",
+            "species": "WAE",
+            "totalWeight": 82.6,
+            "totalCatch": 64,
+            "gearCount": 8,
+            "gear": "Standard gill nets"
+          },
+          {
+            "gearCount": 8,
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "totalCatch": 5,
+            "totalWeight": 0.8,
+            "CPUE": "0.62",
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.16",
+            "quartileCount": "0.4-3.7"
+          },
+          {
+            "quartileCount": "1.6-15.5",
+            "CPUE": "3.12",
+            "quartileWeight": "1.0-2.1",
+            "averageWeight": "1.91",
+            "gearCount": 8,
+            "gear": "Standard gill nets",
+            "totalWeight": 47.7,
+            "totalCatch": 25,
+            "species": "LKW"
+          },
+          {
+            "quartileWeight": "1.1-2.5",
+            "averageWeight": "2.45",
+            "CPUE": "0.25",
+            "quartileCount": "0.8-5.3",
+            "gearCount": 8,
+            "gear": "Standard gill nets",
+            "totalCatch": 2,
+            "species": "WTS",
+            "totalWeight": 4.9
+          }
+        ],
+        "surveyID": "109821",
+        "lengths": {}
+      },
+      {
+        "narrative": "<p>Red Rock Lake is part of the headwaters of the Rainy River system, discharging north through Saganaga and Saganagons Lakes. Primary and secondary management species are lake trout and northern pike. The 2023 standard lake survey was conducted to monitor the fish community in Red Rock Lake, record current limnological conditions, evaluate management goals for lake trout and northern pike populations and determine if spiny waterflea had become established.  <br> \n <br> \nNo lake trout were sampled, despite the addition of multiple deep water gill net sets for comparison to historical sampling. As similar to other local lakes stocking efforts appear unsuccessful at establishing a naturally reproducing lake trout population within the lake. Due to the apparent failure of stocking, lake trout will probably be removed as a management species in Red Rock Lake.  <br> \n <br> \nNorthern pike abundance in the 2023 survey was consistent with historical values recorded within Red Rock Lake and is above average for similar area lakes. Northern pike ranged from 9.5 to 31.3 inches with a mean length of 20.9 inches. Northern pike are numerous enough to be of interest to anglers with some large fish present in the population. <br> \n <br> \nThe walleye catch was similar to the previous surveys in Red Rock Lake, but below average for similar area lakes. Size structure of walleye captured in the survey ranged from 10.4 to 24.7 inches with a mean length of 17.3 inches. Aging results indicated the presence of 6 year classes. Growth appeared to be relatively fast with average age 5 annuli formation at 17.32 inches compared to an area average of 16.0 inches. The 2023 survey suggests that walleye would have provided a quality fishing opportunity in Red Rock Lake.  <br> \n <br> \nThe smallmouth bass catch was again low in Red Rock Lake and below average for similar area lakes. However the size range of these fish were 11.2 to 16.3 inches and would be of interest to anglers.  <br> \n <br> \nThe deepwater fish community consisted of cisco, lake whitefish and burbot. Catch rates for lake whitefish and burbot were less than one fish per net, but were similar to historic values. Lake whitefish captured were large (20 to 25 inches). Cisco still appear to be the dominant deepwater species present within the lake, but catch rates have been declining. Aging results indicated both lake whitefish and cisco reached relatively old ages. The two largest lake whitefish captured were 34 and 37 years old, while the largest cisco (17 and 19 inches) were 22 and 24 years old respectively.  <br> \n <br> \nSpiny water flea was detected with horizontal zooplankton tows. This confirmed the suspicion that they had migrated over from Saganaga Lake and successfully invaded Red Rock. Cook County, Minnesota lakes continue to be susceptible to aquatic invasive species introductions. Invasive species have the potential to significantly alter fish communities and overall lake health. Anglers should clean watercraft and fishing gear, drain all water, and dispose of unused bait in the trash to prevent accidental introductions.  <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Standard Survey",
+        "surveyDate": "2023-07-10",
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9,
+            "maximum_length": 31
+          },
+          "PMK": {
+            "maximum_length": 3,
+            "fishCount": [
+              [
+                3,
+                1
+              ]
+            ],
+            "minimum_length": 3
+          },
+          "WAE": {
+            "maximum_length": 24,
+            "minimum_length": 10,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ]
+            ]
+          },
+          "SMB": {
+            "maximum_length": 16,
+            "minimum_length": 11,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                3
+              ]
+            ]
+          },
+          "LKW": {
+            "fishCount": [
+              [
+                20,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ]
+            ],
+            "minimum_length": 20,
+            "maximum_length": 25
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 8,
+            "maximum_length": 24
+          },
+          "TLC": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                7,
+                5
+              ],
+              [
+                9,
+                11
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 19
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 19,
+            "maximum_length": 20
+          }
+        },
+        "surveyID": "20302327240358103",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "3.53",
+            "quartileWeight": "N/A",
+            "CPUE": "0.40",
+            "quartileCount": "N/A",
+            "totalWeight": 3202,
+            "species": "LKW",
+            "totalCatch": 2,
+            "gearCount": 5,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "quartileWeight": "N/A",
+            "CPUE": "1.20",
+            "averageWeight": "1.33",
+            "quartileCount": "N/A",
+            "gearCount": 5,
+            "gear": "Shallow gill nets",
+            "totalCatch": 6,
+            "species": "TLC",
+            "totalWeight": 3619
+          },
+          {
+            "totalCatch": 1,
+            "species": "BUB",
+            "totalWeight": 337,
+            "gearCount": 5,
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.74",
+            "CPUE": "0.20",
+            "quartileCount": "N/A"
+          },
+          {
+            "gearCount": 5,
+            "gear": "Shallow gill nets",
+            "species": "NOP",
+            "totalCatch": 22,
+            "totalWeight": 25263,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "CPUE": "4.40",
+            "averageWeight": "2.53"
+          },
+          {
+            "quartileCount": "N/A",
+            "CPUE": "0.50",
+            "quartileWeight": "N/A",
+            "averageWeight": "4.81",
+            "totalWeight": 6548,
+            "totalCatch": 3,
+            "species": "LKW",
+            "gear": "Deep gill nets",
+            "gearCount": 6
+          },
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "3.32",
+            "quartileWeight": "N/A",
+            "CPUE": "0.60",
+            "totalCatch": 3,
+            "totalWeight": 4523,
+            "species": "WTS",
+            "gearCount": 5,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "gear": "Deep gill nets",
+            "gearCount": 6,
+            "totalCatch": 4,
+            "totalWeight": 2087,
+            "species": "BUB",
+            "quartileWeight": "N/A",
+            "CPUE": "0.67",
+            "averageWeight": "1.15",
+            "quartileCount": "N/A"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "gearCount": 5,
+            "totalCatch": 11,
+            "totalWeight": 10336,
+            "species": "WAE",
+            "averageWeight": "2.07",
+            "quartileWeight": "N/A",
+            "CPUE": "2.20",
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.80",
+            "quartileWeight": "N/A",
+            "CPUE": "3.17",
+            "gear": "Deep gill nets",
+            "gearCount": 6,
+            "totalCatch": 19,
+            "species": "TLC",
+            "totalWeight": 6868
+          },
+          {
+            "gearCount": 5,
+            "gear": "Shallow gill nets",
+            "species": "PMK",
+            "totalWeight": 17,
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "averageWeight": "0.04",
+            "quartileWeight": "N/A",
+            "CPUE": "0.20"
+          },
+          {
+            "totalWeight": 5193,
+            "totalCatch": 6,
+            "species": "SMB",
+            "gearCount": 5,
+            "gear": "Shallow gill nets",
+            "averageWeight": "1.91",
+            "quartileWeight": "N/A",
+            "CPUE": "1.20",
+            "quartileCount": "N/A"
+          }
+        ],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "id_date": "2023-07-10",
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "wb_name": "Red Rock",
+          "wb_id": "16079300",
+          "survey_id": "20302327240358103",
+          "county": "Cook"
+        }
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "surveyDate": "1987-07-15",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>WALLEYE ABUNDANCE IS LOW, AS IT WAS IN 1985, AND HAS DECLINED SHARPLY SINCE THE 1972 ASSESSMENT. AVERAGE SIZE APPEARS TO BE GOOD. THE SAMPLE SIZE IS TO SMALL TO DRAW ANY CONCLUSIONS ABOUT YEAR- CLASS STRENGTH. WALLEYE GROWTH IS GOOD, SOMEWHAT ABOVE STATE AVERAGE AT AGE IV. SMALLMOUTH BASS ABUNDANCE AND AVERAGE SIZE ARE GOOD, BUT GROWTH APPEARS TO BE SLOW. LAKE WHITEFISH ABUNDANCE HAS DECLINED DRASTICALLY SINCE 1972, AND NORTHERN CISCO HAVE REPLACED THEM AS THE DOMINANT COREGONID IN THE LAKE. SINCE CISCO ARE GENERALLY A BETTER FORAGE SPECIES THAN LAKE WHITEFISH, THIS COULD BE SEEN AS A POSITIVE CHANGE IF NOT FOR THE COINDIDING DROP IN WALLEYE ABUNDANCE OVER THE SAME PERIOD.</p>",
+        "surveyID": "110039",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.2-1.0",
+            "quartileWeight": "0.6-1.5",
+            "CPUE": "0.50",
+            "averageWeight": "1.33",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalCatch": 3,
+            "species": "BUB",
+            "totalWeight": 4
+          },
+          {
+            "totalCatch": 4,
+            "species": "NOP",
+            "totalWeight": 13,
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "quartileCount": "0.6-2.4",
+            "CPUE": "0.67",
+            "quartileWeight": "2.1-4.9",
+            "averageWeight": "3.25"
+          },
+          {
+            "quartileCount": "0.3-1.4",
+            "quartileWeight": "0.6-1.5",
+            "averageWeight": "2.40",
+            "CPUE": "0.83",
+            "totalWeight": 12,
+            "totalCatch": 5,
+            "species": "SMB",
+            "gear": "Standard gill nets",
+            "gearCount": 6
+          },
+          {
+            "quartileCount": "1.2-5.2",
+            "CPUE": "1.17",
+            "quartileWeight": "1.0-2.0",
+            "averageWeight": "3.29",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalCatch": 7,
+            "totalWeight": 23,
+            "species": "WAE"
+          },
+          {
+            "quartileCount": "1.6-15.5",
+            "quartileWeight": "1.0-2.1",
+            "averageWeight": "2.00",
+            "CPUE": "0.17",
+            "totalWeight": 2,
+            "totalCatch": 1,
+            "species": "LKW",
+            "gearCount": 6,
+            "gear": "Standard gill nets"
+          },
+          {
+            "quartileCount": "0.8-5.3",
+            "CPUE": "0.33",
+            "quartileWeight": "1.1-2.5",
+            "averageWeight": "0.75",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "species": "WTS",
+            "totalCatch": 2,
+            "totalWeight": 1.5
+          },
+          {
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "species": "TLC",
+            "totalCatch": 53,
+            "totalWeight": 53,
+            "CPUE": "8.83",
+            "quartileWeight": "0.2-1.0",
+            "averageWeight": "1.00",
+            "quartileCount": "3.2-20.2"
+          }
+        ],
+        "headerInfo": {
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_name": "Red Rock",
+          "wb_id": "16079300",
+          "survey_id": "110039",
+          "wb_alt_name": "",
+          "id_date": "1987-07-15",
+          "survey_type": "Population Assessment"
+        },
+        "lengths": {}
+      },
+      {
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "wb_id": "16079300",
+          "survey_id": "21872426146961193",
+          "wb_type": "Lake",
+          "wb_name": "Red Rock",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "id_date": "2024-08-06",
+          "county": "Cook"
+        },
+        "surveyID": "21872426146961193",
+        "lengths": {},
+        "surveyDate": "2024-08-06",
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Red Rock Lake, on August 6, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake (Cisco, also known as Tullibee, are also present). During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased to below 17.2 degrees C (63.0 degrees F) at 16.1 feet, and the dissolved oxygen concentration decreased to 3.0 mg/L at 54.7 feet at the time of sampling. The thickness of this layer in the water column was 38.6 feet, indicating that oxythermal habitat was present for Lake Whitefish.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.5 degrees C (43.7 degrees F). TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey.  <br> \n <br> \nData collected by the Minnesota Department of Natural Resources in 1972 during the late summer thermal stress period indicated suitable oxythermal habitat. Data were also collected outside the thermal maximum period in 2023, this data indicated suitable oxythermal habitat during that sampling period. The least favorable oxythermal habitat conditions were recorded in 1972 during the peak summer stress period, when the suitable habitat layer thickness was 22.8 feet. When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.  <br> \n</p>"
+      }
+    ],
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "O",
+        "location": "Inside the BWCAW; access by portage from Saganaga and Alpine Lakes.",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "areaAcres": 450.9,
+    "county": "Cook",
+    "meanDepthFeet": 0,
+    "DOWNumber": "16079300",
+    "sampledPlants": []
+  }
+}

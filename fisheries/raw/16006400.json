@@ -1,0 +1,54 @@
+{
+  "timestamp": 1790285918,
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "averageWaterClarity": "4.0",
+    "DOWNumber": "16006400",
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "location": "PORTAGE TRAIL FROM PINE LAKE.",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " "
+      }
+    ],
+    "areaAcres": 19.58,
+    "shoreLengthMiles": 0.98,
+    "county": "Cook",
+    "littoralAcres": 19.58,
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 5,
+    "surveys": [
+      {
+        "narrative": "<p>TABLE LAKE DOES NOT APPEAR TO HAVE A FISH POPULATION.</p>",
+        "surveyDate": "1975-08-23",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_id": "110101",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "wb_name": "Table",
+          "wb_id": "16006400",
+          "id_date": "1975-08-23",
+          "wb_type": "Lake"
+        },
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "surveyID": "110101",
+        "fishCatchSummaries": [],
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "waterClarity": [
+      [
+        "08/23/1975",
+        "4"
+      ]
+    ],
+    "sampledPlants": [],
+    "lakeName": "Table"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "timestamp": 1790285897,
+  "status": "SUCCESS",
+  "result": {
+    "shoreLengthMiles": 1.3,
+    "officeCode": "F214",
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "location": "USFS PORTAGE ~20 RODS~ FROM KEKEKABIC LAKE. LAKE IS WITHIN THE BWCAW.",
+        "accessTypeId": "O"
+      }
+    ],
+    "areaAcres": 54.91,
+    "surveys": [
+      {
+        "surveyID": "108393",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 18,
+            "totalWeight": 17.7,
+            "gearCount": 1,
+            "quartileCount": "1.0-4.5",
+            "CPUE": "18.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.9-4.3",
+            "averageWeight": "0.98",
+            "species": "LAT"
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.10",
+            "species": "YEP",
+            "totalCatch": 2,
+            "totalWeight": 0.2,
+            "gearCount": 1,
+            "quartileCount": "1.0-8.0",
+            "CPUE": "2.00",
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "0.88",
+            "species": "WTS",
+            "quartileWeight": "0.6-2.0",
+            "totalWeight": 4.4,
+            "gearCount": 1,
+            "quartileCount": "1.5-10.4",
+            "CPUE": "5.00",
+            "gear": "Standard gill nets",
+            "totalCatch": 5
+          }
+        ],
+        "lengths": {},
+        "surveyDate": "1988-09-14",
+        "narrative": "<p>A deep water gillnet set shows lake trout and white sucker are present in above average numbers. Yellow perch are also present. Lake trout natural reproduction is good; three of eight trout captured were under 12 18 tile lake</p>",
+        "headerInfo": {
+          "survey_id": "108393",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "id_date": "1988-09-14",
+          "wb_name": "Kek",
+          "county": "Lake",
+          "wb_alt_name": "Little Kekakabic",
+          "wb_id": "38022800"
+        },
+        "surveySubType": "Population Assessment"
+      }
+    ],
+    "county": "Lake",
+    "littoralAcres": 6,
+    "lakeName": "Kek",
+    "maxDepthFeet": 130,
+    "DOWNumber": "38022800",
+    "lakeAltName": "Little Kekakabic",
+    "averageWaterClarity": "N/A",
+    "waterClarity": []
+  },
+  "message": "Normal execution."
+}

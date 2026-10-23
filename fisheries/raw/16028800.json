@@ -1,0 +1,99 @@
+{
+  "timestamp": 1790285654,
+  "result": {
+    "sampledPlants": [],
+    "littoralAcres": 77.97,
+    "averageWaterClarity": "4.0",
+    "county": "Cook",
+    "DOWNumber": "16028800",
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "PRMIT",
+        "location": ""
+      }
+    ],
+    "maxDepthFeet": 14,
+    "surveys": [
+      {
+        "surveyDate": "1976-06-24",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.8-8.5",
+            "averageWeight": "2.71",
+            "quartileWeight": "1.1-2.0",
+            "totalCatch": 7,
+            "CPUE": "3.50",
+            "gear": "Standard gill nets",
+            "species": "NOP",
+            "gearCount": 2,
+            "totalWeight": 19
+          },
+          {
+            "species": "WAE",
+            "gear": "Standard gill nets",
+            "CPUE": "0.50",
+            "totalCatch": 1,
+            "totalWeight": 4,
+            "gearCount": 2,
+            "quartileWeight": "1.1-2.0",
+            "averageWeight": "4.00",
+            "quartileCount": "1.3-5.0"
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "quartileCount": "2.0-16.0",
+            "averageWeight": "0.50",
+            "CPUE": "0.50",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "totalWeight": 0.5,
+            "gearCount": 2
+          },
+          {
+            "CPUE": "2.50",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "totalCatch": 5,
+            "totalWeight": 9.5,
+            "gearCount": 2,
+            "quartileWeight": "1.4-2.5",
+            "quartileCount": "4.0-14.5",
+            "averageWeight": "1.90"
+          }
+        ],
+        "surveyID": "109699",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_id": "16028800",
+          "survey_type": "Initial Survey",
+          "id_date": "1976-06-24",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "109699",
+          "wb_name": "Eagle",
+          "county": "Cook"
+        },
+        "narrative": "<p>Eagle Lake has low populations for all species present as indicated by net catches.  Only one N Pike was catchable size and the single Walleye taken is probably a stray from another lake in the system.  Forage fish are very scarce.</p>",
+        "lengths": {}
+      }
+    ],
+    "officeCode": "F218",
+    "meanDepthFeet": 0,
+    "waterClarity": [
+      [
+        "06/24/1976",
+        "4"
+      ]
+    ],
+    "shoreLengthMiles": 3.69,
+    "areaAcres": 77.97,
+    "lakeName": "Eagle"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

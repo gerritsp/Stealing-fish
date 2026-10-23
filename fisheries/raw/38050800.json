@@ -1,0 +1,148 @@
+{
+  "result": {
+    "lakeName": "Gibson",
+    "surveys": [
+      {
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_id": "108014",
+          "county": "Lake",
+          "survey_type": "Initial Survey",
+          "id_date": "1982-07-12",
+          "wb_name": "Gibson",
+          "wb_type": "Lake",
+          "wb_id": "38050800"
+        },
+        "narrative": "<p>Composed of above average populations of cisco and perch, average populations of walleye and northern pike, & a below average population of suckers. Growth rates are above average for walleyes in this type of a lake.</p>",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "0.8-3.0",
+            "totalCatch": 5,
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.1-5.8",
+            "CPUE": "2.50",
+            "gearCount": 2,
+            "totalWeight": 15,
+            "averageWeight": "3.00"
+          },
+          {
+            "species": "WAE",
+            "quartileCount": "2.4-16.0",
+            "CPUE": "8.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.4-1.9",
+            "totalCatch": 16,
+            "averageWeight": "1.00",
+            "totalWeight": 16,
+            "gearCount": 2
+          },
+          {
+            "totalCatch": 26,
+            "quartileWeight": "0.1-0.2",
+            "quartileCount": "1.1-12.4",
+            "CPUE": "13.00",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "gearCount": 2,
+            "totalWeight": 4,
+            "averageWeight": "0.15"
+          },
+          {
+            "totalCatch": 5,
+            "quartileWeight": "0.4-1.7",
+            "quartileCount": "1.0-8.9",
+            "gear": "Standard gill nets",
+            "CPUE": "2.50",
+            "species": "WTS",
+            "totalWeight": 8.5,
+            "gearCount": 2,
+            "averageWeight": "1.70"
+          },
+          {
+            "species": "TLC",
+            "gear": "Standard gill nets",
+            "quartileCount": "3.8",
+            "CPUE": "5.50",
+            "quartileWeight": "0.4",
+            "totalCatch": 11,
+            "averageWeight": "0.45",
+            "gearCount": 2,
+            "totalWeight": 5
+          }
+        ],
+        "surveyID": "108014",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1982-07-12"
+      },
+      {
+        "surveyDate": "2025-07-31",
+        "surveySubType": "Targeted Survey",
+        "surveyID": "-320",
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Gibson Lake on July 31st, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 19.7 feet), the water temperature never decreased below 21.2 degrees C (70.2 degrees F) and the dissolved oxygen concentration stayed greater than 3.0 mg/L throughout the entire sampled depth. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 23.2 degrees C (73.8 degrees F), was substituted as TDO3. TDO3 values warmer than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were unsuitable for Cisco at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicates unsuitable oxythermal habitat. When adequate oxythermal habitat is unavailable, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "headerInfo": {
+          "id_date": "2025-07-31",
+          "wb_name": "Gibson",
+          "wb_type": "Lake",
+          "wb_id": "38050800",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "survey_id": "-320",
+          "survey_type": "Targeted Survey"
+        }
+      },
+      {
+        "surveySubType": "Targeted Survey",
+        "surveyDate": "2024-07-29",
+        "fishCatchSummaries": [],
+        "surveyID": "21872427031120000",
+        "lengths": {},
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected in the deepest basin in Gibson Lake on July 29, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin, the water temperature decreased to below 21.2 degrees C (70.2 degrees F) at 18 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 16.8 feet at the time of sampling. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Cisco.  <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 21.3 degrees C (70.3 degrees F). TDO3 values warmer than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were unsuitable for Cisco at the time of the survey.  <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey on Gibson Lake during the late summer period of maximum oxythermal stress. If inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. </p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "survey_id": "21872427031120000",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "wb_id": "38050800",
+          "id_date": "2024-07-29",
+          "wb_name": "Gibson"
+        }
+      }
+    ],
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "location": "Portages from -   Cattyman ~200 yards~ Ashigan ~1/3mi.~ Swing ~300 yards~.",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "maxDepthFeet": 24,
+    "DOWNumber": "38050800",
+    "littoralAcres": 24,
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "county": "Lake",
+    "shoreLengthMiles": 1.22,
+    "averageWaterClarity": "5.5",
+    "meanDepthFeet": 0,
+    "areaAcres": 33.03,
+    "waterClarity": [
+      [
+        "07/29/2024",
+        "5.47"
+      ]
+    ]
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285830
+}

@@ -1,0 +1,166 @@
+{
+  "timestamp": 1790285881,
+  "result": {
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "N/A",
+    "areaAcres": 42.71,
+    "officeCode": "F218",
+    "surveys": [
+      {
+        "surveyID": "110241",
+        "headerInfo": {
+          "wb_name": "Rattle",
+          "wb_alt_name": "",
+          "survey_id": "110241",
+          "county": "Cook",
+          "survey_type": "Initial Survey",
+          "id_date": "1993-09-20",
+          "wb_type": "Lake",
+          "wb_id": "16072000"
+        },
+        "narrative": "<p>Rattle Lake supported fair numbers of medium-sized northern pike, a few yellow perch, and large numbers of white sucker.  The lake was similar to other small, unproductive BWCAW lakes which have yet to be impacted by exotic (to the area) species such as walleye and smallmouth bass.</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "2.3-5.1",
+            "CPUE": "3.67",
+            "species": "NOP",
+            "totalWeight": 10511,
+            "averageWeight": "2.11",
+            "totalCatch": 11,
+            "gearCount": 3,
+            "quartileWeight": "1.4-2.2"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "1.3-10.3",
+            "CPUE": "0.67",
+            "species": "YEP",
+            "totalWeight": 129,
+            "averageWeight": "0.14",
+            "gearCount": 3,
+            "totalCatch": 2,
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "CPUE": "9.67",
+            "totalWeight": 27726,
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.7-12.5",
+            "gearCount": 3,
+            "quartileWeight": "0.7-2.3",
+            "totalCatch": 29,
+            "averageWeight": "2.11"
+          }
+        ],
+        "lengths": {
+          "WTS": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                9
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                7
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 19
+          },
+          "NOP": {
+            "minimum_length": 15,
+            "fishCount": [
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                22,
+                3
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                25,
+                2
+              ]
+            ],
+            "maximum_length": 25
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 6
+          }
+        },
+        "surveyDate": "1993-09-20"
+      }
+    ],
+    "sampledPlants": [],
+    "littoralAcres": 28,
+    "county": "Cook",
+    "lakeName": "Rattle",
+    "DOWNumber": "16072000",
+    "waterClarity": [],
+    "maxDepthFeet": 30,
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "The lake is entirely within the BWCAW; with portage trails from Little Saganaga and Gabimichigami Lakes.",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "shoreLengthMiles": 2.85
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

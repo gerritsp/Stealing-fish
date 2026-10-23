@@ -1,0 +1,54 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "location": "NONE",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "shoreLengthMiles": 2.5,
+    "areaAcres": 51.43,
+    "maxDepthFeet": 50,
+    "DOWNumber": "16053200",
+    "officeCode": "F218",
+    "littoralAcres": 0,
+    "lakeName": "Blue Snow",
+    "waterClarity": [
+      [
+        "08/12/1987",
+        "14"
+      ]
+    ],
+    "county": "Cook",
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "14.0",
+    "sampledPlants": [],
+    "surveys": [
+      {
+        "narrative": "<p>FROM RELIABLE ANGLING REPORTS THIS LAKE HAS BEEN KNOWN PRODUCER OF LAKE TROUT. LAKE TROUT WERE NATIVE - THERE ARE NO STOCKING RECORDS. THERE IS A CHANCE THAT TROUT STILL SURVIVE, BUT PROABALY IN LOW NUMBERS. NO OTHER FISH SPECIES WERE TAKEN. THIS IS UNUSUAL IN LAKES OF THIS TYPE, WHICH GENERALLY HAVE FISH POPUALTIONS CONSISTING OF LAKE TROUT, BURBOT, YELLOW PERCH, NORTHERN PIKE AND WHITE SUCKER.</p>",
+        "surveyID": "110065",
+        "headerInfo": {
+          "wb_id": "16053200",
+          "survey_type": "Initial Survey",
+          "id_date": "1987-08-12",
+          "county": "Cook",
+          "survey_id": "110065",
+          "wb_alt_name": "",
+          "wb_name": "Blue Snow",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "surveySubType": "Initial Survey",
+        "surveyDate": "1987-08-12",
+        "lengths": {},
+        "fishCatchSummaries": []
+      }
+    ]
+  },
+  "timestamp": 1790285902,
+  "status": "SUCCESS"
+}

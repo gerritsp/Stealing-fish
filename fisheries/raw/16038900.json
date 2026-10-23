@@ -1,0 +1,496 @@
+{
+  "timestamp": 1790285731,
+  "result": {
+    "DOWNumber": "16038900",
+    "waterClarity": [
+      [
+        "07/25/1972",
+        "11"
+      ],
+      [
+        "09/19/1990",
+        "9.5"
+      ]
+    ],
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 62,
+    "areaAcres": 25.95,
+    "surveys": [
+      {
+        "surveyID": "110228",
+        "narrative": "<p>Brook trout were abundant, and fish up to 15 inches were collected.  All the brook trout collected were from the 1992 and 1990 stockings.  Slow growth and limited survival past age 3 make it unlikely that Mulligan Lake would produce many trophy-sized brook trout.</p>",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_id": "110228",
+          "wb_id": "16038900",
+          "id_date": "1993-09-16",
+          "wb_name": "Mulligan",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "1993-09-16",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "averageWeight": "0.63",
+            "totalCatch": 28,
+            "CPUE": "9.33",
+            "species": "BKT",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "totalWeight": 7940
+          },
+          {
+            "totalWeight": 3430,
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-2.3",
+            "species": "WTS",
+            "CPUE": "1.33",
+            "totalCatch": 4,
+            "averageWeight": "1.89",
+            "quartileCount": "1.7-12.5"
+          },
+          {
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "totalWeight": 120,
+            "species": "PMK",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.07",
+            "totalCatch": 4,
+            "CPUE": "1.33"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "WTS": {
+            "minimum_length": 16,
+            "fishCount": [
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ]
+            ],
+            "maximum_length": 17
+          },
+          "PMK": {
+            "fishCount": [
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                1
+              ]
+            ],
+            "minimum_length": 4,
+            "maximum_length": 5
+          },
+          "BKT": {
+            "fishCount": [
+              [
+                10,
+                7
+              ],
+              [
+                12,
+                9
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "minimum_length": 7,
+            "maximum_length": 15
+          }
+        },
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveyID": "109860",
+        "narrative": "<p>THE CURRENT BROOK TROUT POPULATION IS ENTIRELY SUPPORTED BY STOCKING. IN THIS ASSESSMENT, THE 1984 AND 1982 YEAR-CLASSES ARE PRESENT. THE 1984 FISH ARE NIPIGON STRAIN BROOK TROUT, AND SEEM TO SHOW GOOD EARLY GROWTH. THE WHITE SUCKER POPULA- TION IS LARGE AND MAY BECOME A MANAGEMENT PROBLEM.</p>",
+        "headerInfo": {
+          "id_date": "1985-06-28",
+          "survey_id": "109860",
+          "wb_id": "16038900",
+          "wb_alt_name": "",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "wb_name": "Mulligan"
+        },
+        "surveyDate": "1985-06-28",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.4-7.0",
+            "averageWeight": "0.05",
+            "totalCatch": 5,
+            "CPUE": "1.67",
+            "species": "GSF",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "totalWeight": 0.25
+          },
+          {
+            "quartileCount": "N/A",
+            "gearCount": 3,
+            "totalWeight": 4,
+            "species": "BKT",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.40",
+            "totalCatch": 10,
+            "CPUE": "3.33"
+          },
+          {
+            "quartileCount": "1.7-12.5",
+            "CPUE": "6.67",
+            "totalCatch": 20,
+            "averageWeight": "0.54",
+            "quartileWeight": "0.7-2.3",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "totalWeight": 10.8,
+            "gearCount": 3
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "BKT": {
+            "maximum_length": 17,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                19,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                11
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 6
+          },
+          "NOP": {
+            "fishCount": [
+              [
+                31,
+                1
+              ]
+            ],
+            "minimum_length": 31,
+            "maximum_length": 31
+          }
+        },
+        "surveyType": "Standard Survey",
+        "surveyDate": "2004-09-08",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "2.3-5.1",
+            "averageWeight": "10.26",
+            "totalCatch": 1,
+            "CPUE": "0.33",
+            "species": "NOP",
+            "quartileWeight": "1.4-2.2",
+            "gear": "Standard gill nets",
+            "gearCount": 3,
+            "totalWeight": 4655
+          },
+          {
+            "quartileCount": "N/A",
+            "species": "BKT",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "gearCount": 3,
+            "totalWeight": 1236,
+            "averageWeight": "1.36",
+            "totalCatch": 2,
+            "CPUE": "0.67"
+          },
+          {
+            "CPUE": "6.00",
+            "averageWeight": "0.36",
+            "totalCatch": 18,
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-2.3",
+            "species": "WTS",
+            "totalWeight": 2933,
+            "gearCount": 3,
+            "quartileCount": "1.7-12.5"
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Mulligan",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "county": "Cook",
+          "wb_alt_name": "",
+          "wb_id": "16038900",
+          "survey_id": "111466",
+          "id_date": "2004-09-08"
+        },
+        "narrative": "<p>Mulligan Lake supported a very low number of brook trout in 2004.  An increase in stocking frequency (to annual stocking) did not result in an increase in brook trout abundance.  It appeared that survival of fish from the last three stockings had been very low.  Northern pike were found in Mulligan Lake for the first time in this assessment.  Northern pike prey heavily on stocked trout, and if they have become established in this lake, management for stream trout may no longer be possible.White sucker were captured in moderate numbers.  No green sunfish were found, but they have been taken in this lake in the past.</p>",
+        "surveyID": "111466"
+      },
+      {
+        "surveyID": "110159",
+        "narrative": "<p>BKT FROM THE 1988 STOCKING SHOWED GOOD SURVIVAL AND AVERAGE GROWTH FOR COOK COUNTY.  THERE APPEARS TO HAVE BEEN LITTLE OR NO LONG TERM SURVIVAL OF THE NIPIGON STRAIN BKT STOCKED IN 1986 AND 1984.</p>",
+        "headerInfo": {
+          "wb_name": "Mulligan",
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "survey_id": "110159",
+          "wb_id": "16038900",
+          "wb_alt_name": "",
+          "id_date": "1990-09-19"
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "0.4-7.0",
+            "gearCount": 3,
+            "totalWeight": 0.03,
+            "species": "GSF",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.03",
+            "totalCatch": 1,
+            "CPUE": "0.33"
+          },
+          {
+            "quartileCount": "N/A",
+            "totalWeight": 13.63,
+            "gearCount": 3,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "CPUE": "6.33",
+            "totalCatch": 19,
+            "averageWeight": "0.72"
+          },
+          {
+            "quartileCount": "1.7-12.5",
+            "totalWeight": 7.63,
+            "gearCount": 3,
+            "quartileWeight": "0.7-2.3",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "CPUE": "2.33",
+            "totalCatch": 7,
+            "averageWeight": "1.09"
+          },
+          {
+            "totalCatch": 1,
+            "averageWeight": "0.03",
+            "CPUE": "0.33",
+            "gearCount": 3,
+            "totalWeight": 0.03,
+            "species": "PMK",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A"
+          }
+        ],
+        "surveyDate": "1990-09-19",
+        "surveyType": "Standard Survey",
+        "lengths": {},
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 3,
+            "totalWeight": 40,
+            "species": "GSF",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "totalCatch": 2,
+            "averageWeight": "0.04",
+            "CPUE": "0.67",
+            "quartileCount": "0.4-7.0"
+          },
+          {
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "totalWeight": 3825,
+            "gearCount": 3,
+            "CPUE": "4.33",
+            "averageWeight": "0.65",
+            "totalCatch": 13
+          },
+          {
+            "CPUE": "1.67",
+            "totalCatch": 5,
+            "averageWeight": "1.70",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.7-2.3",
+            "species": "WTS",
+            "totalWeight": 3855,
+            "gearCount": 3,
+            "quartileCount": "1.7-12.5"
+          }
+        ],
+        "surveyDate": "1997-09-17",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "GSF": {
+            "maximum_length": 4,
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                4,
+                2
+              ]
+            ]
+          },
+          "BKT": {
+            "maximum_length": 16,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 18
+          }
+        },
+        "narrative": "<p>Mulligan Lake supported a moderate number of brook trout in 1997, with a good proportion over 12 inches in length.  Fish from the 1996 and 1994 stockings were found, but growth rates were relatively slow.  White sucker and green sunfish were also found, but not in excessive numbers for a lake of this type.  Even-year-only stocking prior to 1997 had resulted in the best fishing opportunities occurring in a cyclic manner (fall of odd years and spring of even years).  A switch to annual stocking of this lake was recommended, to create a population which could provide two or more catchable-size year classes on a more regular basis.</p>",
+        "surveyID": "110849",
+        "headerInfo": {
+          "survey_id": "110849",
+          "wb_id": "16038900",
+          "wb_alt_name": "",
+          "id_date": "1997-09-17",
+          "wb_name": "Mulligan",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "county": "Cook"
+        }
+      }
+    ],
+    "county": "Cook",
+    "officeCode": "F218",
+    "shoreLengthMiles": 1.1,
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "USF",
+        "accessTypeId": "O",
+        "location": "A 0.12 mile portage from Lily Lake to the south shore of Mulligan Lake.",
+        "lakeAccessComments": " "
+      }
+    ],
+    "littoralAcres": 12,
+    "averageWaterClarity": "10.3",
+    "sampledPlants": [],
+    "lakeName": "Mulligan"
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution."
+}

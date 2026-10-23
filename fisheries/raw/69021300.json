@@ -1,0 +1,328 @@
+{
+  "timestamp": 1790286072,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "maxDepthFeet": 57,
+    "surveys": [
+      {
+        "surveyDate": "2002-09-09",
+        "narrative": "<p>Toe Lake is in the Boundary Waters Canoe Area Wilderness on a no-motor route.  The only riparian development is one campsite and two portage trails to Lac La Croix.Toe Lake is in Ecological Lake Class 5, which consists of 64 lakes in northeast Minnesota that have limited littoral area and have water that is soft (unmineralized) and clear.  Toe Lake is smaller, deeper, and has softer water than most of the lakes in this lake class.Toe Lake ranks as mesotrophic-to-oligotrophic according to Carlson's Trophic State Index, with Chlorophyll-a of 3.1 ppb (mesotrophic) and Secchi water clarity of 4.6 M (oligotrophic).  Unfortunately, the phosphorus level of Toe Lake was less than or equal to the detection limit of 20 ppb, and this coarse detection limit makes this parameter useless for discriminating between oligotrophy and mesotrophy.Toe Lake was thermally stratified on 09/09/2002 with a surface temperature of 72 F and a bottom temperature of 42 F.  Five ppm oxygen was retained to a depth of 29 ft, where the temperature was 46 F, and 2 ppm oxygen was retained to a depth of 38 ft, where the temperature was 44 F.Toe Lake has no inlets.  The outlet to Lac La Croix would be navigable by canoe if water levels were at normal levels and if the beaver dam at the outlet was not present.  Lake bottom substrates along the shoreline are mostly boulder and rubble.  Aquatic plants are sparse and grow to a depth of 13 ft; sedges and sweetgale ring the shoreline, while various pondweeds, water celery, and Canada waterweed are the most common aquatic plants.Fish sampling in this initial survey consisted of six gillnet sets.  Trapnets and shoreline seines were not used due to the difficult access to this lake.The total catch of fish (all species combined) in this lake of 20.7 fish/gillnet was in the first quartile for this lake class.  The total catch of fish by weight (49.0 lb/gillnet) was in the fourth quartile for this lake class.  Fish populations were dominated by northern pike and walleye; many of these fish were quite large.  Lake Class 5 is one of the most productive lake classes in northeast Minnesota, in terms of gillnet catches of fish.Northern pike numbers (6.0/gillnet) were in the fourth quartile for this lake class.  Pike sizes averaged 24.4\" (3.6 lb), which was in the third quartile for this lake class.  The largest pike was 40.0\" (15.6 lb).  Pike scales were difficult to read, but pike growth appeared to be in the normal range by area standards.Walleye numbers (8.3/gillnet) were in the third quartile for this lake class.  Walleye sizes averaged 20.3\" (3.1 lb), which was in the fourth quartile for this lake class.  The largest walleye was 27.0\" (7.3 lb).  Most walleye (52 percent) were age four, from a strong 1998 year class.  Walleye growth was faster than normal (in the fourth quartile) by area standards.Rock bass numbers (3.0/gillnet) were in the fourth quartile for this lake class.  Smallmouth bass numbers (1.0/gillnet) were at the median for this lake class.  Smallmouth sizes averaged 9.9\" and the largest was 13.3\".  Low numbers of cisco and pumpkinseed sunfish were also captured.Some of the northern pike and walleye were infected with neascus.  Some of the smallmouth bass had bass tapeworm larvae in their viscera, and some of the cisco had triaenophorus.  Neascus (black spot), bass tapeworm, and triaenophorus are common parasites that are native to the area.  They cannot infect humans, are often removed by filleting, and are killed at temperatures used to cook fish.</p>",
+        "surveyID": "109464",
+        "surveyType": "Standard Survey",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "wb_type": "Lake",
+          "wb_name": "Toe",
+          "wb_id": "69021300",
+          "id_date": "2002-09-09",
+          "survey_id": "109464",
+          "county": "St. Louis"
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "gear": "Standard gill nets",
+            "CPUE": "6.00",
+            "averageWeight": "3.62",
+            "totalWeight": 59148,
+            "species": "NOP",
+            "quartileWeight": "1.9-3.7",
+            "quartileCount": "1.8-5.5",
+            "totalCatch": 36
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "3.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.2-0.4",
+            "averageWeight": "0.12",
+            "totalWeight": 994,
+            "species": "RKB",
+            "totalCatch": 18,
+            "quartileCount": "0.5-2.2"
+          },
+          {
+            "gearCount": 6,
+            "CPUE": "1.00",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.5-1.4",
+            "totalWeight": 1430,
+            "species": "SMB",
+            "averageWeight": "0.53",
+            "totalCatch": 6,
+            "quartileCount": "0.5-2.1"
+          },
+          {
+            "quartileWeight": "0.8-2.0",
+            "species": "WAE",
+            "totalWeight": 70951,
+            "averageWeight": "3.13",
+            "totalCatch": 50,
+            "quartileCount": "2.0-9.7",
+            "gearCount": 6,
+            "CPUE": "8.33",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "0.83",
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalCatch": 5,
+            "averageWeight": "0.04",
+            "species": "PMK",
+            "totalWeight": 95,
+            "quartileWeight": "N/A"
+          },
+          {
+            "CPUE": "1.50",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalCatch": 9,
+            "quartileCount": "1.4-13.1",
+            "quartileWeight": "0.3-1.0",
+            "averageWeight": "0.13",
+            "species": "TLC",
+            "totalWeight": 529
+          }
+        ],
+        "lengths": {
+          "NOP": {
+            "minimum_length": 13,
+            "maximum_length": 39,
+            "fishCount": [
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                22,
+                7
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                24,
+                5
+              ],
+              [
+                25,
+                3
+              ],
+              [
+                27,
+                2
+              ],
+              [
+                28,
+                2
+              ],
+              [
+                29,
+                2
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                33,
+                1
+              ],
+              [
+                35,
+                1
+              ],
+              [
+                39,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "maximum_length": 27,
+            "fishCount": [
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                11
+              ],
+              [
+                19,
+                13
+              ],
+              [
+                20,
+                9
+              ],
+              [
+                21,
+                8
+              ],
+              [
+                22,
+                5
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                27,
+                1
+              ]
+            ],
+            "minimum_length": 15
+          },
+          "TLC": {
+            "minimum_length": 7,
+            "maximum_length": 8,
+            "fishCount": [
+              [
+                7,
+                7
+              ],
+              [
+                8,
+                2
+              ]
+            ]
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 13,
+            "minimum_length": 7
+          },
+          "PMK": {
+            "minimum_length": 3,
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                3,
+                4
+              ],
+              [
+                4,
+                1
+              ]
+            ]
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                4,
+                5
+              ],
+              [
+                5,
+                12
+              ],
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 6,
+            "minimum_length": 4
+          }
+        },
+        "surveySubType": "Initial Survey"
+      },
+      {
+        "surveyDate": "2025-07-31",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Toe Lake on July 31st, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Cisco, also known as Tullibee, the most sensitive coldwater species present in this lake. During the summer, Cisco require a layer of oxythermal habitat that contains water temperatures below 21.2 degrees C (70.2 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 52.5 feet), the water temperature decreased below 21.2 degrees C (70.2 degrees F) at 13.0 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 44.1 feet at the time of sampling. The thickness of this layer of water in the water column was 31.1 feet, indicating that oxythermal habitat was present for Cisco. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.7 degrees C (40.5 degrees F). TDO3 values cooler than 21.2 degrees C (70.2 degrees F) indicate that oxythermal conditions were suitable for Cisco at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Toe Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Cisco are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyID": "-325",
+        "surveyType": "Targeted Survey",
+        "headerInfo": {
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "county": "St. Louis",
+          "id_date": "2025-07-31",
+          "survey_id": "-325",
+          "wb_name": "Toe",
+          "wb_id": "69021300",
+          "wb_type": "Lake"
+        },
+        "fishCatchSummaries": [],
+        "lengths": {},
+        "surveySubType": "Targeted Survey"
+      }
+    ],
+    "DOWNumber": "69021300",
+    "averageWaterClarity": "13.1",
+    "shoreLengthMiles": 2.82,
+    "lakeName": "Toe",
+    "county": "St. Louis",
+    "areaAcres": 169.04,
+    "officeCode": "F214",
+    "waterClarity": [
+      [
+        "07/31/2025",
+        "13.1"
+      ]
+    ],
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "CA",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "USF",
+        "location": "100 rod portage from Lac La Croix near north shore."
+      },
+      {
+        "ownerTypeId": "USF",
+        "location": "8 rod portage from Lac La Croix near south shore.",
+        "publicUseAuthCode": "UNK",
+        "accessTypeId": "CA",
+        "lakeAccessComments": " "
+      }
+    ],
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "littoralAcres": 41
+  }
+}

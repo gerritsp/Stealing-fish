@@ -1,0 +1,110 @@
+{
+  "result": {
+    "shoreLengthMiles": 1.4,
+    "surveys": [
+      {
+        "narrative": "<p>There is a fair population of small N Pike, but Perch and Suckers are scarce for forage.</p>",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 0.1,
+            "gear": "Standard trap nets",
+            "quartileCount": "0.4-5.2",
+            "averageWeight": "0.10",
+            "gearCount": 4,
+            "CPUE": "0.25",
+            "totalCatch": 1,
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2"
+          },
+          {
+            "totalCatch": 6,
+            "quartileWeight": "0.9-2.8",
+            "species": "WTS",
+            "totalWeight": 16.8,
+            "gear": "Standard trap nets",
+            "averageWeight": "2.80",
+            "quartileCount": "0.4-2.4",
+            "CPUE": "1.50",
+            "gearCount": 4
+          },
+          {
+            "quartileWeight": "1.2-2.4",
+            "species": "NOP",
+            "totalCatch": 13,
+            "averageWeight": "1.26",
+            "quartileCount": "3.9-9.4",
+            "CPUE": "6.50",
+            "gearCount": 2,
+            "totalWeight": 16.4,
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalCatch": 1,
+            "quartileWeight": "0.8-2.3",
+            "species": "WTS",
+            "totalWeight": 1.9,
+            "gear": "Standard gill nets",
+            "averageWeight": "1.90",
+            "quartileCount": "2.6-17.5",
+            "CPUE": "0.50",
+            "gearCount": 2
+          },
+          {
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "totalCatch": 4,
+            "quartileCount": "N/A",
+            "averageWeight": "1.07",
+            "CPUE": "1.00",
+            "gearCount": 4,
+            "totalWeight": 4.3,
+            "gear": "Standard trap nets"
+          }
+        ],
+        "surveyID": "109702",
+        "headerInfo": {
+          "id_date": "1977-09-01",
+          "survey_id": "109702",
+          "wb_id": "16029800",
+          "wb_type": "Lake",
+          "wb_name": "One Island",
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "wb_alt_name": ""
+        },
+        "surveyDate": "1977-09-01",
+        "surveySubType": "Initial Survey",
+        "lengths": {}
+      }
+    ],
+    "lakeName": "One Island",
+    "officeCode": "F218",
+    "accesses": [
+      {
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "ownerTypeId": "UKN",
+        "accessTypeId": "O",
+        "location": "Accessible via 0.2 mile portage from logging road on N side of lake."
+      }
+    ],
+    "sampledPlants": [],
+    "areaAcres": 23.77,
+    "waterClarity": [
+      [
+        "08/31/1977",
+        "8.6"
+      ]
+    ],
+    "county": "Cook",
+    "littoralAcres": 18,
+    "DOWNumber": "16029800",
+    "maxDepthFeet": 25,
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "8.6"
+  },
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "timestamp": 1790285891
+}

@@ -1,0 +1,94 @@
+{
+  "message": "Normal execution.",
+  "status": "SUCCESS",
+  "result": {
+    "lakeName": "Adventure",
+    "county": "Lake",
+    "accesses": [
+      {
+        "location": "Portage 1/8 mile from Jitterbug L or paddle from Cattyman Lake.",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " ",
+        "accessTypeId": "O",
+        "ownerTypeId": "UKN"
+      }
+    ],
+    "littoralAcres": 47.23,
+    "officeCode": "F214",
+    "areaAcres": 47.23,
+    "shoreLengthMiles": 1.55,
+    "waterClarity": [],
+    "maxDepthFeet": 10,
+    "sampledPlants": [],
+    "averageWaterClarity": "N/A",
+    "DOWNumber": "38051200",
+    "surveys": [
+      {
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "county": "Lake",
+          "survey_id": "108018",
+          "id_date": "1982-07-16",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey",
+          "wb_name": "Adventure",
+          "wb_alt_name": "",
+          "wb_id": "38051200"
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "6.00",
+            "species": "NOP",
+            "gearCount": 1,
+            "totalCatch": 6,
+            "quartileCount": "3.0-9.0",
+            "quartileWeight": "1.2-2.5",
+            "averageWeight": "3.58",
+            "gear": "Standard gill nets",
+            "totalWeight": 21.5
+          },
+          {
+            "species": "WAE",
+            "CPUE": "6.00",
+            "quartileCount": "2.3-9.6",
+            "totalCatch": 6,
+            "gearCount": 1,
+            "quartileWeight": "0.7-1.8",
+            "totalWeight": 15,
+            "gear": "Standard gill nets",
+            "averageWeight": "2.50"
+          },
+          {
+            "totalWeight": 0.5,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.17",
+            "quartileWeight": "0.1-0.3",
+            "quartileCount": "3.3-18.3",
+            "totalCatch": 3,
+            "gearCount": 1,
+            "species": "YEP",
+            "CPUE": "3.00"
+          },
+          {
+            "gearCount": 1,
+            "totalCatch": 12,
+            "quartileCount": "5.3-22.1",
+            "CPUE": "12.00",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "averageWeight": "1.67",
+            "totalWeight": 20,
+            "quartileWeight": "1.3-2.3"
+          }
+        ],
+        "narrative": "<p>Adventure lake contains an above average population of suckers while walleyes, northern pike, and perch populations are about average.  The walleye population is composed mostly of mature fish which appear to have average growth rates through Age IV and then slow down considerably.</p>",
+        "surveyID": "108018",
+        "surveyDate": "1982-07-16",
+        "surveyType": "Standard Survey"
+      }
+    ],
+    "meanDepthFeet": 0
+  },
+  "timestamp": 1790285824
+}

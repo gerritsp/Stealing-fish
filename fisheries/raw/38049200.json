@@ -1,0 +1,304 @@
+{
+  "result": {
+    "accesses": [
+      {
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "lakeAccessComments": "Access on the east side of the lake.  Portage from Trader Lake.",
+        "accessTypeId": "PO",
+        "location": "Portage is 350 yards."
+      },
+      {
+        "accessTypeId": "PO",
+        "location": "Trail is approximately 3/4 mile from Ensign Lake.  The trail is typically used in the winter.",
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "Winter trail"
+      }
+    ],
+    "areaAcres": 32.15,
+    "averageWaterClarity": "12.0",
+    "maxDepthFeet": 58,
+    "surveys": [
+      {
+        "surveySubType": "Standard Survey",
+        "narrative": "<p>Neglige Lake is located within the Boundary Waters Canoe Area Wilderness (BWCAW) within the Superior National Forest and is a non-motorized lake.  It is approximately 26 miles northeast of Ely and is accessible by a 300 yard portage from Trader Lake.  The maximum depth on this 28 acre lake is 58 feet and the water color was light green at the time of this survey.  \n\nNeglige Lake was thermally stratified on June 9, 2015 with a surface temperature of 64 F and a bottom temperature of 40 F.  Ample oxygen for trout was retained to a depth of 30 feet; the temperature was 41 F at this depth.  As in the past, this assessment found excellent water quality in Neglige Lake.  Although the water was light green, it still had very good clarity and a good oxygen profile.  Neglige is typical of lakes stocked with stream trout in the Ely Area, except that it is deeper and more fertile.  Most of the shoreline is rocky with some muck in the bays.  A fair amount of cedar has fallen into the water.  White cedar, spruce, and thick balsam fir line the edges of the lake.\n\nRainbow trout fingerlings were stocked annually from 1980 to 1988.  From 1989 to the present various strains of brook trout fingerlings have been annually stocked.  \n\nThe 2015 survey showed Neglige Lake had one of the highest trout catches of the 26 stream trout lakes in the Tower Fisheries Management Area. The average catch by weight of 23 lbs/net was second in the Tower Area but the number of fish caught was also high. \n\nThe 41 brook trout caught were a range of sizes from 7 to 21 inches. The average size was 13 inches and 34% of the fish were larger than this. There were three general size groups around 7, 12, and 18 inches.\n\nSampling showed that trout fed mostly on insects, but also crayfish and minnows were being consumed.\n\n</p>",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                10,
+                7
+              ],
+              [
+                11,
+                4
+              ],
+              [
+                12,
+                10
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                4
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                3
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 6
+          }
+        },
+        "surveyID": "12231515439758001",
+        "surveyDate": "2015-06-08",
+        "headerInfo": {
+          "survey_type": "Standard Survey",
+          "wb_type": "Lake",
+          "survey_id": "12231515439758001",
+          "wb_alt_name": "",
+          "wb_id": "38049200",
+          "wb_name": "Neglige",
+          "county": "Lake",
+          "id_date": "2015-06-08"
+        },
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 41,
+            "species": "BKT",
+            "totalWeight": 19360,
+            "averageWeight": "1.04",
+            "CPUE": "20.50",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "gearCount": 2
+          }
+        ]
+      },
+      {
+        "lengths": {},
+        "narrative": "<p>Only small minnows were observed prior to rainbow trout stocking. The current rainbow population is above average in numbers and size (mean length= 14.0</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "gearCount": 2,
+            "species": "RBT",
+            "totalCatch": 14,
+            "totalWeight": 22.2,
+            "CPUE": "7.00",
+            "averageWeight": "1.59"
+          }
+        ],
+        "headerInfo": {
+          "wb_name": "Neglige",
+          "wb_id": "38049200",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "id_date": "1984-08-13",
+          "wb_type": "Lake",
+          "survey_id": "108276",
+          "survey_type": "Population Assessment"
+        },
+        "surveyID": "108276",
+        "surveyDate": "1984-08-13"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gearCount": 2,
+            "totalWeight": 53.6,
+            "species": "RBT",
+            "totalCatch": 43,
+            "CPUE": "21.50",
+            "averageWeight": "1.25"
+          },
+          {
+            "CPUE": "30.00",
+            "averageWeight": "0.31",
+            "totalCatch": 60,
+            "species": "BKT",
+            "totalWeight": 18.5,
+            "gearCount": 2,
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets"
+          }
+        ],
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_name": "Neglige",
+          "wb_id": "38049200",
+          "county": "Lake",
+          "id_date": "1990-06-28",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "survey_id": "108463"
+        },
+        "surveyDate": "1990-06-28",
+        "surveyID": "108463",
+        "lengths": {},
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Large numbers of brook trout and rainbow trout were taken in two gillnets.  Rainbow trout dominated the catch by weight because they were older - stocked prior to 1989. The brook trout grew from 2/lb. in October, 1989 to 3.2/lb. in June, 1990 when they were caught.</p>",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "surveyID": "108898",
+        "surveyDate": "1995-06-26",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "survey_id": "108898",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "38049200",
+          "wb_name": "Neglige",
+          "id_date": "1995-06-26",
+          "county": "Lake"
+        },
+        "fishCatchSummaries": [
+          {
+            "species": "RBT",
+            "totalCatch": 3,
+            "totalWeight": 3783,
+            "averageWeight": "2.78",
+            "CPUE": "3.00",
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "gearCount": 1
+          },
+          {
+            "quartileWeight": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 1,
+            "quartileCount": "N/A",
+            "totalWeight": 12139,
+            "totalCatch": 36,
+            "species": "BKT",
+            "averageWeight": "0.74",
+            "CPUE": "36.00"
+          }
+        ],
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>The initial survey in 1979 found only minnows present, and good water quality.  Trout stocking began in 1980.This assessment consisted of water quality measurements and one gillnet set.  As in the past, this assessment found excellent water quality in Neglige Lake: clear water, good oxygen, and higher chemical fertility than most surrounding lakes.  Neglige Lake is typical of lakes stocked with stream trout in the Ely Area, except that it is deeper and has a higher chemical fertility.The gillnet caught 36 brook trout and 3 rainbow trout.  The total catch of trout, 35.1 lb, was much higher than the average catch of 11.6 lb per gillnet for trout lakes in the Ely Management Area.The brook trout ranged in size from 7\" to 17\" and included several year classes.  About half of the brook trout stomachs were empty, the remainder contained crayfish, insects, leeches, or fish remains.  The rainbow trout ranged in size from 18\" to 21\", and had been eating crayfish.  Their presence was a surprise, since rainbow have not been stocked since 1988.  Attempts at scale ageing of these trout showed they were at least age 3 or 4, and perhaps older.  Fingerlings stocked in 1988 would have been age 7 in 1995.  Possible explanations - these are old fish growing very slowly; natural reproduction is occurring; they were mixed in with brook trout at the hatchery (these species are reared at different hatcheries) - all seem unlikely.</p>",
+        "surveyType": "Standard Survey",
+        "lengths": {
+          "BKT": {
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                7
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                7
+              ]
+            ],
+            "maximum_length": 17
+          },
+          "RBT": {
+            "fishCount": [
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ]
+            ],
+            "maximum_length": 21,
+            "minimum_length": 18
+          }
+        }
+      }
+    ],
+    "DOWNumber": "38049200",
+    "officeCode": "F214",
+    "county": "Lake",
+    "meanDepthFeet": 0,
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "06/09/2015",
+        "12"
+      ]
+    ],
+    "shoreLengthMiles": 1.53,
+    "lakeName": "Neglige",
+    "littoralAcres": 8
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790285875,
+  "status": "SUCCESS"
+}

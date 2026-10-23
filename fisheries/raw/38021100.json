@@ -1,0 +1,1528 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": "5 rod portage from Little Knife Lake.",
+        "ownerTypeId": "USF",
+        "location": " "
+      },
+      {
+        "location": " ",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "80 rod portage from Swamp Lake.",
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "CA"
+      },
+      {
+        "location": " ",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "80 rod portage from Ester Lake.",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "PRMIT"
+      },
+      {
+        "lakeAccessComments": "50 rod portage from Gijikiki Lake.",
+        "ownerTypeId": "USF",
+        "location": " ",
+        "publicUseAuthCode": "PRMIT",
+        "accessTypeId": "CA"
+      }
+    ],
+    "shoreLengthMiles": 38.86,
+    "county": "Lake",
+    "waterClarity": [
+      [
+        "08/12/2024",
+        "18"
+      ],
+      [
+        "07/30/2025",
+        "18"
+      ],
+      [
+        "07/10/2006",
+        "20"
+      ],
+      [
+        "07/10/2006",
+        "23"
+      ],
+      [
+        "09/17/2018",
+        "15"
+      ],
+      [
+        "09/17/2018",
+        "20"
+      ]
+    ],
+    "lakeAltName": "Cypress",
+    "DOWNumber": "38021100",
+    "officeCode": "F214",
+    "averageWaterClarity": "19.0",
+    "littoralAcres": 251,
+    "maxDepthFeet": 116,
+    "surveys": [
+      {
+        "surveyDate": "1993-07-07",
+        "lengths": {
+          "BUB": {
+            "maximum_length": 16,
+            "fishCount": [
+              [
+                16,
+                1
+              ]
+            ],
+            "minimum_length": 16
+          },
+          "RKB": {
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                6
+              ],
+              [
+                6,
+                14
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "NOP": {
+            "minimum_length": 11,
+            "maximum_length": 39,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                23,
+                2
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                28,
+                2
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                31,
+                3
+              ],
+              [
+                37,
+                1
+              ],
+              [
+                39,
+                1
+              ]
+            ]
+          },
+          "LAT": {
+            "minimum_length": 24,
+            "maximum_length": 37,
+            "fishCount": [
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                37,
+                1
+              ]
+            ]
+          },
+          "TLC": {
+            "minimum_length": 6,
+            "maximum_length": 10,
+            "fishCount": [
+              [
+                10,
+                6
+              ],
+              [
+                6,
+                16
+              ],
+              [
+                7,
+                56
+              ],
+              [
+                8,
+                80
+              ],
+              [
+                9,
+                34
+              ]
+            ]
+          },
+          "WTS": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "LKW": {
+            "minimum_length": 9,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                6
+              ],
+              [
+                13,
+                9
+              ],
+              [
+                14,
+                10
+              ],
+              [
+                15,
+                10
+              ],
+              [
+                16,
+                17
+              ],
+              [
+                17,
+                13
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "maximum_length": 22,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                7
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 8
+          }
+        },
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "Cypress",
+          "wb_name": "Ottertrack",
+          "survey_type": "Population Assessment",
+          "id_date": "1993-07-07",
+          "county": "Lake",
+          "wb_id": "38021100",
+          "survey_id": "108517"
+        },
+        "narrative": "<p>Shallow water populations are dominated by walleye and northern pike.  Deep water populations are dominated by small cisco and average sized whitefish.  Populations of all species appear to be stable.  Some very large lake trout and northern pike are present.Fishing pressure is not known but is thought to be light.  This is a clear lake with steep dropoffs along the shore, and is not easy to fish. Its remoteness also probably limits angling pressure.</p>",
+        "surveyType": "Standard Survey",
+        "surveyID": "108517",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "totalCatch": 26,
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "gear": "Shallow gill nets",
+            "totalWeight": 30539,
+            "averageWeight": "2.59",
+            "CPUE": "6.50",
+            "quartileWeight": "N/A",
+            "species": "LKW"
+          },
+          {
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalCatch": 3,
+            "averageWeight": "9.11",
+            "CPUE": "0.50",
+            "totalWeight": 12400,
+            "gear": "Deep gill nets",
+            "species": "LAT",
+            "quartileWeight": "N/A"
+          },
+          {
+            "species": "WAE",
+            "quartileWeight": "N/A",
+            "CPUE": "0.50",
+            "averageWeight": "1.98",
+            "gear": "Deep gill nets",
+            "totalWeight": 2700,
+            "gearCount": 6,
+            "totalCatch": 3,
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 24,
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "totalWeight": 3871,
+            "gear": "Shallow gill nets",
+            "averageWeight": "0.36",
+            "CPUE": "6.00",
+            "quartileWeight": "N/A",
+            "species": "RKB"
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 14,
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "CPUE": "3.50",
+            "averageWeight": "5.44",
+            "totalWeight": 34549,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "quartileWeight": "N/A",
+            "species": "LKW",
+            "gear": "Deep gill nets",
+            "totalWeight": 66821,
+            "CPUE": "8.67",
+            "averageWeight": "2.83",
+            "quartileCount": "N/A",
+            "totalCatch": 52,
+            "gearCount": 6
+          },
+          {
+            "species": "WTS",
+            "quartileWeight": "N/A",
+            "averageWeight": "2.04",
+            "CPUE": "4.00",
+            "totalWeight": 14772,
+            "gear": "Shallow gill nets",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 16
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 2,
+            "species": "LAT",
+            "quartileWeight": "N/A",
+            "CPUE": "0.50",
+            "averageWeight": "12.00",
+            "gear": "Shallow gill nets",
+            "totalWeight": 10882
+          },
+          {
+            "totalWeight": 420,
+            "gear": "Deep gill nets",
+            "averageWeight": "0.93",
+            "CPUE": "0.17",
+            "quartileWeight": "N/A",
+            "species": "BUB",
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "gearCount": 6
+          },
+          {
+            "gear": "Shallow gill nets",
+            "totalWeight": 16208,
+            "CPUE": "8.00",
+            "averageWeight": "1.12",
+            "quartileWeight": "N/A",
+            "species": "WAE",
+            "totalCatch": 32,
+            "quartileCount": "N/A",
+            "gearCount": 4
+          },
+          {
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalCatch": 296,
+            "averageWeight": "0.28",
+            "CPUE": "49.33",
+            "totalWeight": 38189,
+            "gear": "Deep gill nets",
+            "species": "TLC",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "quartileWeight": "N/A",
+            "species": "NOP",
+            "totalWeight": 3100,
+            "gear": "Deep gill nets",
+            "CPUE": "0.17",
+            "averageWeight": "6.83"
+          }
+        ]
+      },
+      {
+        "fishCatchSummaries": [],
+        "surveyID": "21872427049190219",
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Ottertrack Lake on August 12th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Lake Whitefish and Cisco, also known as 'Tullibee', are also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 108.2 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 30.9 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 64.0 feet at the time of sampling. The thickness of this layer of water in the water column was 33.1 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 5.7 degrees C (42.3 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Ottertrack Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "headerInfo": {
+          "wb_id": "38021100",
+          "survey_id": "21872427049190219",
+          "wb_alt_name": "Cypress",
+          "wb_type": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_name": "Ottertrack",
+          "county": "Lake",
+          "id_date": "2024-08-12"
+        },
+        "lengths": {},
+        "surveyDate": "2024-08-12"
+      },
+      {
+        "lengths": {},
+        "surveyDate": "2025-07-30",
+        "narrative": "<p>Temperature and dissolved oxygen measurements were collected from the deepest basin in Ottertrack Lake on July 30th, 2025. This was done to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Lake Whitefish and Cisco, also known as 'Tullibee', are also present). Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on data collected from the deepest basin (maximum sampled depth was 78.7 feet), the water temperature decreased to 8.8 degrees C (47.8 degrees F) at 30.3 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 49.4 feet at the time of sampling. This layer in the water column was 19.1 feet, indicating oxythermal habitat for Lake Trout was present. <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.6 degrees C (40.3 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \nData collected by the Minnesota Department of Natural Resources during the period of maximum oxythermal stress (July 26th to Aug 24th) in 2024 also indicated suitable oxythermal habitat. When adequate oxythermal habitat is not available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "headerInfo": {
+          "wb_id": "38021100",
+          "survey_id": "22122523851467000",
+          "wb_type": "Lake",
+          "wb_alt_name": "Cypress",
+          "county": "Lake",
+          "id_date": "2025-07-30",
+          "wb_name": "Ottertrack",
+          "survey_type": "Targeted Survey"
+        },
+        "surveyType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "surveyID": "22122523851467000"
+      },
+      {
+        "surveyDate": "2006-07-10",
+        "lengths": {
+          "LKW": {
+            "minimum_length": 9,
+            "maximum_length": 23,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                5
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                5
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                15
+              ],
+              [
+                18,
+                10
+              ],
+              [
+                19,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                3
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                8,
+                2
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 20
+          },
+          "TLC": {
+            "minimum_length": 6,
+            "maximum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                6,
+                11
+              ],
+              [
+                7,
+                72
+              ],
+              [
+                8,
+                46
+              ],
+              [
+                9,
+                18
+              ]
+            ]
+          },
+          "SMB": {
+            "maximum_length": 13,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "LAT": {
+            "fishCount": [
+              [
+                28,
+                1
+              ],
+              [
+                30,
+                1
+              ],
+              [
+                32,
+                1
+              ]
+            ],
+            "maximum_length": 32,
+            "minimum_length": 28
+          },
+          "NOP": {
+            "maximum_length": 39,
+            "fishCount": [
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                26,
+                3
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                28,
+                3
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                34,
+                1
+              ],
+              [
+                35,
+                1
+              ],
+              [
+                36,
+                1
+              ],
+              [
+                37,
+                1
+              ],
+              [
+                39,
+                1
+              ]
+            ],
+            "minimum_length": 21
+          },
+          "RKB": {
+            "minimum_length": 4,
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                4,
+                2
+              ],
+              [
+                5,
+                16
+              ],
+              [
+                6,
+                13
+              ]
+            ]
+          },
+          "BLG": {
+            "fishCount": [
+              [
+                3,
+                4
+              ],
+              [
+                4,
+                3
+              ],
+              [
+                5,
+                10
+              ]
+            ],
+            "maximum_length": 5,
+            "minimum_length": 3
+          },
+          "BUB": {
+            "minimum_length": 25,
+            "fishCount": [
+              [
+                25,
+                1
+              ]
+            ],
+            "maximum_length": 25
+          },
+          "WAE": {
+            "maximum_length": 25,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                8
+              ],
+              [
+                13,
+                2
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                9
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "PMK": {
+            "fishCount": [
+              [
+                4,
+                2
+              ]
+            ],
+            "maximum_length": 4,
+            "minimum_length": 4
+          },
+          "YEP": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                6,
+                1
+              ]
+            ],
+            "maximum_length": 6
+          }
+        },
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "Cypress",
+          "county": "Lake",
+          "id_date": "2006-07-10",
+          "wb_name": "Ottertrack",
+          "survey_type": "Population Assessment",
+          "wb_id": "38021100",
+          "survey_id": "1210635328543000"
+        },
+        "narrative": "<p>Ottertrack Lake is in Ecological Lake Class 1, which consists of 34 lakes in northeast Minnesota that are large, very deep, have little biologically productive shallow area along the shoreline, and have very clear and soft (unmineralized) water.  Ottertrack Lake is shallower and has a more irregular shoreline shape than most of the lakes in this lake class.  <br> \n <br> \nOttertrack Lake is on the Canadian border, and most of the lake (72 percent) is in Ontario.  The deepest water is also in Ontario.  The oxygen/temperature meter was not working during the 2006 fisheries assessment, but previous investigations showed that Ottertrack Lake thermally stratifies in midsummer with surface temperatures of 70-75 F and bottom temperatures about 40 F.  Adequate oxygen for lake trout (more than 5 ppm) was retained to a depth of 65 feet (where the temperature was 48 F) on the Ontario portion of the lake, but only to a depth of 45-50 feet (where the temperature was 40-42 F) on the Minnesota portion of the lake. <br> \n <br> \nOttertrack Lake is near the top of its watershed, with only a few small lakes (Gijikiki, Jasper) draining into it.  The outlet to Little Knife Lake has a small falls that must be portaged and that limits upstream fish movement.  The shoreline of Ottertrack Lake is very rocky, with few aquatic plants. <br> \n <br> \nThe 2006 fish population assessment consisted of four shallow gillnets and six deep gillnets.  The shallow gillnets were set in depths of 8-28 feet, in temperatures generally above 55 F.  The deep gillnets were set in depths of 30-70 feet, in temperatures below 55 F.  Previous shallow and deep gillnetting was conducted in 1983 and 1993, in the same locations and depths as in 2006.  Deep gillnetting in 1980 was conducted in Ontario waters (14 nets) and Minnesota waters (4 nets). <br> \n <br> \nThe total catch of fish (all species combined) in the shallow gillnets in 2006 of 34 fish/net (47 lb/net) was much higher than in Little Knife Lake and Knife Lake, downstream of Ottertrack Lake.  Ottertrack Lake is shallower (mean depth = 35 feet) than Little Knife (mean depth = 71 feet) and Knife Lake (mean depth = 52 feet), which likely accounts for its higher populations of warmwater fish.  Shallow water fish populations in Ottertrack Lake were dominated by walleye and northern pike. <br> \n <br> \nWalleye numbers in 2006 (11.5/shallow gillnet) were higher than in 1993 (8.0/shallow gillnet) or in 1983 (3.3/shallow gillnet).  Walleye sizes in 2006 averaged 15.9 inches (1.5 lb).  The largest walleye was 25.5 inches.  Walleye growth was somewhat slower than normal (in the second quartile) by area standards. <br> \n <br> \nNorthern pike numbers in 2006 (3.5/shallow gillnet) were the same as in 1993 (3.5/shallow gillnet), but were higher than in 1983 (1.8/shallow gillnet).  Pike sizes in 2006 averaged 28.8 inches (5.4 lb).  The largest pike, caught in a deep gillnet, was 39.8 inches.  Pike growth was faster than normal (in the third or fourth quartile, depending on the age) by area standards. <br> \n <br> \nSmallmouth bass are likely more abundant in Ottertrack Lake than indicated by the low numbers caught in 2006 and in previous investigations.  Bass are \"net shy\" and tend to avoid capture in standard sampling nets.  The largest smallmouth caught in 2006 was 13.9 inches. <br> \n <br> \nBluegill and pumpkinseed sunfish and yellow perch were captured for the first time in Ottertrack Lake in 2006.  Rock bass were fairly abundant in 2006 (7.8/shallow gillnet), although similar numbers were present in previous investigations. <br> \n <br> \nDeepwater fish populations in Ottertrack Lake in 2006 consisted of high numbers of cisco and lake whitefish and low numbers of lake trout and burbot.  A few northern pike and walleye were caught in the shallow ends of the deep gillnets. <br> \n <br> \nCisco numbers in 2006 (24.7/deep gillnet) were lower than in previous investigations on this lake (range: 29.3 - 72.3/deep gillnet).  Cisco sizes in 2006 averaged 8.0 inches (0.17 lb).  The largest cisco was 12.3 inches. <br> \n <br> \nWhitefish numbers in 2006 (7.8/deep gillnet) were lower than in previous investigations on this lake (range: 8.7 - 11.3/deep gillnet).  Whitefish sizes in 2006 averaged 16.5 inches (1.7 lb).  The largest whitefish was 23.7 inches. <br> \n <br> \nLake trout numbers in 2006 (0.5/deep gillnet) were similar to previous investigations on this lake (range: 0.2 - 0.6/deep gillnet).  Only three lake trout were caught, with lengths of 28.4 inches, 30.5 inches, and 32.3 inches.  Otoliths (ear bones) taken from the two smaller trout revealed ages of 12 years and 16 years.  <br> \n <br> \nExamination of fish in 2006 showed that some of the warmwater fish were infected with neascus (black spot), and one of the smallmouth bass had bass tapeworm larvae encysted in its viscera.  Many of the cisco (and a few of the whitefish) had roundworms in their air bladders and triaenophorus cysts in their muscle tissue.  All of these parasites are common and are native to the area.  They cannot infect humans, are often removed by filleting fish, and are killed at temperatures used to cook fish.</p>",
+        "surveyType": "Standard Survey",
+        "surveyID": "1210635328543000",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "species": "LKW",
+            "totalWeight": 4562,
+            "gear": "Shallow gill nets",
+            "averageWeight": "1.26",
+            "CPUE": "2.00",
+            "totalCatch": 8,
+            "quartileCount": "N/A",
+            "gearCount": 4
+          },
+          {
+            "averageWeight": "11.42",
+            "CPUE": "0.50",
+            "gear": "Deep gill nets",
+            "totalWeight": 15545,
+            "species": "LAT",
+            "quartileWeight": "N/A",
+            "gearCount": 6,
+            "totalCatch": 3,
+            "quartileCount": "N/A"
+          },
+          {
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalCatch": 11,
+            "averageWeight": "3.77",
+            "CPUE": "1.83",
+            "gear": "Deep gill nets",
+            "totalWeight": 18813,
+            "species": "WAE",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 17,
+            "quartileCount": "N/A",
+            "gearCount": 4,
+            "totalWeight": 613,
+            "gear": "Shallow gill nets",
+            "CPUE": "4.25",
+            "averageWeight": "0.08",
+            "quartileWeight": "N/A",
+            "species": "BLG"
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 31,
+            "species": "RKB",
+            "quartileWeight": "N/A",
+            "CPUE": "7.75",
+            "averageWeight": "0.16",
+            "totalWeight": 2196,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "species": "YEP",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.10",
+            "CPUE": "0.25",
+            "gear": "Shallow gill nets",
+            "totalWeight": 47,
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 1
+          },
+          {
+            "quartileCount": "N/A",
+            "totalCatch": 14,
+            "gearCount": 4,
+            "totalWeight": 34461,
+            "gear": "Shallow gill nets",
+            "CPUE": "3.50",
+            "averageWeight": "5.43",
+            "quartileWeight": "N/A",
+            "species": "NOP"
+          },
+          {
+            "quartileCount": "N/A",
+            "totalCatch": 47,
+            "gearCount": 6,
+            "totalWeight": 36103,
+            "gear": "Deep gill nets",
+            "CPUE": "7.83",
+            "averageWeight": "1.69",
+            "quartileWeight": "N/A",
+            "species": "LKW"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "totalWeight": 11097,
+            "averageWeight": "1.63",
+            "CPUE": "3.75",
+            "quartileWeight": "N/A",
+            "species": "WTS",
+            "quartileCount": "N/A",
+            "totalCatch": 15,
+            "gearCount": 4
+          },
+          {
+            "totalWeight": 1475,
+            "gear": "Deep gill nets",
+            "CPUE": "0.17",
+            "averageWeight": "3.25",
+            "quartileWeight": "N/A",
+            "species": "BUB",
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "gearCount": 6
+          },
+          {
+            "species": "TLC",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.17",
+            "CPUE": "24.67",
+            "totalWeight": 11078,
+            "gear": "Deep gill nets",
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalCatch": 148
+          },
+          {
+            "gear": "Shallow gill nets",
+            "totalWeight": 31922,
+            "averageWeight": "1.53",
+            "CPUE": "11.50",
+            "quartileWeight": "N/A",
+            "species": "WAE",
+            "totalCatch": 46,
+            "quartileCount": "N/A",
+            "gearCount": 4
+          },
+          {
+            "quartileCount": "N/A",
+            "totalCatch": 2,
+            "gearCount": 4,
+            "totalWeight": 55,
+            "gear": "Shallow gill nets",
+            "averageWeight": "0.06",
+            "CPUE": "0.50",
+            "quartileWeight": "N/A",
+            "species": "PMK"
+          },
+          {
+            "quartileCount": "N/A",
+            "totalCatch": 5,
+            "gearCount": 6,
+            "quartileWeight": "N/A",
+            "species": "NOP",
+            "gear": "Deep gill nets",
+            "totalWeight": 18835,
+            "averageWeight": "8.30",
+            "CPUE": "0.83"
+          },
+          {
+            "quartileCount": "N/A",
+            "totalCatch": 3,
+            "gearCount": 4,
+            "quartileWeight": "N/A",
+            "species": "SMB",
+            "totalWeight": 1072,
+            "gear": "Shallow gill nets",
+            "averageWeight": "0.79",
+            "CPUE": "0.75"
+          }
+        ]
+      },
+      {
+        "lengths": {
+          "TLC": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                15
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                6,
+                62
+              ],
+              [
+                7,
+                133
+              ],
+              [
+                8,
+                130
+              ],
+              [
+                9,
+                83
+              ]
+            ],
+            "maximum_length": 11
+          },
+          "SMB": {
+            "fishCount": [
+              [
+                14,
+                1
+              ]
+            ],
+            "maximum_length": 14,
+            "minimum_length": 14
+          },
+          "NOP": {
+            "minimum_length": 20,
+            "maximum_length": 33,
+            "fishCount": [
+              [
+                20,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                2
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                33,
+                1
+              ]
+            ]
+          },
+          "RKB": {
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                3,
+                2
+              ],
+              [
+                4,
+                4
+              ],
+              [
+                5,
+                25
+              ],
+              [
+                6,
+                18
+              ],
+              [
+                7,
+                2
+              ]
+            ],
+            "minimum_length": 3
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                11,
+                1
+              ]
+            ],
+            "maximum_length": 11,
+            "minimum_length": 11
+          },
+          "BLG": {
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                4,
+                3
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "LKW": {
+            "minimum_length": 11,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                13
+              ],
+              [
+                19,
+                10
+              ],
+              [
+                20,
+                2
+              ]
+            ]
+          },
+          "WTS": {
+            "minimum_length": 13,
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                1
+              ]
+            ],
+            "maximum_length": 19
+          },
+          "WAE": {
+            "maximum_length": 27,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                8
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                5
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                7
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                22,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                9,
+                2
+              ]
+            ],
+            "minimum_length": 9
+          }
+        },
+        "surveyDate": "2018-09-17",
+        "narrative": "<p>Ottertrack Lake is located approximately 38 miles northeast of Ely within the BWCAW. This scenic lake lies along the international border with Ontario. Approximately 28% of the lake is in Minnesota. Ottertrack's shorelines are defined by steep, rocky bluffs with white cedars and other conifers being common. <br> \n <br> \nThere are options for access and all involve several portages in addition to a good amount of paddling. There are 5 designated US Forest Service campsites awaiting visitors when they arrive at Ottertrack. <br> \n <br> \nNine species of fish were sampled during the 2018 survey. Four gill nets were set in shallower water and an additional 6 nets were set in deeper water to sample that portion of the fish community. Rock bass (46%) and walleye (35%) dominated the catch from the shallow nets. Cisco (88%) was the most common species sampled in the deeper nets. Several northern pike and one smallmouth bass were also sampled. Lake trout have historically been present, however, none were sampled in 2018. <br> \n <br> \nWalleye numbers in 2018 (9.5/gill net) were slightly above the historic average (8.8/gill net) for Ottertrack Lake. The average walleye sampled was 16.9 inches which is slightly larger than the lake average of 16.1 inches. Approximately 63% of the walleye sampled in 2018 were 15 inches or larger with a maximum length of 27.1 inches recorded. Walleye growth appears to be slightly below average. <br> \n <br> \nCisco numbers in 2018 (70.5/gill net) were above the historic average (49.3/gill net) for this lake. Cisco sizes ranged from 8.5 inches to a maximum of 11.4 inces. Lake whitefish (6.5/gill net) and one burbot were also sampled in 2018 from the deeper sets. <br> \n <br> \n</p>",
+        "headerInfo": {
+          "survey_id": "12391901845328005",
+          "wb_id": "38021100",
+          "county": "Lake",
+          "id_date": "2018-09-17",
+          "survey_type": "Standard Survey",
+          "wb_name": "Ottertrack",
+          "wb_alt_name": "Cypress",
+          "wb_type": "Lake"
+        },
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "gearCount": 4,
+            "totalCatch": 3,
+            "quartileCount": "N/A",
+            "species": "LKW",
+            "quartileWeight": "N/A",
+            "CPUE": "0.75",
+            "averageWeight": "0.91",
+            "totalWeight": 1242,
+            "gear": "Shallow gill nets"
+          },
+          {
+            "totalCatch": 15,
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "quartileWeight": "N/A",
+            "species": "WAE",
+            "totalWeight": 14873,
+            "gear": "Deep gill nets",
+            "averageWeight": "2.19",
+            "CPUE": "2.50"
+          },
+          {
+            "species": "BLG",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.03",
+            "CPUE": "0.75",
+            "totalWeight": 45,
+            "gear": "Shallow gill nets",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 3
+          },
+          {
+            "species": "RKB",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.16",
+            "CPUE": "12.75",
+            "gear": "Shallow gill nets",
+            "totalWeight": 3595,
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 51
+          },
+          {
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "CPUE": "0.25",
+            "averageWeight": "0.16",
+            "gear": "Shallow gill nets",
+            "totalWeight": 73,
+            "species": "TLC",
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 4,
+            "totalCatch": 9,
+            "quartileCount": "N/A",
+            "species": "NOP",
+            "quartileWeight": "N/A",
+            "CPUE": "2.25",
+            "averageWeight": "3.93",
+            "gear": "Shallow gill nets",
+            "totalWeight": 16036
+          },
+          {
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalCatch": 39,
+            "species": "LKW",
+            "quartileWeight": "N/A",
+            "CPUE": "6.50",
+            "averageWeight": "1.95",
+            "totalWeight": 34419,
+            "gear": "Deep gill nets"
+          },
+          {
+            "averageWeight": "2.29",
+            "CPUE": "1.00",
+            "totalWeight": 4146,
+            "gear": "Shallow gill nets",
+            "species": "WTS",
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "totalCatch": 4
+          },
+          {
+            "gear": "Deep gill nets",
+            "totalWeight": 156,
+            "CPUE": "0.17",
+            "averageWeight": "0.34",
+            "quartileWeight": "N/A",
+            "species": "BUB",
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "gearCount": 6
+          },
+          {
+            "CPUE": "9.50",
+            "averageWeight": "1.81",
+            "totalWeight": 31131,
+            "gear": "Shallow gill nets",
+            "species": "WAE",
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "totalCatch": 38,
+            "quartileCount": "N/A"
+          },
+          {
+            "CPUE": "70.50",
+            "averageWeight": "0.05",
+            "totalWeight": 10279,
+            "gear": "Deep gill nets",
+            "species": "TLC",
+            "quartileWeight": "N/A",
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalCatch": 423
+          },
+          {
+            "totalCatch": 3,
+            "quartileCount": "N/A",
+            "gearCount": 6,
+            "totalWeight": 7600,
+            "gear": "Deep gill nets",
+            "averageWeight": "5.59",
+            "CPUE": "0.50",
+            "quartileWeight": "N/A",
+            "species": "NOP"
+          },
+          {
+            "gearCount": 4,
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "CPUE": "0.25",
+            "averageWeight": "1.52",
+            "gear": "Shallow gill nets",
+            "totalWeight": 691,
+            "species": "SMB",
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyID": "12391901845328005",
+        "surveySubType": "Standard Survey"
+      }
+    ],
+    "lakeName": "Ottertrack",
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "areaAcres": 1134
+  },
+  "timestamp": 1790286045
+}

@@ -1,0 +1,452 @@
+{
+  "result": {
+    "county": "Cook",
+    "meanDepthFeet": 0,
+    "maxDepthFeet": 51,
+    "shoreLengthMiles": 1.25,
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "ownerTypeId": "DNR",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "OPEN",
+        "location": ""
+      }
+    ],
+    "littoralAcres": 5,
+    "surveys": [
+      {
+        "surveySubType": "Population Assessment",
+        "surveyID": "4311209654555000",
+        "narrative": "<p>Pemmican Lake is a designated stream trout lake.  It has been managed exclusively for brook trout since 1957.  The 2010 management plan for the lake established a long range goal for the species of a minimum gill net catch of 3.0 fish/set, with at least two catchable-sized (over 10 in) year classes present.  That plan also reduced the stocking frequency from annual to every odd year, beginning in 2011 (the stocking quota remained the same, at 2,000 fingerlings/stocking). <br> \n <br> \nBrook trout were fairly abundant, and some larger fish were present in June 2012.  The gill net catch was within the normal range for a spring assessment in this area (2.5-14.25 fish/set), and was similar to past catches in this lake.  The mean weight for brook trout collected in 2012 was also within the normal range for this area (0.40-1.17 lb/fish), and was similar to mean weights observed in most past assessments of this lake.  Brook trout as old as four years were collected, although most of the catch consisted of two-year-old fish from the 2010 fingerling stocking.  Growth had been fairly fast; two-year-old fish reached a mean length of 10.9 inches by the end of their second year, compared to an area mean of 9.4 inches.  One-year-old brook trout taken in this assessment were small, and it is likely that most one-year-olds (from the 2011 fingerling stocking) were not large enough to be taken in standard gill nets at the time this assessment was done.  It was also possible that the presence of fairly high numbers of large brook trout resulted in some cannibalization of smaller fingerlings. <br> \n <br> \nNo undesirable fish species were taken in this assessment.  Fairly high numbers of minnows were taken in wire minnow traps, and their presence may have been one factor driving good brook trout growth in this lake. <br> \n <br> \n <br> \n <br> \n </p>",
+        "surveyType": "Standard Survey",
+        "fishCatchSummaries": [
+          {
+            "species": "FHM",
+            "averageWeight": "0.00",
+            "totalCatch": 254,
+            "quartileWeight": "N/A",
+            "gearCount": 4,
+            "gear": "Minnow traps",
+            "CPUE": "63.50",
+            "quartileCount": "N/A",
+            "totalWeight": 0
+          },
+          {
+            "totalCatch": 36,
+            "quartileWeight": "N/A",
+            "species": "BCS",
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "CPUE": "9.00",
+            "quartileCount": "N/A",
+            "gear": "Minnow traps",
+            "gearCount": 4
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 23,
+            "averageWeight": "0.72",
+            "species": "BKT",
+            "totalWeight": 7472,
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "CPUE": "11.50",
+            "quartileCount": "N/A"
+          },
+          {
+            "totalCatch": 15,
+            "quartileWeight": "N/A",
+            "species": "BST",
+            "averageWeight": "0.00",
+            "totalWeight": 0,
+            "gear": "Minnow traps",
+            "gearCount": 4,
+            "quartileCount": "N/A",
+            "CPUE": "3.75"
+          }
+        ],
+        "lengths": {
+          "BKT": {
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                3
+              ],
+              [
+                13,
+                7
+              ],
+              [
+                14,
+                4
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                6,
+                3
+              ]
+            ],
+            "minimum_length": 6,
+            "maximum_length": 18
+          }
+        },
+        "headerInfo": {
+          "wb_name": "Pemmican",
+          "id_date": "2012-06-21",
+          "survey_type": "Population Assessment",
+          "wb_id": "16008500",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "4311209654555000"
+        },
+        "surveyDate": "2012-06-21"
+      },
+      {
+        "lengths": {},
+        "headerInfo": {
+          "survey_id": "110199",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "16008500",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "id_date": "1991-06-19",
+          "wb_name": "Pemmican"
+        },
+        "surveyDate": "1991-06-19",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 32.75,
+            "CPUE": "46.00",
+            "quartileCount": "N/A",
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "totalCatch": 92,
+            "averageWeight": "0.36",
+            "species": "BKT"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveyID": "110199",
+        "narrative": "<p>BKT WERE VERY ABUNDANT.  FISH FROM 6 TO 16 IN WERE COLLECTED, WITH MOST FISH IN THE 6 TO 7 AND 10 TO 12 IN RANGES.  THE 1990 AND 1989 STOCKINGS ACCOUNTED FOR 41% AND 57%, RESPECTIVELY, OF THE BKT SAMPLED.  ONE FISH FROM THE 1988 STOCKING WAS CAPTURED. GROWTH WAS ABOUT AVERAGE FOR COOK COUNTY FOR AGE I AND II FISH.</p>",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 3,
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "CPUE": "0.50",
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "quartileWeight": "N/A",
+            "species": "BKT",
+            "averageWeight": "3.00"
+          }
+        ],
+        "surveyDate": "1986-06-19",
+        "lengths": {},
+        "headerInfo": {
+          "wb_id": "16008500",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_name": "Pemmican",
+          "id_date": "1986-06-19",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "109993"
+        },
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>NONE OF THE 1985 STOCKED FISH WERE TAKEN IN THIS ASSESSMENT. ANGLERS ARE REPORTING CATCHING FAIR NUMBERS OF 12-14 WINTER HOWEVER, SO THERE MUST HAVE BEEN FAIRLY GOOD SURVIVAL OF THAT STOCKING. GROWTH ON THE SINGLE 1983 STOCKED FISH WAS GOOD.</p>",
+        "surveyID": "109993",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Brook trout abundance appeared to have been within the normal range for Cook County stream trout lakes.  Fish as large as 15 inches were collected, and fish from the 1995 and 1993 fingerling stockings were present in good numbers.  Brook trout growth was slightly slower than average for this area.</p>",
+        "surveyID": "110692",
+        "lengths": {
+          "BKT": {
+            "maximum_length": 15,
+            "fishCount": [
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                6,
+                4
+              ],
+              [
+                7,
+                6
+              ]
+            ],
+            "minimum_length": 6
+          }
+        },
+        "headerInfo": {
+          "county": "Cook",
+          "wb_id": "16008500",
+          "survey_type": "Population Assessment",
+          "wb_name": "Pemmican",
+          "id_date": "1996-06-19",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_id": "110692"
+        },
+        "surveyDate": "1996-06-19",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "CPUE": "14.00",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "totalWeight": 7956,
+            "averageWeight": "0.63",
+            "species": "BKT",
+            "quartileWeight": "N/A",
+            "totalCatch": 28
+          }
+        ]
+      },
+      {
+        "surveyDate": "2002-06-10",
+        "lengths": {
+          "BKT": {
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                6,
+                4
+              ],
+              [
+                7,
+                7
+              ],
+              [
+                8,
+                2
+              ]
+            ],
+            "maximum_length": 18
+          }
+        },
+        "headerInfo": {
+          "wb_name": "Pemmican",
+          "id_date": "2002-06-10",
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "wb_id": "16008500",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "111360"
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "9.50",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "totalWeight": 5601,
+            "species": "BKT",
+            "averageWeight": "0.65",
+            "totalCatch": 19,
+            "quartileWeight": "N/A"
+          }
+        ],
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "surveyID": "111360",
+        "narrative": "<p>The 2002 brook trout catch was about average, compared to other stream trout lakes in the area.  Although a few fish over 12 inches were taken, the bulk of the catch came from six to eight inch fish from the 2001 fingerling stocking.  Brook trout growth rates had been fast, compared to other lakes in this area.  No undesirable species were found in the lake in 2002.</p>"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 3,
+            "averageWeight": "2.43",
+            "species": "BKT",
+            "totalWeight": 3310,
+            "gearCount": 2,
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "CPUE": "1.50"
+          }
+        ],
+        "lengths": {
+          "BKT": {
+            "minimum_length": 16,
+            "fishCount": [
+              [
+                16,
+                1
+              ],
+              [
+                18,
+                2
+              ]
+            ],
+            "maximum_length": 18
+          }
+        },
+        "headerInfo": {
+          "wb_id": "16008500",
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_name": "Pemmican",
+          "id_date": "2005-06-20",
+          "survey_id": "111519",
+          "wb_type": "Lake",
+          "wb_alt_name": ""
+        },
+        "surveyDate": "2005-06-20",
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>The 2005 assessment caught only three brook trout, far fewer than usual in this lake.  The fish were older - ages 3 and 4 - which explains their relatively large size.  The lake is stocked annually, so ages 1 through 4 should have been present.  The reason for the lack of younger fish in the sample is unknown.  They may have been present in the lake, but, as a random result, were not caught by the gill nets.  Anglers reported catching and releasing brook trout as small as 1 lb; these fish would presumably have been age 2.  It is also possible that survival of fish stocked in 2003 and 2004 was poor.</p>",
+        "surveyID": "111519",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Pemmican Lake is a designated stream trout lake that has been managed exclusively for brook trout since 1957.  It is located atop a ridge on the south side of Mountain Lake, and access is challenging.  Management goals for the lake are maintaining a brook trout population with a minimum gill net catch of 3.0 fish/set, with two catchable-sized (over 10 inch) year classes present.  This was the second of three surveys scheduled in the 2010 lake management plan to determine whether goals for the lake could be met with a stocking frequency reduced from annual to every odd-numbered year (beginning in 2011).  The first survey was completed in 2012, the third is scheduled for 2025. <br> \n <br> \nBecause so few net sets are used in these small stream trout lakes, little faith can be placed on the catch seen in a single survey; however, brook trout seemed to have been fairly abundant in 2019.  The 2019 gill net catch in Pemmican Lake was one of the higher catches seen in this lake, and was similar to the catch seen in the last (2012) survey.  Most of the catch consisted of two-year-old fish from a 2017 stocking of Tobin Harbor-strain brook trout.  Use of that strain is fairly new to Minnesota, and their performance has not yet been fully evaluated.  Survival of the 2017 stocking seemed to have been good, despite their relatively small size when stocked (57 fgl/lb).  Growth had been close to average; fish reached a mean length of 8.7 inches at the end of their second year, compared to an area mean of 9.1 inches.  There had also been some survival of fish from the 2015 stocking of Minnesota Wild-strain brook trout.  The presence of those four-year-old fish met the goal of having two catchable-sized year classes present.  Growth of the Minnesota Wild fish had also been close to average for the area. <br> \n <br> \nNo undesirable fish species were taken in the 2019 survey.  Minnows observed in shoreline areas would have supplemented invertebrate forage in this lake, and would have helped fuel good brook trout growth. <br> \n  </p>",
+        "surveyID": "17311919044943069",
+        "surveySubType": "Standard Survey",
+        "lengths": {
+          "BKT": {
+            "minimum_length": 9,
+            "fishCount": [
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                7
+              ],
+              [
+                12,
+                4
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                9,
+                3
+              ]
+            ],
+            "maximum_length": 17
+          }
+        },
+        "headerInfo": {
+          "county": "Cook",
+          "survey_type": "Standard Survey",
+          "wb_id": "16008500",
+          "id_date": "2019-06-24",
+          "wb_name": "Pemmican",
+          "survey_id": "17311919044943069",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "surveyDate": "2019-06-24",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "CPUE": "12.50",
+            "gear": "Standard gill nets",
+            "gearCount": 2,
+            "totalWeight": 9117,
+            "species": "BKT",
+            "averageWeight": "0.80",
+            "totalCatch": 25,
+            "quartileWeight": "N/A"
+          }
+        ]
+      }
+    ],
+    "sampledPlants": [],
+    "waterClarity": [
+      [
+        "06/21/2012",
+        "13"
+      ],
+      [
+        "06/19/1991",
+        "18"
+      ],
+      [
+        "08/10/1956",
+        "12"
+      ],
+      [
+        "06/24/2019",
+        "16"
+      ]
+    ],
+    "areaAcres": 27.65,
+    "officeCode": "F218",
+    "DOWNumber": "16008500",
+    "lakeName": "Pemmican",
+    "averageWaterClarity": "14.8"
+  },
+  "message": "Normal execution.",
+  "timestamp": 1790286011,
+  "status": "SUCCESS"
+}

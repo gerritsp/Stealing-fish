@@ -1,0 +1,77 @@
+{
+  "timestamp": 1790285640,
+  "status": "SUCCESS",
+  "result": {
+    "waterClarity": [
+      [
+        "06/18/1975",
+        "7"
+      ]
+    ],
+    "accesses": [
+      {
+        "ownerTypeId": "UKN",
+        "location": "Accessible via shallow flowage from West Pipe Lake",
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK"
+      }
+    ],
+    "officeCode": "F218",
+    "areaAcres": 9.89,
+    "surveys": [
+      {
+        "fishCatchSummaries": [
+          {
+            "gearCount": 1,
+            "gear": "Standard gill nets",
+            "CPUE": "2.00",
+            "averageWeight": "0.88",
+            "species": "NOP",
+            "quartileWeight": "1.1-2.0",
+            "totalCatch": 2,
+            "quartileCount": "2.8-8.5",
+            "totalWeight": 1.75
+          },
+          {
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "quartileCount": "2.0-16.0",
+            "totalCatch": 2,
+            "totalWeight": 0.25,
+            "gearCount": 1,
+            "CPUE": "2.00",
+            "gear": "Standard gill nets",
+            "averageWeight": "0.12"
+          }
+        ],
+        "lengths": {},
+        "surveySubType": "Initial Survey",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Apparently a low population of both N Pike and Perch exists in Tobacco Lake.  Suckers not taken but should be present.</p>",
+        "surveyDate": "1975-06-18",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_id": "16037600",
+          "wb_alt_name": "",
+          "survey_type": "Initial Survey",
+          "survey_id": "109725",
+          "county": "Cook",
+          "wb_name": "Tobacco",
+          "id_date": "1975-06-18"
+        },
+        "surveyID": "109725"
+      }
+    ],
+    "DOWNumber": "16037600",
+    "averageWaterClarity": "7.0",
+    "maxDepthFeet": 9,
+    "county": "Cook",
+    "lakeName": "Tobacco",
+    "sampledPlants": [],
+    "meanDepthFeet": 0,
+    "shoreLengthMiles": 0.68,
+    "littoralAcres": 9.89
+  },
+  "message": "Normal execution."
+}

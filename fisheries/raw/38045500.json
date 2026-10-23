@@ -1,0 +1,94 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "accesses": [
+      {
+        "location": "BWCAW access via canoe routes; no motorized travel allowed.",
+        "ownerTypeId": "USF",
+        "accessTypeId": "O",
+        "publicUseAuthCode": "UNK",
+        "lakeAccessComments": " "
+      }
+    ],
+    "surveys": [
+      {
+        "surveyDate": "1963-09-19",
+        "surveySubType": "Initial Survey",
+        "surveyID": "112808",
+        "headerInfo": {
+          "wb_name": "Pose",
+          "wb_id": "38045500",
+          "id_date": "1963-09-19",
+          "survey_id": "112808",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "survey_type": "Initial Survey"
+        },
+        "fishCatchSummaries": [
+          {
+            "CPUE": "2.40",
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "averageWeight": "0.00",
+            "species": "NOP",
+            "quartileCount": "3.0-9.0",
+            "quartileWeight": "1.2-2.5",
+            "totalWeight": 0,
+            "totalCatch": 12
+          },
+          {
+            "gear": "Standard gill nets",
+            "gearCount": 5,
+            "CPUE": "1.80",
+            "totalCatch": 9,
+            "totalWeight": 0,
+            "quartileCount": "3.3-18.3",
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "averageWeight": "0.00"
+          },
+          {
+            "averageWeight": "0.00",
+            "species": "WTS",
+            "totalWeight": 0,
+            "quartileCount": "5.3-22.1",
+            "quartileWeight": "1.3-2.3",
+            "totalCatch": 15,
+            "CPUE": "3.00",
+            "gearCount": 5,
+            "gear": "Standard gill nets"
+          },
+          {
+            "averageWeight": "0.00",
+            "species": "BLG",
+            "quartileCount": "N/A",
+            "quartileWeight": "N/A",
+            "totalWeight": 0,
+            "totalCatch": 1,
+            "CPUE": "0.20",
+            "gearCount": 5,
+            "gear": "Standard gill nets"
+          }
+        ],
+        "narrative": "<p>Pose Lake is a 76 acre, very soft-water lake in the Kawishiwi River Watershed. The lake lies within the roadless areas and airspace reservation zone of the Superior National Forest and is accessible by stream travel and several portages over rocks and rapids. Federal forest and marsh lands surround the lake, which has a maximum depth of 12 feet and a median depth of 6 feet. There is one inlet and one outlet. Water levels appear to be fairly stable, and shoal soils are mostly boulders, muck, or muck over sand. Limited amounts of sand, ledgerock, rubble, and gravel are also present.     At the time of the survey, the water color was dark brownish (secchi disk 2.4 feet), and limited amounts of aquatic vegetation were found in depths to 4 feet. Two species of gamefish were taken in test netting; Northen Pike and Bluegill. Northern Pike were about normal in abundance. Only one adult Bluegill was taken, but over 150 young-of-the-year Bluegills were captured in seining.     Spawning facilities are rated \"good\" for Northern Pike, \"poor\" for Walleye and Smallmouth Bass, and \"fair\" for Largemouth Bass and centrarchid panfish.     Pose Lake is rarely fished; local residents report past catches of a few Northern Pike, but no one seemed to be aware of the Bluegill population.</p>",
+        "surveyType": "Standard Survey",
+        "lengths": {}
+      }
+    ],
+    "areaAcres": 79.67,
+    "shoreLengthMiles": 3.27,
+    "averageWaterClarity": "N/A",
+    "officeCode": "F215",
+    "lakeName": "Pose",
+    "maxDepthFeet": 12,
+    "DOWNumber": "38045500",
+    "littoralAcres": 79.67,
+    "sampledPlants": [],
+    "waterClarity": [],
+    "county": "Lake",
+    "meanDepthFeet": 0
+  },
+  "timestamp": 1790285625,
+  "status": "SUCCESS"
+}

@@ -1,0 +1,1193 @@
+{
+  "status": "SUCCESS",
+  "timestamp": 1790286082,
+  "result": {
+    "shoreLengthMiles": 7.68,
+    "sampledPlants": [],
+    "officeCode": "F214",
+    "areaAcres": 338.36,
+    "lakeName": "Takucmich",
+    "waterClarity": [
+      [
+        "08/13/2013",
+        "12"
+      ],
+      [
+        "09/22/2025",
+        "15"
+      ],
+      [
+        "07/31/2025",
+        "15.6"
+      ]
+    ],
+    "accesses": [
+      {
+        "accessTypeId": "PO",
+        "location": "Steep upward hill directly off Lac La Croix.",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": "Northnorthwest portion of lake, 110 yd. portage from Lac La Croix.",
+        "ownerTypeId": "USF"
+      },
+      {
+        "location": "Steep downward hill from Trygg on Takucmich end of portage.",
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "Northwest portion of lake, 182 yd. portage from Trygg Lk.",
+        "publicUseAuthCode": "PRMIT"
+      },
+      {
+        "accessTypeId": "PO",
+        "location": " ",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": "Westcentral portion of lake, 138 yd. portage from Tesaker Lk. ",
+        "ownerTypeId": "USF"
+      },
+      {
+        "accessTypeId": "PO",
+        "location": " ",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": "Southeast most bay, 110 yd. portage from Trillium Lk.",
+        "ownerTypeId": "USF"
+      }
+    ],
+    "lakeAltName": "Takuemich",
+    "county": "St. Louis",
+    "DOWNumber": "69036900",
+    "maxDepthFeet": 150,
+    "littoralAcres": 98,
+    "averageWaterClarity": "14.2",
+    "meanDepthFeet": 40,
+    "surveys": [
+      {
+        "surveyDate": "2013-08-12",
+        "surveyID": "4271331027354000",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Takucmich Lake is located within the Boundary Waters Canoe Area Wilderness (BWCAW) within the Superior National Forest and is a non-motorized lake.  It is in the far northwest corner of the Tower Fisheries Management Area and has four access locations, all via portage from surrounding lakes.  It has a maximum depth of 150 feet, soft nutrient poor water, and is very clear.  \n\nTakucmich Lake was thermally stratified on August 13, 2013 with a surface temperature of 68 F and a bottom temperature of 40 F.  Oxygen levels peaked at 12.1 ppm at 21 feet and were still at 3.3 ppm at 130 feet.  Inlets are from Tesaker and Trillium Lakes and the only outlet is to Lac La Croix.  Shoreline substrates are mostly ledgerock and boulder with some areas of sand, gravel, and muck.  Aquatic plants are very sparse.\n\nThis fish population assessment consisted of six shallow gillnet sets ranging from 7 to 22 feet of water and nine deep gillnet sets ranging from 30 to 122 feet.  Trapnets have never been used due to the difficult portage access.\n\nThe total catch rate of all fish in the shallow gillnets in 2013 was 8 fish/net, similar to past surveys.  The catches were dominated by rock bass (52%) and northern pike (23%).  Additional species sampled at low levels were lake trout, pumpkinseed, smallmouth bass, tullibee, and yellow perch.  Notably, white suckers were the most prevalent species in the shallow water nets from the 1986 survey at 64% of the catch, only one was sampled in 1999, and none were sampled in 2013.  \n\nThe rock bass catch rate of 4 fish/net was similar to the last survey in 1999 but an increase from 1 fish/net in 1986.  The northern pike catch rate has increased since the last two surveys.  Growth rates for pike were near the average for all lakes in the Tower Fisheries Management Area and fish up to age nine were sampled.  \n\nThe total catch of all fish in the deep gillnets in 2013 was 8.2 fish/net.  This is much lower than the previous two assessments and mostly due to a lower tullibee catch rate.  Catches consisted of tullibee (55%), lake trout (24%), burbot (16%), and smallmouth bass (5%).  \n\nThe tullibee catch rate of 4.4 fish/net was much lower than in the previous three investigations of 13 to 9 fish/net.  \n\nLake trout catch rates have stayed fairly constant throughout the past four investigations.  Catches have ranged from 1 to 2 fish/net.  Sizes ranged from 9 to 29 inches and the average was 19.5 inches in 2013.  Lake trout ages range from 5 to over 15 years.  The population was dominated by older fish. Over half were 15 years of age or older.  \n\nThe burbot catch rate over the past four investigations has ranged from 0.6 to 1.4 fish/net since 1979.  Sizes ranged from 14 to 22 inches with an average of 18 inches.  \n\nSmallmouth bass were sampled for the first time in deep-water gillnets (0.4 fish/net) and were of decent sizes.  The four fish captured ranged from 15 to 19 inches.  These fish came from the 2003 and 2005 year classes.  \n</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileCount": "N/A",
+            "totalWeight": 21768,
+            "gear": "Deep gill nets",
+            "CPUE": "2.00",
+            "totalCatch": 18,
+            "quartileWeight": "N/A",
+            "averageWeight": "2.67",
+            "species": "LAT",
+            "gearCount": 9
+          },
+          {
+            "averageWeight": "2.35",
+            "species": "SMB",
+            "gearCount": 9,
+            "totalWeight": 4270,
+            "quartileCount": "N/A",
+            "CPUE": "0.44",
+            "gear": "Deep gill nets",
+            "totalCatch": 4,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gearCount": 6,
+            "species": "RKB",
+            "averageWeight": "0.19",
+            "quartileWeight": "N/A",
+            "totalCatch": 25,
+            "quartileCount": "N/A",
+            "totalWeight": 2189,
+            "CPUE": "4.17",
+            "gear": "Shallow gill nets"
+          },
+          {
+            "CPUE": "0.33",
+            "gear": "Shallow gill nets",
+            "totalWeight": 88,
+            "quartileCount": "N/A",
+            "totalCatch": 2,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.10",
+            "species": "YEP",
+            "gearCount": 6
+          },
+          {
+            "gearCount": 6,
+            "species": "TLC",
+            "averageWeight": "0.13",
+            "quartileWeight": "N/A",
+            "totalCatch": 7,
+            "gear": "Shallow gill nets",
+            "CPUE": "1.17",
+            "quartileCount": "N/A",
+            "totalWeight": 398
+          },
+          {
+            "averageWeight": "5.86",
+            "species": "NOP",
+            "gearCount": 6,
+            "CPUE": "1.83",
+            "gear": "Shallow gill nets",
+            "totalWeight": 29250,
+            "quartileCount": "N/A",
+            "totalCatch": 11,
+            "quartileWeight": "N/A"
+          },
+          {
+            "averageWeight": "8.55",
+            "gearCount": 6,
+            "species": "LAT",
+            "totalCatch": 1,
+            "gear": "Shallow gill nets",
+            "CPUE": "0.17",
+            "quartileCount": "N/A",
+            "totalWeight": 3880,
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalWeight": 7229,
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "CPUE": "1.33",
+            "totalCatch": 12,
+            "quartileWeight": "N/A",
+            "averageWeight": "1.33",
+            "species": "BUB",
+            "gearCount": 9
+          },
+          {
+            "gearCount": 9,
+            "species": "TLC",
+            "averageWeight": "0.18",
+            "quartileWeight": "N/A",
+            "totalCatch": 40,
+            "CPUE": "4.44",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "totalWeight": 3194
+          },
+          {
+            "averageWeight": "0.08",
+            "species": "PMK",
+            "gearCount": 6,
+            "quartileCount": "N/A",
+            "totalWeight": 35,
+            "CPUE": "0.17",
+            "gear": "Shallow gill nets",
+            "totalCatch": 1,
+            "quartileWeight": "N/A"
+          },
+          {
+            "gear": "Shallow gill nets",
+            "CPUE": "0.17",
+            "totalWeight": 460,
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "quartileWeight": "N/A",
+            "averageWeight": "1.01",
+            "species": "SMB",
+            "gearCount": 6
+          }
+        ],
+        "lengths": {
+          "TLC": {
+            "minimum_length": 6,
+            "maximum_length": 11,
+            "fishCount": [
+              [
+                10,
+                6
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                16
+              ],
+              [
+                8,
+                13
+              ],
+              [
+                9,
+                9
+              ]
+            ]
+          },
+          "SMB": {
+            "minimum_length": 12,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ],
+            "maximum_length": 18
+          },
+          "NOP": {
+            "maximum_length": 35,
+            "fishCount": [
+              [
+                23,
+                1
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                2
+              ],
+              [
+                27,
+                1
+              ],
+              [
+                28,
+                1
+              ],
+              [
+                30,
+                2
+              ],
+              [
+                31,
+                1
+              ],
+              [
+                32,
+                1
+              ],
+              [
+                35,
+                1
+              ]
+            ],
+            "minimum_length": 23
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 13
+          },
+          "RKB": {
+            "minimum_length": 3,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                18
+              ],
+              [
+                7,
+                3
+              ]
+            ]
+          },
+          "LAT": {
+            "maximum_length": 29,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                3
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                28,
+                2
+              ],
+              [
+                29,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 9
+          },
+          "PMK": {
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ],
+            "maximum_length": 4,
+            "minimum_length": 4
+          },
+          "YEP": {
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                6,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "minimum_length": 6
+          }
+        },
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "county": "St. Louis",
+          "wb_alt_name": "Takuemich",
+          "wb_id": "69036900",
+          "survey_id": "4271331027354000",
+          "wb_name": "Takucmich",
+          "id_date": "2013-08-12"
+        }
+      },
+      {
+        "narrative": "<p>Takucmich Lake is in Ecological Lake Class 3, which consists of 72 lakes in northeast Minnesota that are deep and have steep shorelines, have irregular shoreline shapes, and have clear and soft (unmineralized) water.  Takucmich Lake is typical of these lakes except that it is deeper (150 ft) than the lake class average of 77 ft.Takucmich Lake was thermally stratified on 9/1/99 and retained good oxygen for lake trout (more than 5 ppm) to a depth of 110 ft, where the temperature was 39 F.  Inlets are from Tesoker and Trillium lakes and the outlet is to Lac La Croix.  Lake bottom substrates along the shoreline are mostly boulder and rock, with small amounts of sand, gravel, and muck.  Aquatic plants are sparse and grow to a depth of 20 ft.This fish population assessment consisted of four shallow gillnets set in depths of 21 ft or shallower (64 F or warmer) and nine deep gillnets set in depths of 30 ft or greater (47 F or colder).  Previous investigations consisted of shallow-to-deep gillnets set through the thermocline in 1966 and 1974, deep-only gillnets in 1979, and separate deep and shallow nets in 1986.The total catch of fish in the shallow gillnets in 1999 of 7 fish/net (1 lb/net) was lower than normal for this lake class and was similar in numbers, but lower in weight than previous investigations in this lake.  Shallow water fish populations in 1999 were dominated by rock bass.  Rock bass numbers in 1999 (6/net) were higher than normal for this lake class and were higher than previous catches.  No northern pike were captured in 1999, down from an average catch of 4/net in previous investigations.  White sucker numbers in 1999 (0.2/net) were down from an average catch of 4/net in previous investigations.The total catch of fish in the deep gillnets in 1999 of 18 fish/net (8 lb/net) was similar to previous catches of 15/net (8 lb/net) in 1979 and 23 fish/net (10 lb/net) in 1986.  Deep water fish populations in 1999 were dominated by cisco.Cisco numbers in 1999 (16/net) were similar to previous catches of 13/net in 1979 and 19/net in 1986.  Cisco sizes in 1999 averaged 9\"; the largest was 13.3\".Lake trout numbers in 1999 (0.9/net) were lower than previous catches of 2.0/net in 1979 and 2.6/net in 1986.  Lake trout sizes in 1999 averaged 19\"; the largest was 29.2\" (9.2 lb).  Lake trout ages appeared to range from five to twelve, although their otoliths (ear bones) were difficult to read.  Many of the lake trout had roundworms in their air bladders.  Low levels of PCB's and moderate levels of mercury were found in lake trout collected during this assessment.Burbot numbers in 1999 (1.3/net) were similar to previous catches of 0.6/net in 1979 and 1.4/net in 1986.  Burbot sizes in 1999 averaged 16\"; the largest was 21.5\".</p>",
+        "surveyType": "Standard Survey",
+        "surveyID": "109361",
+        "surveyDate": "1999-08-30",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "survey_type": "Population Assessment",
+          "county": "St. Louis",
+          "wb_alt_name": "Takuemich",
+          "wb_id": "69036900",
+          "survey_id": "109361",
+          "id_date": "1999-08-30",
+          "wb_name": "Takucmich"
+        },
+        "surveySubType": "Population Assessment",
+        "lengths": {
+          "SMB": {
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 11
+          },
+          "BUB": {
+            "minimum_length": 12,
+            "maximum_length": 21,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                2
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                21,
+                1
+              ]
+            ]
+          },
+          "RKB": {
+            "minimum_length": 4,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                4,
+                4
+              ],
+              [
+                5,
+                7
+              ],
+              [
+                6,
+                11
+              ],
+              [
+                7,
+                4
+              ]
+            ]
+          },
+          "LAT": {
+            "maximum_length": 29,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                23,
+                1
+              ],
+              [
+                29,
+                1
+              ]
+            ],
+            "minimum_length": 10
+          },
+          "WTS": {
+            "minimum_length": 17,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                17,
+                1
+              ],
+              [
+                20,
+                1
+              ]
+            ]
+          },
+          "TLC": {
+            "maximum_length": 13,
+            "fishCount": [
+              [
+                10,
+                35
+              ],
+              [
+                11,
+                12
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                7,
+                18
+              ],
+              [
+                8,
+                42
+              ],
+              [
+                9,
+                31
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "TPM": {
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "BLG": {
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 9704,
+            "quartileCount": "N/A",
+            "CPUE": "0.89",
+            "gear": "Deep gill nets",
+            "totalCatch": 8,
+            "quartileWeight": "N/A",
+            "averageWeight": "2.67",
+            "species": "LAT",
+            "gearCount": 9
+          },
+          {
+            "averageWeight": "0.05",
+            "species": "TPM",
+            "gearCount": 4,
+            "gear": "Standard gill nets",
+            "CPUE": "0.25",
+            "totalWeight": 24,
+            "quartileCount": "N/A",
+            "totalCatch": 1,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "0.8-5.3",
+            "totalWeight": 987,
+            "CPUE": "0.25",
+            "gear": "Standard gill nets",
+            "totalCatch": 1,
+            "quartileWeight": "1.1-2.5",
+            "averageWeight": "2.18",
+            "species": "WTS",
+            "gearCount": 4
+          },
+          {
+            "gearCount": 4,
+            "species": "SMB",
+            "averageWeight": "0.45",
+            "quartileWeight": "0.6-1.5",
+            "totalCatch": 2,
+            "quartileCount": "0.3-1.4",
+            "totalWeight": 404,
+            "gear": "Standard gill nets",
+            "CPUE": "0.50"
+          },
+          {
+            "gearCount": 9,
+            "species": "BUB",
+            "averageWeight": "1.12",
+            "quartileWeight": "N/A",
+            "totalCatch": 12,
+            "quartileCount": "N/A",
+            "totalWeight": 6091,
+            "CPUE": "1.33",
+            "gear": "Deep gill nets"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 144,
+            "totalWeight": 19628,
+            "quartileCount": "N/A",
+            "CPUE": "16.00",
+            "gear": "Deep gill nets",
+            "gearCount": 9,
+            "species": "TLC",
+            "averageWeight": "0.30"
+          },
+          {
+            "averageWeight": "3.74",
+            "species": "WTS",
+            "gearCount": 9,
+            "quartileCount": "N/A",
+            "totalWeight": 1698,
+            "CPUE": "0.11",
+            "gear": "Deep gill nets",
+            "totalCatch": 1,
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "totalWeight": 28,
+            "CPUE": "0.25",
+            "gear": "Standard gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.06",
+            "gearCount": 4,
+            "species": "BLG"
+          },
+          {
+            "totalCatch": 26,
+            "gear": "Standard gill nets",
+            "CPUE": "6.50",
+            "quartileCount": "0.4-1.2",
+            "totalWeight": 2090,
+            "quartileWeight": "0.1-0.2",
+            "averageWeight": "0.18",
+            "gearCount": 4,
+            "species": "RKB"
+          }
+        ]
+      },
+      {
+        "surveyDate": "2025-09-22",
+        "surveyID": "20162525852826000",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Takucmich is a 369-acre lake located 33 miles northwest of Ely in the Boundary Waters Canoe Area. It is comparable to Amoeber, Ester, and Wisini in the Tower Area. Much of the shoreline is bedrock and rubble that rapidly drops to depths exceeding 100 feet, and maximum depth is 137 feet. Few shallow bays are present and aquatic vegetation is sparse. The lake was thermally stratified during the survey and Secchi visibility was 15 feet through clear water. Surface temperature was 67 \u00b0F and temperature at 100 feet was 39 \u00b0F, with the lake descending below 56 \u00b0F at 25 feet. A targeted TDO3 survey on 07/30/2025 found a 92-foot band of optimal lake trout habitat. As temperature data and past surveys indicate, Takucmich supports robust cold-water fish populations with sparse numbers of cool-water fish present in the limited shallow habitat available.  <br> \n <br> \nAccess is most common by a 17-rod portage from Lac la Croix, with a 31-rod portage to Tesaker connecting it to southern canoe routes. Portages to Trygg and Trillium are both dead ends at their respective lakes. The surrounding landscape consists of dark outcrops of granitic bedrock that fall into striking cliffs in several spots. An aged canopy of jack pine shades mixed deciduous undergrowth and is interspersed with pockets of old-growth white and red pine. Three U.S. Forest Service campsites are present on the north end of the lake. <br> \n <br> \nTotal catch in deep gill nets of 25.9 fish/net was the highest sampled out of Takucmich. Cold-water fish populations were composed of cisco, lake trout, and burbot. Low numbers of quality-sized smallmouth were also present in the nets. <br> \n <br> \nCisco abundance (19.2/net) was above average for Takucmich. Lengths ranged from 7 to 13 inches with an average length of 9 inches. The cisco population in Takucmich has been quite stable in abundance and size structure, barring a low catch in the previous survey.  <br> \n <br> \nLake trout numbers (3.8/net) were notably high compared to past surveys. Lengths ranged from 12.5 to 27 inches with an average length of 20.5 inches the highest sampled to date. Lake trout aged with otoliths ranged from 4 to 15 years old. Trout stomachs, particularly those of mature fish, were often empty. The survey's proximity to the lake trout spawning season may have factored in both catch rate and lack of diets. <br> \n <br> \nBurbot numbers (2.6/net) were quite high for both Takucmich and other cold-water lake surveys in the Tower Area. Lengths ranged from 11 to 22 inches with an average length of 16 inches which was somewhat low for Takucmich.  <br> \n <br> \nThe total catch in shallow nets of 19.2/net was high compared to past surveys. A notable haul of rock bass (12.0/net) is responsible for this apparently drastic increase, and they constituted almost 2/3rds of the catch. White sucker were present in above average numbers, and the remainder of the catch was a smattering of bluegill, pumpkinseed, smallmouth bass, and yellow perch. A lone northern pike and a large tadpole madtom were also sampled.  <br> \n <br> \nSmallmouth bass numbers (0.5/net) were similar to past surveys. Low sample sizes and variable effort make drawing any conclusions difficult. Gill nets are poor at sampling bass populations, which are often smart enough to swim around them. Lengths in shallow nets ranged from 11 to almost 15 inches with an average length of 12.5 inches. Smallmouth in deep nets were larger, ranging from 13 to 18.5 inches with an average length of 15.5 inches. Multitudes of smallmouth could be observed from camp and while paddling shorelines. They appear well established and of sizes compelling to anglers. <br> \n <br> \nThe northern pike catch was the lowest sampled to date. The lone fish captured was 26 inches long. Northern pike have been both absent and relatively abundant in previous surveys. Whether this variability is due to sporadic recruitment or habitat use is unknown. Shallow vegetated habitat is rare in Takucmich and could be a limiting factor.  <br> \n</p>",
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 51220,
+            "quartileCount": "N/A",
+            "gear": "Deep gill nets",
+            "CPUE": "3.78",
+            "totalCatch": 34,
+            "species": "LAT",
+            "gearCount": 9,
+            "averageWeight": "3.32"
+          },
+          {
+            "averageWeight": "2.20",
+            "species": "SMB",
+            "gearCount": 9,
+            "CPUE": "0.33",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "totalWeight": 2994,
+            "totalCatch": 3,
+            "quartileWeight": "N/A"
+          },
+          {
+            "quartileCount": "N/A",
+            "totalWeight": 208,
+            "CPUE": "0.33",
+            "gear": "Shallow gill nets",
+            "totalCatch": 2,
+            "quartileWeight": "N/A",
+            "averageWeight": "0.23",
+            "species": "BLG",
+            "gearCount": 6
+          },
+          {
+            "averageWeight": "0.19",
+            "gearCount": 6,
+            "species": "RKB",
+            "totalCatch": 72,
+            "quartileCount": "N/A",
+            "totalWeight": 6267,
+            "gear": "Shallow gill nets",
+            "CPUE": "12.00",
+            "quartileWeight": "N/A"
+          },
+          {
+            "totalCatch": 6,
+            "quartileCount": "N/A",
+            "totalWeight": 473,
+            "CPUE": "1.00",
+            "gear": "Shallow gill nets",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.17",
+            "gearCount": 6,
+            "species": "YEP"
+          },
+          {
+            "gearCount": 6,
+            "species": "NOP",
+            "averageWeight": "3.82",
+            "quartileWeight": "N/A",
+            "totalCatch": 1,
+            "gear": "Shallow gill nets",
+            "CPUE": "0.17",
+            "totalWeight": 1731,
+            "quartileCount": "N/A"
+          },
+          {
+            "quartileWeight": "N/A",
+            "CPUE": "4.67",
+            "gear": "Shallow gill nets",
+            "quartileCount": "N/A",
+            "totalWeight": 29555,
+            "totalCatch": 28,
+            "species": "WTS",
+            "gearCount": 6,
+            "averageWeight": "2.33"
+          },
+          {
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "totalWeight": 26,
+            "CPUE": "0.17",
+            "gear": "Shallow gill nets",
+            "totalCatch": 1,
+            "species": "TPM",
+            "gearCount": 6,
+            "averageWeight": "0.06"
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalCatch": 23,
+            "CPUE": "2.56",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "totalWeight": 10520,
+            "gearCount": 9,
+            "species": "BUB",
+            "averageWeight": "1.01"
+          },
+          {
+            "gearCount": 9,
+            "species": "TLC",
+            "averageWeight": "0.28",
+            "quartileWeight": "N/A",
+            "totalCatch": 173,
+            "CPUE": "19.22",
+            "gear": "Deep gill nets",
+            "quartileCount": "N/A",
+            "totalWeight": 21592
+          },
+          {
+            "totalCatch": 2,
+            "totalWeight": 206,
+            "quartileCount": "N/A",
+            "gear": "Shallow gill nets",
+            "CPUE": "0.33",
+            "quartileWeight": "N/A",
+            "averageWeight": "0.23",
+            "gearCount": 6,
+            "species": "PMK"
+          },
+          {
+            "species": "SMB",
+            "gearCount": 6,
+            "averageWeight": "1.09",
+            "quartileWeight": "N/A",
+            "CPUE": "0.50",
+            "gear": "Shallow gill nets",
+            "totalWeight": 1481,
+            "quartileCount": "N/A",
+            "totalCatch": 3
+          }
+        ],
+        "lengths": {
+          "BLG": {
+            "maximum_length": 6,
+            "fishCount": [
+              [
+                6,
+                2
+              ]
+            ],
+            "minimum_length": 6
+          },
+          "TPM": {
+            "maximum_length": 4,
+            "fishCount": [
+              [
+                4,
+                1
+              ]
+            ],
+            "minimum_length": 4
+          },
+          "WTS": {
+            "maximum_length": 19,
+            "fishCount": [
+              [
+                13,
+                2
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                13
+              ],
+              [
+                18,
+                7
+              ],
+              [
+                19,
+                3
+              ]
+            ],
+            "minimum_length": 13
+          },
+          "TLC": {
+            "maximum_length": 12,
+            "fishCount": [
+              [
+                10,
+                27
+              ],
+              [
+                11,
+                18
+              ],
+              [
+                12,
+                5
+              ],
+              [
+                7,
+                39
+              ],
+              [
+                8,
+                50
+              ],
+              [
+                9,
+                34
+              ]
+            ],
+            "minimum_length": 7
+          },
+          "NOP": {
+            "minimum_length": 26,
+            "maximum_length": 26,
+            "fishCount": [
+              [
+                26,
+                1
+              ]
+            ]
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                11,
+                2
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                3
+              ],
+              [
+                16,
+                6
+              ],
+              [
+                17,
+                3
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ]
+            ],
+            "maximum_length": 22,
+            "minimum_length": 11
+          },
+          "SMB": {
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                12,
+                2
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                18,
+                1
+              ]
+            ],
+            "minimum_length": 10
+          },
+          "LAT": {
+            "minimum_length": 12,
+            "maximum_length": 27,
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                3
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                3
+              ],
+              [
+                17,
+                2
+              ],
+              [
+                18,
+                1
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                22,
+                4
+              ],
+              [
+                23,
+                4
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                6
+              ],
+              [
+                27,
+                2
+              ]
+            ]
+          },
+          "RKB": {
+            "minimum_length": 3,
+            "maximum_length": 7,
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                4,
+                4
+              ],
+              [
+                5,
+                22
+              ],
+              [
+                6,
+                33
+              ],
+              [
+                7,
+                12
+              ]
+            ]
+          },
+          "PMK": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 7
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                6,
+                4
+              ],
+              [
+                7,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 9,
+            "minimum_length": 6
+          }
+        },
+        "surveySubType": "Standard Survey",
+        "headerInfo": {
+          "survey_id": "20162525852826000",
+          "wb_id": "69036900",
+          "id_date": "2025-09-22",
+          "wb_name": "Takucmich",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "wb_alt_name": "Takuemich",
+          "survey_type": "Standard Survey"
+        }
+      },
+      {
+        "surveyID": "-346",
+        "surveyDate": "2025-07-31",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Takucmich Lake on July 31st, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 127.9 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 27.6 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 119.7 feet at the time of sampling. The thickness of this layer of water in the water column was 92.1 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 4.0 degrees C (39.2 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) in 2013 also indicates suitable oxythermal habitat. When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "county": "St. Louis",
+          "wb_alt_name": "Takuemich",
+          "survey_type": "Targeted Survey",
+          "wb_type": "Lake",
+          "wb_name": "Takucmich",
+          "id_date": "2025-07-31",
+          "survey_id": "-346",
+          "wb_id": "69036900"
+        },
+        "surveySubType": "Targeted Survey"
+      }
+    ]
+  },
+  "message": "Normal execution."
+}

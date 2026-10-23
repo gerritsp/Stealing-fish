@@ -1,0 +1,670 @@
+{
+  "timestamp": 1790285629,
+  "message": "Normal execution.",
+  "result": {
+    "maxDepthFeet": 37,
+    "lakeName": "Three",
+    "meanDepthFeet": 0,
+    "averageWaterClarity": "7.3",
+    "shoreLengthMiles": 18.98,
+    "waterClarity": [
+      [
+        "08/01/2024",
+        "6.23"
+      ],
+      [
+        "08/18/2025",
+        "5.7"
+      ],
+      [
+        "06/19/2017",
+        "10"
+      ]
+    ],
+    "surveys": [
+      {
+        "lengths": {},
+        "fishCatchSummaries": [
+          {
+            "CPUE": "0.12",
+            "totalCatch": 1,
+            "gearCount": 8,
+            "species": "BUB",
+            "averageWeight": "0.50",
+            "quartileWeight": "0.5-1.5",
+            "totalWeight": 0.5,
+            "gear": "Standard gill nets",
+            "quartileCount": "0.1-1.3"
+          },
+          {
+            "averageWeight": "2.10",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "quartileCount": "1.2-3.6",
+            "quartileWeight": "1.9-3.6",
+            "totalWeight": 69.25,
+            "CPUE": "4.12",
+            "gearCount": 8,
+            "totalCatch": 33
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.5-2.2",
+            "quartileWeight": "0.2-0.4",
+            "totalWeight": 0.85,
+            "averageWeight": "0.21",
+            "species": "RKB",
+            "gearCount": 8,
+            "totalCatch": 4,
+            "CPUE": "0.50"
+          },
+          {
+            "totalCatch": 72,
+            "gearCount": 8,
+            "CPUE": "9.00",
+            "quartileWeight": "0.7-1.3",
+            "totalWeight": 42.25,
+            "gear": "Standard gill nets",
+            "quartileCount": "3.1-9.8",
+            "species": "WAE",
+            "averageWeight": "0.59"
+          },
+          {
+            "totalWeight": 69.25,
+            "quartileWeight": "0.1-0.3",
+            "quartileCount": "1.9-7.1",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "averageWeight": "7.69",
+            "totalCatch": 9,
+            "gearCount": 8,
+            "CPUE": "1.12"
+          },
+          {
+            "CPUE": "9.88",
+            "gearCount": 8,
+            "totalCatch": 79,
+            "averageWeight": "1.20",
+            "species": "WTS",
+            "quartileCount": "2.8-6.7",
+            "gear": "Standard gill nets",
+            "totalWeight": 94.5,
+            "quartileWeight": "1.3-2.0"
+          },
+          {
+            "quartileCount": "1.8-12.4",
+            "gear": "Standard gill nets",
+            "totalWeight": 2.75,
+            "quartileWeight": "0.2-0.5",
+            "averageWeight": "0.23",
+            "species": "TLC",
+            "gearCount": 8,
+            "totalCatch": 12,
+            "CPUE": "1.50"
+          },
+          {
+            "totalCatch": 7,
+            "gearCount": 8,
+            "CPUE": "0.88",
+            "totalWeight": 2.4,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "species": "BLG",
+            "averageWeight": "0.34"
+          }
+        ],
+        "surveySubType": "Re-Survey",
+        "surveyID": "108027",
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Composed of above average populations of walleye, northern pike and sucker.  Burbot are present in about average numbers while bluegill, rock bass, yellow perch, and cisco are present in below average numbers.</p>",
+        "headerInfo": {
+          "id_date": "1978-08-02",
+          "wb_name": "Three",
+          "wb_type": "Lake",
+          "survey_id": "108027",
+          "wb_alt_name": "",
+          "county": "Lake",
+          "survey_type": "Re-Survey",
+          "wb_id": "38060000"
+        },
+        "surveyDate": "1978-08-02"
+      },
+      {
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Three Lake on August 1st, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 36.1 feet), the water temperature decreased below 17.2 degrees C (63.0 degrees F) at 24.1 feet and the dissolved oxygen concentration stayed greater than 3.0 mg/L at 36.1 feet at the time of sampling. The thickness of this layer of water in the water column was 12.0 feet, indicating that oxythermal habitat was present for Lake Whitefish. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was never reached because dissolved oxygen remained above 3.0 mg/L throughout the sampled depths. In this case, the minimum temperature, 12.6 degrees C (54.7 degrees F), was substituted as TDO3. TDO3 values cooler than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were suitable for Lake Whitefish at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Three Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.</p>",
+        "headerInfo": {
+          "wb_name": "Three",
+          "id_date": "2024-08-01",
+          "survey_id": "21872426139708113",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "county": "Lake",
+          "wb_id": "38060000"
+        },
+        "surveyDate": "2024-08-01",
+        "lengths": {},
+        "fishCatchSummaries": [],
+        "surveySubType": "Targeted Survey",
+        "surveyID": "21872426139708113",
+        "surveyType": "Targeted Survey"
+      },
+      {
+        "surveyDate": "2025-08-18",
+        "headerInfo": {
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "-384",
+          "wb_name": "Three",
+          "id_date": "2025-08-18",
+          "wb_id": "38060000",
+          "survey_type": "Targeted Survey",
+          "county": "Lake"
+        },
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Three Lake on August 18th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Whitefish, the most sensitive coldwater species present in this lake (Cisco, also known as 'Tullibee', are also present). During the summer, Lake Whitefish require a layer of oxythermal habitat that contains water temperatures below 17.2 degrees C (63.0 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 36.1 feet), the water temperature decreased below 17.2 degrees C (63.0 degrees F) at 21.4 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 20.7 feet at the time of sampling. Therefore, the water column did not contain a layer of water with sufficient temperature and dissolved oxygen for Lake Whitefish. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 18.6 degrees C (65.5 degrees F). TDO3 values warmer than 17.2 degrees C (63.0 degrees F) indicate that oxythermal conditions were unsuitable for Lake Whitefish at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) indicated suitable oxythermal habitat in 2024, with a TDO3 of 12.6 and a 12.0-foot layer of water with sufficient temperature and dissolved oxygen for Lake Whitefish. When inadequate oxythermal habitat is available, such as was the case in 2025, Lake Whitefish are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveyID": "-384",
+        "surveySubType": "Targeted Survey",
+        "fishCatchSummaries": [],
+        "lengths": {}
+      },
+      {
+        "surveyID": "12231716633674000",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Standard Survey",
+        "lengths": {
+          "SMB": {
+            "fishCount": [
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                1
+              ]
+            ],
+            "maximum_length": 15,
+            "minimum_length": 12
+          },
+          "WAE": {
+            "minimum_length": 4,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                11,
+                10
+              ],
+              [
+                12,
+                9
+              ],
+              [
+                13,
+                5
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                2
+              ],
+              [
+                24,
+                1
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                7,
+                5
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 25
+          },
+          "LKW": {
+            "minimum_length": 11,
+            "maximum_length": 18,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                8
+              ],
+              [
+                16,
+                1
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                5
+              ]
+            ]
+          },
+          "BUB": {
+            "fishCount": [
+              [
+                13,
+                1
+              ]
+            ],
+            "maximum_length": 13,
+            "minimum_length": 13
+          },
+          "CIS": {
+            "maximum_length": 10,
+            "fishCount": [
+              [
+                10,
+                4
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                25
+              ],
+              [
+                8,
+                3
+              ],
+              [
+                9,
+                11
+              ]
+            ],
+            "minimum_length": 6
+          },
+          "WTS": {
+            "minimum_length": 8,
+            "fishCount": [
+              [
+                10,
+                2
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                14,
+                2
+              ],
+              [
+                15,
+                1
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                8
+              ],
+              [
+                18,
+                9
+              ],
+              [
+                19,
+                6
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 21
+          },
+          "BLG": {
+            "fishCount": [
+              [
+                3,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                7,
+                1
+              ]
+            ],
+            "maximum_length": 7,
+            "minimum_length": 3
+          },
+          "RKB": {
+            "fishCount": [
+              [
+                6,
+                2
+              ],
+              [
+                8,
+                1
+              ]
+            ],
+            "maximum_length": 8,
+            "minimum_length": 6
+          },
+          "NOP": {
+            "minimum_length": 14,
+            "maximum_length": 39,
+            "fishCount": [
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                2
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                4
+              ],
+              [
+                18,
+                3
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                23,
+                4
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                25,
+                3
+              ],
+              [
+                26,
+                1
+              ],
+              [
+                27,
+                3
+              ],
+              [
+                28,
+                4
+              ],
+              [
+                30,
+                3
+              ],
+              [
+                36,
+                1
+              ],
+              [
+                39,
+                1
+              ]
+            ]
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                7,
+                4
+              ]
+            ],
+            "maximum_length": 10,
+            "minimum_length": 5
+          }
+        },
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "quartileCount": "0.1-1.3",
+            "quartileWeight": "0.5-1.5",
+            "totalWeight": 265,
+            "averageWeight": "0.58",
+            "species": "BUB",
+            "gearCount": 9,
+            "totalCatch": 1,
+            "CPUE": "0.11"
+          },
+          {
+            "CPUE": "5.00",
+            "totalCatch": 45,
+            "gearCount": 9,
+            "species": "NOP",
+            "averageWeight": "2.95",
+            "totalWeight": 60204,
+            "quartileWeight": "1.9-3.6",
+            "quartileCount": "1.2-3.6",
+            "gear": "Standard gill nets"
+          },
+          {
+            "totalWeight": 36313,
+            "quartileWeight": "1.3-2.0",
+            "quartileCount": "2.8-6.7",
+            "gear": "Standard gill nets",
+            "species": "WTS",
+            "averageWeight": "2.29",
+            "totalCatch": 35,
+            "gearCount": 9,
+            "CPUE": "3.89"
+          },
+          {
+            "species": "WAE",
+            "averageWeight": "0.86",
+            "quartileWeight": "0.7-1.3",
+            "totalWeight": 17240,
+            "gear": "Standard gill nets",
+            "quartileCount": "3.1-9.8",
+            "CPUE": "4.89",
+            "totalCatch": 44,
+            "gearCount": 9
+          },
+          {
+            "averageWeight": "1.64",
+            "species": "SMB",
+            "gear": "Standard gill nets",
+            "quartileCount": "0.3-0.7",
+            "quartileWeight": "0.5-1.3",
+            "totalWeight": 2238,
+            "CPUE": "0.33",
+            "gearCount": 9,
+            "totalCatch": 3
+          },
+          {
+            "quartileWeight": "N/A",
+            "totalWeight": 3903,
+            "gear": "Standard gill nets",
+            "quartileCount": "N/A",
+            "species": "CIS",
+            "averageWeight": "0.19",
+            "totalCatch": 45,
+            "gearCount": 9,
+            "CPUE": "5.00"
+          },
+          {
+            "totalCatch": 21,
+            "gearCount": 9,
+            "CPUE": "2.33",
+            "totalWeight": 14865,
+            "quartileWeight": "0.9-3.0",
+            "quartileCount": "0.2-3.0",
+            "gear": "Standard gill nets",
+            "species": "LKW",
+            "averageWeight": "1.56"
+          },
+          {
+            "totalCatch": 3,
+            "gearCount": 9,
+            "CPUE": "0.33",
+            "totalWeight": 170,
+            "quartileWeight": "N/A",
+            "quartileCount": "N/A",
+            "gear": "Standard gill nets",
+            "species": "BLG",
+            "averageWeight": "0.12"
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "totalWeight": 493,
+            "gear": "Standard gill nets",
+            "quartileCount": "1.9-7.1",
+            "species": "YEP",
+            "averageWeight": "0.18",
+            "totalCatch": 6,
+            "gearCount": 9,
+            "CPUE": "0.67"
+          },
+          {
+            "totalWeight": 315,
+            "quartileWeight": "0.2-0.4",
+            "quartileCount": "0.5-2.2",
+            "gear": "Standard gill nets",
+            "species": "RKB",
+            "averageWeight": "0.23",
+            "totalCatch": 3,
+            "gearCount": 9,
+            "CPUE": "0.33"
+          }
+        ],
+        "surveyDate": "2017-06-19",
+        "headerInfo": {
+          "wb_id": "38060000",
+          "survey_type": "Standard Survey",
+          "county": "Lake",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "12231716633674000",
+          "wb_name": "Three",
+          "id_date": "2017-06-19"
+        },
+        "narrative": "<p>Lake Three is located within the Boundary Waters Canoe Area Wilderness (BWCAW) within the Superior National Forest and is a non-motorized lake.  It is approximately 18 miles east of Ely.  It is a 904 acre lake with a maximum depth of 37 feet and has clear water.  \n\nThe surrounding landscape of Lake Three was drastically changed in the fall of 2011 when the Pagami Creek Fire burned nearly the entire shoreline of the basin.  The fire started as a lightning strike about three miles west of Lake Three in late August on the north side of Pagami Creek.  By September 12th the fire had burned south and east and reached the shoreline of Lake Three.  Only a couple of hours later, nearly the entire shore and several of the islands on Lake Three were burned over.  Six years later, the effects are still very prevalent.  Regenerating balsam fir, hazel, and dogwoods are filling in, but miles of exposed bedrock with the remnants of charred logs still remain.  \n\nThere are three accesses, two of which are water routes and one is a portage.  Accesses consist of the water connections to Lake Two and Lake Four, and a 20 rod portage to Horseshoe Lake.  The Kawishiwi River is a large river that has a heavy influence on the system as it flows in from Lake Four and out to Lake Two.  \n\nOn June 19, 2017 Lake Three was weakly thermally stratified with a surface temperature of 66 F and a bottom temperature of 50 F.  Oxygen levels were adequate for gamefish throughout the water column.  Lake bottom substrates along the shoreline of Lake Three are dominated by boulder with small areas of sand, gravel, and muck.  Aquatic plants are sparse and only grow in some of the shallow bays.  \n\nThe overall gillnet catch rate for all fish combined was 22.9 fish/net which was the lowest on record for Lake Three but the yield of 33.2 pounds/net was the highest.  Fish species sampled were northern pike, cisco, walleye, white sucker, lake whitefish, yellow perch, smallmouth bass, bluegill, rock bass, and burbot.\n\nIn the 2017 survey, 44 walleye were sampled for a catch rate of 4.9 fish/gill net, which was similar to past catch rates from Lake Three, but a little below average compared to other similar lakes in the state.  Walleye lengths ranged from 5 to 25 inches with an average of 13 inches, also similar to past surveys.  The average weight was just under a pound and growth was somewhat slow compared to other area lakes.  This isn't surprising as a lot of lakes with heavy river influences show signs of slow growth in walleye populations.  Fish up to 11 years old were sampled with good representation from the 2011, 2012, and 2013 year classes.  \n\nThe northern pike gillnet catch was 5.0 fish/net which was the highest on record for the lake and above average compared to other similar lakes in the state.  The average weight was 3 pounds and lengths ranged from 14 to nearly 40 inches with an average of 23 inches.  Pike sampled in this survey were larger compared to past surveys on Lake Three, both in average size and maximum size.    \n\nTwenty-one lake whitefish were sampled for a catch rate of 2.3 fish/net.  This catch rate was the highest on record for Lake Three and above average compared to other whitefish lakes in the Tower area.  Lengths ranged from 11 to 19 inches with an average of 16 inches.  Fish were aged up to 11 years old.  \n\nThree smallmouth bass were sampled in gill nets for the first time on Lake Three.  Sizes ranged from 13 to 16 inches.  Angler reports suggest smallmouth are relatively abundant in the lake with a number of decent sized fish.  Smallmouth do not always sample well in gill nets so it is not surprising we caught so few.\n\nOther species sampled in gill nets were bluegill, yellow perch, rock bass, burbot, cisco, and white sucker.\n</p>"
+      }
+    ],
+    "officeCode": "F214",
+    "areaAcres": 904.07,
+    "DOWNumber": "38060000",
+    "accesses": [
+      {
+        "lakeAccessComments": " ",
+        "accessTypeId": "C",
+        "publicUseAuthCode": "OPEN",
+        "ownerTypeId": "USF",
+        "location": ""
+      },
+      {
+        "location": "",
+        "ownerTypeId": "USF",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "PO",
+        "lakeAccessComments": " "
+      },
+      {
+        "ownerTypeId": "USF",
+        "location": "",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "C"
+      }
+    ],
+    "sampledPlants": [],
+    "county": "Lake",
+    "littoralAcres": 388
+  },
+  "status": "SUCCESS"
+}

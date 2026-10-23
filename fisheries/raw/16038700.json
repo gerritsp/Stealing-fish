@@ -1,0 +1,67 @@
+{
+  "message": "Normal execution.",
+  "result": {
+    "meanDepthFeet": 0,
+    "county": "Cook",
+    "sampledPlants": [],
+    "averageWaterClarity": "5.0",
+    "surveys": [
+      {
+        "lengths": {},
+        "surveyDate": "1975-06-24",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 2.5,
+            "gear": "Standard gill nets",
+            "quartileCount": "4.0-15.0",
+            "totalCatch": 2,
+            "gearCount": 1,
+            "quartileWeight": "1.1-2.0",
+            "species": "NOP",
+            "averageWeight": "1.25",
+            "CPUE": "2.00"
+          }
+        ],
+        "surveySubType": "Initial Survey",
+        "headerInfo": {
+          "survey_type": "Initial Survey",
+          "county": "Cook",
+          "wb_type": "Lake",
+          "wb_id": "16038700",
+          "wb_alt_name": "Mulligan",
+          "wb_name": "West Pipe",
+          "survey_id": "109735",
+          "id_date": "1975-06-24"
+        },
+        "surveyType": "Standard Survey",
+        "narrative": "<p>Shallow depth makes it a very marginal fish lake.</p>",
+        "surveyID": "109735"
+      }
+    ],
+    "maxDepthFeet": 6,
+    "officeCode": "F218",
+    "areaAcres": 15.03,
+    "lakeAltName": "Mulligan",
+    "accesses": [
+      {
+        "accessTypeId": "O",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "UNK",
+        "ownerTypeId": "UKN",
+        "location": "Accessible via 0.2 mile portage from Pipe Lake."
+      }
+    ],
+    "shoreLengthMiles": 0.78,
+    "DOWNumber": "16038700",
+    "waterClarity": [
+      [
+        "06/25/1975",
+        "5"
+      ]
+    ],
+    "lakeName": "West Pipe",
+    "littoralAcres": 15.03
+  },
+  "timestamp": 1790285642,
+  "status": "SUCCESS"
+}

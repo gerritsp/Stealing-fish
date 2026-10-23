@@ -1,0 +1,813 @@
+{
+  "timestamp": 1790285883,
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "accesses": [
+      {
+        "location": "",
+        "ownerTypeId": "USF",
+        "accessTypeId": "PO",
+        "publicUseAuthCode": "PRMIT",
+        "lakeAccessComments": " "
+      },
+      {
+        "accessTypeId": "PO",
+        "ownerTypeId": "USF",
+        "location": "",
+        "lakeAccessComments": " ",
+        "publicUseAuthCode": "PRMIT"
+      }
+    ],
+    "areaAcres": 295.19,
+    "meanDepthFeet": 0,
+    "lakeName": "Crocodile",
+    "surveys": [
+      {
+        "narrative": "<p>WALLEYE NUMBERS ARE PRESENTLY ABOVE AVG FOR THE REGION. A GOOD RANGE OF AGE CLASSES IS PRESENT AND GROWTH RATES ARE GOOD, ESPECIALLY IN THE FIRST TWO OR THREE YEARS OF LIFE. A VERY GOOD FORAGE BASE OF PERCH IS PRESENT, WITH NUMBERS WELL ABOVE THE REGIONAL MEDIANS. THE SUCKER POPULATION IS VERY LARGE- IT IS PRESENTLY THE DOMINANT SPECIES IN THE LAKE. THE LARGEMOUTH BASS APPEAR TO BE DECLINING IN NUMBERS.</p>",
+        "lengths": {},
+        "surveyID": "109936",
+        "headerInfo": {
+          "wb_id": "16011900",
+          "survey_id": "109936",
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_name": "Crocodile",
+          "id_date": "1984-07-30",
+          "survey_type": "Population Assessment",
+          "county": "Cook"
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 5,
+            "quartileCount": "3.0-9.8",
+            "totalCatch": 30,
+            "totalWeight": 49.25,
+            "CPUE": "6.00",
+            "quartileWeight": "0.9-1.6",
+            "gear": "Standard gill nets",
+            "species": "WAE",
+            "averageWeight": "1.64"
+          },
+          {
+            "gearCount": 5,
+            "totalWeight": 11.75,
+            "quartileCount": "2.2-14.6",
+            "totalCatch": 73,
+            "CPUE": "14.60",
+            "species": "YEP",
+            "averageWeight": "0.16",
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets"
+          },
+          {
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-2.4",
+            "species": "WTS",
+            "averageWeight": "1.07",
+            "CPUE": "50.40",
+            "totalCatch": 252,
+            "quartileCount": "3.6-14.1",
+            "totalWeight": 269,
+            "gearCount": 5
+          },
+          {
+            "CPUE": "0.40",
+            "averageWeight": "1.00",
+            "species": "LMB",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.4-1.5",
+            "gearCount": 5,
+            "totalWeight": 2,
+            "totalCatch": 2,
+            "quartileCount": "0.3-1.9"
+          }
+        ],
+        "surveyDate": "1984-07-30",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment"
+      },
+      {
+        "fishCatchSummaries": [
+          {
+            "species": "YEP",
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "CPUE": "2.25",
+            "totalWeight": 13,
+            "totalCatch": 27,
+            "quartileCount": "N/A",
+            "gearCount": 12
+          },
+          {
+            "gearCount": 6,
+            "totalCatch": 64,
+            "quartileCount": "3.0-9.8",
+            "totalWeight": 26897,
+            "CPUE": "10.67",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.9-1.6",
+            "averageWeight": "0.93",
+            "species": "WAE"
+          },
+          {
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "averageWeight": "0.24",
+            "CPUE": "14.67",
+            "quartileCount": "2.2-14.6",
+            "totalCatch": 88,
+            "totalWeight": 9443,
+            "gearCount": 6
+          },
+          {
+            "species": "WTS",
+            "averageWeight": "0.00",
+            "gear": "Minnow traps",
+            "quartileWeight": "N/A",
+            "CPUE": "0.08",
+            "totalWeight": 0,
+            "totalCatch": 1,
+            "quartileCount": "N/A",
+            "gearCount": 12
+          },
+          {
+            "species": "WTS",
+            "averageWeight": "1.92",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-2.4",
+            "CPUE": "9.83",
+            "totalWeight": 51415,
+            "totalCatch": 59,
+            "quartileCount": "3.6-14.1",
+            "gearCount": 6
+          }
+        ],
+        "headerInfo": {
+          "wb_type": "Lake",
+          "wb_alt_name": "",
+          "wb_id": "16011900",
+          "survey_id": "11381424554316000",
+          "id_date": "2014-08-04",
+          "wb_name": "Crocodile",
+          "county": "Cook",
+          "survey_type": "Re-Survey"
+        },
+        "surveyDate": "2014-08-04",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Re-Survey",
+        "narrative": "<p>Crocodile Lake is part of the headwaters of the Royal River, a tributary to the Pigeon River in the Lake Superior North watershed.  The lake is currently managed for walleye, with a long range goal for that species of a minimum gill net catch of 6.0 fish/set, with some fish over 20 inches present.  This was the second of two surveys scheduled in the 2008 lake management plan to determine whether the lake still supported a largemouth bass population, and to determine whether a resumption of walleye stocking was needed. <br> \n <br> \nNo largemouth bass were collected in 2014.  This was the fourth consecutive survey in which the species was not found.  While that does not prove that largemouth bass are now absent, if any remain their numbers must be very low. <br> \n <br> \nWalleye were abundant in 2014, and there was clearly no need to resume stocking.  Management goals for the species were easily met.  The gill net catch was above the normal range for this type of lake, and above the management goal, with several fish larger than 20 inches included in the catch.  All walleye collected in 2014 had been produced naturally, since the lake was last stocked in 1991.  A strong 2012 year class was evident, with moderately strong year classes also produced in 2011 and 2010.  Growth of young walleye had been close to average for the area; fish reached a mean length of 11.4 inches at the end of their third year.  Growth of older fish may have been somewhat slower; six-year-old fish reached a length of 15.9 inches at the end of their sixth year, compared to an area average of 17.3 inches. <br> \n <br> \nYellow perch were also abundant in 2014, would have provided some angling opportunities.  The yellow perch gill net catch was above-normal for the lake class, although it was similar to most past catches observed in this lake.  Thirty-nine percent of yellow perch taken in gill nets exceeded eight inches in length, with fish as large as 11.3 inches collected.  Several year classes contributed to the 2014 catch.  Growth had been somewhat faster than average; perch reached a mean length of 7.8 inches by the end of their fourth year, compared to an area average of 7.1 inches. <br> \n <br> \nThe white sucker gill net catch was within the normal range for a lake of this type, but was one of the lower catches seen in this lake historically.  White sucker catches in some past assessments of Crocodile Lake have exceeded 50 fish/net.  The white sucker catch in 2014 appeared to consist mainly of adult fish. <br> \n <br> \nNo northern pike were collected in 2014.  None have ever been found in this lake, despite the presence of suitable habitat.  A survey done by the U.S. Forest Service in 1938 listed northern pike as among the most abundant fish species in the lake, but did not include any fish sampling to support that report. <br> \n <br> \nSampling with minnow traps collected no species not seen in the gill net catch.  Minnow traps are not a very effective tool for sampling nearshore fish, but can indicate the presence of some of the more abundant species.  Previous nearshore sampling in this lake was limited to the use of two minnow trap sets in 1973, which collected yellow perch and a few golden shiner. <br> \n <br> \nAquatic vegetation was not very diverse in 2014, and not abundant.  Most commonly found species included arrowheads, spikerushes, swamp horsetail, white waterlilies, and yellow waterlilies.  Shoalwater substrates were typical for lakes in this area, and consisted mostly of boulder, rubble, and muck. <br> \n <br> \n</p>",
+        "lengths": {
+          "YEP": {
+            "fishCount": [
+              [
+                1,
+                17
+              ],
+              [
+                2,
+                9
+              ],
+              [
+                10,
+                5
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                21
+              ],
+              [
+                6,
+                15
+              ],
+              [
+                7,
+                18
+              ],
+              [
+                8,
+                12
+              ],
+              [
+                9,
+                16
+              ]
+            ],
+            "maximum_length": 11,
+            "minimum_length": 1
+          },
+          "WTS": {
+            "minimum_length": 2,
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                8
+              ],
+              [
+                15,
+                18
+              ],
+              [
+                16,
+                13
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                5
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                2,
+                1
+              ]
+            ]
+          },
+          "WAE": {
+            "maximum_length": 25,
+            "minimum_length": 6,
+            "fishCount": [
+              [
+                10,
+                11
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                12,
+                7
+              ],
+              [
+                13,
+                6
+              ],
+              [
+                14,
+                6
+              ],
+              [
+                15,
+                6
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                6,
+                2
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                10
+              ]
+            ]
+          }
+        },
+        "surveyID": "11381424554316000"
+      },
+      {
+        "lengths": {
+          "YEP": {
+            "minimum_length": 4,
+            "maximum_length": 9,
+            "fishCount": [
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                56
+              ],
+              [
+                6,
+                23
+              ],
+              [
+                7,
+                11
+              ],
+              [
+                8,
+                7
+              ],
+              [
+                9,
+                3
+              ]
+            ]
+          },
+          "WTS": {
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                3
+              ],
+              [
+                12,
+                1
+              ],
+              [
+                13,
+                8
+              ],
+              [
+                14,
+                8
+              ],
+              [
+                15,
+                15
+              ],
+              [
+                16,
+                45
+              ],
+              [
+                17,
+                35
+              ],
+              [
+                18,
+                77
+              ],
+              [
+                19,
+                25
+              ],
+              [
+                20,
+                3
+              ]
+            ],
+            "minimum_length": 10,
+            "maximum_length": 20
+          },
+          "WAE": {
+            "maximum_length": 25,
+            "minimum_length": 7,
+            "fishCount": [
+              [
+                10,
+                3
+              ],
+              [
+                11,
+                2
+              ],
+              [
+                12,
+                11
+              ],
+              [
+                13,
+                4
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                2
+              ],
+              [
+                17,
+                1
+              ],
+              [
+                19,
+                1
+              ],
+              [
+                20,
+                1
+              ],
+              [
+                21,
+                1
+              ],
+              [
+                24,
+                2
+              ],
+              [
+                25,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                4
+              ],
+              [
+                9,
+                1
+              ]
+            ]
+          }
+        },
+        "surveyID": "110727",
+        "narrative": "<p>Walleye were abundant, and present in a wide range of sizes, including fish as large as 25 inches.  Strong natural year classes had been produced since stocking was discontinued in 1991, and it appeared that there would be no need for resumed stocking.  Excellent forage was provided by the large numbers of yellow perch present, although few yellow perch were large enough to interest anglers.  No largemouth bass were taken in 1996, but they have been caught in the lake in the past, are were probably still present, although perhaps in low numbers.</p>",
+        "surveySubType": "Population Assessment",
+        "surveyType": "Standard Survey",
+        "surveyDate": "1996-07-29",
+        "fishCatchSummaries": [
+          {
+            "totalWeight": 21762,
+            "totalCatch": 41,
+            "quartileCount": "3.0-9.8",
+            "gearCount": 6,
+            "species": "WAE",
+            "averageWeight": "1.17",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.9-1.6",
+            "CPUE": "6.83"
+          },
+          {
+            "CPUE": "16.83",
+            "species": "YEP",
+            "averageWeight": "0.12",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "gearCount": 6,
+            "totalWeight": 5658,
+            "totalCatch": 101,
+            "quartileCount": "2.2-14.6"
+          },
+          {
+            "gearCount": 6,
+            "totalWeight": 230048,
+            "totalCatch": 224,
+            "quartileCount": "3.6-14.1",
+            "CPUE": "37.33",
+            "averageWeight": "2.26",
+            "species": "WTS",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-2.4"
+          }
+        ],
+        "headerInfo": {
+          "county": "Cook",
+          "survey_type": "Population Assessment",
+          "id_date": "1996-07-29",
+          "wb_name": "Crocodile",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "survey_id": "110727",
+          "wb_id": "16011900"
+        }
+      },
+      {
+        "surveyID": "110177",
+        "lengths": {},
+        "narrative": "<p>WAE ABUNDANCE IS HIGH, WITH THE GILL NET CPUE WELL ABOVE WELL ABOVE THE MEDIAN FOR LAKES OF THIS CLASS.  MOST WAE COLLECTED WERE BETWEEN 12 AND 18 IN, BUT FISH AS LARGE AS 22 WERE CAPTURED. SEVERAL YEAR CLASS WERE REPRESENTED, WITH THE STRONGEST BEING 1987.  GROWTH WAS ABOUT AVERAGE FOR COOK COUNTY.  THERE APPEARS TO BE SUBSTANTIAL NATURAL REPRODUCTION, AS EVIDENCED BY THE RELATIVELY STRONG 1990 AND 1988 YEAR CLASSES; HOWEVER, THE POOR 1984 YEAR CLASS IS EVIDENCE THAT SOME FAILURES OCCUR.  WTS ABUNDANCE WAS EXTREMELY HIGH, WITH VIRTUALLY ALL THE CATCH BEING ADULTS RANGING FROM 14 TO 19 IN.  YEP WERE ALSO ABUNDANT, AND SHOULD PROVIDE A GOOD FORAGE BASE, AS WELL AS LIMITED ANGLING OPPORTUNITIES.  LMB WERE NOT CAPTURED IN THIS ASSESSMENT, ALTHOUGH THEY HAVE BEEN TAKEN IN THE PAST.</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "fishCatchSummaries": [
+          {
+            "averageWeight": "0.96",
+            "species": "WAE",
+            "quartileWeight": "0.9-1.6",
+            "gear": "Standard gill nets",
+            "CPUE": "12.40",
+            "totalWeight": 59.5,
+            "quartileCount": "3.0-9.8",
+            "totalCatch": 62,
+            "gearCount": 5
+          },
+          {
+            "averageWeight": "0.11",
+            "species": "YEP",
+            "gear": "Standard gill nets",
+            "quartileWeight": "0.1-0.2",
+            "CPUE": "9.00",
+            "totalWeight": 5.15,
+            "totalCatch": 45,
+            "quartileCount": "2.2-14.6",
+            "gearCount": 5
+          },
+          {
+            "totalCatch": 261,
+            "quartileCount": "3.6-14.1",
+            "totalWeight": 463,
+            "gearCount": 5,
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-2.4",
+            "species": "WTS",
+            "averageWeight": "1.77",
+            "CPUE": "52.20"
+          }
+        ],
+        "headerInfo": {
+          "survey_id": "110177",
+          "wb_id": "16011900",
+          "wb_alt_name": "",
+          "wb_type": "Lake",
+          "wb_name": "Crocodile",
+          "id_date": "1991-07-29",
+          "survey_type": "Population Assessment",
+          "county": "Cook"
+        },
+        "surveyDate": "1991-07-29"
+      },
+      {
+        "lengths": {
+          "WTS": {
+            "fishCount": [
+              [
+                12,
+                2
+              ],
+              [
+                14,
+                9
+              ],
+              [
+                15,
+                8
+              ],
+              [
+                16,
+                7
+              ],
+              [
+                17,
+                7
+              ],
+              [
+                18,
+                9
+              ],
+              [
+                19,
+                5
+              ],
+              [
+                20,
+                4
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 9
+          },
+          "WAE": {
+            "fishCount": [
+              [
+                10,
+                6
+              ],
+              [
+                11,
+                6
+              ],
+              [
+                12,
+                18
+              ],
+              [
+                13,
+                19
+              ],
+              [
+                14,
+                18
+              ],
+              [
+                15,
+                9
+              ],
+              [
+                16,
+                4
+              ],
+              [
+                19,
+                2
+              ],
+              [
+                21,
+                2
+              ],
+              [
+                22,
+                1
+              ],
+              [
+                5,
+                1
+              ],
+              [
+                7,
+                2
+              ],
+              [
+                8,
+                1
+              ],
+              [
+                9,
+                1
+              ]
+            ],
+            "minimum_length": 5,
+            "maximum_length": 22
+          },
+          "YEP": {
+            "fishCount": [
+              [
+                10,
+                18
+              ],
+              [
+                11,
+                1
+              ],
+              [
+                4,
+                1
+              ],
+              [
+                5,
+                19
+              ],
+              [
+                6,
+                30
+              ],
+              [
+                7,
+                26
+              ],
+              [
+                8,
+                9
+              ],
+              [
+                9,
+                10
+              ]
+            ],
+            "maximum_length": 11,
+            "minimum_length": 4
+          }
+        },
+        "surveyID": "4311020250415003",
+        "narrative": "<p>Walleye abundance in 2010 was high, thanks mainly to the presence of strong natural year classes produced in 2007, 2006, and 2005.  Despite the presence of high numbers of yellow perch, walleye growth was slow.  As a result, most of the walleye collected in 2010 were under 16 inches in length. <br> \n <br> \nYellow perch were also abundant in 2010, and many were large enough to have been of interest to anglers.  White sucker were also present in fairly high numbers, although the gill net catch was the lowest ever observed in this lake, where catches of over 50 white sucker per gill net set have been common. <br> \n <br> \nCrocodile Lake once supported one of the few largemouth bass populations in this area.  None were found in 2010, following assessments in 1991 and 1996 that also failed to collect any largemouth bass.   No northern pike were collected in 2010, but that was not unusual in this lake, where no northern pike have ever been found.   <br> \n</p>",
+        "surveyType": "Standard Survey",
+        "surveySubType": "Population Assessment",
+        "headerInfo": {
+          "survey_type": "Population Assessment",
+          "county": "Cook",
+          "wb_name": "Crocodile",
+          "id_date": "2010-07-26",
+          "wb_id": "16011900",
+          "survey_id": "4311020250415003",
+          "wb_alt_name": "",
+          "wb_type": "Lake"
+        },
+        "fishCatchSummaries": [
+          {
+            "gearCount": 6,
+            "totalWeight": 36680,
+            "quartileCount": "3.0-9.8",
+            "totalCatch": 90,
+            "CPUE": "15.00",
+            "species": "WAE",
+            "averageWeight": "0.90",
+            "quartileWeight": "0.9-1.6",
+            "gear": "Standard gill nets"
+          },
+          {
+            "CPUE": "19.00",
+            "averageWeight": "0.25",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.2",
+            "gear": "Standard gill nets",
+            "gearCount": 6,
+            "totalWeight": 12741,
+            "quartileCount": "2.2-14.6",
+            "totalCatch": 114
+          },
+          {
+            "CPUE": "8.67",
+            "species": "WTS",
+            "averageWeight": "2.22",
+            "gear": "Standard gill nets",
+            "quartileWeight": "1.5-2.4",
+            "gearCount": 6,
+            "totalWeight": 52407,
+            "totalCatch": 52,
+            "quartileCount": "3.6-14.1"
+          }
+        ],
+        "surveyDate": "2010-07-26"
+      }
+    ],
+    "DOWNumber": "16011900",
+    "averageWaterClarity": "5.5",
+    "county": "Cook",
+    "officeCode": "F218",
+    "maxDepthFeet": 17,
+    "shoreLengthMiles": 11.09,
+    "waterClarity": [
+      [
+        "08/04/2014",
+        "5"
+      ],
+      [
+        "07/29/1991",
+        "4.5"
+      ],
+      [
+        "07/09/1973",
+        "5"
+      ],
+      [
+        "07/26/2010",
+        "7.5"
+      ]
+    ],
+    "sampledPlants": [],
+    "littoralAcres": 247
+  }
+}

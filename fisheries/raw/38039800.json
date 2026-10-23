@@ -1,0 +1,69 @@
+{
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "result": {
+    "lakeName": "Missionary",
+    "accesses": [],
+    "maxDepthFeet": 71,
+    "meanDepthFeet": 0,
+    "county": "Lake",
+    "waterClarity": [
+      [
+        "07/30/2024",
+        "17.06"
+      ],
+      [
+        "08/19/2025",
+        "13.9"
+      ]
+    ],
+    "officeCode": "F214",
+    "sampledPlants": [],
+    "averageWaterClarity": "15.5",
+    "areaAcres": 98.61,
+    "littoralAcres": 22.4,
+    "shoreLengthMiles": 2.56,
+    "DOWNumber": "38039800",
+    "surveys": [
+      {
+        "surveyDate": "2024-07-30",
+        "fishCatchSummaries": [],
+        "headerInfo": {
+          "survey_id": "21872426131952019",
+          "wb_alt_name": "",
+          "survey_type": "Targeted Survey",
+          "wb_id": "38039800",
+          "county": "Lake",
+          "wb_type": "Lake",
+          "id_date": "2024-07-30",
+          "wb_name": "Missionary"
+        },
+        "surveySubType": "Targeted Survey",
+        "surveyType": "Targeted Survey",
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Missionary Lake on July 30th, 2024, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 65.6 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 30.7 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 43.3 feet at the time of sampling. The thickness of this layer of water in the water column was 12.6 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 7.2 degrees C (45.0 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nThis is the first Minnesota Department of Natural Resources temperature and dissolved oxygen survey completed on Missionary Lake during the late summer period of maximum oxythermal stress (July 26th to Aug 24th). When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress.</p>",
+        "lengths": {},
+        "surveyID": "21872426131952019"
+      },
+      {
+        "surveyDate": "2025-08-19",
+        "headerInfo": {
+          "id_date": "2025-08-19",
+          "wb_type": "Lake",
+          "wb_name": "Missionary",
+          "county": "Lake",
+          "survey_type": "Targeted Survey",
+          "wb_alt_name": "",
+          "wb_id": "38039800",
+          "survey_id": "-333"
+        },
+        "fishCatchSummaries": [],
+        "narrative": "<p>Temperature and dissolved oxygen (DO) measurements were collected from the deepest basin in Missionary Lake on August 19th, 2025, to evaluate the quantity and quality of cold, oxygenated water (i.e., oxythermal habitat) available to Lake Trout, the most sensitive coldwater species present in this lake. During the summer, Lake Trout require a layer of oxythermal habitat that contains water temperatures below 8.8 degrees C (47.8 degrees F) and dissolved oxygen concentrations above 3.0 mg/L. Based on the profile from the deepest basin (maximum sampled depth 65.6 feet), the water temperature decreased below 8.8 degrees C (47.8 degrees F) at 28.8 feet and the dissolved oxygen concentration decreased to 3.0 mg/L at 40.1 feet at the time of sampling. The thickness of this layer of water in the water column was 11.2 feet, indicating that oxythermal habitat was present for Lake Trout. <br> \n <br> \nFurther, the temperature at which dissolved oxygen decreased to 3.0 mg/L (i.e., TDO3, a single variable to characterize oxythermal habitat) was 6.0 degrees C (42.8 degrees F). TDO3 values cooler than 8.8 degrees C (47.8 degrees F) indicate that oxythermal conditions were suitable for Lake Trout at the time of the survey. <br> \n <br> \nData collected by the Minnesota Department of Natural Resources during the late summer period of maximum oxythermal stress (July 26th to Aug 24th) also indicated suitable oxythermal habitat in 2024, with a similar layer thickness and TDO3 (12.6 and 7.2 respectively). When inadequate oxythermal habitat is available, Lake Trout are squeezed into unfavorable, warmer water conditions and experience higher levels of stress. <br> \n</p>",
+        "surveyType": "Targeted Survey",
+        "surveySubType": "Targeted Survey",
+        "lengths": {},
+        "surveyID": "-333"
+      }
+    ]
+  },
+  "timestamp": 1790285880
+}

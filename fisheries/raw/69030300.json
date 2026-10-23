@@ -1,0 +1,251 @@
+{
+  "result": {
+    "officeCode": "F214",
+    "waterClarity": [
+      [
+        "07/17/2013",
+        "2.5"
+      ]
+    ],
+    "surveys": [
+      {
+        "narrative": "<p>Consists of large populations of northern pike and suckers.  Yellow perch are present in relatively low numbers.</p>",
+        "surveySubType": "Initial Survey",
+        "lengths": {},
+        "surveyID": "108141",
+        "headerInfo": {
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "id_date": "1978-06-12",
+          "wb_name": "Phantom",
+          "survey_id": "108141",
+          "wb_alt_name": "",
+          "wb_id": "69030300",
+          "survey_type": "Initial Survey"
+        },
+        "fishCatchSummaries": [
+          {
+            "quartileWeight": "0.1-0.3",
+            "species": "YEP",
+            "CPUE": "1.00",
+            "gear": "Standard trap nets",
+            "totalCatch": 3,
+            "gearCount": 3,
+            "averageWeight": "0.12",
+            "totalWeight": 0.35,
+            "quartileCount": "0.5-3.8"
+          },
+          {
+            "quartileWeight": "1.5-2.3",
+            "species": "WTS",
+            "CPUE": "4.33",
+            "gear": "Standard trap nets",
+            "totalCatch": 13,
+            "gearCount": 3,
+            "totalWeight": 33.5,
+            "averageWeight": "2.58",
+            "quartileCount": "0.9-4.5"
+          },
+          {
+            "gearCount": 3,
+            "totalWeight": 49.5,
+            "averageWeight": "1.12",
+            "quartileCount": "3.0-9.0",
+            "species": "NOP",
+            "gear": "Standard gill nets",
+            "CPUE": "14.67",
+            "quartileWeight": "1.2-2.5",
+            "totalCatch": 44
+          },
+          {
+            "totalWeight": 1.1,
+            "averageWeight": "0.11",
+            "gearCount": 3,
+            "quartileCount": "3.3-18.3",
+            "gear": "Standard gill nets",
+            "CPUE": "3.33",
+            "species": "YEP",
+            "quartileWeight": "0.1-0.3",
+            "totalCatch": 10
+          },
+          {
+            "quartileWeight": "1.3-2.3",
+            "gear": "Standard gill nets",
+            "CPUE": "15.67",
+            "species": "WTS",
+            "totalCatch": 47,
+            "averageWeight": "2.53",
+            "totalWeight": 119,
+            "gearCount": 3,
+            "quartileCount": "5.3-22.1"
+          },
+          {
+            "totalCatch": 4,
+            "quartileWeight": "N/A",
+            "CPUE": "1.33",
+            "gear": "Standard trap nets",
+            "species": "NOP",
+            "quartileCount": "N/A",
+            "totalWeight": 4.5,
+            "averageWeight": "1.12",
+            "gearCount": 3
+          }
+        ],
+        "surveyDate": "1978-06-12",
+        "surveyType": "Standard Survey"
+      },
+      {
+        "surveyType": "Standard Survey",
+        "surveyDate": "2013-07-16",
+        "headerInfo": {
+          "survey_id": "6851332539370000",
+          "wb_id": "69030300",
+          "wb_alt_name": "",
+          "survey_type": "Population Assessment",
+          "wb_type": "Lake",
+          "county": "St. Louis",
+          "id_date": "2013-07-16",
+          "wb_name": "Phantom"
+        },
+        "fishCatchSummaries": [
+          {
+            "gear": "Standard gill nets",
+            "CPUE": "20.33",
+            "species": "NOP",
+            "quartileWeight": "1.2-2.5",
+            "totalCatch": 61,
+            "averageWeight": "1.12",
+            "totalWeight": 31063,
+            "gearCount": 3,
+            "quartileCount": "3.0-9.0"
+          },
+          {
+            "quartileWeight": "0.1-0.3",
+            "CPUE": "1.67",
+            "gear": "Standard gill nets",
+            "species": "YEP",
+            "totalCatch": 5,
+            "totalWeight": 202,
+            "averageWeight": "0.09",
+            "gearCount": 3,
+            "quartileCount": "3.3-18.3"
+          },
+          {
+            "quartileCount": "5.3-22.1",
+            "totalWeight": 1500,
+            "averageWeight": "3.31",
+            "gearCount": 3,
+            "totalCatch": 1,
+            "quartileWeight": "1.3-2.3",
+            "gear": "Standard gill nets",
+            "CPUE": "0.33",
+            "species": "WTS"
+          }
+        ],
+        "lengths": {
+          "NOP": {
+            "fishCount": [
+              [
+                13,
+                1
+              ],
+              [
+                14,
+                1
+              ],
+              [
+                15,
+                4
+              ],
+              [
+                16,
+                5
+              ],
+              [
+                17,
+                11
+              ],
+              [
+                18,
+                25
+              ],
+              [
+                19,
+                11
+              ],
+              [
+                20,
+                3
+              ]
+            ],
+            "maximum_length": 20,
+            "minimum_length": 13
+          },
+          "YEP": {
+            "minimum_length": 5,
+            "fishCount": [
+              [
+                5,
+                2
+              ],
+              [
+                6,
+                3
+              ]
+            ],
+            "maximum_length": 6
+          },
+          "WTS": {
+            "maximum_length": 20,
+            "fishCount": [
+              [
+                20,
+                1
+              ]
+            ],
+            "minimum_length": 20
+          }
+        },
+        "surveyID": "6851332539370000",
+        "surveySubType": "Population Assessment",
+        "narrative": "<p>Phantom Lake is located approximately 12 miles NW of Ely and is entirely within the BWCAW. It has a surface area of 52 acres and a maximum depth of 11 feet. Dissolved oxygen is adequate to 8 feet and the water clarity is poor with very bog stained water. <br> \n <br> \nThe shoreline is primarily forested with jack pine and black spruce. There are some areas of sand or moss covered ledgerock. Several small bogs can also be found surrrounding the lake. Aquatic plants are common especially on the west end and could be a nuisance to anglers. <br> \n <br> \nAccess is by portage from Boulder Lake (38 rods), Battle Lake (32 rods) or Sprite Lake (24 rods). There is one designated USFS campsite present. <br> \n <br> \nFish populations in 2013 were dominated by small, slow growing northern pike. Yellow perch and white sucker are also present in low numbers. <br> \n <br> \nNorthern pike numbers in 2013 (20.3/gill net) were much higher than average when compared to other area pike lakes. The average pike sampled was 18.1 inches long and about 6 years old. The largest pike sampled was only 20.2 inches long.</p>"
+      }
+    ],
+    "DOWNumber": "69030300",
+    "maxDepthFeet": 10,
+    "accesses": [
+      {
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "OPEN",
+        "location": " ",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "24 rod portage from Sprite Lake."
+      },
+      {
+        "publicUseAuthCode": "OPEN",
+        "accessTypeId": "CA",
+        "location": " ",
+        "ownerTypeId": "USF",
+        "lakeAccessComments": "32 rod portage from Battle Lake."
+      },
+      {
+        "lakeAccessComments": "38 rod portage from Boulder Lake.",
+        "location": " ",
+        "ownerTypeId": "USF",
+        "accessTypeId": "CA",
+        "publicUseAuthCode": "OPEN"
+      }
+    ],
+    "areaAcres": 47.19,
+    "averageWaterClarity": "2.5",
+    "lakeName": "Phantom",
+    "littoralAcres": 47.19,
+    "shoreLengthMiles": 1.9,
+    "county": "St. Louis",
+    "meanDepthFeet": 0,
+    "sampledPlants": []
+  },
+  "status": "SUCCESS",
+  "message": "Normal execution.",
+  "timestamp": 1790285560
+}
